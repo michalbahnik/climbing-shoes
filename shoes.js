@@ -259,11 +259,12 @@ window.SHOES_RAW = [
   // Red Chili
   ["Red Chili","Sensor","U","V","N","M",3,3,2,"Vibram XS Grip","bouldering gym competition",160,"https://redchiliclimbing.com/eu-en/shop/climbing-shoes/sensor"],
   ["Red Chili","Voltage X","U","L","W","M",2,3,2,"Vibram XS Grip","bouldering sport gym",160,"https://redchiliclimbing.com/eu-en/shop/climbing-shoes/voltage-x"],
+  ["Red Chili","Voltage III","U","V","M","M",3,3,2,"Vibram XS Grip","bouldering sport gym",150,"https://www.bergzeit.co.uk/p/red-chili-voltage-iii-climbing-shoes/3015701"],
   ["Red Chili","Voltage LV","U","V","N","L",2,3,3,"Vibram XS Grip","bouldering sport gym",150,"https://redchiliclimbing.com/eu-en/shop/climbing-shoes/voltage-lv"],
   ["Red Chili","Voltage Lace","U","L","M","M",2,3,3,"Vibram XS Grip","sport bouldering",150,"https://redchiliclimbing.com/eu-en/shop/climbing-shoes/voltage-lace"],
   ["Red Chili","Clue","U","V","M","M",2,3,2,"Vibram XS Grip","bouldering slab gym",140,"https://redchiliclimbing.com/eu-en/shop/climbing-shoes/clue"],
   ["Red Chili","Magnet","U","V","M","M",2,2,4,"Vibram XS Grip","sport multipitch",140,"https://redchiliclimbing.com/eu-en/shop/climbing-shoes/magnet"],
-  ["Red Chili","Magnet Lace","U","L","M","M",2,2,4,"Vibram XS Grip","sport multipitch trad",140,"https://redchiliclimbing.com/eu-en/shop/climbing-shoes/magnet-lace"],
+  ["Red Chili","Magnet Lace","U","L","M","M",2,2,4,"Vibram XS Grip","sport multipitch trad",140,"https://www.bergzeit.co.uk/p/red-chili-magnet-lace-climbing-shoes/3015702/"],
   ["Red Chili","Fusion","U","L","M","M",2,2,3,"RX-1 ALLROUND","all-round sport bouldering gym",130,"https://redchiliclimbing.com/eu-en/shop/climbing-shoes/fusion"],
   ["Red Chili","Fusion LV","U","L","N","L",2,2,3,"RX-1 ALLROUND","all-round sport bouldering gym",130,"https://redchiliclimbing.com/eu-en/shop/climbing-shoes/fusion-lv"],
   ["Red Chili","Spirit","U","V","M","M",1,1,4,"RX-2 TECHGRIP","all-round multipitch gym beginner",115,"https://redchiliclimbing.com/eu-en/shop/climbing-shoes/spirit"],
@@ -309,7 +310,9 @@ window.SHOES_RAW = [
   ["Triop","Boulder-X","U","V","M","M",2,2,2,"Vibram XS Grip","bouldering gym",83,"https://www.triop.cz/produkt/lezecka-boulder-x/"],
   ["Triop","Tantrum","U","S","M","M",2,2,2,"Cling","bouldering sport",83,"https://www.triop.cz/produkt/lezecka-tantrum/"],
   ["Triop","Orca","U","L","M","M",2,2,3,"Cling","sport all-round",73,"https://www.triop.cz/produkt/orca/"],
+  ["Triop","Start","U","L","M","M",1,0,3,"Cling","beginner all-round gym",70,"https://www.triop.cz/produkt/start/"],
   ["Triop","Tango","MW","V","M","M",2,2,3,"Cling","all-round gym sport",76,"https://www.triop.cz/produkt/tango/"],
+  ["Triop","Zumba VCR","U","V","W","M",1,1,3,"Cling","beginner gym",75,"https://www.triop.cz/produkt/lezecka-zumba-vcr/"],
   ["Triop","Kova","U","L","M","H",0,0,4,"Cling","trad crack multipitch",84,"https://www.triop.cz/produkt/kova/"],
   ["Triop","Rental VCR","U","V","W","H",0,0,4,"Cling","gym beginner",76,"https://www.triop.cz/produkt/rental-vcr/"],
 
