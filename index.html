@@ -481,7 +481,7 @@ function profileSVG(s){
   // heel counter at the back, a dip at the ankle collar, then the instep tapering into the toe box
   const bump = (c, w) => x => Math.exp(-((x - c) ** 2) / w);
   const heelTab = bump(0.02, 0.0015), collar = bump(0.17, 0.006);
-  const thick = x => 11 + 18 * (1 - ss(0.26, 0.9, x)) + 3 * heelTab(x) - 5 * collar(x) - (d >= 2 ? 1.2 * ss(0.8, 1, x) : 0);
+  const thick = x => 16 + 13 * (1 - ss(0.3, 0.97, x)) + 3 * heelTab(x) - 5 * collar(x) - 2 * ss(0.9, 1, x) ** 2;
   const f = n => n.toFixed(1);
   const sole = [], upper = [];
   for (let i = 0; i <= N; i++){
@@ -492,10 +492,10 @@ function profileSVG(s){
   const line = pts => pts.map(p => f(p[0]) + " " + f(p[1])).join(" L");
   const [ux, uy] = upper[N], [sx, sy] = sole[N], [hx, hy] = upper[0];
   const hook = d >= 3 ? 4 : 0; // point the toe cap down on the most aggressive shoes
-  const cap = `C${f(ux + 9)} ${f(uy + hook)} ${f(sx + 9 - hook)} ${f(sy + hook)} ${f(sx)} ${f(sy)}`;
+  const cap = `C${f(ux + 11)} ${f(uy + hook)} ${f(sx + 10 - hook)} ${f(sy + hook)} ${f(sx)} ${f(sy)}`;
   const heel = `C${X0 - 6} ${G - 1} ${X0 - 6} ${f(hy + 6)} ${f(hx - 1)} ${f(hy + 1)} L${f(hx)} ${f(hy)}`;
   const outline = `M${line(upper)} ${cap} L${line([...sole].reverse())} ${heel} Z`;
-  const toeCap = `M${f(sx - 14)} ${f(sole[N - 4][1])} L${line(sole.slice(N - 4))} C${f(sx + 9 - hook)} ${f(sy + hook)} ${f(ux + 9)} ${f(uy + hook)} ${f(ux - 4)} ${f(uy - 0.5)}`;
+  const toeCap = `M${f(sx - 14)} ${f(sole[N - 4][1])} L${line(sole.slice(N - 4))} C${f(sx + 10 - hook)} ${f(sy + hook)} ${f(ux + 11)} ${f(uy + hook)} ${f(ux)} ${f(uy)}`;
   return `<svg viewBox="0 0 164 58" aria-hidden="true">
     <line x1="6" y1="${G + 1.6}" x2="160" y2="${G + 1.6}" stroke="var(--line-2)" stroke-width="1" stroke-dasharray="2 3"/>
     <path d="${outline}" fill="var(--panel)" stroke="var(--ink-2)" stroke-width="1.3" stroke-linejoin="round"/>
