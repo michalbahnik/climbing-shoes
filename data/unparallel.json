@@ -2,7 +2,7 @@
   {
     "brand": "Unparallel",
     "model": "Flagship Pro",
-    "url": null,
+    "url": "https://www.unparallelsports.com/product/flagship-pro/",
     "gender": {
       "value": null
     },
@@ -13,7 +13,9 @@
       "value": null
     },
     "volume": {
-      "value": null
+      "value": "M",
+      "quote": "https://www.unparallelsports.com/product/flagship-pro-lv/",
+      "source": "https://www.unparallelsports.com/product-sitemap.xml"
     },
     "asymmetry": {
       "value": null
@@ -33,12 +35,12 @@
     "price": {
       "value": null
     },
-    "notes": "No official Unparallel site found (2026-11-04): unparallelup.com does not resolve; unparallel.com is an unrelated design agency; searches return only retailers. Existing shoes.js link is a retailer, so url is null and all fields null."
+    "notes": "Official site www.unparallelsports.com returns HTTP 403 with a Cloudflare bot check ('Just a moment...') for every product page, the catalogue and the WooCommerce Store API (2026-11-04); not circumvented. No other official store or catalogue PDF found. URL taken from the official product sitemap (product-sitemap.xml, which is reachable); all other fields null because the page text could not be read. Volume M because the official sitemap lists an LV variant of this model."
   },
   {
     "brand": "Unparallel",
     "model": "TN-Finity",
-    "url": null,
+    "url": "https://www.unparallelsports.com/product/tn-finity/",
     "gender": {
       "value": null
     },
@@ -69,12 +71,12 @@
     "price": {
       "value": null
     },
-    "notes": "No official Unparallel site found (2026-11-04): unparallelup.com does not resolve; unparallel.com is an unrelated design agency; searches return only retailers. Existing shoes.js link is a retailer, so url is null and all fields null."
+    "notes": "Official site www.unparallelsports.com returns HTTP 403 with a Cloudflare bot check ('Just a moment...') for every product page, the catalogue and the WooCommerce Store API (2026-11-04); not circumvented. No other official store or catalogue PDF found. URL taken from the official product sitemap (product-sitemap.xml, which is reachable); all other fields null because the page text could not be read."
   },
   {
     "brand": "Unparallel",
     "model": "TN Pro",
-    "url": null,
+    "url": "https://www.unparallelsports.com/product/tn-pro/",
     "gender": {
       "value": null
     },
@@ -85,7 +87,9 @@
       "value": null
     },
     "volume": {
-      "value": null
+      "value": "M",
+      "quote": "https://www.unparallelsports.com/product/tn-pro-lv/",
+      "source": "https://www.unparallelsports.com/product-sitemap.xml"
     },
     "asymmetry": {
       "value": null
@@ -105,12 +109,12 @@
     "price": {
       "value": null
     },
-    "notes": "No official Unparallel site found (2026-11-04): unparallelup.com does not resolve; unparallel.com is an unrelated design agency; searches return only retailers. Existing shoes.js link is a retailer, so url is null and all fields null."
+    "notes": "Official site www.unparallelsports.com returns HTTP 403 with a Cloudflare bot check ('Just a moment...') for every product page, the catalogue and the WooCommerce Store API (2026-11-04); not circumvented. No other official store or catalogue PDF found. URL taken from the official product sitemap (product-sitemap.xml, which is reachable); all other fields null because the page text could not be read. Volume M because the official sitemap lists an LV variant of this model."
   },
   {
     "brand": "Unparallel",
     "model": "TN Pro LV",
-    "url": null,
+    "url": "https://www.unparallelsports.com/product/tn-pro-lv/",
     "gender": {
       "value": null
     },
@@ -121,7 +125,9 @@
       "value": null
     },
     "volume": {
-      "value": null
+      "value": "L",
+      "quote": "https://www.unparallelsports.com/product/tn-pro-lv/",
+      "source": "https://www.unparallelsports.com/product-sitemap.xml"
     },
     "asymmetry": {
       "value": null
@@ -141,12 +147,12 @@
     "price": {
       "value": null
     },
-    "notes": "No official Unparallel site found (2026-11-04): unparallelup.com does not resolve; unparallel.com is an unrelated design agency; searches return only retailers. Existing shoes.js link is a retailer, so url is null and all fields null."
+    "notes": "Official site www.unparallelsports.com returns HTTP 403 with a Cloudflare bot check ('Just a moment...') for every product page, the catalogue and the WooCommerce Store API (2026-11-04); not circumvented. No other official store or catalogue PDF found. URL taken from the official product sitemap (product-sitemap.xml, which is reachable); all other fields null because the page text could not be read. Volume L from the 'LV' model name/URL in the official sitemap."
   },
   {
     "brand": "Unparallel",
     "model": "Qubit",
-    "url": null,
+    "url": "https://www.unparallelsports.com/product/qubit/",
     "gender": {
       "value": null
     },
@@ -157,7 +163,9 @@
       "value": null
     },
     "volume": {
-      "value": null
+      "value": "M",
+      "quote": "https://www.unparallelsports.com/product/qubit-lv/",
+      "source": "https://www.unparallelsports.com/product-sitemap.xml"
     },
     "asymmetry": {
       "value": null
@@ -177,12 +185,12 @@
     "price": {
       "value": null
     },
-    "notes": "No official Unparallel site found (2026-11-04): unparallelup.com does not resolve; unparallel.com is an unrelated design agency; searches return only retailers. Existing shoes.js link is a retailer, so url is null and all fields null."
+    "notes": "Official site www.unparallelsports.com returns HTTP 403 with a Cloudflare bot check ('Just a moment...') for every product page, the catalogue and the WooCommerce Store API (2026-11-04); not circumvented. No other official store or catalogue PDF found. URL taken from the official product sitemap (product-sitemap.xml, which is reachable); all other fields null because the page text could not be read. Volume M because the official sitemap lists an LV variant of this model."
   },
   {
     "brand": "Unparallel",
     "model": "Qubit LV",
-    "url": null,
+    "url": "https://www.unparallelsports.com/product/qubit-lv/",
     "gender": {
       "value": null
     },
@@ -193,7 +201,9 @@
       "value": null
     },
     "volume": {
-      "value": null
+      "value": "L",
+      "quote": "https://www.unparallelsports.com/product/qubit-lv/",
+      "source": "https://www.unparallelsports.com/product-sitemap.xml"
     },
     "asymmetry": {
       "value": null
@@ -213,12 +223,12 @@
     "price": {
       "value": null
     },
-    "notes": "No official Unparallel site found (2026-11-04): unparallelup.com does not resolve; unparallel.com is an unrelated design agency; searches return only retailers. Existing shoes.js link is a retailer, so url is null and all fields null."
+    "notes": "Official site www.unparallelsports.com returns HTTP 403 with a Cloudflare bot check ('Just a moment...') for every product page, the catalogue and the WooCommerce Store API (2026-11-04); not circumvented. No other official store or catalogue PDF found. URL taken from the official product sitemap (product-sitemap.xml, which is reachable); all other fields null because the page text could not be read. Volume L from the 'LV' model name/URL in the official sitemap."
   },
   {
     "brand": "Unparallel",
     "model": "Souped Up",
-    "url": null,
+    "url": "https://www.unparallelsports.com/product/souped-up/",
     "gender": {
       "value": null
     },
@@ -249,12 +259,12 @@
     "price": {
       "value": null
     },
-    "notes": "No official Unparallel site found (2026-11-04): unparallelup.com does not resolve; unparallel.com is an unrelated design agency; searches return only retailers. Existing shoes.js link is a retailer, so url is null and all fields null."
+    "notes": "Official site www.unparallelsports.com returns HTTP 403 with a Cloudflare bot check ('Just a moment...') for every product page, the catalogue and the WooCommerce Store API (2026-11-04); not circumvented. No other official store or catalogue PDF found. URL taken from the official product sitemap (product-sitemap.xml, which is reachable); all other fields null because the page text could not be read."
   },
   {
     "brand": "Unparallel",
     "model": "Leopard II",
-    "url": null,
+    "url": "https://www.unparallelsports.com/product/leopard/",
     "gender": {
       "value": null
     },
@@ -285,12 +295,12 @@
     "price": {
       "value": null
     },
-    "notes": "No official Unparallel site found (2026-11-04): unparallelup.com does not resolve; unparallel.com is an unrelated design agency; searches return only retailers. Existing shoes.js link is a retailer, so url is null and all fields null."
+    "notes": "Official site www.unparallelsports.com returns HTTP 403 with a Cloudflare bot check ('Just a moment...') for every product page, the catalogue and the WooCommerce Store API (2026-11-04); not circumvented. No other official store or catalogue PDF found. URL taken from the official product sitemap (product-sitemap.xml, which is reachable); all other fields null because the page text could not be read. Official slug is 'leopard'; search-engine title for that URL reads 'UP Leopard II Climbing Shoe'."
   },
   {
     "brand": "Unparallel",
     "model": "Regulus",
-    "url": null,
+    "url": "https://www.unparallelsports.com/product/regulus/",
     "gender": {
       "value": null
     },
@@ -301,7 +311,9 @@
       "value": null
     },
     "volume": {
-      "value": null
+      "value": "M",
+      "quote": "https://www.unparallelsports.com/product/regulus-lv/",
+      "source": "https://www.unparallelsports.com/product-sitemap.xml"
     },
     "asymmetry": {
       "value": null
@@ -321,12 +333,12 @@
     "price": {
       "value": null
     },
-    "notes": "No official Unparallel site found (2026-11-04): unparallelup.com does not resolve; unparallel.com is an unrelated design agency; searches return only retailers. Existing shoes.js link is a retailer, so url is null and all fields null."
+    "notes": "Official site www.unparallelsports.com returns HTTP 403 with a Cloudflare bot check ('Just a moment...') for every product page, the catalogue and the WooCommerce Store API (2026-11-04); not circumvented. No other official store or catalogue PDF found. URL taken from the official product sitemap (product-sitemap.xml, which is reachable); all other fields null because the page text could not be read. Volume M because the official sitemap lists an LV variant of this model. Sitemap also lists regulus-2026, regulus-lv-2026 and regulus-finity; used /product/regulus/."
   },
   {
     "brand": "Unparallel",
     "model": "UP Float",
-    "url": null,
+    "url": "https://www.unparallelsports.com/product/up-float/",
     "gender": {
       "value": null
     },
@@ -357,12 +369,12 @@
     "price": {
       "value": null
     },
-    "notes": "No official Unparallel site found (2026-11-04): unparallelup.com does not resolve; unparallel.com is an unrelated design agency; searches return only retailers. Existing shoes.js link is a retailer, so url is null and all fields null."
+    "notes": "Official site www.unparallelsports.com returns HTTP 403 with a Cloudflare bot check ('Just a moment...') for every product page, the catalogue and the WooCommerce Store API (2026-11-04); not circumvented. No other official store or catalogue PDF found. URL taken from the official product sitemap (product-sitemap.xml, which is reachable); all other fields null because the page text could not be read."
   },
   {
     "brand": "Unparallel",
     "model": "UP Beat",
-    "url": null,
+    "url": "https://www.unparallelsports.com/product/up-beat-3/",
     "gender": {
       "value": null
     },
@@ -393,12 +405,12 @@
     "price": {
       "value": null
     },
-    "notes": "No official Unparallel site found (2026-11-04): unparallelup.com does not resolve; unparallel.com is an unrelated design agency; searches return only retailers. Existing shoes.js link is a retailer, so url is null and all fields null."
+    "notes": "Official site www.unparallelsports.com returns HTTP 403 with a Cloudflare bot check ('Just a moment...') for every product page, the catalogue and the WooCommerce Store API (2026-11-04); not circumvented. No other official store or catalogue PDF found. URL taken from the official product sitemap (product-sitemap.xml, which is reachable); all other fields null because the page text could not be read."
   },
   {
     "brand": "Unparallel",
     "model": "UP Lift",
-    "url": null,
+    "url": "https://www.unparallelsports.com/product/up-lift/",
     "gender": {
       "value": null
     },
@@ -429,12 +441,12 @@
     "price": {
       "value": null
     },
-    "notes": "No official Unparallel site found (2026-11-04): unparallelup.com does not resolve; unparallel.com is an unrelated design agency; searches return only retailers. Existing shoes.js link is a retailer, so url is null and all fields null."
+    "notes": "Official site www.unparallelsports.com returns HTTP 403 with a Cloudflare bot check ('Just a moment...') for every product page, the catalogue and the WooCommerce Store API (2026-11-04); not circumvented. No other official store or catalogue PDF found. URL taken from the official product sitemap (product-sitemap.xml, which is reachable); all other fields null because the page text could not be read."
   },
   {
     "brand": "Unparallel",
     "model": "UP Lace",
-    "url": null,
+    "url": "https://www.unparallelsports.com/product/up-lace/",
     "gender": {
       "value": null
     },
@@ -445,7 +457,9 @@
       "value": null
     },
     "volume": {
-      "value": null
+      "value": "M",
+      "quote": "https://www.unparallelsports.com/product/up-lace-lv/",
+      "source": "https://www.unparallelsports.com/product-sitemap.xml"
     },
     "asymmetry": {
       "value": null
@@ -465,12 +479,12 @@
     "price": {
       "value": null
     },
-    "notes": "No official Unparallel site found (2026-11-04): unparallelup.com does not resolve; unparallel.com is an unrelated design agency; searches return only retailers. Existing shoes.js link is a retailer, so url is null and all fields null."
+    "notes": "Official site www.unparallelsports.com returns HTTP 403 with a Cloudflare bot check ('Just a moment...') for every product page, the catalogue and the WooCommerce Store API (2026-11-04); not circumvented. No other official store or catalogue PDF found. URL taken from the official product sitemap (product-sitemap.xml, which is reachable); all other fields null because the page text could not be read. Volume M because the official sitemap lists an LV variant of this model."
   },
   {
     "brand": "Unparallel",
     "model": "UP Lace LV",
-    "url": null,
+    "url": "https://www.unparallelsports.com/product/up-lace-lv/",
     "gender": {
       "value": null
     },
@@ -481,7 +495,9 @@
       "value": null
     },
     "volume": {
-      "value": null
+      "value": "L",
+      "quote": "https://www.unparallelsports.com/product/up-lace-lv/",
+      "source": "https://www.unparallelsports.com/product-sitemap.xml"
     },
     "asymmetry": {
       "value": null
@@ -501,12 +517,12 @@
     "price": {
       "value": null
     },
-    "notes": "No official Unparallel site found (2026-11-04): unparallelup.com does not resolve; unparallel.com is an unrelated design agency; searches return only retailers. Existing shoes.js link is a retailer, so url is null and all fields null."
+    "notes": "Official site www.unparallelsports.com returns HTTP 403 with a Cloudflare bot check ('Just a moment...') for every product page, the catalogue and the WooCommerce Store API (2026-11-04); not circumvented. No other official store or catalogue PDF found. URL taken from the official product sitemap (product-sitemap.xml, which is reachable); all other fields null because the page text could not be read. Volume L from the 'LV' model name/URL in the official sitemap."
   },
   {
     "brand": "Unparallel",
     "model": "UP Mocc",
-    "url": null,
+    "url": "https://www.unparallelsports.com/product/up-mocc/",
     "gender": {
       "value": null
     },
@@ -537,12 +553,12 @@
     "price": {
       "value": null
     },
-    "notes": "No official Unparallel site found (2026-11-04): unparallelup.com does not resolve; unparallel.com is an unrelated design agency; searches return only retailers. Existing shoes.js link is a retailer, so url is null and all fields null."
+    "notes": "Official site www.unparallelsports.com returns HTTP 403 with a Cloudflare bot check ('Just a moment...') for every product page, the catalogue and the WooCommerce Store API (2026-11-04); not circumvented. No other official store or catalogue PDF found. URL taken from the official product sitemap (product-sitemap.xml, which is reachable); all other fields null because the page text could not be read."
   },
   {
     "brand": "Unparallel",
     "model": "Up-Rise VCS",
-    "url": null,
+    "url": "https://www.unparallelsports.com/product/up-rise-vcs/",
     "gender": {
       "value": null
     },
@@ -553,7 +569,9 @@
       "value": null
     },
     "volume": {
-      "value": null
+      "value": "M",
+      "quote": "https://www.unparallelsports.com/product/up-rise-vcs-lv/",
+      "source": "https://www.unparallelsports.com/product-sitemap.xml"
     },
     "asymmetry": {
       "value": null
@@ -573,12 +591,12 @@
     "price": {
       "value": null
     },
-    "notes": "No official Unparallel site found (2026-11-04): unparallelup.com does not resolve; unparallel.com is an unrelated design agency; searches return only retailers. Existing shoes.js link is a retailer, so url is null and all fields null."
+    "notes": "Official site www.unparallelsports.com returns HTTP 403 with a Cloudflare bot check ('Just a moment...') for every product page, the catalogue and the WooCommerce Store API (2026-11-04); not circumvented. No other official store or catalogue PDF found. URL taken from the official product sitemap (product-sitemap.xml, which is reachable); all other fields null because the page text could not be read. Volume M because the official sitemap lists an LV variant of this model."
   },
   {
     "brand": "Unparallel",
     "model": "Up-Rise Pro",
-    "url": null,
+    "url": "https://www.unparallelsports.com/product/up-rise-pro/",
     "gender": {
       "value": null
     },
@@ -609,12 +627,12 @@
     "price": {
       "value": null
     },
-    "notes": "No official Unparallel site found (2026-11-04): unparallelup.com does not resolve; unparallel.com is an unrelated design agency; searches return only retailers. Existing shoes.js link is a retailer, so url is null and all fields null."
+    "notes": "Official site www.unparallelsports.com returns HTTP 403 with a Cloudflare bot check ('Just a moment...') for every product page, the catalogue and the WooCommerce Store API (2026-11-04); not circumvented. No other official store or catalogue PDF found. URL taken from the official product sitemap (product-sitemap.xml, which is reachable); all other fields null because the page text could not be read."
   },
   {
     "brand": "Unparallel",
     "model": "NewTro Lace",
-    "url": null,
+    "url": "https://www.unparallelsports.com/product/newtro-lace-up/",
     "gender": {
       "value": null
     },
@@ -645,12 +663,12 @@
     "price": {
       "value": null
     },
-    "notes": "No official Unparallel site found (2026-11-04): unparallelup.com does not resolve; unparallel.com is an unrelated design agency; searches return only retailers. Existing shoes.js link is a retailer, so url is null and all fields null."
+    "notes": "Official site www.unparallelsports.com returns HTTP 403 with a Cloudflare bot check ('Just a moment...') for every product page, the catalogue and the WooCommerce Store API (2026-11-04); not circumvented. No other official store or catalogue PDF found. URL taken from the official product sitemap (product-sitemap.xml, which is reachable); all other fields null because the page text could not be read."
   },
   {
     "brand": "Unparallel",
     "model": "Engage Lace UP",
-    "url": null,
+    "url": "https://www.unparallelsports.com/product/engage-lace-up/",
     "gender": {
       "value": null
     },
@@ -681,6 +699,6 @@
     "price": {
       "value": null
     },
-    "notes": "No official Unparallel site found (2026-11-04): unparallelup.com does not resolve; unparallel.com is an unrelated design agency; searches return only retailers. Existing shoes.js link is a retailer, so url is null and all fields null."
+    "notes": "Official site www.unparallelsports.com returns HTTP 403 with a Cloudflare bot check ('Just a moment...') for every product page, the catalogue and the WooCommerce Store API (2026-11-04); not circumvented. No other official store or catalogue PDF found. URL taken from the official product sitemap (product-sitemap.xml, which is reachable); all other fields null because the page text could not be read."
   }
 ]
