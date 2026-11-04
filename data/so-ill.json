@@ -1,0 +1,474 @@
+[
+  {
+    "brand": "So iLL",
+    "model": "Torque",
+    "url": "https://soillholds.com/products/torque",
+    "gender": {
+      "value": "U",
+      "quote": "Sizes : M4.5/W6 – M13/W14.5 Unisex",
+      "source": "https://soillholds.com/products/torque"
+    },
+    "closure": {
+      "value": "V",
+      "quote": "The unique single strap velcro closure",
+      "source": "https://soillholds.com/products/torque"
+    },
+    "width": {
+      "value": null
+    },
+    "volume": {
+      "value": "M",
+      "quote": "Volume : Regular volume",
+      "source": "https://soillholds.com/products/torque"
+    },
+    "asymmetry": {
+      "value": 2,
+      "quote": "Last : FDL-1-RV (28° medium asymmetry)",
+      "source": "https://soillholds.com/products/torque"
+    },
+    "downturn": {
+      "value": 2,
+      "quote": "Design : All-new, moderately downturned last, hand-shaped by Fred Nicole",
+      "source": "https://soillholds.com/products/torque"
+    },
+    "stiffness": {
+      "value": 4,
+      "quote": "Flexibility : Stiff",
+      "source": "https://soillholds.com/products/torque"
+    },
+    "rubber": {
+      "value": "Vibram XS Grip",
+      "quote": "features Vibram XS GRIP rubber for durability",
+      "source": "https://soillholds.com/products/torque"
+    },
+    "uses": {
+      "value": [
+        "bouldering",
+        "gym"
+      ],
+      "quote": "TORQUE is perfect for all your outdoor bouldering needs as well as indoor bouldering",
+      "source": "https://soillholds.com/products/torque"
+    },
+    "price": {
+      "value": {
+        "amount": 189,
+        "currency": "EUR"
+      },
+      "quote": "€189,00",
+      "source": "https://soillholds.com/products/torque"
+    },
+    "notes": "Upper is described as 'vegan microsuede' but the shoe itself is not stated vegan, so 'vegan' not tagged. Asymmetry '28° medium asymmetry' -> 2. EUR price from the official store with country set to Germany (?country=DE); no compare-at/sale price shown."
+  },
+  {
+    "brand": "So iLL",
+    "model": "Torque LV",
+    "url": "https://soillholds.com/products/torque-lv",
+    "gender": {
+      "value": "U",
+      "quote": "M 4.5 / W 6",
+      "source": "https://soillholds.com/products/torque-lv"
+    },
+    "closure": {
+      "value": "V",
+      "quote": "The unique single strap velcro closure",
+      "source": "https://soillholds.com/products/torque-lv"
+    },
+    "width": {
+      "value": null
+    },
+    "volume": {
+      "value": "L",
+      "quote": "Volume : Low volume",
+      "source": "https://soillholds.com/products/torque-lv"
+    },
+    "asymmetry": {
+      "value": 2,
+      "quote": "Last : FDL-3-LV (30° medium asymmetry)",
+      "source": "https://soillholds.com/products/torque-lv"
+    },
+    "downturn": {
+      "value": 2,
+      "quote": "Design : All-new, moderately downturned last, hand-shaped by Fred Nicole",
+      "source": "https://soillholds.com/products/torque-lv"
+    },
+    "stiffness": {
+      "value": 3,
+      "quote": "Flexibility : Semi- Stiff",
+      "source": "https://soillholds.com/products/torque-lv"
+    },
+    "rubber": {
+      "value": "Vibram XS Grip",
+      "quote": "features Vibram XS GRIP rubber for durability",
+      "source": "https://soillholds.com/products/torque-lv"
+    },
+    "uses": {
+      "value": [
+        "bouldering",
+        "gym",
+        "sport"
+      ],
+      "quote": "ideal for outdoor/indoor bouldering needs - specifically large volume climbing as well as sport climbing",
+      "source": "https://soillholds.com/products/torque-lv"
+    },
+    "price": {
+      "value": {
+        "amount": 189,
+        "currency": "EUR"
+      },
+      "quote": "€189,00",
+      "source": "https://soillholds.com/products/torque-lv"
+    },
+    "notes": "Flexibility 'Semi-stiff'/'Semi-soft' mapped to 3 (semi- read as a half step toward medium). Upper is described as 'vegan microsuede' but the shoe itself is not stated vegan, so 'vegan' not tagged. Page calls the LV fit 'Narrower' relative to Torque RV; not a narrow-fit statement, width left null. EUR price from the official store with country set to Germany (?country=DE); no compare-at/sale price shown."
+  },
+  {
+    "brand": "So iLL",
+    "model": "Torque AV1",
+    "url": "https://soillholds.com/products/torque-av1",
+    "gender": {
+      "value": "U",
+      "quote": "M 4.5 / W 6",
+      "source": "https://soillholds.com/products/torque-av1"
+    },
+    "closure": {
+      "value": "V",
+      "quote": "its one-strap closure provides a secure, adjustable fit",
+      "source": "https://soillholds.com/products/torque-av1"
+    },
+    "width": {
+      "value": null
+    },
+    "volume": {
+      "value": null
+    },
+    "asymmetry": {
+      "value": 2,
+      "quote": "Last Asymmetry: 32° medium asymmetry",
+      "source": "https://soillholds.com/products/torque-av1"
+    },
+    "downturn": {
+      "value": 2,
+      "quote": "Last: FDL-6-AV1 // moderately downturned last, hand-shaped by Fred Nicole",
+      "source": "https://soillholds.com/products/torque-av1"
+    },
+    "stiffness": {
+      "value": 3,
+      "quote": "Flexibility: Semi-stiff",
+      "source": "https://soillholds.com/products/torque-av1"
+    },
+    "rubber": {
+      "value": "Vibram XS Grip",
+      "quote": "Vibram XS Grip rubber, vegan microsuede, and a downturned design",
+      "source": "https://soillholds.com/products/torque-av1"
+    },
+    "uses": {
+      "value": [
+        "bouldering",
+        "gym",
+        "sport"
+      ],
+      "quote": "for indoor and outdoor bouldering while remaining versatile enough for sport climbing",
+      "source": "https://soillholds.com/products/torque-av1"
+    },
+    "price": {
+      "value": {
+        "amount": 189,
+        "currency": "EUR"
+      },
+      "quote": "€189,00",
+      "source": "https://soillholds.com/products/torque-av1"
+    },
+    "notes": "Flexibility 'Semi-stiff'/'Semi-soft' mapped to 3 (semi- read as a half step toward medium). Upper is described as 'vegan microsuede' but the shoe itself is not stated vegan, so 'vegan' not tagged. Volume stated as 'Alternative Volume 1' (no low/standard/high), so null. Rubber quote is from the page's meta description. Gender from size labels (single unisex version). EUR price from the official store with country set to Germany (?country=DE); no compare-at/sale price shown."
+  },
+  {
+    "brand": "So iLL",
+    "model": "Stay",
+    "url": "https://soillholds.com/products/stay",
+    "gender": {
+      "value": "U",
+      "quote": "This shoe is unisex",
+      "source": "https://soillholds.com/products/stay"
+    },
+    "closure": {
+      "value": "V",
+      "quote": "Closure : Single strap hook + loop closure system",
+      "source": "https://soillholds.com/products/stay"
+    },
+    "width": {
+      "value": null
+    },
+    "volume": {
+      "value": "M",
+      "quote": "Volume : Regular volume",
+      "source": "https://soillholds.com/products/stay"
+    },
+    "asymmetry": {
+      "value": 2,
+      "quote": "Last : JDL-1-RV (25° medium asymmetry)",
+      "source": "https://soillholds.com/products/stay"
+    },
+    "downturn": {
+      "value": null
+    },
+    "stiffness": {
+      "value": 1,
+      "quote": "Flexibility : Very soft",
+      "source": "https://soillholds.com/products/stay"
+    },
+    "rubber": {
+      "value": "Vibram XS Grip",
+      "quote": "Rubber : Vibram XS GRIP",
+      "source": "https://soillholds.com/products/stay"
+    },
+    "uses": {
+      "value": [
+        "gym",
+        "competition"
+      ],
+      "quote": "large volume type climbing, and indoor competition climbing",
+      "source": "https://soillholds.com/products/stay"
+    },
+    "price": {
+      "value": {
+        "amount": 179,
+        "currency": "EUR"
+      },
+      "quote": "€179,00",
+      "source": "https://soillholds.com/products/stay"
+    },
+    "notes": "Upper is described as 'vegan microsuede' but the shoe itself is not stated vegan, so 'vegan' not tagged. Downturn stated only as 'downturned last' (no degree), so null. EUR price from the official store with country set to Germany (?country=DE); no compare-at/sale price shown."
+  },
+  {
+    "brand": "So iLL",
+    "model": "Street",
+    "url": "https://soillholds.com/products/street",
+    "gender": {
+      "value": "U",
+      "quote": "M 4.5 / W 6",
+      "source": "https://soillholds.com/products/street"
+    },
+    "closure": {
+      "value": "V",
+      "quote": "Closure : Dual strap hook + loop closure system",
+      "source": "https://soillholds.com/products/street"
+    },
+    "width": {
+      "value": null
+    },
+    "volume": {
+      "value": "M",
+      "quote": "Volume : Regular volume",
+      "source": "https://soillholds.com/products/street"
+    },
+    "asymmetry": {
+      "value": 2,
+      "quote": "Medium asymmetry and downturn, along with a semi-soft rigidity",
+      "source": "https://soillholds.com/products/street"
+    },
+    "downturn": {
+      "value": 2,
+      "quote": "Medium asymmetry and downturn, along with a semi-soft rigidity",
+      "source": "https://soillholds.com/products/street"
+    },
+    "stiffness": {
+      "value": 3,
+      "quote": "Flexibility : Semi-soft",
+      "source": "https://soillholds.com/products/street"
+    },
+    "rubber": {
+      "value": "Vibram XS Grip",
+      "quote": "Rubber : Vibram XS GRIP",
+      "source": "https://soillholds.com/products/street"
+    },
+    "uses": {
+      "value": [
+        "gym"
+      ],
+      "quote": "STREET is a semi-soft regular volume shoe which is great for indoor/outdoor climbing",
+      "source": "https://soillholds.com/products/street"
+    },
+    "price": {
+      "value": {
+        "amount": 129,
+        "currency": "EUR"
+      },
+      "quote": "€129,00",
+      "source": "https://soillholds.com/products/street"
+    },
+    "notes": "Flexibility 'Semi-stiff'/'Semi-soft' mapped to 3 (semi- read as a half step toward medium). Upper is described as 'vegan microsuede' but the shoe itself is not stated vegan, so 'vegan' not tagged. 'Indoor/outdoor climbing' -> gym. EUR price from the official store with country set to Germany (?country=DE); no compare-at/sale price shown."
+  },
+  {
+    "brand": "So iLL",
+    "model": "Roam Soft",
+    "url": "https://soillholds.com/products/roam-soft",
+    "gender": {
+      "value": "U",
+      "quote": "Sizes : M4.5/W6 - M13/W14.5",
+      "source": "https://soillholds.com/products/roam-soft"
+    },
+    "closure": {
+      "value": "S",
+      "quote": "Closure : Slipper fit",
+      "source": "https://soillholds.com/products/roam-soft"
+    },
+    "width": {
+      "value": null
+    },
+    "volume": {
+      "value": "M",
+      "quote": "Volume : Regular volume",
+      "source": "https://soillholds.com/products/roam-soft"
+    },
+    "asymmetry": {
+      "value": 2,
+      "quote": "Last : FDL-1-RV (28° medium asymmetry)",
+      "source": "https://soillholds.com/products/roam-soft"
+    },
+    "downturn": {
+      "value": 2,
+      "quote": "Design : All-new, moderately downturned last, hand-shaped by Fred Nicole",
+      "source": "https://soillholds.com/products/roam-soft"
+    },
+    "stiffness": {
+      "value": 2,
+      "quote": "Flexibility : Soft",
+      "source": "https://soillholds.com/products/roam-soft"
+    },
+    "rubber": {
+      "value": "Vibram XS Grip",
+      "quote": "outfitted with Vibram XS Grip Rubber",
+      "source": "https://soillholds.com/products/roam-soft"
+    },
+    "uses": {
+      "value": [
+        "bouldering",
+        "sport"
+      ],
+      "quote": "ideal for aggressive overhanging bouldering or sport climbing",
+      "source": "https://soillholds.com/products/roam-soft"
+    },
+    "price": {
+      "value": {
+        "amount": 169,
+        "currency": "EUR"
+      },
+      "quote": "€169,00",
+      "source": "https://soillholds.com/products/roam-soft"
+    },
+    "notes": "Upper is described as 'vegan microsuede' but the shoe itself is not stated vegan, so 'vegan' not tagged. EUR price from the official store with country set to Germany (?country=DE); no compare-at/sale price shown."
+  },
+  {
+    "brand": "So iLL",
+    "model": "Athletic Bouldering 1",
+    "url": "https://soillholds.com/products/athletic-bouldering-1",
+    "gender": {
+      "value": "U",
+      "quote": "Sizes : M4.5/W6 - M13/W14.5",
+      "source": "https://soillholds.com/products/athletic-bouldering-1"
+    },
+    "closure": {
+      "value": "L",
+      "quote": "Closure : Patented Salomon Quicklace system",
+      "source": "https://soillholds.com/products/athletic-bouldering-1"
+    },
+    "width": {
+      "value": "N",
+      "quote": "Volume : Regular volume (but best suited for narrow feet)",
+      "source": "https://soillholds.com/products/athletic-bouldering-1"
+    },
+    "volume": {
+      "value": "M",
+      "quote": "Volume : Regular volume (but best suited for narrow feet)",
+      "source": "https://soillholds.com/products/athletic-bouldering-1"
+    },
+    "asymmetry": {
+      "value": 2,
+      "quote": "Last : FDL-1-RV (28° medium asymmetry)",
+      "source": "https://soillholds.com/products/athletic-bouldering-1"
+    },
+    "downturn": {
+      "value": null
+    },
+    "stiffness": {
+      "value": 1,
+      "quote": "Flexibility : Very soft",
+      "source": "https://soillholds.com/products/athletic-bouldering-1"
+    },
+    "rubber": {
+      "value": null
+    },
+    "uses": {
+      "value": [
+        "bouldering"
+      ],
+      "quote": "Athletic Bouldering 1 is great for bouldering, large volume climbing",
+      "source": "https://soillholds.com/products/athletic-bouldering-1"
+    },
+    "price": {
+      "value": {
+        "amount": 189,
+        "currency": "EUR"
+      },
+      "quote": "€189,00",
+      "source": "https://soillholds.com/products/athletic-bouldering-1"
+    },
+    "notes": "Upper is described as 'vegan microsuede' but the shoe itself is not stated vegan, so 'vegan' not tagged. Closure is Salomon Quicklace (a lace system) -> L. Width N from 'best suited for narrow feet'. Downturn stated only as 'downturned last', so null. Rubber stated as 'Proprietary rubber' (no compound name), so null. EUR price from the official store with country set to Germany (?country=DE); no compare-at/sale price shown."
+  },
+  {
+    "brand": "So iLL",
+    "model": "Step",
+    "url": "https://soillholds.com/products/step",
+    "gender": {
+      "value": "U",
+      "quote": "Sizes : M4.5/W6 - M13/W14.5",
+      "source": "https://soillholds.com/products/step"
+    },
+    "closure": {
+      "value": "V",
+      "quote": "Closure : Single z-strap velcro closure",
+      "source": "https://soillholds.com/products/step"
+    },
+    "width": {
+      "value": null
+    },
+    "volume": {
+      "value": "M",
+      "quote": "Volume : Regular volume",
+      "source": "https://soillholds.com/products/step"
+    },
+    "asymmetry": {
+      "value": 1,
+      "quote": "Step: An adult-specific last with a slight downturn and low toe asymmetry",
+      "source": "https://soillholds.com/products/step"
+    },
+    "downturn": {
+      "value": 1,
+      "quote": "Step: An adult-specific last with a slight downturn and low toe asymmetry",
+      "source": "https://soillholds.com/products/step"
+    },
+    "stiffness": {
+      "value": 4,
+      "quote": "Flexibility : Stiff",
+      "source": "https://soillholds.com/products/step"
+    },
+    "rubber": {
+      "value": null
+    },
+    "uses": {
+      "value": [
+        "beginner",
+        "all-round"
+      ],
+      "quote": "Step RV is a shoe for beginner/intermediate climbers",
+      "source": "https://soillholds.com/products/step"
+    },
+    "price": {
+      "value": {
+        "amount": 119,
+        "currency": "EUR"
+      },
+      "quote": "€119,00",
+      "source": "https://soillholds.com/products/step"
+    },
+    "notes": "Upper is described as 'vegan microsuede' but the shoe itself is not stated vegan, so 'vegan' not tagged. Asymmetry: spec table says 'FDL-4-RV (22° medium asymmetry)' but the Step vs Step Youth comparison says 'low toe asymmetry'; used the model-specific word 'low' -> 1. Rubber 'Proprietary rubber', so null. all-round from: 'making it a great shoe for all types of climbing'. EUR price from the official store with country set to Germany (?country=DE); no compare-at/sale price shown."
+  }
+]

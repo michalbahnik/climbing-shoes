@@ -1,0 +1,592 @@
+[
+  {
+    "brand": "Butora",
+    "model": "Acro",
+    "url": "https://butoraeurope.com/product/acro/",
+    "gender": {
+      "value": "U",
+      "quote": "Low Volume, Regular Volume",
+      "source": "https://butoraeurope.com/product/acro/"
+    },
+    "closure": {
+      "value": null
+    },
+    "width": {
+      "value": null
+    },
+    "volume": {
+      "value": "M",
+      "quote": "Low Volume, Regular Volume",
+      "source": "https://butoraeurope.com/product/acro/"
+    },
+    "asymmetry": {
+      "value": null
+    },
+    "downturn": {
+      "value": null
+    },
+    "stiffness": {
+      "value": null
+    },
+    "rubber": {
+      "value": "NEO Fuse",
+      "quote": "Outsole- Neo Fuse Rubber for sticky-performance and durabilit",
+      "source": "https://butoraeurope.com/product/acro/"
+    },
+    "uses": {
+      "value": [
+        "sport",
+        "bouldering"
+      ],
+      "quote": "our best selling hi-performance shoe, for techinical sport climbing and bouldering",
+      "source": "https://butoraeurope.com/product/acro/"
+    },
+    "price": {
+      "value": {
+        "amount": 155.0,
+        "currency": "EUR"
+      },
+      "quote": "\"regular_price\":\"15500\"",
+      "source": "https://butoraeurope.com/wp-json/wc/store/v1/products?per_page=100"
+    },
+    "notes": "Gender U: sold as one model with volume variants, no men's/women's versions. Not listed on butorausa.com. Closure, shape and stiffness not stated. Volume M: the model is sold in 'Regular Volume' and 'Low Volume' variants; this row taken as the regular one. Price from the official EU store's WooCommerce Store API (currency_minor_unit 2); the page itself renders the amount via JS."
+  },
+  {
+    "brand": "Butora",
+    "model": "Acro Comp",
+    "url": "https://butoraeurope.com/product/acro-comp/",
+    "gender": {
+      "value": "U",
+      "quote": "Low Volume, Regular Volume",
+      "source": "https://butoraeurope.com/product/acro-comp/"
+    },
+    "closure": {
+      "value": "V",
+      "quote": "An adjustable, signature triple fork closure system for quick on-off",
+      "source": "https://butorausa.com/products/acro-comp"
+    },
+    "width": {
+      "value": null
+    },
+    "volume": {
+      "value": "M",
+      "quote": "Low Volume, Regular Volume",
+      "source": "https://butoraeurope.com/product/acro-comp/"
+    },
+    "asymmetry": {
+      "value": null
+    },
+    "downturn": {
+      "value": null
+    },
+    "stiffness": {
+      "value": null
+    },
+    "rubber": {
+      "value": "NEO Fuse",
+      "quote": "wrapped in our NEO Fuse sticky rubber",
+      "source": "https://butorausa.com/products/acro-comp"
+    },
+    "uses": {
+      "value": [
+        "sport",
+        "bouldering",
+        "gym"
+      ],
+      "quote": "best suited for steep sport climbing and bouldering and particularly gym climbing",
+      "source": "https://butorausa.com/products/acro-comp"
+    },
+    "price": {
+      "value": {
+        "amount": 150.0,
+        "currency": "EUR"
+      },
+      "quote": "\"regular_price\":\"15000\"",
+      "source": "https://butoraeurope.com/wp-json/wc/store/v1/products?per_page=100"
+    },
+    "notes": "US store sells it as 'Wide Fit' and 'Narrow Fit' colourways, so width left null. Closure V: triple fork strap system. 'down-turned' and 'softer version' given without degree, left null. Volume M: the model is sold in 'Regular Volume' and 'Low Volume' variants; this row taken as the regular one. Price from the official EU store's WooCommerce Store API (currency_minor_unit 2); the page itself renders the amount via JS."
+  },
+  {
+    "brand": "Butora",
+    "model": "Gomi",
+    "url": "https://butoraeurope.com/product/gomi/",
+    "gender": {
+      "value": "U",
+      "quote": "Pink - Narrow Fit (Unisex)",
+      "source": "https://butorausa.com/products/gomi-1"
+    },
+    "closure": {
+      "value": null
+    },
+    "width": {
+      "value": null
+    },
+    "volume": {
+      "value": "M",
+      "quote": "Low Volume, Regular Volume",
+      "source": "https://butoraeurope.com/product/gomi/"
+    },
+    "asymmetry": {
+      "value": null
+    },
+    "downturn": {
+      "value": null
+    },
+    "stiffness": {
+      "value": null
+    },
+    "rubber": {
+      "value": "NEO Fuse",
+      "quote": "Butora's own NEO Fuse Sticky Rubber (4mm Outsole)",
+      "source": "https://butorausa.com/products/gomi-1"
+    },
+    "uses": {
+      "value": [
+        "sport",
+        "bouldering",
+        "all-round"
+      ],
+      "quote": "best suited for sport climbing and bouldering / The Gomi is all-around, hi-performance shoe",
+      "source": "https://butorausa.com/products/gomi-1"
+    },
+    "price": {
+      "value": {
+        "amount": 150.0,
+        "currency": "EUR"
+      },
+      "quote": "\"regular_price\":\"15000\"",
+      "source": "https://butoraeurope.com/wp-json/wc/store/v1/products?per_page=100"
+    },
+    "notes": "Uses quote combines butorausa.com ('best suited for sport climbing and bouldering') and butoraeurope.com ('all-around'). Wide and narrow fits both sold, width null. Closure not stated by the brand (only in customer reviews). 'down-turned' without degree, null. Volume M: the model is sold in 'Regular Volume' and 'Low Volume' variants; this row taken as the regular one. Price from the official EU store's WooCommerce Store API (currency_minor_unit 2); the page itself renders the amount via JS."
+  },
+  {
+    "brand": "Butora",
+    "model": "Ibex",
+    "url": "https://butoraeurope.com/product/ibex/",
+    "gender": {
+      "value": "U",
+      "quote": "Gray - Narrow Fit (Unisex)",
+      "source": "https://butorausa.com/products/ibex"
+    },
+    "closure": {
+      "value": null
+    },
+    "width": {
+      "value": null
+    },
+    "volume": {
+      "value": "M",
+      "quote": "Low Volume, Regular Volume",
+      "source": "https://butoraeurope.com/product/ibex/"
+    },
+    "asymmetry": {
+      "value": null
+    },
+    "downturn": {
+      "value": null
+    },
+    "stiffness": {
+      "value": 2,
+      "quote": "The Butora IBEX is a soft performance climbing shoe",
+      "source": "https://butorausa.com/products/ibex"
+    },
+    "rubber": {
+      "value": "NEO Fuse 2",
+      "quote": "The soles are equipped with our newest, stickiest rubber- Neo Fuse 2.",
+      "source": "https://butoraeurope.com/product/ibex/"
+    },
+    "uses": {
+      "value": [
+        "bouldering",
+        "slab"
+      ],
+      "quote": "Built for modern bouldering, volume-heavy problems / The Ibex excels at slabs where smearing is critical.",
+      "source": "https://butorausa.com/products/ibex"
+    },
+    "price": {
+      "value": {
+        "amount": 170.0,
+        "currency": "EUR"
+      },
+      "quote": "\"regular_price\":\"17000\"",
+      "source": "https://butoraeurope.com/wp-json/wc/store/v1/products?per_page=100"
+    },
+    "notes": "Uses: 'bouldering' from butorausa.com, 'slab' from butoraeurope.com. US store says 'Narrow Fit (Low Volume) and Wide Fit (High Volume)', EU store says Low/Regular Volume; volume taken from EU. Width null (two fits). 'slightly stronger downturn' is relative, downturn null. Volume M: the model is sold in 'Regular Volume' and 'Low Volume' variants; this row taken as the regular one. Price from the official EU store's WooCommerce Store API (currency_minor_unit 2); the page itself renders the amount via JS."
+  },
+  {
+    "brand": "Butora",
+    "model": "Nix",
+    "url": "https://butoraeurope.com/product/nix/",
+    "gender": {
+      "value": "U",
+      "quote": "Offered in a medium-high volume, unisex fit",
+      "source": "https://butorausa.com/products/nix"
+    },
+    "closure": {
+      "value": "S",
+      "quote": "Comfortable yet precise slipper intended for all-around climbing.",
+      "source": "https://butoraeurope.com/product/nix/"
+    },
+    "width": {
+      "value": null
+    },
+    "volume": {
+      "value": "M",
+      "quote": "Low Volume, Regular Volume",
+      "source": "https://butoraeurope.com/product/nix/"
+    },
+    "asymmetry": {
+      "value": null
+    },
+    "downturn": {
+      "value": 1,
+      "quote": "A slight downturn offers more performance on steep terrain",
+      "source": "https://butorausa.com/products/nix"
+    },
+    "stiffness": {
+      "value": null
+    },
+    "rubber": {
+      "value": "NEO Fuse",
+      "quote": "Outsole- Neo Fuse Rubber for sticky-performance and durability",
+      "source": "https://butoraeurope.com/product/nix/"
+    },
+    "uses": {
+      "value": [
+        "all-round",
+        "crack",
+        "sport",
+        "gym"
+      ],
+      "quote": "durable enough for foot jamming cracks ... at home at your local sport crag, the climbing gym, or Indian Creek",
+      "source": "https://butorausa.com/products/nix"
+    },
+    "price": {
+      "value": {
+        "amount": 99.0,
+        "currency": "EUR"
+      },
+      "quote": "\"regular_price\":\"9900\"",
+      "source": "https://butoraeurope.com/wp-json/wc/store/v1/products?per_page=100"
+    },
+    "notes": "'all-round' from EU page ('slipper intended for all-around climbing'). US page says 'medium-high volume'; EU sells Regular and Low Volume, volume taken from EU. Volume M: the model is sold in 'Regular Volume' and 'Low Volume' variants; this row taken as the regular one. Price from the official EU store's WooCommerce Store API (currency_minor_unit 2); the page itself renders the amount via JS."
+  },
+  {
+    "brand": "Butora",
+    "model": "Rubicon",
+    "url": "https://butoraeurope.com/product/rubicon/",
+    "gender": {
+      "value": "U",
+      "quote": "Offered in a unisex med-high volume fit.",
+      "source": "https://butorausa.com/products/rubicon"
+    },
+    "closure": {
+      "value": "V",
+      "quote": "a slipper-style intermediate climbing shoe with a double-strap closure system",
+      "source": "https://butorausa.com/products/rubicon"
+    },
+    "width": {
+      "value": null
+    },
+    "volume": {
+      "value": "M",
+      "quote": "Low Volume, Regular Volume",
+      "source": "https://butoraeurope.com/product/rubicon/"
+    },
+    "asymmetry": {
+      "value": null
+    },
+    "downturn": {
+      "value": 2,
+      "quote": "a split-sole construction with a moderate downturn",
+      "source": "https://butorausa.com/products/rubicon"
+    },
+    "stiffness": {
+      "value": 2,
+      "quote": "This medium-soft shoe features a rubber-molded midsole",
+      "source": "https://butorausa.com/products/rubicon"
+    },
+    "rubber": {
+      "value": "NEO Fuse",
+      "quote": "Outsole- Neo Fuse Rubber for sticky-performance and durabilit",
+      "source": "https://butoraeurope.com/product/rubicon/"
+    },
+    "uses": {
+      "value": [
+        "all-round",
+        "gym"
+      ],
+      "quote": "all-around climbing precision without sacrificing comfort- whether you are climbing indoor or outdoor",
+      "source": "https://butoraeurope.com/product/rubicon/"
+    },
+    "price": {
+      "value": {
+        "amount": 135.0,
+        "currency": "EUR"
+      },
+      "quote": "\"regular_price\":\"13500\"",
+      "source": "https://butoraeurope.com/wp-json/wc/store/v1/products?per_page=100"
+    },
+    "notes": "Stiffness: 'medium-soft' mapped to 2. US page says 'med-high volume'; volume taken from EU Regular/Low Volume variants. Volume M: the model is sold in 'Regular Volume' and 'Low Volume' variants; this row taken as the regular one. Price from the official EU store's WooCommerce Store API (currency_minor_unit 2); the page itself renders the amount via JS."
+  },
+  {
+    "brand": "Butora",
+    "model": "Sierra",
+    "url": "https://butorausa.com/products/sierra-climbing-shoe",
+    "gender": {
+      "value": "U",
+      "quote": "Unisex medium-high volume fit",
+      "source": "https://butorausa.com/products/sierra-climbing-shoe"
+    },
+    "closure": {
+      "value": "L",
+      "quote": "a medium-stiff, intermediate climbing shoe with a lace closure system",
+      "source": "https://butorausa.com/products/sierra-climbing-shoe"
+    },
+    "width": {
+      "value": null
+    },
+    "volume": {
+      "value": null
+    },
+    "asymmetry": {
+      "value": null
+    },
+    "downturn": {
+      "value": null
+    },
+    "stiffness": {
+      "value": 4,
+      "quote": "The Sierra is a medium-stiff, intermediate climbing shoe",
+      "source": "https://butorausa.com/products/sierra-climbing-shoe"
+    },
+    "rubber": {
+      "value": null
+    },
+    "uses": {
+      "value": null
+    },
+    "price": {
+      "value": {
+        "amount": 149.95,
+        "currency": "USD"
+      },
+      "quote": "\"price\":\"149.95\"",
+      "source": "https://butorausa.com/products/sierra-climbing-shoe.json"
+    },
+    "notes": "Not sold on butoraeurope.com; USD price from butorausa.com. Stiffness 'medium-stiff' mapped to 4. Volume 'medium-high' does not map to one value, left null. Rubber and uses not stated in the description (only product tags)."
+  },
+  {
+    "brand": "Butora",
+    "model": "Endeavor 2.0",
+    "url": "https://butoraeurope.com/product/endeavor/",
+    "gender": {
+      "value": "U",
+      "quote": "Low Volume, Regular Volume",
+      "source": "https://butoraeurope.com/product/endeavor/"
+    },
+    "closure": {
+      "value": "V",
+      "quote": "the innovative triple fork webbing system for custom fitting",
+      "source": "https://butorausa.com/products/endeavor"
+    },
+    "width": {
+      "value": null
+    },
+    "volume": {
+      "value": "M",
+      "quote": "Low Volume, Regular Volume",
+      "source": "https://butoraeurope.com/product/endeavor/"
+    },
+    "asymmetry": {
+      "value": 1,
+      "quote": "The slightly asymmetrical toe shape comfortably follows the natural line of the foot",
+      "source": "https://butorausa.com/products/endeavor"
+    },
+    "downturn": {
+      "value": null
+    },
+    "stiffness": {
+      "value": null
+    },
+    "rubber": {
+      "value": "NEO Fuse",
+      "quote": "Outsole- Neo Fuse Rubber for sticky-performance and durability",
+      "source": "https://butoraeurope.com/product/endeavor/"
+    },
+    "uses": {
+      "value": [
+        "all-round"
+      ],
+      "quote": "The Endeavor is our best selling comfort shoe for all-around climbing.",
+      "source": "https://butoraeurope.com/product/endeavor/"
+    },
+    "price": {
+      "value": {
+        "amount": 105.0,
+        "currency": "EUR"
+      },
+      "quote": "\"regular_price\":\"10500\"",
+      "source": "https://butoraeurope.com/wp-json/wc/store/v1/products?per_page=100"
+    },
+    "notes": "EU store lists it as 'Endeavor', US as 'Endeavor 2.0'. US sells 'Wide Fit' and 'Narrow Fit' colourways, width null. Volume M: the model is sold in 'Regular Volume' and 'Low Volume' variants; this row taken as the regular one. Price from the official EU store's WooCommerce Store API (currency_minor_unit 2); the page itself renders the amount via JS."
+  },
+  {
+    "brand": "Butora",
+    "model": "Komet",
+    "url": "https://butoraeurope.com/product/komet/",
+    "gender": {
+      "value": "U",
+      "quote": "Men 4 | Women 5 | EU 35.5",
+      "source": "https://butorausa.com/products/komet"
+    },
+    "closure": {
+      "value": null
+    },
+    "width": {
+      "value": "W",
+      "quote": "Yellow - Wide Fit",
+      "source": "https://butorausa.com/products/komet"
+    },
+    "volume": {
+      "value": "M",
+      "quote": "Low Volume, Regular Volume",
+      "source": "https://butoraeurope.com/product/komet/"
+    },
+    "asymmetry": {
+      "value": null
+    },
+    "downturn": {
+      "value": 0,
+      "quote": "the Komet features a neutral last shape that allows it to fit feet of all shapes",
+      "source": "https://butorausa.com/products/komet"
+    },
+    "stiffness": {
+      "value": null
+    },
+    "rubber": {
+      "value": "NEO",
+      "quote": "Outsole- Neo Rubber for sticky-performance and durability",
+      "source": "https://butoraeurope.com/product/komet/"
+    },
+    "uses": {
+      "value": [
+        "beginner",
+        "all-round"
+      ],
+      "quote": "The Komet is our entry-level priced, comfort shoe for all-around climbing.",
+      "source": "https://butoraeurope.com/product/komet/"
+    },
+    "price": {
+      "value": {
+        "amount": 85.0,
+        "currency": "EUR"
+      },
+      "quote": "\"regular_price\":\"8500\"",
+      "source": "https://butoraeurope.com/wp-json/wc/store/v1/products?per_page=100"
+    },
+    "notes": "Gender U: single product with combined men's/women's size labels. Downturn 0 from 'neutral last shape' (asymmetry not stated separately). Closure not stated. Volume M: the model is sold in 'Regular Volume' and 'Low Volume' variants; this row taken as the regular one. Price from the official EU store's WooCommerce Store API (currency_minor_unit 2); the page itself renders the amount via JS."
+  },
+  {
+    "brand": "Butora",
+    "model": "Komet Lace",
+    "url": "https://butoraeurope.com/product/komet-lace/",
+    "gender": {
+      "value": "U",
+      "quote": "Low Volume, Regular Volume",
+      "source": "https://butoraeurope.com/product/komet-lace/"
+    },
+    "closure": {
+      "value": "L",
+      "quote": "with a TPU supported lacing system that allows the climber to customize its snugness",
+      "source": "https://butoraeurope.com/product/komet-lace/"
+    },
+    "width": {
+      "value": null
+    },
+    "volume": {
+      "value": "M",
+      "quote": "Low Volume, Regular Volume",
+      "source": "https://butoraeurope.com/product/komet-lace/"
+    },
+    "asymmetry": {
+      "value": null
+    },
+    "downturn": {
+      "value": null
+    },
+    "stiffness": {
+      "value": null
+    },
+    "rubber": {
+      "value": "NEO",
+      "quote": "Outsole- Neo Rubber for sticky-performance and durability",
+      "source": "https://butoraeurope.com/product/komet-lace/"
+    },
+    "uses": {
+      "value": null
+    },
+    "price": {
+      "value": {
+        "amount": 95.0,
+        "currency": "EUR"
+      },
+      "quote": "\"regular_price\":\"9500\"",
+      "source": "https://butoraeurope.com/wp-json/wc/store/v1/products?per_page=100"
+    },
+    "notes": "Not on butorausa.com. Uses not stated beyond 'version of our comfort shoes'. Volume M: the model is sold in 'Regular Volume' and 'Low Volume' variants; this row taken as the regular one. Price from the official EU store's WooCommerce Store API (currency_minor_unit 2); the page itself renders the amount via JS."
+  },
+  {
+    "brand": "Butora",
+    "model": "Advance",
+    "url": "https://butorausa.com/products/advance-1",
+    "gender": {
+      "value": "U",
+      "quote": "Men 4 | Women 5 | EU 35.5",
+      "source": "https://butorausa.com/products/advance-1"
+    },
+    "closure": {
+      "value": "L",
+      "quote": "Lacing with an outer sheet and inner Dyneema-like core for durability",
+      "source": "https://butorausa.com/products/advance-1"
+    },
+    "width": {
+      "value": null
+    },
+    "volume": {
+      "value": null
+    },
+    "asymmetry": {
+      "value": null
+    },
+    "downturn": {
+      "value": null
+    },
+    "stiffness": {
+      "value": null
+    },
+    "rubber": {
+      "value": "NEO",
+      "quote": "4.0 mm Neo Rubber that gives you soft friction you can trust",
+      "source": "https://butorausa.com/products/advance-1"
+    },
+    "uses": {
+      "value": [
+        "all-round",
+        "gym",
+        "multipitch"
+      ],
+      "quote": "an all-around climbing shoe, for both long gym sessions and long multiple pitch afternoons at the crag",
+      "source": "https://butorausa.com/products/advance-1"
+    },
+    "price": {
+      "value": {
+        "amount": 89.95,
+        "currency": "USD"
+      },
+      "quote": "\"price\":\"89.95\"",
+      "source": "https://butorausa.com/products/advance-1.json"
+    },
+    "notes": "Not sold on butoraeurope.com; USD price. 'Asymmetrical shape' given without degree, null. 'Full-length ABS mid-sole' is not a stiffness statement."
+  }
+]

@@ -1,0 +1,1193 @@
+[
+  {
+    "brand": "Boreal",
+    "model": "Ace",
+    "url": "https://europe.borealoutdoor.com/product/ace/",
+    "gender": {
+      "value": "U",
+      "quote": "ACE",
+      "source": "https://europe.borealoutdoor.com/product/ace/"
+    },
+    "closure": {
+      "value": "L",
+      "quote": "Split leather with lace closure for optimum fit",
+      "source": "https://europe.borealoutdoor.com/product/ace/"
+    },
+    "width": {
+      "value": null
+    },
+    "volume": {
+      "value": null
+    },
+    "asymmetry": {
+      "value": null
+    },
+    "downturn": {
+      "value": 1,
+      "quote": "more symmetrical, yet slightly downturned last shape",
+      "source": "https://europe.borealoutdoor.com/product/ace/"
+    },
+    "stiffness": {
+      "value": 4,
+      "quote": "Featuring a stiffer midsole",
+      "source": "https://europe.borealoutdoor.com/product/ace/"
+    },
+    "rubber": {
+      "value": "Zenith Pro",
+      "quote": "BOREAL Zenith Pro® outsole",
+      "source": "https://europe.borealoutdoor.com/product/ace/"
+    },
+    "uses": {
+      "value": [
+        "trad",
+        "crack",
+        "multipitch"
+      ],
+      "quote": "optimised for traditional climbing and cracks ... Multi-pitch and traditional climbing in every kind of rock",
+      "source": "https://europe.borealoutdoor.com/product/ace/"
+    },
+    "price": {
+      "value": {
+        "amount": 134.95,
+        "currency": "EUR"
+      },
+      "quote": "134.95€",
+      "source": "https://europe.borealoutdoor.com/product/ace/"
+    },
+    "notes": "Gender U: only one version listed in the official store. Asymmetry null: page only says 'more symmetrical' (relative). Volume null: 'low volume toe' refers to the toe only. Stiffness 4 from 'stiffer midsole'."
+  },
+  {
+    "brand": "Boreal",
+    "model": "Alpha",
+    "url": "https://europe.borealoutdoor.com/product/alpha/",
+    "gender": {
+      "value": "MW",
+      "quote": "ALPHA WMNS",
+      "source": "https://europe.borealoutdoor.com/product/alpha-wmns/"
+    },
+    "closure": {
+      "value": "V",
+      "quote": "Fast double strap closure system",
+      "source": "https://europe.borealoutdoor.com/product/alpha/"
+    },
+    "width": {
+      "value": null
+    },
+    "volume": {
+      "value": null
+    },
+    "asymmetry": {
+      "value": null
+    },
+    "downturn": {
+      "value": null
+    },
+    "stiffness": {
+      "value": 2,
+      "quote": "Medium-soft midole for greay sensitivity",
+      "source": "https://europe.borealoutdoor.com/product/alpha/"
+    },
+    "rubber": {
+      "value": "Zenith Quattro 2.0",
+      "quote": "BOREAL® Zenith Quattro 2.0 outsole",
+      "source": "https://europe.borealoutdoor.com/product/alpha/"
+    },
+    "uses": {
+      "value": [
+        "beginner",
+        "gym"
+      ],
+      "quote": "time to buy your first climbing shoes ... Particularly suitable for training, indoor climbing and long climbing sessions.",
+      "source": "https://europe.borealoutdoor.com/product/alpha/"
+    },
+    "price": {
+      "value": {
+        "amount": 94.95,
+        "currency": "EUR"
+      },
+      "quote": "94.95€",
+      "source": "https://europe.borealoutdoor.com/product/alpha/"
+    },
+    "notes": "Stiffness: 'Medium-soft' (typos verbatim from page) mapped to 2."
+  },
+  {
+    "brand": "Boreal",
+    "model": "Ballet",
+    "url": "https://europe.borealoutdoor.com/product/ballet/",
+    "gender": {
+      "value": "U",
+      "quote": "BALLET",
+      "source": "https://europe.borealoutdoor.com/product/ballet/"
+    },
+    "closure": {
+      "value": "L",
+      "quote": "Split leather with lace closure for optimum fit",
+      "source": "https://europe.borealoutdoor.com/product/ballet/"
+    },
+    "width": {
+      "value": null
+    },
+    "volume": {
+      "value": null
+    },
+    "asymmetry": {
+      "value": null
+    },
+    "downturn": {
+      "value": 1,
+      "quote": "a mild downturn",
+      "source": "https://europe.borealoutdoor.com/product/ballet/"
+    },
+    "stiffness": {
+      "value": 4,
+      "quote": "stiff midsole",
+      "source": "https://europe.borealoutdoor.com/product/ballet/"
+    },
+    "rubber": {
+      "value": "Zenith Pro",
+      "quote": "BOREAL Zenith Pro® outsole",
+      "source": "https://europe.borealoutdoor.com/product/ballet/"
+    },
+    "uses": {
+      "value": [
+        "multipitch",
+        "trad",
+        "crack"
+      ],
+      "quote": "Multi-pitch and traditional climbing in every kind of rock ... ankle protectionfor crack climbing",
+      "source": "https://europe.borealoutdoor.com/product/ballet/"
+    },
+    "price": {
+      "value": {
+        "amount": 149.95,
+        "currency": "EUR"
+      },
+      "quote": "149.95€",
+      "source": "https://europe.borealoutdoor.com/product/ballet/"
+    },
+    "notes": "Gender U: only one version listed. Asymmetry null: 'relatively symmetrical toe profile' is not a clear grade. Downturn 'mild' mapped to 1."
+  },
+  {
+    "brand": "Boreal",
+    "model": "Beta 2.0",
+    "url": "https://europe.borealoutdoor.com/product/beta-2-0-2026/",
+    "gender": {
+      "value": "U",
+      "quote": "BETA 2.0",
+      "source": "https://europe.borealoutdoor.com/product/beta-2-0-2026/"
+    },
+    "closure": {
+      "value": "V",
+      "quote": "Quick and easy double strap closure system.",
+      "source": "https://europe.borealoutdoor.com/product/beta-2-0-2026/"
+    },
+    "width": {
+      "value": null
+    },
+    "volume": {
+      "value": "M",
+      "quote": "BETA 2.0 LV",
+      "source": "https://europe.borealoutdoor.com/product/beta-2-0-lv/"
+    },
+    "asymmetry": {
+      "value": null
+    },
+    "downturn": {
+      "value": null
+    },
+    "stiffness": {
+      "value": null
+    },
+    "rubber": {
+      "value": "Zenith Quattro",
+      "quote": "BOREAL Zenith Quattro™ outsole",
+      "source": "https://europe.borealoutdoor.com/product/beta-2-0-2026/"
+    },
+    "uses": {
+      "value": [
+        "beginner",
+        "multipitch",
+        "gym"
+      ],
+      "quote": "For beginners, training and multipitch climbing ... newer climbers who predominantly climb on indoor walls",
+      "source": "https://europe.borealoutdoor.com/product/beta-2-0-2026/"
+    },
+    "price": {
+      "value": {
+        "amount": 99.95,
+        "currency": "EUR"
+      },
+      "quote": "99.95€",
+      "source": "https://europe.borealoutdoor.com/product/beta-2-0-2026/"
+    },
+    "notes": "Gender U: no WMNS version listed (LV variant exists). Volume M inferred from the separate LV variant. V-Label badge shown is the European Vegetarian Union logo (image, 'vegetarian or vegan'), so no vegan tag."
+  },
+  {
+    "brand": "Boreal",
+    "model": "Beta 2.0 LV",
+    "url": "https://europe.borealoutdoor.com/product/beta-2-0-lv/",
+    "gender": {
+      "value": "U",
+      "quote": "BETA 2.0 LV",
+      "source": "https://europe.borealoutdoor.com/product/beta-2-0-lv/"
+    },
+    "closure": {
+      "value": "V",
+      "quote": "Quick and easy double strap closure system.",
+      "source": "https://europe.borealoutdoor.com/product/beta-2-0-lv/"
+    },
+    "width": {
+      "value": null
+    },
+    "volume": {
+      "value": "L",
+      "quote": "BETA 2.0 LV",
+      "source": "https://europe.borealoutdoor.com/product/beta-2-0-lv/"
+    },
+    "asymmetry": {
+      "value": null
+    },
+    "downturn": {
+      "value": null
+    },
+    "stiffness": {
+      "value": null
+    },
+    "rubber": {
+      "value": "Zenith Quattro",
+      "quote": "BOREAL Zenith Quattro™ outsole",
+      "source": "https://europe.borealoutdoor.com/product/beta-2-0-lv/"
+    },
+    "uses": {
+      "value": [
+        "beginner",
+        "multipitch",
+        "gym"
+      ],
+      "quote": "For beginners, training and multipitch climbing ... newer climbers who predominantly climb on indoor walls",
+      "source": "https://europe.borealoutdoor.com/product/beta-2-0-lv/"
+    },
+    "price": {
+      "value": {
+        "amount": 99.95,
+        "currency": "EUR"
+      },
+      "quote": "99.95€",
+      "source": "https://europe.borealoutdoor.com/product/beta-2-0-lv/"
+    },
+    "notes": "Gender U: one version. Volume L from 'LV' in the name."
+  },
+  {
+    "brand": "Boreal",
+    "model": "Beta Eco 2.0",
+    "url": "https://europe.borealoutdoor.com/product/beta-eco-2-0/",
+    "gender": {
+      "value": "MW",
+      "quote": "BETA ECO WMNS 2.0",
+      "source": "https://europe.borealoutdoor.com/product/beta-eco-wmns-2-0/"
+    },
+    "closure": {
+      "value": "V",
+      "quote": "with a reinforced double strap closure",
+      "source": "https://europe.borealoutdoor.com/product/beta-eco-2-0/"
+    },
+    "width": {
+      "value": null
+    },
+    "volume": {
+      "value": null
+    },
+    "asymmetry": {
+      "value": null
+    },
+    "downturn": {
+      "value": null
+    },
+    "stiffness": {
+      "value": null
+    },
+    "rubber": {
+      "value": "Zenith Quattro",
+      "quote": "Sticky yet durable Boreal ZENITH Quattro outsole",
+      "source": "https://europe.borealoutdoor.com/product/beta-eco-2-0/"
+    },
+    "uses": {
+      "value": [
+        "beginner",
+        "gym"
+      ],
+      "quote": "For beginners, training and indoor climbing",
+      "source": "https://europe.borealoutdoor.com/product/beta-eco-2-0/"
+    },
+    "price": {
+      "value": {
+        "amount": 99.95,
+        "currency": "EUR"
+      },
+      "quote": "99.95€",
+      "source": "https://europe.borealoutdoor.com/product/beta-eco-2-0/"
+    }
+  },
+  {
+    "brand": "Boreal",
+    "model": "Crux",
+    "url": "https://europe.borealoutdoor.com/product/crux/",
+    "gender": {
+      "value": "MW",
+      "quote": "CRUX WMNS",
+      "source": "https://europe.borealoutdoor.com/product/crux-wmns/"
+    },
+    "closure": {
+      "value": "V",
+      "quote": "Secure double strap closure.",
+      "source": "https://europe.borealoutdoor.com/product/crux/"
+    },
+    "width": {
+      "value": null
+    },
+    "volume": {
+      "value": null
+    },
+    "asymmetry": {
+      "value": null
+    },
+    "downturn": {
+      "value": null
+    },
+    "stiffness": {
+      "value": null
+    },
+    "rubber": {
+      "value": "Zenith Pro 2.0",
+      "quote": "Ultra sticky Boreal ZENITH Pro 2.0 outsole",
+      "source": "https://europe.borealoutdoor.com/product/crux/"
+    },
+    "uses": {
+      "value": [
+        "all-round"
+      ],
+      "quote": "An ideal technical all-round shoe",
+      "source": "https://europe.borealoutdoor.com/product/crux/"
+    },
+    "price": {
+      "value": {
+        "amount": 144.95,
+        "currency": "EUR"
+      },
+      "quote": "144.95€",
+      "source": "https://europe.borealoutdoor.com/product/crux/"
+    },
+    "notes": "Crux page states no shape/fit grades (the Crux Lace page does, not used for this model)."
+  },
+  {
+    "brand": "Boreal",
+    "model": "Crux Lace",
+    "url": "https://europe.borealoutdoor.com/product/crux-lace/",
+    "gender": {
+      "value": "MW",
+      "quote": "CRUX LACE WMNS",
+      "source": "https://europe.borealoutdoor.com/product/crux-lace-wmns/"
+    },
+    "closure": {
+      "value": "L",
+      "quote": "Lace closure for a precise yet comfortable fit.",
+      "source": "https://europe.borealoutdoor.com/product/crux-lace/"
+    },
+    "width": {
+      "value": "M",
+      "quote": "Moderately downturned and asymmetric with a medium last.",
+      "source": "https://europe.borealoutdoor.com/product/crux-lace/"
+    },
+    "volume": {
+      "value": null
+    },
+    "asymmetry": {
+      "value": 2,
+      "quote": "Moderately downturned and asymmetric with a medium last.",
+      "source": "https://europe.borealoutdoor.com/product/crux-lace/"
+    },
+    "downturn": {
+      "value": 2,
+      "quote": "Moderately downturned and asymmetric with a medium last.",
+      "source": "https://europe.borealoutdoor.com/product/crux-lace/"
+    },
+    "stiffness": {
+      "value": null
+    },
+    "rubber": {
+      "value": "Zenith Pro 2.0",
+      "quote": "Ultra sticky Boreal ZENITH Pro 2.0 outsole",
+      "source": "https://europe.borealoutdoor.com/product/crux-lace/"
+    },
+    "uses": {
+      "value": [
+        "all-round"
+      ],
+      "quote": "An ideal technical all-round shoe",
+      "source": "https://europe.borealoutdoor.com/product/crux-lace/"
+    },
+    "price": {
+      "value": {
+        "amount": 144.95,
+        "currency": "EUR"
+      },
+      "quote": "144.95€",
+      "source": "https://europe.borealoutdoor.com/product/crux-lace/"
+    },
+    "notes": "Width M from 'medium last' (could also mean medium aggressiveness; treat as uncertain). 'Moderately' applied to both downturn and asymmetry."
+  },
+  {
+    "brand": "Boreal",
+    "model": "Dharma",
+    "url": "https://europe.borealoutdoor.com/product/dharma/",
+    "gender": {
+      "value": "MW",
+      "quote": "DHARMA WMNS",
+      "source": "https://europe.borealoutdoor.com/product/dharma-wmns/"
+    },
+    "closure": {
+      "value": null
+    },
+    "width": {
+      "value": null
+    },
+    "volume": {
+      "value": null
+    },
+    "asymmetry": {
+      "value": null
+    },
+    "downturn": {
+      "value": null
+    },
+    "stiffness": {
+      "value": null
+    },
+    "rubber": {
+      "value": "Zenith Pro 2.0",
+      "quote": "BOREAL® Zenith PRO 2.0 outsole",
+      "source": "https://europe.borealoutdoor.com/product/dharma/"
+    },
+    "uses": {
+      "value": [
+        "sport",
+        "bouldering",
+        "gym"
+      ],
+      "quote": "Style designed for sport climbing,bouldering and indoor climbing.",
+      "source": "https://europe.borealoutdoor.com/product/dharma/"
+    },
+    "price": {
+      "value": {
+        "amount": 159.95,
+        "currency": "EUR"
+      },
+      "quote": "159.95€",
+      "source": "https://europe.borealoutdoor.com/product/dharma/"
+    },
+    "notes": "Closure not stated on the page (uppers text only mentions materials)."
+  },
+  {
+    "brand": "Boreal",
+    "model": "Indo",
+    "url": "https://europe.borealoutdoor.com/product/indo/",
+    "gender": {
+      "value": "MW",
+      "quote": "INDO WMNS",
+      "source": "https://europe.borealoutdoor.com/product/indo-wmns/"
+    },
+    "closure": {
+      "value": "V",
+      "quote": "Quick closure with 2 straps and a one-piece elasticated opening",
+      "source": "https://europe.borealoutdoor.com/product/indo/"
+    },
+    "width": {
+      "value": null
+    },
+    "volume": {
+      "value": null
+    },
+    "asymmetry": {
+      "value": 2,
+      "quote": "a moderately downturned and asymmetric last shape",
+      "source": "https://europe.borealoutdoor.com/product/indo/"
+    },
+    "downturn": {
+      "value": 2,
+      "quote": "a moderately downturned and asymmetric last shape",
+      "source": "https://europe.borealoutdoor.com/product/indo/"
+    },
+    "stiffness": {
+      "value": 2,
+      "quote": "prioritising sensitivity and flexibility",
+      "source": "https://europe.borealoutdoor.com/product/indo/"
+    },
+    "rubber": {
+      "value": "Zenith Ultra 2.0",
+      "quote": "BOREAL® Zenith ULTRA 2.0 outsole",
+      "source": "https://europe.borealoutdoor.com/product/indo/"
+    },
+    "uses": {
+      "value": [
+        "bouldering"
+      ],
+      "quote": "Designed to be especially suitable for bouldering at a wide range of grades",
+      "source": "https://europe.borealoutdoor.com/product/indo/"
+    },
+    "price": {
+      "value": {
+        "amount": 144.95,
+        "currency": "EUR"
+      },
+      "quote": "144.95€",
+      "source": "https://europe.borealoutdoor.com/product/indo/"
+    },
+    "notes": "Stiffness 2 from 'flexibility' / 'great flexibility'."
+  },
+  {
+    "brand": "Boreal",
+    "model": "Joker",
+    "url": "https://europe.borealoutdoor.com/product/joker/",
+    "gender": {
+      "value": "MW",
+      "quote": "JOKER WMNS",
+      "source": "https://europe.borealoutdoor.com/product/joker-wmns/"
+    },
+    "closure": {
+      "value": "V",
+      "quote": "Double strap closure for a fast yet comfortable fit.",
+      "source": "https://europe.borealoutdoor.com/product/joker/"
+    },
+    "width": {
+      "value": null
+    },
+    "volume": {
+      "value": null
+    },
+    "asymmetry": {
+      "value": null
+    },
+    "downturn": {
+      "value": null
+    },
+    "stiffness": {
+      "value": null
+    },
+    "rubber": {
+      "value": "Zenith Quattro",
+      "quote": "Sticky yet durable Boreal ZENITH Quattro outsole",
+      "source": "https://europe.borealoutdoor.com/product/joker/"
+    },
+    "uses": {
+      "value": [
+        "gym",
+        "multipitch"
+      ],
+      "quote": "Climbing courses, training (indoor and outdoor) and long routes",
+      "source": "https://europe.borealoutdoor.com/product/joker/"
+    },
+    "price": {
+      "value": {
+        "amount": 109.95,
+        "currency": "EUR"
+      },
+      "quote": "109.95€",
+      "source": "https://europe.borealoutdoor.com/product/joker/"
+    },
+    "notes": "'long routes' mapped to multipitch, 'indoor' to gym; 'Climbing courses' not tagged beginner (not explicit)."
+  },
+  {
+    "brand": "Boreal",
+    "model": "Joker Lace",
+    "url": "https://europe.borealoutdoor.com/product/joker-lace/",
+    "gender": {
+      "value": "MW",
+      "quote": "JOKER LACE WMNS",
+      "source": "https://europe.borealoutdoor.com/product/joker-lace-wmns/"
+    },
+    "closure": {
+      "value": "L",
+      "quote": "Long lace system for great fit.",
+      "source": "https://europe.borealoutdoor.com/product/joker-lace/"
+    },
+    "width": {
+      "value": null
+    },
+    "volume": {
+      "value": null
+    },
+    "asymmetry": {
+      "value": null
+    },
+    "downturn": {
+      "value": null
+    },
+    "stiffness": {
+      "value": null
+    },
+    "rubber": {
+      "value": "Zenith Quattro",
+      "quote": "Sticky yet durable Boreal ZENITH Quattro outsole",
+      "source": "https://europe.borealoutdoor.com/product/joker-lace/"
+    },
+    "uses": {
+      "value": [
+        "gym",
+        "multipitch"
+      ],
+      "quote": "Climbing courses, training (indoor and outdoor) and long routes",
+      "source": "https://europe.borealoutdoor.com/product/joker-lace/"
+    },
+    "price": {
+      "value": {
+        "amount": 109.95,
+        "currency": "EUR"
+      },
+      "quote": "109.95€",
+      "source": "https://europe.borealoutdoor.com/product/joker-lace/"
+    },
+    "notes": "'long routes' mapped to multipitch, 'indoor' to gym; 'Climbing courses' not tagged beginner (not explicit)."
+  },
+  {
+    "brand": "Boreal",
+    "model": "Lynx",
+    "url": "https://europe.borealoutdoor.com/product/lynx/",
+    "gender": {
+      "value": "MW",
+      "quote": "LYNX WMNS",
+      "source": "https://europe.borealoutdoor.com/product/lynx-wmns/"
+    },
+    "closure": {
+      "value": "L",
+      "quote": "easily adjustable nylon lace loop system",
+      "source": "https://europe.borealoutdoor.com/product/lynx/"
+    },
+    "width": {
+      "value": null
+    },
+    "volume": {
+      "value": null
+    },
+    "asymmetry": {
+      "value": null
+    },
+    "downturn": {
+      "value": 1,
+      "quote": "Featuring a subtly downturned last shape",
+      "source": "https://europe.borealoutdoor.com/product/lynx/"
+    },
+    "stiffness": {
+      "value": null
+    },
+    "rubber": {
+      "value": "Zenith Pro",
+      "quote": "Ultra sticky BOREAL® Zenith Pro outsole",
+      "source": "https://europe.borealoutdoor.com/product/lynx/"
+    },
+    "uses": {
+      "value": [
+        "bouldering",
+        "competition",
+        "slab",
+        "all-round"
+      ],
+      "quote": "Lynx is the consummate all-rounder ... padding up a friction slab ... ideal for bouldering, hard routes and competition",
+      "source": "https://europe.borealoutdoor.com/product/lynx/"
+    },
+    "price": {
+      "value": {
+        "amount": 149.95,
+        "currency": "EUR"
+      },
+      "quote": "149.95€",
+      "source": "https://europe.borealoutdoor.com/product/lynx/"
+    },
+    "notes": "Downturn 'subtly' mapped to 1. Description says 'Zenith™ rubber', sole spec says Zenith Pro. Store API shows current price 0 (not purchasable); page shows 149.95€."
+  },
+  {
+    "brand": "Boreal",
+    "model": "Mutant 3.0",
+    "url": "https://europe.borealoutdoor.com/product/mutant-3-0/",
+    "gender": {
+      "value": "U",
+      "quote": "MUTANT 3.0",
+      "source": "https://europe.borealoutdoor.com/product/mutant-3-0/"
+    },
+    "closure": {
+      "value": "V",
+      "quote": "Elastic and strap footwrap closure system.",
+      "source": "https://europe.borealoutdoor.com/product/mutant-3-0/"
+    },
+    "width": {
+      "value": null
+    },
+    "volume": {
+      "value": "M",
+      "quote": "MUTANT 3.0 LV",
+      "source": "https://europe.borealoutdoor.com/product/mutant-3-0-lv/"
+    },
+    "asymmetry": {
+      "value": null
+    },
+    "downturn": {
+      "value": null
+    },
+    "stiffness": {
+      "value": null
+    },
+    "rubber": {
+      "value": "Zenith Ultra",
+      "quote": "Ultra sticky BOREAL Zenith Ultra™ outsole",
+      "source": "https://europe.borealoutdoor.com/product/mutant-3-0/"
+    },
+    "uses": {
+      "value": [
+        "bouldering",
+        "sport"
+      ],
+      "quote": "High performance shoe which excels at bouldering or sport climbing.",
+      "source": "https://europe.borealoutdoor.com/product/mutant-3-0/"
+    },
+    "price": {
+      "value": {
+        "amount": 149.95,
+        "currency": "EUR"
+      },
+      "quote": "149.95€",
+      "source": "https://europe.borealoutdoor.com/product/mutant-3-0/"
+    },
+    "notes": "Closure: brand calls it a 'strap slipper hybrid'; recorded as V (strap). Volume M inferred from the LV variant."
+  },
+  {
+    "brand": "Boreal",
+    "model": "Mutant 3.0 LV",
+    "url": "https://europe.borealoutdoor.com/product/mutant-3-0-lv/",
+    "gender": {
+      "value": "U",
+      "quote": "MUTANT 3.0 LV",
+      "source": "https://europe.borealoutdoor.com/product/mutant-3-0-lv/"
+    },
+    "closure": {
+      "value": "V",
+      "quote": "Elastic and strap footwrap closure system.",
+      "source": "https://europe.borealoutdoor.com/product/mutant-3-0-lv/"
+    },
+    "width": {
+      "value": null
+    },
+    "volume": {
+      "value": "L",
+      "quote": "MUTANT 3.0 LV",
+      "source": "https://europe.borealoutdoor.com/product/mutant-3-0-lv/"
+    },
+    "asymmetry": {
+      "value": null
+    },
+    "downturn": {
+      "value": null
+    },
+    "stiffness": {
+      "value": null
+    },
+    "rubber": {
+      "value": "Zenith Ultra",
+      "quote": "Ultra sticky BOREAL Zenith Ultra™ outsole",
+      "source": "https://europe.borealoutdoor.com/product/mutant-3-0-lv/"
+    },
+    "uses": {
+      "value": [
+        "bouldering",
+        "sport"
+      ],
+      "quote": "High performance shoe which excels at bouldering or sport climbing.",
+      "source": "https://europe.borealoutdoor.com/product/mutant-3-0-lv/"
+    },
+    "price": {
+      "value": {
+        "amount": 149.95,
+        "currency": "EUR"
+      },
+      "quote": "149.95€",
+      "source": "https://europe.borealoutdoor.com/product/mutant-3-0-lv/"
+    },
+    "notes": "Closure: brand calls it a 'strap slipper hybrid'; recorded as V (strap)."
+  },
+  {
+    "brand": "Boreal",
+    "model": "Ninja",
+    "url": "https://europe.borealoutdoor.com/product/ninja/",
+    "gender": {
+      "value": "U",
+      "quote": "NINJA",
+      "source": "https://europe.borealoutdoor.com/product/ninja/"
+    },
+    "closure": {
+      "value": "S",
+      "quote": "Elasticated slipper closure, with integrated tongue and central strap",
+      "source": "https://europe.borealoutdoor.com/product/ninja/"
+    },
+    "width": {
+      "value": null
+    },
+    "volume": {
+      "value": null
+    },
+    "asymmetry": {
+      "value": null
+    },
+    "downturn": {
+      "value": 3,
+      "quote": "With an aggressive downturned profile",
+      "source": "https://europe.borealoutdoor.com/product/ninja/"
+    },
+    "stiffness": {
+      "value": null
+    },
+    "rubber": {
+      "value": "Zenith Ultra",
+      "quote": "Ultra sticky Boreal® Zenith Ultra outsole",
+      "source": "https://europe.borealoutdoor.com/product/ninja/"
+    },
+    "uses": {
+      "value": [
+        "bouldering",
+        "gym"
+      ],
+      "quote": "Model designed especially for bouldering and climbing indoors",
+      "source": "https://europe.borealoutdoor.com/product/ninja/"
+    },
+    "price": {
+      "value": {
+        "amount": 119.95,
+        "currency": "EUR"
+      },
+      "quote": "119.95€",
+      "source": "https://europe.borealoutdoor.com/product/ninja/"
+    }
+  },
+  {
+    "brand": "Boreal",
+    "model": "Nodab V7",
+    "url": "https://europe.borealoutdoor.com/product/nodab-v7/",
+    "gender": {
+      "value": "U",
+      "quote": "NODAB V7",
+      "source": "https://europe.borealoutdoor.com/product/nodab-v7/"
+    },
+    "closure": {
+      "value": "V",
+      "quote": "Quick fastening clousure with top strap and elasticated tongue.",
+      "source": "https://europe.borealoutdoor.com/product/nodab-v7/"
+    },
+    "width": {
+      "value": null
+    },
+    "volume": {
+      "value": "M",
+      "quote": "NODAB V7 LV",
+      "source": "https://europe.borealoutdoor.com/product/nodab-v7-lv/"
+    },
+    "asymmetry": {
+      "value": null
+    },
+    "downturn": {
+      "value": null
+    },
+    "stiffness": {
+      "value": 2,
+      "quote": "supple midsole",
+      "source": "https://europe.borealoutdoor.com/product/nodab-v7/"
+    },
+    "rubber": {
+      "value": "Zenith Quattro 2.0",
+      "quote": "Ultra sticky Boreal ZENITH Quattro 2.0 outsole",
+      "source": "https://europe.borealoutdoor.com/product/nodab-v7/"
+    },
+    "uses": {
+      "value": [
+        "gym",
+        "bouldering"
+      ],
+      "quote": "Modern indoor climbing: training, tecnnital bouldering, volume and intensive sessions.",
+      "source": "https://europe.borealoutdoor.com/product/nodab-v7/"
+    },
+    "price": {
+      "value": {
+        "amount": 109.95,
+        "currency": "EUR"
+      },
+      "quote": "109.95€",
+      "source": "https://europe.borealoutdoor.com/product/nodab-v7/"
+    },
+    "notes": "Volume M inferred from the LV variant. Stiffness 'supple' mapped to 2."
+  },
+  {
+    "brand": "Boreal",
+    "model": "Nodab V7 LV",
+    "url": "https://europe.borealoutdoor.com/product/nodab-v7-lv/",
+    "gender": {
+      "value": "U",
+      "quote": "NODAB V7 LV",
+      "source": "https://europe.borealoutdoor.com/product/nodab-v7-lv/"
+    },
+    "closure": {
+      "value": "V",
+      "quote": "Quick fastening clousure with top strap and elasticated tongue.",
+      "source": "https://europe.borealoutdoor.com/product/nodab-v7-lv/"
+    },
+    "width": {
+      "value": null
+    },
+    "volume": {
+      "value": "L",
+      "quote": "NODAB V7 LV",
+      "source": "https://europe.borealoutdoor.com/product/nodab-v7-lv/"
+    },
+    "asymmetry": {
+      "value": null
+    },
+    "downturn": {
+      "value": null
+    },
+    "stiffness": {
+      "value": 2,
+      "quote": "supple midsole",
+      "source": "https://europe.borealoutdoor.com/product/nodab-v7-lv/"
+    },
+    "rubber": {
+      "value": "Zenith Quattro 2.0",
+      "quote": "Ultra sticky Boreal ZENITH Quattro 2.0 outsole",
+      "source": "https://europe.borealoutdoor.com/product/nodab-v7-lv/"
+    },
+    "uses": {
+      "value": [
+        "gym",
+        "bouldering"
+      ],
+      "quote": "Modern indoor climbing: training, tecnnital bouldering, volume and intensive sessions.",
+      "source": "https://europe.borealoutdoor.com/product/nodab-v7-lv/"
+    },
+    "price": {
+      "value": {
+        "amount": 109.95,
+        "currency": "EUR"
+      },
+      "quote": "109.95€",
+      "source": "https://europe.borealoutdoor.com/product/nodab-v7-lv/"
+    },
+    "notes": "Stiffness 'supple' mapped to 2."
+  },
+  {
+    "brand": "Boreal",
+    "model": "Satori",
+    "url": "https://europe.borealoutdoor.com/product/satori/",
+    "gender": {
+      "value": "MW",
+      "quote": "SATORI WMNS",
+      "source": "https://europe.borealoutdoor.com/product/satori-wmns/"
+    },
+    "closure": {
+      "value": "V",
+      "quote": "Synthetic microfiber upper with strap closure system.",
+      "source": "https://europe.borealoutdoor.com/product/satori/"
+    },
+    "width": {
+      "value": null
+    },
+    "volume": {
+      "value": null
+    },
+    "asymmetry": {
+      "value": null
+    },
+    "downturn": {
+      "value": null
+    },
+    "stiffness": {
+      "value": null
+    },
+    "rubber": {
+      "value": "Zenith Ultra 2.0",
+      "quote": "BOREAL® Zenith Ultra 2.0 rubber compound.",
+      "source": "https://europe.borealoutdoor.com/product/satori/"
+    },
+    "uses": {
+      "value": [
+        "sport",
+        "bouldering",
+        "competition",
+        "gym"
+      ],
+      "quote": "High grade sport climbing, bouldering and competitions. Indoor and outdoor.",
+      "source": "https://europe.borealoutdoor.com/product/satori/"
+    },
+    "price": {
+      "value": {
+        "amount": 159.95,
+        "currency": "EUR"
+      },
+      "quote": "159.95€",
+      "source": "https://europe.borealoutdoor.com/product/satori/"
+    }
+  },
+  {
+    "brand": "Boreal",
+    "model": "Silex",
+    "url": "https://europe.borealoutdoor.com/product/silex/",
+    "gender": {
+      "value": "MW",
+      "quote": "SILEX WMNS",
+      "source": "https://europe.borealoutdoor.com/product/silex-wmns/"
+    },
+    "closure": {
+      "value": "V",
+      "quote": "Strap closure for a fast yet comfortable fit",
+      "source": "https://europe.borealoutdoor.com/product/silex/"
+    },
+    "width": {
+      "value": null
+    },
+    "volume": {
+      "value": null
+    },
+    "asymmetry": {
+      "value": null
+    },
+    "downturn": {
+      "value": null
+    },
+    "stiffness": {
+      "value": 4,
+      "quote": "A stiff and supportive shoe with superior comfort and breathability.",
+      "source": "https://europe.borealoutdoor.com/product/silex/"
+    },
+    "rubber": {
+      "value": "Zenith Quattro",
+      "quote": "Sticky yet durable Boreal ZENITH Quattro outsole",
+      "source": "https://europe.borealoutdoor.com/product/silex/"
+    },
+    "uses": {
+      "value": [
+        "multipitch",
+        "gym"
+      ],
+      "quote": "Designed for day long use indoors or outdoors. Perfect for long crag days, multi-pitch climbs",
+      "source": "https://europe.borealoutdoor.com/product/silex/"
+    },
+    "price": {
+      "value": {
+        "amount": 119.95,
+        "currency": "EUR"
+      },
+      "quote": "119.95€",
+      "source": "https://europe.borealoutdoor.com/product/silex/"
+    }
+  },
+  {
+    "brand": "Boreal",
+    "model": "Silex Lace",
+    "url": "https://europe.borealoutdoor.com/product/silex-lace/",
+    "gender": {
+      "value": "MW",
+      "quote": "SILEX LACE WMNS",
+      "source": "https://europe.borealoutdoor.com/product/silex-lace-wmns/"
+    },
+    "closure": {
+      "value": "L",
+      "quote": "Lace closure for a precise yet comfortable fit",
+      "source": "https://europe.borealoutdoor.com/product/silex-lace/"
+    },
+    "width": {
+      "value": null
+    },
+    "volume": {
+      "value": null
+    },
+    "asymmetry": {
+      "value": null
+    },
+    "downturn": {
+      "value": null
+    },
+    "stiffness": {
+      "value": null
+    },
+    "rubber": {
+      "value": "Zenith Quattro",
+      "quote": "Sticky yet durable Boreal ZENITH Quattro outsole",
+      "source": "https://europe.borealoutdoor.com/product/silex-lace/"
+    },
+    "uses": {
+      "value": [
+        "multipitch",
+        "gym"
+      ],
+      "quote": "Designed for day long use indoors or outdoors. Perfect for long crag days, multi-pitch climbs",
+      "source": "https://europe.borealoutdoor.com/product/silex-lace/"
+    },
+    "price": {
+      "value": {
+        "amount": 119.95,
+        "currency": "EUR"
+      },
+      "quote": "119.95€",
+      "source": "https://europe.borealoutdoor.com/product/silex-lace/"
+    },
+    "notes": "Silex Lace page has no stiffness statement (the Silex strap page does)."
+  },
+  {
+    "brand": "Boreal",
+    "model": "Synergy 2.0",
+    "url": "https://europe.borealoutdoor.com/product/synergy-2-0/",
+    "gender": {
+      "value": "U",
+      "quote": "SYNERGY 2.0",
+      "source": "https://europe.borealoutdoor.com/product/synergy-2-0/"
+    },
+    "closure": {
+      "value": "V",
+      "quote": "Quick closure with 1 strap.",
+      "source": "https://europe.borealoutdoor.com/product/synergy-2-0/"
+    },
+    "width": {
+      "value": null
+    },
+    "volume": {
+      "value": null
+    },
+    "asymmetry": {
+      "value": null
+    },
+    "downturn": {
+      "value": null
+    },
+    "stiffness": {
+      "value": 2,
+      "quote": "Single strap for heel security with excellent flexibility.",
+      "source": "https://europe.borealoutdoor.com/product/synergy-2-0/"
+    },
+    "rubber": {
+      "value": "Zenith Ultra",
+      "quote": "Ultra sticky BOREAL Zenith Ultra™ outsole",
+      "source": "https://europe.borealoutdoor.com/product/synergy-2-0/"
+    },
+    "uses": {
+      "value": [
+        "bouldering",
+        "competition",
+        "gym"
+      ],
+      "quote": "Bouldering, competitions and steeply overhanging rock ... on any bloc, both indoor or on rock",
+      "source": "https://europe.borealoutdoor.com/product/synergy-2-0/"
+    },
+    "price": {
+      "value": {
+        "amount": 169.95,
+        "currency": "EUR"
+      },
+      "quote": "169.95€",
+      "source": "https://europe.borealoutdoor.com/product/synergy-2-0/"
+    },
+    "notes": "'highly aggressive last shape' not split into asymmetry/downturn, left null. Stiffness 2 from 'excellent flexibility' (page also lists Midsole: No)."
+  }
+]

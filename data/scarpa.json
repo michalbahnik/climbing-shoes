@@ -1,0 +1,1865 @@
+[
+  {
+    "brand": "Scarpa",
+    "model": "Blackbird",
+    "url": "https://scarpa.com/products/blackbird-our-first-carbon-midsole-climbing-shoe-70086-000-1",
+    "gender": {
+      "value": "U",
+      "quote": "Blackbird",
+      "source": "https://scarpa.com/collections/climbing-shoes"
+    },
+    "closure": {
+      "value": "L",
+      "quote": "LACING Z-Cord System is stitched and integrated with the upper",
+      "source": "https://scarpa.com/products/blackbird-our-first-carbon-midsole-climbing-shoe-70086-000-1"
+    },
+    "width": {
+      "value": "N",
+      "quote": "CLASSIC / NARROW",
+      "source": "https://scarpa.com/cdn/shop/files/Classic-Narrow.jpg"
+    },
+    "volume": {
+      "value": null
+    },
+    "asymmetry": {
+      "value": null
+    },
+    "downturn": {
+      "value": null
+    },
+    "stiffness": {
+      "value": null
+    },
+    "rubber": {
+      "value": "Vibram XS Grip2",
+      "quote": "The Vibram® XS Grip 2 sole, covering approximately one third of the shoe’s length",
+      "source": "https://scarpa.com/products/blackbird-our-first-carbon-midsole-climbing-shoe-70086-000-1"
+    },
+    "uses": {
+      "value": [
+        "sport",
+        "multipitch",
+        "bouldering"
+      ],
+      "quote": "USE Outdoor sport climbing, multipitch and bouldering.",
+      "source": "https://scarpa.com/products/blackbird-our-first-carbon-midsole-climbing-shoe-70086-000-1"
+    },
+    "price": {
+      "value": {
+        "amount": 250.0,
+        "currency": "EUR"
+      },
+      "quote": "€250,00",
+      "source": "https://scarpa.com/products/blackbird-our-first-carbon-midsole-climbing-shoe-70086-000-1"
+    },
+    "notes": "Closure is Z-Cord lacing plus a feather-shaped strap ('A customizable feather-shaped strap closure completes the system'); recorded as L. Width read from the 'Fitting Specs' icon image (Classic-Narrow.jpg). Gender U: only one version of this model on the official store (no Woman variant in the climbing-shoes collection)."
+  },
+  {
+    "brand": "Scarpa",
+    "model": "Furia Air",
+    "url": "https://scarpa.com/products/furia-air-lightweight-precision-70007-000-1",
+    "gender": {
+      "value": "U",
+      "quote": "Furia Air",
+      "source": "https://scarpa.com/collections/climbing-shoes"
+    },
+    "closure": {
+      "value": "V",
+      "quote": "The redesigned V-strap closure",
+      "source": "https://scarpa.com/products/furia-air-lightweight-precision-70007-000-1"
+    },
+    "width": {
+      "value": "N",
+      "quote": "CLASSIC / NARROW",
+      "source": "https://scarpa.com/cdn/shop/files/Classic-Narrow.jpg"
+    },
+    "volume": {
+      "value": null
+    },
+    "asymmetry": {
+      "value": null
+    },
+    "downturn": {
+      "value": null
+    },
+    "stiffness": {
+      "value": null
+    },
+    "rubber": {
+      "value": "Vibram XS Grip2",
+      "quote": "Vibram XS Grip2 sole, 3 mm thickness",
+      "source": "https://scarpa.com/products/furia-air-lightweight-precision-70007-000-1"
+    },
+    "uses": {
+      "value": [
+        "bouldering",
+        "gym"
+      ],
+      "quote": "Designed for bouldering as well as indoor and outdoor climbing",
+      "source": "https://scarpa.com/products/furia-air-lightweight-precision-70007-000-1"
+    },
+    "price": {
+      "value": {
+        "amount": 179.95,
+        "currency": "EUR"
+      },
+      "quote": "€179,95",
+      "source": "https://scarpa.com/products/furia-air-lightweight-precision-70007-000-1"
+    },
+    "notes": "Page says 'slightly less asymmetric' (relative to predecessor), not a level; asymmetry left null. Width read from the 'Fitting Specs' icon image (Classic-Narrow.jpg). Gender U: only one version of this model on the official store (no Woman variant in the climbing-shoes collection)."
+  },
+  {
+    "brand": "Scarpa",
+    "model": "Drago XT",
+    "url": "https://scarpa.com/products/drago-xt-maximum-toe-precision-70091-000-1",
+    "gender": {
+      "value": "U",
+      "quote": "Drago XT",
+      "source": "https://scarpa.com/collections/climbing-shoes"
+    },
+    "closure": {
+      "value": "V",
+      "quote": "featuring a dual Velcro closure",
+      "source": "https://scarpa.com/products/drago-xt-maximum-toe-precision-70091-000-1"
+    },
+    "width": {
+      "value": "N",
+      "quote": "CLASSIC / NARROW",
+      "source": "https://scarpa.com/cdn/shop/files/Classic-Narrow.jpg"
+    },
+    "volume": {
+      "value": null
+    },
+    "asymmetry": {
+      "value": null
+    },
+    "downturn": {
+      "value": null
+    },
+    "stiffness": {
+      "value": 2,
+      "quote": "Soft Line models: Chimera, Drago and Furia S",
+      "source": "https://scarpa.com/products/drago-xt-maximum-toe-precision-70091-000-1"
+    },
+    "rubber": {
+      "value": "Vibram XS Grip2",
+      "quote": "SOLE Vibram® XS Grip 2 covering 1/3 of the length",
+      "source": "https://scarpa.com/products/drago-xt-maximum-toe-precision-70091-000-1"
+    },
+    "uses": {
+      "value": [
+        "bouldering"
+      ],
+      "quote": "USE PRECISE CLIMBING OR BOULDERING",
+      "source": "https://scarpa.com/products/drago-xt-maximum-toe-precision-70091-000-1"
+    },
+    "price": {
+      "value": {
+        "amount": 179.95,
+        "currency": "EUR"
+      },
+      "quote": "€179,95",
+      "source": "https://scarpa.com/products/drago-xt-maximum-toe-precision-70091-000-1"
+    },
+    "notes": "Stiffness 2 (soft): page's SRT text names Drago a 'Soft Line' model ('Using soft shoes like these'); Drago XT is 'the latest addition to the Drago family'. Width read from the 'Fitting Specs' icon image (Classic-Narrow.jpg). Gender U: only one version of this model on the official store (no Woman variant in the climbing-shoes collection)."
+  },
+  {
+    "brand": "Scarpa",
+    "model": "Drago",
+    "url": "https://scarpa.com/products/drago-all-hooking-possibilities-70017-000-1",
+    "gender": {
+      "value": "U",
+      "quote": "Drago",
+      "source": "https://scarpa.com/collections/climbing-shoes"
+    },
+    "closure": {
+      "value": "S",
+      "quote": "Drago is the ultimate sensitive slipper",
+      "source": "https://scarpa.com/products/drago-all-hooking-possibilities-70017-000-1"
+    },
+    "width": {
+      "value": "N",
+      "quote": "CLASSIC / NARROW",
+      "source": "https://scarpa.com/cdn/shop/files/Classic-Narrow.jpg"
+    },
+    "volume": {
+      "value": "M",
+      "quote": "Drago LV",
+      "source": "https://scarpa.com/products/drago-lv-low-volume-and-all-hooking-possibilities-70029-000-2"
+    },
+    "asymmetry": {
+      "value": null
+    },
+    "downturn": {
+      "value": null
+    },
+    "stiffness": {
+      "value": 2,
+      "quote": "Soft Line models: Chimera, Drago and Furia S",
+      "source": "https://scarpa.com/products/drago-all-hooking-possibilities-70017-000-1"
+    },
+    "rubber": {
+      "value": "Vibram XS Grip2",
+      "quote": "SOLE Vibram® XS GRIP 2 spread over 1/3 of the length",
+      "source": "https://scarpa.com/products/drago-all-hooking-possibilities-70017-000-1"
+    },
+    "uses": {
+      "value": [
+        "sport",
+        "bouldering"
+      ],
+      "quote": "USE SPORT CLIMBING AND BOULDERING",
+      "source": "https://scarpa.com/products/drago-all-hooking-possibilities-70017-000-1"
+    },
+    "price": {
+      "value": {
+        "amount": 174.95,
+        "currency": "EUR"
+      },
+      "quote": "€174,95",
+      "source": "https://scarpa.com/products/drago-all-hooking-possibilities-70017-000-1"
+    },
+    "notes": "Slipper with Velcro strap, called a slipper -> S. 'asymmetrical and downturned shape' has no degree word; asymmetry/downturn null. Stiffness 2 from 'Soft Line ... Using soft shoes like these'. Volume M because Drago LV exists. Width read from the 'Fitting Specs' icon image (Classic-Narrow.jpg). Gender U: only one version of this model on the official store (no Woman variant in the climbing-shoes collection)."
+  },
+  {
+    "brand": "Scarpa",
+    "model": "Drago LV",
+    "url": "https://scarpa.com/products/drago-lv-low-volume-and-all-hooking-possibilities-70029-000-2",
+    "gender": {
+      "value": "U",
+      "quote": "Drago LV",
+      "source": "https://scarpa.com/collections/climbing-shoes"
+    },
+    "closure": {
+      "value": "S",
+      "quote": "Drago LV is the ultimate sensitive slipper",
+      "source": "https://scarpa.com/products/drago-lv-low-volume-and-all-hooking-possibilities-70029-000-2"
+    },
+    "width": {
+      "value": "N",
+      "quote": "CLASSIC / NARROW",
+      "source": "https://scarpa.com/cdn/shop/files/Classic-Narrow.jpg"
+    },
+    "volume": {
+      "value": "L",
+      "quote": "Reduced volume with an asymmetrical and downturned shape",
+      "source": "https://scarpa.com/products/drago-lv-low-volume-and-all-hooking-possibilities-70029-000-2"
+    },
+    "asymmetry": {
+      "value": null
+    },
+    "downturn": {
+      "value": null
+    },
+    "stiffness": {
+      "value": 2,
+      "quote": "Soft Line models: Chimera, Drago and Furia S",
+      "source": "https://scarpa.com/products/drago-lv-low-volume-and-all-hooking-possibilities-70029-000-2"
+    },
+    "rubber": {
+      "value": "Vibram XS Grip2",
+      "quote": "SOLE Vibram® XS GRIP 2 spread over 1/3 of the length",
+      "source": "https://scarpa.com/products/drago-lv-low-volume-and-all-hooking-possibilities-70029-000-2"
+    },
+    "uses": {
+      "value": [
+        "sport",
+        "bouldering"
+      ],
+      "quote": "USE SPORT CLIMBING AND BOULDERING",
+      "source": "https://scarpa.com/products/drago-lv-low-volume-and-all-hooking-possibilities-70029-000-2"
+    },
+    "price": {
+      "value": {
+        "amount": 174.95,
+        "currency": "EUR"
+      },
+      "quote": "€174,95",
+      "source": "https://scarpa.com/products/drago-lv-low-volume-and-all-hooking-possibilities-70029-000-2"
+    },
+    "notes": "Asymmetry/downturn unqualified ('asymmetrical and downturned') -> null. Stiffness 2 from Soft Line text. Width read from the 'Fitting Specs' icon image (Classic-Narrow.jpg). Gender U: only one version of this model on the official store (no Woman variant in the climbing-shoes collection)."
+  },
+  {
+    "brand": "Scarpa",
+    "model": "Instinct VSR",
+    "url": "https://scarpa.com/products/instinct-vsr-sensitivity-and-aggressive-hooking-70015-000-1",
+    "gender": {
+      "value": "U",
+      "quote": "Instinct VSR",
+      "source": "https://scarpa.com/collections/climbing-shoes"
+    },
+    "closure": {
+      "value": null
+    },
+    "width": {
+      "value": "W",
+      "quote": "CENTRE / WIDE",
+      "source": "https://scarpa.com/cdn/shop/files/Centre_Wide_2c6b09b2-a83b-4438-a7f9-3eb8f4fb4861.jpg"
+    },
+    "volume": {
+      "value": "M",
+      "quote": "Instinct VSR LV",
+      "source": "https://scarpa.com/products/instinct-vsr-lv-sensitivity-low-volume-and-aggressive-hooking-70092-000-1"
+    },
+    "asymmetry": {
+      "value": 1,
+      "quote": "featuring a slightly asymmetrical, downturned shape",
+      "source": "https://scarpa.com/products/instinct-vsr-sensitivity-and-aggressive-hooking-70015-000-1"
+    },
+    "downturn": {
+      "value": null
+    },
+    "stiffness": {
+      "value": null
+    },
+    "rubber": {
+      "value": "Vibram XS Grip2",
+      "quote": "SOLE Vibram® XS GRIP 2 spread over half the length",
+      "source": "https://scarpa.com/products/instinct-vsr-sensitivity-and-aggressive-hooking-70015-000-1"
+    },
+    "uses": {
+      "value": [
+        "sport",
+        "bouldering",
+        "gym"
+      ],
+      "quote": "USE SPORT CLIMBING, BOULDERING & INDOOR CLIMBING",
+      "source": "https://scarpa.com/products/instinct-vsr-sensitivity-and-aggressive-hooking-70015-000-1"
+    },
+    "price": {
+      "value": {
+        "amount": 179.95,
+        "currency": "EUR"
+      },
+      "quote": "€179,95",
+      "source": "https://scarpa.com/products/instinct-vsr-sensitivity-and-aggressive-hooking-70015-000-1"
+    },
+    "notes": "Closure not stated in page text. Downturn unqualified -> null. Volume M because Instinct VSR LV exists. Width read from the 'Fitting Specs' icon image (Centre_Wide_2c6b09b2-a83b-4438-a7f9-3eb8f4fb4861.jpg). Gender U: only one version of this model on the official store (no Woman variant in the climbing-shoes collection). Base-size price used; largest sizes cost EUR 189.95."
+  },
+  {
+    "brand": "Scarpa",
+    "model": "Instinct VSR LV",
+    "url": "https://scarpa.com/products/instinct-vsr-lv-sensitivity-low-volume-and-aggressive-hooking-70092-000-1",
+    "gender": {
+      "value": "U",
+      "quote": "Instinct VSR LV",
+      "source": "https://scarpa.com/collections/climbing-shoes"
+    },
+    "closure": {
+      "value": null
+    },
+    "width": {
+      "value": "N",
+      "quote": "CENTRE / NARROW",
+      "source": "https://scarpa.com/cdn/shop/files/Centre_Narrow.jpg"
+    },
+    "volume": {
+      "value": "L",
+      "quote": "Built for experts who prefer a lower volume and slimmer heel",
+      "source": "https://scarpa.com/products/instinct-vsr-lv-sensitivity-low-volume-and-aggressive-hooking-70092-000-1"
+    },
+    "asymmetry": {
+      "value": null
+    },
+    "downturn": {
+      "value": null
+    },
+    "stiffness": {
+      "value": null
+    },
+    "rubber": {
+      "value": "Vibram XS Grip2",
+      "quote": "SOLE Vibram® XS GRIP 2 spread over half the length",
+      "source": "https://scarpa.com/products/instinct-vsr-lv-sensitivity-low-volume-and-aggressive-hooking-70092-000-1"
+    },
+    "uses": {
+      "value": [
+        "sport",
+        "bouldering",
+        "gym"
+      ],
+      "quote": "USE SPORT CLIMBING, BOULDERING & INDOOR CLIMBING",
+      "source": "https://scarpa.com/products/instinct-vsr-lv-sensitivity-low-volume-and-aggressive-hooking-70092-000-1"
+    },
+    "price": {
+      "value": {
+        "amount": 179.95,
+        "currency": "EUR"
+      },
+      "quote": "€179,95",
+      "source": "https://scarpa.com/products/instinct-vsr-lv-sensitivity-low-volume-and-aggressive-hooking-70092-000-1"
+    },
+    "notes": "Closure not stated in page text. Asymmetry/downturn not stated. 'the softest and narrowest of the INSTINCT family' is relative; stiffness null. Width read from the 'Fitting Specs' icon image (Centre_Narrow.jpg). Gender U: only one version of this model on the official store (no Woman variant in the climbing-shoes collection)."
+  },
+  {
+    "brand": "Scarpa",
+    "model": "Instinct VS",
+    "url": "https://scarpa.com/products/instinct-vs-precision-and-aggressive-hooking-70013-000-1",
+    "gender": {
+      "value": "M",
+      "quote": "Instinct VS Woman",
+      "source": "https://scarpa.com/products/instinct-vs-woman-precision-and-aggressive-hooking-70013-002-1"
+    },
+    "closure": {
+      "value": null
+    },
+    "width": {
+      "value": "W",
+      "quote": "CENTRE / WIDE",
+      "source": "https://scarpa.com/cdn/shop/files/Centre_Wide_2c6b09b2-a83b-4438-a7f9-3eb8f4fb4861.jpg"
+    },
+    "volume": {
+      "value": null
+    },
+    "asymmetry": {
+      "value": 1,
+      "quote": "slightly asymmetrical, downturned shape",
+      "source": "https://scarpa.com/products/instinct-vs-precision-and-aggressive-hooking-70013-000-1"
+    },
+    "downturn": {
+      "value": null
+    },
+    "stiffness": {
+      "value": null
+    },
+    "rubber": {
+      "value": "Vibram XS Edge",
+      "quote": "SOLE Vibram® XS EDGE spread over half the length",
+      "source": "https://scarpa.com/products/instinct-vs-precision-and-aggressive-hooking-70013-000-1"
+    },
+    "uses": {
+      "value": [
+        "sport",
+        "bouldering"
+      ],
+      "quote": "USE SPORT CLIMBING AND BOULDERING",
+      "source": "https://scarpa.com/products/instinct-vs-precision-and-aggressive-hooking-70013-000-1"
+    },
+    "price": {
+      "value": {
+        "amount": 179.95,
+        "currency": "EUR"
+      },
+      "quote": "€179,95",
+      "source": "https://scarpa.com/products/instinct-vs-precision-and-aggressive-hooking-70013-000-1"
+    },
+    "notes": "Men's product: separate 'Instinct VS Woman' exists; this one is listed only under Men's Climbing Shoes. Closure not stated in page text. Downturn unqualified -> null. Width read from the 'Fitting Specs' icon image (Centre_Wide_2c6b09b2-a83b-4438-a7f9-3eb8f4fb4861.jpg). Base-size price used; largest sizes cost EUR 189.95."
+  },
+  {
+    "brand": "Scarpa",
+    "model": "Instinct VS Woman",
+    "url": "https://scarpa.com/products/instinct-vs-woman-precision-and-aggressive-hooking-70013-002-1",
+    "gender": {
+      "value": "W",
+      "quote": "Instinct VS Woman",
+      "source": "https://scarpa.com/products/instinct-vs-woman-precision-and-aggressive-hooking-70013-002-1"
+    },
+    "closure": {
+      "value": null
+    },
+    "width": {
+      "value": "M",
+      "quote": "CENTRE / MEDIUM",
+      "source": "https://scarpa.com/cdn/shop/files/Centre_Medium_3fb7106b-7e9c-4449-922f-b3bf5f478dff.jpg"
+    },
+    "volume": {
+      "value": null
+    },
+    "asymmetry": {
+      "value": 1,
+      "quote": "slightly asymmetrical, downturned shape",
+      "source": "https://scarpa.com/products/instinct-vs-woman-precision-and-aggressive-hooking-70013-002-1"
+    },
+    "downturn": {
+      "value": null
+    },
+    "stiffness": {
+      "value": null
+    },
+    "rubber": {
+      "value": "Vibram XS Grip2",
+      "quote": "SOLE Vibram® XS Grip 2 with 2 mm thickness",
+      "source": "https://scarpa.com/products/instinct-vs-woman-precision-and-aggressive-hooking-70013-002-1"
+    },
+    "uses": {
+      "value": [
+        "sport",
+        "bouldering"
+      ],
+      "quote": "USE SPORT CLIMBING AND BOULDERING",
+      "source": "https://scarpa.com/products/instinct-vs-woman-precision-and-aggressive-hooking-70013-002-1"
+    },
+    "price": {
+      "value": {
+        "amount": 179.95,
+        "currency": "EUR"
+      },
+      "quote": "€179,95",
+      "source": "https://scarpa.com/products/instinct-vs-woman-precision-and-aggressive-hooking-70013-002-1"
+    },
+    "notes": "Closure not stated in page text. Downturn unqualified -> null. Width read from the 'Fitting Specs' icon image (Centre_Medium_3fb7106b-7e9c-4449-922f-b3bf5f478dff.jpg)."
+  },
+  {
+    "brand": "Scarpa",
+    "model": "Instinct S",
+    "url": "https://scarpa.com/products/instinct-s-precision-and-aggressive-hooking-70039-000-1",
+    "gender": {
+      "value": "U",
+      "quote": "Instinct S",
+      "source": "https://scarpa.com/collections/climbing-shoes"
+    },
+    "closure": {
+      "value": "S",
+      "quote": "It is a slipper with extra toe power",
+      "source": "https://scarpa.com/products/instinct-s-precision-and-aggressive-hooking-70039-000-1"
+    },
+    "width": {
+      "value": "M",
+      "quote": "CENTRE / MEDIUM",
+      "source": "https://scarpa.com/cdn/shop/files/Centre_Medium_3fb7106b-7e9c-4449-922f-b3bf5f478dff.jpg"
+    },
+    "volume": {
+      "value": null
+    },
+    "asymmetry": {
+      "value": 1,
+      "quote": "Featuring a slightly asymmetrical, downturned shape",
+      "source": "https://scarpa.com/products/instinct-s-precision-and-aggressive-hooking-70039-000-1"
+    },
+    "downturn": {
+      "value": null
+    },
+    "stiffness": {
+      "value": null
+    },
+    "rubber": {
+      "value": "Vibram XS Grip2",
+      "quote": "SOLE Vibram® XS GRIP 2 spread over 3/4 of the length",
+      "source": "https://scarpa.com/products/instinct-s-precision-and-aggressive-hooking-70039-000-1"
+    },
+    "uses": {
+      "value": [
+        "sport",
+        "bouldering",
+        "gym"
+      ],
+      "quote": "USE SPORT CLIMBING, BOULDERING & INDOOR CLIMBING",
+      "source": "https://scarpa.com/products/instinct-s-precision-and-aggressive-hooking-70039-000-1"
+    },
+    "price": {
+      "value": {
+        "amount": 159.95,
+        "currency": "EUR"
+      },
+      "quote": "€159,95",
+      "source": "https://scarpa.com/products/instinct-s-precision-and-aggressive-hooking-70039-000-1"
+    },
+    "notes": "'the most flexible version in the Instinct collection' is relative; stiffness null. Downturn unqualified -> null. Width read from the 'Fitting Specs' icon image (Centre_Medium_3fb7106b-7e9c-4449-922f-b3bf5f478dff.jpg). Gender U: only one version of this model on the official store (no Woman variant in the climbing-shoes collection)."
+  },
+  {
+    "brand": "Scarpa",
+    "model": "Instinct",
+    "url": "https://scarpa.com/products/instinct-precision-and-aggressive-hooking-70036-000-1",
+    "gender": {
+      "value": "M",
+      "quote": "Instinct Woman",
+      "source": "https://scarpa.com/products/instinct-woman-precision-and-aggressive-hooking-70036-002-1"
+    },
+    "closure": {
+      "value": "L",
+      "quote": "evenly distributes the pressure exerted by the lacing system",
+      "source": "https://scarpa.com/products/instinct-precision-and-aggressive-hooking-70036-000-1"
+    },
+    "width": {
+      "value": "W",
+      "quote": "CENTRE / WIDE",
+      "source": "https://scarpa.com/cdn/shop/files/Centre_Wide_2c6b09b2-a83b-4438-a7f9-3eb8f4fb4861.jpg"
+    },
+    "volume": {
+      "value": null
+    },
+    "asymmetry": {
+      "value": 1,
+      "quote": "slightly asymmetrical, downturned shape",
+      "source": "https://scarpa.com/products/instinct-precision-and-aggressive-hooking-70036-000-1"
+    },
+    "downturn": {
+      "value": null
+    },
+    "stiffness": {
+      "value": null
+    },
+    "rubber": {
+      "value": "Vibram XS Edge",
+      "quote": "SOLE Vibram® XS EDGE spread over 2/3 of the length",
+      "source": "https://scarpa.com/products/instinct-precision-and-aggressive-hooking-70036-000-1"
+    },
+    "uses": {
+      "value": [
+        "sport",
+        "bouldering"
+      ],
+      "quote": "USE SPORT CLIMBING AND BOULDERING",
+      "source": "https://scarpa.com/products/instinct-precision-and-aggressive-hooking-70036-000-1"
+    },
+    "price": {
+      "value": {
+        "amount": 169.95,
+        "currency": "EUR"
+      },
+      "quote": "€169,95",
+      "source": "https://scarpa.com/products/instinct-precision-and-aggressive-hooking-70036-000-1"
+    },
+    "notes": "Men's product: separate 'Instinct Woman' exists; listed only under Men's Climbing Shoes. Downturn unqualified -> null. Width read from the 'Fitting Specs' icon image (Centre_Wide_2c6b09b2-a83b-4438-a7f9-3eb8f4fb4861.jpg)."
+  },
+  {
+    "brand": "Scarpa",
+    "model": "Instinct Woman",
+    "url": "https://scarpa.com/products/instinct-woman-precision-and-aggressive-hooking-70036-002-1",
+    "gender": {
+      "value": "W",
+      "quote": "Instinct Woman",
+      "source": "https://scarpa.com/products/instinct-woman-precision-and-aggressive-hooking-70036-002-1"
+    },
+    "closure": {
+      "value": "L",
+      "quote": "evenly distributes the pressure exerted by the lacing system",
+      "source": "https://scarpa.com/products/instinct-woman-precision-and-aggressive-hooking-70036-002-1"
+    },
+    "width": {
+      "value": "M",
+      "quote": "CENTRE / MEDIUM",
+      "source": "https://scarpa.com/cdn/shop/files/Centre_Medium_3fb7106b-7e9c-4449-922f-b3bf5f478dff.jpg"
+    },
+    "volume": {
+      "value": "L",
+      "quote": "Reduced volume with slightly asymmetrical, downturned shape",
+      "source": "https://scarpa.com/products/instinct-woman-precision-and-aggressive-hooking-70036-002-1"
+    },
+    "asymmetry": {
+      "value": 1,
+      "quote": "Reduced volume with slightly asymmetrical, downturned shape",
+      "source": "https://scarpa.com/products/instinct-woman-precision-and-aggressive-hooking-70036-002-1"
+    },
+    "downturn": {
+      "value": null
+    },
+    "stiffness": {
+      "value": null
+    },
+    "rubber": {
+      "value": "Vibram XS Grip2",
+      "quote": "SOLE Vibram® XS Grip 2 with a thickness of 3,5 mm",
+      "source": "https://scarpa.com/products/instinct-woman-precision-and-aggressive-hooking-70036-002-1"
+    },
+    "uses": {
+      "value": [
+        "sport",
+        "bouldering"
+      ],
+      "quote": "USE SPORT CLIMBING AND BOULDERING",
+      "source": "https://scarpa.com/products/instinct-woman-precision-and-aggressive-hooking-70036-002-1"
+    },
+    "price": {
+      "value": {
+        "amount": 169.95,
+        "currency": "EUR"
+      },
+      "quote": "€169,95",
+      "source": "https://scarpa.com/products/instinct-woman-precision-and-aggressive-hooking-70036-002-1"
+    },
+    "notes": "Downturn unqualified -> null. Width read from the 'Fitting Specs' icon image (Centre_Medium_3fb7106b-7e9c-4449-922f-b3bf5f478dff.jpg)."
+  },
+  {
+    "brand": "Scarpa",
+    "model": "Vapor V",
+    "url": "https://scarpa.com/products/vapor-v-support-and-versatility-70096-000-1",
+    "gender": {
+      "value": "U",
+      "quote": "Vapor V",
+      "source": "https://scarpa.com/collections/climbing-shoes"
+    },
+    "closure": {
+      "value": "V",
+      "quote": "Dual Velcro closure allows for an adjustable and easy fit",
+      "source": "https://scarpa.com/products/vapor-v-support-and-versatility-70096-000-1"
+    },
+    "width": {
+      "value": "N",
+      "quote": "CENTRE / NARROW",
+      "source": "https://scarpa.com/cdn/shop/files/Centre_Narrow.jpg"
+    },
+    "volume": {
+      "value": "L",
+      "quote": "The low toe profile and low volume shape adapts well to slim feet",
+      "source": "https://scarpa.com/products/vapor-v-support-and-versatility-70096-000-1"
+    },
+    "asymmetry": {
+      "value": null
+    },
+    "downturn": {
+      "value": null
+    },
+    "stiffness": {
+      "value": 3,
+      "quote": "Vapor V is a versatile shoe that offers the perfect balance of flex and support",
+      "source": "https://scarpa.com/products/vapor-v-support-and-versatility-70096-000-1"
+    },
+    "rubber": {
+      "value": "Vibram XS Edge",
+      "quote": "SOLE Vibram® XS Edge spread over 2/3 of the length",
+      "source": "https://scarpa.com/products/vapor-v-support-and-versatility-70096-000-1"
+    },
+    "uses": {
+      "value": [
+        "sport",
+        "bouldering",
+        "all-round"
+      ],
+      "quote": "USE SPORT CLIMBING AND BOULDER",
+      "source": "https://scarpa.com/products/vapor-v-support-and-versatility-70096-000-1"
+    },
+    "price": {
+      "value": {
+        "amount": 164.95,
+        "currency": "EUR"
+      },
+      "quote": "€164,95",
+      "source": "https://scarpa.com/products/vapor-v-support-and-versatility-70096-000-1"
+    },
+    "notes": "Page explicitly says 'low volume shape' although a Vapor V LV also exists; recorded L. Stiffness 3 from 'balance of flex and support'. all-round from 'A versatile low volume favorite for all climbing disciplines'. Width read from the 'Fitting Specs' icon image (Centre_Narrow.jpg). Gender U: only one version of this model on the official store (no Woman variant in the climbing-shoes collection)."
+  },
+  {
+    "brand": "Scarpa",
+    "model": "Vapor V LV",
+    "url": "https://scarpa.com/products/vapor-v-lv-support-versatility-and-low-volume-70093-000-1",
+    "gender": {
+      "value": "U",
+      "quote": "Vapor V LV",
+      "source": "https://scarpa.com/collections/climbing-shoes"
+    },
+    "closure": {
+      "value": "V",
+      "quote": "Dual Velcro closure allows for an adjustable and easy fit",
+      "source": "https://scarpa.com/products/vapor-v-lv-support-versatility-and-low-volume-70093-000-1"
+    },
+    "width": {
+      "value": "N",
+      "quote": "CENTRE / NARROW",
+      "source": "https://scarpa.com/cdn/shop/files/Centre_Narrow.jpg"
+    },
+    "volume": {
+      "value": "L",
+      "quote": "The low toe profile and low volume shape adapts well to slim feet",
+      "source": "https://scarpa.com/products/vapor-v-lv-support-versatility-and-low-volume-70093-000-1"
+    },
+    "asymmetry": {
+      "value": null
+    },
+    "downturn": {
+      "value": null
+    },
+    "stiffness": {
+      "value": 3,
+      "quote": "Vapor V LV is a versatile shoe that offers the perfect balance of flex and support",
+      "source": "https://scarpa.com/products/vapor-v-lv-support-versatility-and-low-volume-70093-000-1"
+    },
+    "rubber": {
+      "value": "Vibram XS Grip2",
+      "quote": "SOLE Vibram® XS Grip 2 spread over 2/3 of the length",
+      "source": "https://scarpa.com/products/vapor-v-lv-support-versatility-and-low-volume-70093-000-1"
+    },
+    "uses": {
+      "value": [
+        "sport",
+        "bouldering",
+        "all-round"
+      ],
+      "quote": "USE SPORT CLIMBING AND BOULDER",
+      "source": "https://scarpa.com/products/vapor-v-lv-support-versatility-and-low-volume-70093-000-1"
+    },
+    "price": {
+      "value": {
+        "amount": 164.95,
+        "currency": "EUR"
+      },
+      "quote": "€164,95",
+      "source": "https://scarpa.com/products/vapor-v-lv-support-versatility-and-low-volume-70093-000-1"
+    },
+    "notes": "Stiffness 3 from 'balance of flex and support'. all-round from 'A versatile low volume favorite for all climbing disciplines'. Width read from the 'Fitting Specs' icon image (Centre_Narrow.jpg). Gender U: only one version of this model on the official store (no Woman variant in the climbing-shoes collection)."
+  },
+  {
+    "brand": "Scarpa",
+    "model": "Vapor S",
+    "url": "https://scarpa.com/products/vapor-s-slip-into-performance-70078-001-1",
+    "gender": {
+      "value": "MW",
+      "quote": "Vapor S Woman",
+      "source": "https://scarpa.com/products/vapor-s-woman-slip-into-performance-70078-002-1"
+    },
+    "closure": {
+      "value": "S",
+      "quote": "Vapor S is the innovative Slipper of the popular Vapor family",
+      "source": "https://scarpa.com/products/vapor-s-slip-into-performance-70078-001-1"
+    },
+    "width": {
+      "value": "N",
+      "quote": "CENTRE / NARROW",
+      "source": "https://scarpa.com/cdn/shop/files/Centre_Narrow.jpg"
+    },
+    "volume": {
+      "value": null
+    },
+    "asymmetry": {
+      "value": null
+    },
+    "downturn": {
+      "value": null
+    },
+    "stiffness": {
+      "value": null
+    },
+    "rubber": {
+      "value": "Vibram XS Grip2",
+      "quote": "SOLE Vibram® XS Grip 2 with a thickness of 3,5 mm",
+      "source": "https://scarpa.com/products/vapor-s-slip-into-performance-70078-001-1"
+    },
+    "uses": {
+      "value": [
+        "sport",
+        "gym",
+        "crack"
+      ],
+      "quote": "USE SPORT CLIMBING & INDOOR",
+      "source": "https://scarpa.com/products/vapor-s-slip-into-performance-70078-001-1"
+    },
+    "price": {
+      "value": {
+        "amount": 164.95,
+        "currency": "EUR"
+      },
+      "quote": "€164,95",
+      "source": "https://scarpa.com/products/vapor-s-slip-into-performance-70078-001-1"
+    },
+    "notes": "Slipper with Nano Strap System, brand calls it a slipper -> S. crack from 'perfect choice for thin cracks'. Width read from the 'Fitting Specs' icon image (Centre_Narrow.jpg)."
+  },
+  {
+    "brand": "Scarpa",
+    "model": "Vapor",
+    "url": "https://scarpa.com/products/vapor-versatility-on-the-edge-70074-000-1",
+    "gender": {
+      "value": "MW",
+      "quote": "Vapor Woman",
+      "source": "https://scarpa.com/products/vapor-woman-versatility-on-the-edge-70074-002-1"
+    },
+    "closure": {
+      "value": "L",
+      "quote": "provides support in the lacing area",
+      "source": "https://scarpa.com/products/vapor-versatility-on-the-edge-70074-000-1"
+    },
+    "width": {
+      "value": "N",
+      "quote": "CENTRE / NARROW",
+      "source": "https://scarpa.com/cdn/shop/files/Centre_Narrow.jpg"
+    },
+    "volume": {
+      "value": null
+    },
+    "asymmetry": {
+      "value": null
+    },
+    "downturn": {
+      "value": 1,
+      "quote": "A slightly downturned shape and a medium to low angled toe box",
+      "source": "https://scarpa.com/products/vapor-versatility-on-the-edge-70074-000-1"
+    },
+    "stiffness": {
+      "value": null
+    },
+    "rubber": {
+      "value": "Vibram XS Edge",
+      "quote": "SOLE Vibram® XS EDGE spread over 2/3 of the length",
+      "source": "https://scarpa.com/products/vapor-versatility-on-the-edge-70074-000-1"
+    },
+    "uses": {
+      "value": [
+        "sport",
+        "all-round"
+      ],
+      "quote": "USE TECHNICAL SPORT CLIMBING",
+      "source": "https://scarpa.com/products/vapor-versatility-on-the-edge-70074-000-1"
+    },
+    "price": {
+      "value": {
+        "amount": 169.95,
+        "currency": "EUR"
+      },
+      "quote": "€169,95",
+      "source": "https://scarpa.com/products/vapor-versatility-on-the-edge-70074-000-1"
+    },
+    "notes": "all-round from 'great performance in all climbing styles'. Width read from the 'Fitting Specs' icon image (Centre_Narrow.jpg)."
+  },
+  {
+    "brand": "Scarpa",
+    "model": "Arpia V",
+    "url": "https://scarpa.com/products/arpia-v-versatility-in-all-situations-70084-000-1",
+    "gender": {
+      "value": "U",
+      "quote": "Arpia V",
+      "source": "https://scarpa.com/collections/climbing-shoes"
+    },
+    "closure": {
+      "value": "V",
+      "quote": "The double velcro allows for quick and easy closure",
+      "source": "https://scarpa.com/products/arpia-v-versatility-in-all-situations-70084-000-1"
+    },
+    "width": {
+      "value": "M",
+      "quote": "CENTRE / MEDIUM",
+      "source": "https://scarpa.com/cdn/shop/files/Centre_Medium_3fb7106b-7e9c-4449-922f-b3bf5f478dff.jpg"
+    },
+    "volume": {
+      "value": "M",
+      "quote": "Arpia V LV",
+      "source": "https://scarpa.com/products/arpia-v-lv-versatility-in-all-situations-70087-000-1"
+    },
+    "asymmetry": {
+      "value": 1,
+      "quote": "The slightly arched and slightly asymmetrical shape",
+      "source": "https://scarpa.com/products/arpia-v-versatility-in-all-situations-70084-000-1"
+    },
+    "downturn": {
+      "value": 1,
+      "quote": "The slightly arched and slightly asymmetrical shape",
+      "source": "https://scarpa.com/products/arpia-v-versatility-in-all-situations-70084-000-1"
+    },
+    "stiffness": {
+      "value": null
+    },
+    "rubber": {
+      "value": "Vibram XS Grip2",
+      "quote": "SOLE Full-length Vibram® XS Grip 2",
+      "source": "https://scarpa.com/products/arpia-v-versatility-in-all-situations-70084-000-1"
+    },
+    "uses": {
+      "value": [
+        "sport",
+        "bouldering",
+        "gym",
+        "all-round"
+      ],
+      "quote": "USE SPORT CLIMBING, BOULDER & INDOOR CLIMBING",
+      "source": "https://scarpa.com/products/arpia-v-versatility-in-all-situations-70084-000-1"
+    },
+    "price": {
+      "value": {
+        "amount": 144.95,
+        "currency": "EUR"
+      },
+      "quote": "€144,95",
+      "source": "https://scarpa.com/products/arpia-v-versatility-in-all-situations-70084-000-1"
+    },
+    "notes": "'slightly arched' read as slight downturn. all-round from 'A versatile shoe'. Volume M because Arpia V LV exists. Product is listed only under Men's Climbing Shoes, Arpia V LV only under Women's, but neither is named as a gendered version; gender U. Width read from the 'Fitting Specs' icon image (Centre_Medium_3fb7106b-7e9c-4449-922f-b3bf5f478dff.jpg). Gender U: only one version of this model on the official store (no Woman variant in the climbing-shoes collection)."
+  },
+  {
+    "brand": "Scarpa",
+    "model": "Arpia V LV",
+    "url": "https://scarpa.com/products/arpia-v-lv-versatility-in-all-situations-70087-000-1",
+    "gender": {
+      "value": "U",
+      "quote": "Arpia V LV",
+      "source": "https://scarpa.com/collections/climbing-shoes"
+    },
+    "closure": {
+      "value": "V",
+      "quote": "The double velcro allows for quick and easy closure",
+      "source": "https://scarpa.com/products/arpia-v-lv-versatility-in-all-situations-70087-000-1"
+    },
+    "width": {
+      "value": "M",
+      "quote": "CENTRE / MEDIUM",
+      "source": "https://scarpa.com/cdn/shop/files/Centre_Medium_3fb7106b-7e9c-4449-922f-b3bf5f478dff.jpg"
+    },
+    "volume": {
+      "value": "L",
+      "quote": "Arpia V LV",
+      "source": "https://scarpa.com/products/arpia-v-lv-versatility-in-all-situations-70087-000-1"
+    },
+    "asymmetry": {
+      "value": 1,
+      "quote": "The slightly arched and slightly asymmetrical shape",
+      "source": "https://scarpa.com/products/arpia-v-lv-versatility-in-all-situations-70087-000-1"
+    },
+    "downturn": {
+      "value": 1,
+      "quote": "The slightly arched and slightly asymmetrical shape",
+      "source": "https://scarpa.com/products/arpia-v-lv-versatility-in-all-situations-70087-000-1"
+    },
+    "stiffness": {
+      "value": null
+    },
+    "rubber": {
+      "value": "Vibram XS Grip2",
+      "quote": "SOLE Full-length Vibram® XS Grip 2",
+      "source": "https://scarpa.com/products/arpia-v-lv-versatility-in-all-situations-70087-000-1"
+    },
+    "uses": {
+      "value": [
+        "sport",
+        "bouldering",
+        "gym",
+        "all-round"
+      ],
+      "quote": "USE SPORT CLIMBING, BOULDER & INDOOR CLIMBING",
+      "source": "https://scarpa.com/products/arpia-v-lv-versatility-in-all-situations-70087-000-1"
+    },
+    "price": {
+      "value": {
+        "amount": 144.95,
+        "currency": "EUR"
+      },
+      "quote": "€144,95",
+      "source": "https://scarpa.com/products/arpia-v-lv-versatility-in-all-situations-70087-000-1"
+    },
+    "notes": "Volume L from LV model name. 'slightly arched' read as slight downturn. Listed only under Women's Climbing Shoes, but not named a women's version; gender U. Width read from the 'Fitting Specs' icon image (Centre_Medium_3fb7106b-7e9c-4449-922f-b3bf5f478dff.jpg). Gender U: only one version of this model on the official store (no Woman variant in the climbing-shoes collection)."
+  },
+  {
+    "brand": "Scarpa",
+    "model": "Booster",
+    "url": "https://scarpa.com/products/booster-precise-climbing-shoe-70060-000-1",
+    "gender": {
+      "value": "U",
+      "quote": "Booster",
+      "source": "https://scarpa.com/collections/climbing-shoes"
+    },
+    "closure": {
+      "value": "V",
+      "quote": "The dual Velcro strap closure system facilitates easy entry",
+      "source": "https://scarpa.com/products/booster-precise-climbing-shoe-70060-000-1"
+    },
+    "width": {
+      "value": "N",
+      "quote": "CLASSIC / NARROW",
+      "source": "https://scarpa.com/cdn/shop/files/Classic-Narrow.jpg"
+    },
+    "volume": {
+      "value": null
+    },
+    "asymmetry": {
+      "value": null
+    },
+    "downturn": {
+      "value": null
+    },
+    "stiffness": {
+      "value": null
+    },
+    "rubber": {
+      "value": "Vibram XS Grip2",
+      "quote": "SOLE Vibram® XS GRIP 2 spread over 1/3 of the length",
+      "source": "https://scarpa.com/products/booster-precise-climbing-shoe-70060-000-1"
+    },
+    "uses": {
+      "value": [
+        "sport",
+        "bouldering"
+      ],
+      "quote": "USE PRECISION SPORT CLIMBING AND BOULDERING",
+      "source": "https://scarpa.com/products/booster-precise-climbing-shoe-70060-000-1"
+    },
+    "price": {
+      "value": {
+        "amount": 184.95,
+        "currency": "EUR"
+      },
+      "quote": "€184,95",
+      "source": "https://scarpa.com/products/booster-precise-climbing-shoe-70060-000-1"
+    },
+    "notes": "'Asymmetrical and downturned shape' has no degree word; null. Width read from the 'Fitting Specs' icon image (Classic-Narrow.jpg). Gender U: only one version of this model on the official store (no Woman variant in the climbing-shoes collection)."
+  },
+  {
+    "brand": "Scarpa",
+    "model": "Boostic",
+    "url": "https://scarpa.com/products/boostic-for-precise-edging-on-micro-holds-70071-000-2",
+    "gender": {
+      "value": "U",
+      "quote": "Boostic",
+      "source": "https://scarpa.com/collections/climbing-shoes"
+    },
+    "closure": {
+      "value": "V",
+      "quote": "dual Velcro straps ensure a secure fit",
+      "source": "https://scarpa.com/products/boostic-for-precise-edging-on-micro-holds-70071-000-2"
+    },
+    "width": {
+      "value": "N",
+      "quote": "CLASSIC / NARROW",
+      "source": "https://scarpa.com/cdn/shop/files/Classic-Narrow.jpg"
+    },
+    "volume": {
+      "value": null
+    },
+    "asymmetry": {
+      "value": null
+    },
+    "downturn": {
+      "value": null
+    },
+    "stiffness": {
+      "value": null
+    },
+    "rubber": {
+      "value": "Vibram XS Edge",
+      "quote": "SOLE Vibram® XS EDGE, full-length with a thickness of 3,5 mm",
+      "source": "https://scarpa.com/products/boostic-for-precise-edging-on-micro-holds-70071-000-2"
+    },
+    "uses": {
+      "value": [
+        "sport",
+        "bouldering",
+        "multipitch"
+      ],
+      "quote": "A perfect choice for technical multi-pitch face climbing",
+      "source": "https://scarpa.com/products/boostic-for-precise-edging-on-micro-holds-70071-000-2"
+    },
+    "price": {
+      "value": {
+        "amount": 189.95,
+        "currency": "EUR"
+      },
+      "quote": "€189,95",
+      "source": "https://scarpa.com/products/boostic-for-precise-edging-on-micro-holds-70071-000-2"
+    },
+    "notes": "Uses also from 'USE PRECISION SPORT CLIMBING AND BOULDERING'. Asymmetry/downturn unqualified -> null. Width read from the 'Fitting Specs' icon image (Classic-Narrow.jpg). Gender U: only one version of this model on the official store (no Woman variant in the climbing-shoes collection)."
+  },
+  {
+    "brand": "Scarpa",
+    "model": "Boostic R",
+    "url": "https://scarpa.com/products/boostic-r-precise-and-powerful-on-micro-holds-70090-000-1",
+    "gender": {
+      "value": "U",
+      "quote": "Boostic R",
+      "source": "https://scarpa.com/collections/climbing-shoes"
+    },
+    "closure": {
+      "value": "V",
+      "quote": "the dual-strap closure system provides support",
+      "source": "https://scarpa.com/products/boostic-r-precise-and-powerful-on-micro-holds-70090-000-1"
+    },
+    "width": {
+      "value": "N",
+      "quote": "CLASSIC / NARROW",
+      "source": "https://scarpa.com/cdn/shop/files/Classic-Narrow.jpg"
+    },
+    "volume": {
+      "value": null
+    },
+    "asymmetry": {
+      "value": null
+    },
+    "downturn": {
+      "value": null
+    },
+    "stiffness": {
+      "value": 5,
+      "quote": "Ultra supportive",
+      "source": "https://scarpa.com/products/boostic-r-precise-and-powerful-on-micro-holds-70090-000-1"
+    },
+    "rubber": {
+      "value": "Vibram XS Edge",
+      "quote": "SOLE Full-length Vibram® XS Edge, 4 mm thick",
+      "source": "https://scarpa.com/products/boostic-r-precise-and-powerful-on-micro-holds-70090-000-1"
+    },
+    "uses": {
+      "value": [
+        "sport",
+        "bouldering"
+      ],
+      "quote": "USE PRECISION SPORT CLIMBING AND BOULDERING",
+      "source": "https://scarpa.com/products/boostic-r-precise-and-powerful-on-micro-holds-70090-000-1"
+    },
+    "price": {
+      "value": {
+        "amount": 189.95,
+        "currency": "EUR"
+      },
+      "quote": "€189,95",
+      "source": "https://scarpa.com/products/boostic-r-precise-and-powerful-on-micro-holds-70090-000-1"
+    },
+    "notes": "Stiffness 5 from highlight 'Ultra supportive'. Width N also stated in text: 'a narrow last'. Width read from the 'Fitting Specs' icon image (Classic-Narrow.jpg). Gender U: only one version of this model on the official store (no Woman variant in the climbing-shoes collection)."
+  },
+  {
+    "brand": "Scarpa",
+    "model": "Mago",
+    "url": "https://scarpa.com/products/mago-the-power-of-focus-70077-000-1",
+    "gender": {
+      "value": "U",
+      "quote": "Mago",
+      "source": "https://scarpa.com/collections/climbing-shoes"
+    },
+    "closure": {
+      "value": "L",
+      "quote": "Combined with the lacing system, it ensures an optimal fit",
+      "source": "https://scarpa.com/products/mago-the-power-of-focus-70077-000-1"
+    },
+    "width": {
+      "value": "N",
+      "quote": "CLASSIC / NARROW",
+      "source": "https://scarpa.com/cdn/shop/files/Classic-Narrow.jpg"
+    },
+    "volume": {
+      "value": null
+    },
+    "asymmetry": {
+      "value": null
+    },
+    "downturn": {
+      "value": null
+    },
+    "stiffness": {
+      "value": null
+    },
+    "rubber": {
+      "value": "Vibram XS Grip2",
+      "quote": "SOLE Vibram® XS GRIP 2 spread over 1/3 of the length",
+      "source": "https://scarpa.com/products/mago-the-power-of-focus-70077-000-1"
+    },
+    "uses": {
+      "value": [
+        "sport"
+      ],
+      "quote": "USE SPORT CLIMBING",
+      "source": "https://scarpa.com/products/mago-the-power-of-focus-70077-000-1"
+    },
+    "price": {
+      "value": {
+        "amount": 179.95,
+        "currency": "EUR"
+      },
+      "quote": "€179,95",
+      "source": "https://scarpa.com/products/mago-the-power-of-focus-70077-000-1"
+    },
+    "notes": "'asymmetrical and downturned shape' has no degree word; null. Width read from the 'Fitting Specs' icon image (Classic-Narrow.jpg). Gender U: only one version of this model on the official store (no Woman variant in the climbing-shoes collection)."
+  },
+  {
+    "brand": "Scarpa",
+    "model": "Chimera",
+    "url": "https://scarpa.com/products/chimera-powerfully-soft-70073-000-1",
+    "gender": {
+      "value": "U",
+      "quote": "Chimera",
+      "source": "https://scarpa.com/collections/climbing-shoes"
+    },
+    "closure": {
+      "value": null
+    },
+    "width": {
+      "value": "N",
+      "quote": "CLASSIC / NARROW",
+      "source": "https://scarpa.com/cdn/shop/files/Classic-Narrow.jpg"
+    },
+    "volume": {
+      "value": null
+    },
+    "asymmetry": {
+      "value": null
+    },
+    "downturn": {
+      "value": null
+    },
+    "stiffness": {
+      "value": 2,
+      "quote": "The new Chimera is the most precise version in the Soft line collection",
+      "source": "https://scarpa.com/products/chimera-powerfully-soft-70073-000-1"
+    },
+    "rubber": {
+      "value": "Vibram XS Grip2",
+      "quote": "SOLE Vibram® XS Grip 2, 3,5 mm thick",
+      "source": "https://scarpa.com/products/chimera-powerfully-soft-70073-000-1"
+    },
+    "uses": {
+      "value": [
+        "sport",
+        "bouldering"
+      ],
+      "quote": "USE: SPORT CLIMBING AND BOULDERING",
+      "source": "https://scarpa.com/products/chimera-powerfully-soft-70073-000-1"
+    },
+    "price": {
+      "value": {
+        "amount": 184.95,
+        "currency": "EUR"
+      },
+      "quote": "€184,95",
+      "source": "https://scarpa.com/products/chimera-powerfully-soft-70073-000-1"
+    },
+    "notes": "Closure not stated in page text. Stiffness 2 from Soft line membership ('Using soft shoes like these'). Asymmetry/downturn unqualified -> null. Width read from the 'Fitting Specs' icon image (Classic-Narrow.jpg). Gender U: only one version of this model on the official store (no Woman variant in the climbing-shoes collection)."
+  },
+  {
+    "brand": "Scarpa",
+    "model": "Veloce",
+    "url": "https://scarpa.com/products/veloce-climbing-shoe-for-indoor-use-70065-001-1",
+    "gender": {
+      "value": "MW",
+      "quote": "Veloce Woman",
+      "source": "https://scarpa.com/products/veloce-woman-climbing-shoe-for-indoor-use-70065-002-1"
+    },
+    "closure": {
+      "value": "V",
+      "quote": "The Z-strap closure features a dual strap system",
+      "source": "https://scarpa.com/products/veloce-climbing-shoe-for-indoor-use-70065-001-1"
+    },
+    "width": {
+      "value": "W",
+      "quote": "SQUARE / WIDE",
+      "source": "https://scarpa.com/cdn/shop/files/Square_Wide.jpg"
+    },
+    "volume": {
+      "value": null
+    },
+    "asymmetry": {
+      "value": null
+    },
+    "downturn": {
+      "value": 1,
+      "quote": "a slightly downturned shape with an extra spacy toe box",
+      "source": "https://scarpa.com/products/veloce-climbing-shoe-for-indoor-use-70065-001-1"
+    },
+    "stiffness": {
+      "value": null
+    },
+    "rubber": {
+      "value": "S72",
+      "quote": "Half sole 4 mm thick in S72",
+      "source": "https://scarpa.com/products/veloce-climbing-shoe-for-indoor-use-70065-001-1"
+    },
+    "uses": {
+      "value": [
+        "gym"
+      ],
+      "quote": "Veloce offers comfort and technology with special focus on indoor climbing",
+      "source": "https://scarpa.com/products/veloce-climbing-shoe-for-indoor-use-70065-001-1"
+    },
+    "price": {
+      "value": {
+        "amount": 149.95,
+        "currency": "EUR"
+      },
+      "quote": "€149,95",
+      "source": "https://scarpa.com/products/veloce-climbing-shoe-for-indoor-use-70065-001-1"
+    },
+    "notes": "Width read from the 'Fitting Specs' icon image (Square_Wide.jpg). Base-size price used; largest sizes cost EUR 159.95."
+  },
+  {
+    "brand": "Scarpa",
+    "model": "Veloce L",
+    "url": "https://scarpa.com/products/veloce-l-indoor-climbing-shoe-for-extended-use-70079-001-1",
+    "gender": {
+      "value": "MW",
+      "quote": "Veloce L Woman",
+      "source": "https://scarpa.com/products/veloce-l-woman-indoor-climbing-shoe-for-extended-use-70079-002-1"
+    },
+    "closure": {
+      "value": "L",
+      "quote": "The lace-up closure allows for a precise, adjustable fit",
+      "source": "https://scarpa.com/products/veloce-l-indoor-climbing-shoe-for-extended-use-70079-001-1"
+    },
+    "width": {
+      "value": "W",
+      "quote": "SQUARE / WIDE",
+      "source": "https://scarpa.com/cdn/shop/files/Square_Wide.jpg"
+    },
+    "volume": {
+      "value": null
+    },
+    "asymmetry": {
+      "value": null
+    },
+    "downturn": {
+      "value": 1,
+      "quote": "Its slightly arched shape and roomier toe box",
+      "source": "https://scarpa.com/products/veloce-l-indoor-climbing-shoe-for-extended-use-70079-001-1"
+    },
+    "stiffness": {
+      "value": null
+    },
+    "rubber": {
+      "value": "S72",
+      "quote": "Half sole 4 mm thick in S72",
+      "source": "https://scarpa.com/products/veloce-l-indoor-climbing-shoe-for-extended-use-70079-001-1"
+    },
+    "uses": {
+      "value": [
+        "gym"
+      ],
+      "quote": "designed specifically for indoor climbing",
+      "source": "https://scarpa.com/products/veloce-l-indoor-climbing-shoe-for-extended-use-70079-001-1"
+    },
+    "price": {
+      "value": {
+        "amount": 154.95,
+        "currency": "EUR"
+      },
+      "quote": "€154,95",
+      "source": "https://scarpa.com/products/veloce-l-indoor-climbing-shoe-for-extended-use-70079-001-1"
+    },
+    "notes": "'slightly arched' read as slight downturn. Width read from the 'Fitting Specs' icon image (Square_Wide.jpg)."
+  },
+  {
+    "brand": "Scarpa",
+    "model": "Generator",
+    "url": "https://scarpa.com/products/generator-trad-climbing-shoe-70068-000-1",
+    "gender": {
+      "value": "U",
+      "quote": "Generator",
+      "source": "https://scarpa.com/collections/climbing-shoes"
+    },
+    "closure": {
+      "value": "L",
+      "quote": "LACING Lacing system specifically designed to provide optimal protection during crack climbing",
+      "source": "https://scarpa.com/products/generator-trad-climbing-shoe-70068-000-1"
+    },
+    "width": {
+      "value": "M",
+      "quote": "CENTRE / MEDIUM",
+      "source": "https://scarpa.com/cdn/shop/files/Centre_Medium_3fb7106b-7e9c-4449-922f-b3bf5f478dff.jpg"
+    },
+    "volume": {
+      "value": null
+    },
+    "asymmetry": {
+      "value": null
+    },
+    "downturn": {
+      "value": null
+    },
+    "stiffness": {
+      "value": null
+    },
+    "rubber": {
+      "value": "Vibram XS Edge",
+      "quote": "SOLE Vibram® XS Edge full-length, 4 mm thick",
+      "source": "https://scarpa.com/products/generator-trad-climbing-shoe-70068-000-1"
+    },
+    "uses": {
+      "value": [
+        "multipitch",
+        "trad",
+        "crack"
+      ],
+      "quote": "prolonged use on big walls and cracks",
+      "source": "https://scarpa.com/products/generator-trad-climbing-shoe-70068-000-1"
+    },
+    "price": {
+      "value": {
+        "amount": 184.95,
+        "currency": "EUR"
+      },
+      "quote": "€184,95",
+      "source": "https://scarpa.com/products/generator-trad-climbing-shoe-70068-000-1"
+    },
+    "notes": "Uses also from 'USE MULTI PITCH AND TRAD CLIMBING'. Width read from the 'Fitting Specs' icon image (Centre_Medium_3fb7106b-7e9c-4449-922f-b3bf5f478dff.jpg). Gender U: only one version of this model on the official store (no Woman variant in the climbing-shoes collection)."
+  },
+  {
+    "brand": "Scarpa",
+    "model": "Generator Mid",
+    "url": "https://scarpa.com/products/generator-mid-mid-top-shoe-for-trad-climbing-70063-000-1",
+    "gender": {
+      "value": "U",
+      "quote": "Generator Mid",
+      "source": "https://scarpa.com/collections/climbing-shoes"
+    },
+    "closure": {
+      "value": "L",
+      "quote": "LACING Lacing system specifically designed to provide optimal protection during crack climbing",
+      "source": "https://scarpa.com/products/generator-mid-mid-top-shoe-for-trad-climbing-70063-000-1"
+    },
+    "width": {
+      "value": "M",
+      "quote": "CENTRE / MEDIUM",
+      "source": "https://scarpa.com/cdn/shop/files/Centre_Medium_3fb7106b-7e9c-4449-922f-b3bf5f478dff.jpg"
+    },
+    "volume": {
+      "value": null
+    },
+    "asymmetry": {
+      "value": null
+    },
+    "downturn": {
+      "value": null
+    },
+    "stiffness": {
+      "value": null
+    },
+    "rubber": {
+      "value": "Vibram XS Edge",
+      "quote": "SOLE Vibram® XS Edge full-length, 4 mm thick",
+      "source": "https://scarpa.com/products/generator-mid-mid-top-shoe-for-trad-climbing-70063-000-1"
+    },
+    "uses": {
+      "value": [
+        "multipitch",
+        "trad",
+        "crack"
+      ],
+      "quote": "prolonged use on big walls and cracks",
+      "source": "https://scarpa.com/products/generator-mid-mid-top-shoe-for-trad-climbing-70063-000-1"
+    },
+    "price": {
+      "value": {
+        "amount": 194.95,
+        "currency": "EUR"
+      },
+      "quote": "€194,95",
+      "source": "https://scarpa.com/products/generator-mid-mid-top-shoe-for-trad-climbing-70063-000-1"
+    },
+    "notes": "Uses also from 'USE MULTI PITCH AND TRAD CLIMBING'. Width read from the 'Fitting Specs' icon image (Centre_Medium_3fb7106b-7e9c-4449-922f-b3bf5f478dff.jpg). Gender U: only one version of this model on the official store (no Woman variant in the climbing-shoes collection)."
+  },
+  {
+    "brand": "Scarpa",
+    "model": "Force",
+    "url": "https://scarpa.com/products/force-climbing-shoe-for-extended-use-70049-001-1",
+    "gender": {
+      "value": "MW",
+      "quote": "Force Woman",
+      "source": "https://scarpa.com/products/force-woman-climbing-shoe-for-extended-use-70049-002-1"
+    },
+    "closure": {
+      "value": "V",
+      "quote": "Easy entry ensured by a dual Velcro strap",
+      "source": "https://scarpa.com/products/force-climbing-shoe-for-extended-use-70049-001-1"
+    },
+    "width": {
+      "value": "M",
+      "quote": "CENTRE / MEDIUM",
+      "source": "https://scarpa.com/cdn/shop/files/Centre_Medium_3fb7106b-7e9c-4449-922f-b3bf5f478dff.jpg"
+    },
+    "volume": {
+      "value": null
+    },
+    "asymmetry": {
+      "value": null
+    },
+    "downturn": {
+      "value": 0,
+      "quote": "thanks to the padded upper and neutral shape",
+      "source": "https://scarpa.com/products/force-climbing-shoe-for-extended-use-70049-001-1"
+    },
+    "stiffness": {
+      "value": null
+    },
+    "rubber": {
+      "value": "Vibram XS Edge",
+      "quote": "SOLE Vibram® XS Edge full-length, 3.5 mm thick",
+      "source": "https://scarpa.com/products/force-climbing-shoe-for-extended-use-70049-001-1"
+    },
+    "uses": {
+      "value": [
+        "multipitch"
+      ],
+      "quote": "USE MULTI PITCH AND ALL DAY CLIMBING",
+      "source": "https://scarpa.com/products/force-climbing-shoe-for-extended-use-70049-001-1"
+    },
+    "price": {
+      "value": {
+        "amount": 149.95,
+        "currency": "EUR"
+      },
+      "quote": "€149,95",
+      "source": "https://scarpa.com/products/force-climbing-shoe-for-extended-use-70049-001-1"
+    },
+    "notes": "'neutral shape' read as downturn 0; asymmetry not stated. Width read from the 'Fitting Specs' icon image (Centre_Medium_3fb7106b-7e9c-4449-922f-b3bf5f478dff.jpg). Base-size price used; largest sizes cost EUR 159.95."
+  },
+  {
+    "brand": "Scarpa",
+    "model": "Helix",
+    "url": "https://scarpa.com/products/helix-classic-style-reborn-70105-000-3",
+    "gender": {
+      "value": "MW",
+      "quote": "Helix Woman",
+      "source": "https://scarpa.com/products/helix-woman-classic-style-reborn-70105-002-2"
+    },
+    "closure": {
+      "value": "L",
+      "quote": "traditional lace-up closure",
+      "source": "https://scarpa.com/products/helix-classic-style-reborn-70105-000-3"
+    },
+    "width": {
+      "value": "M",
+      "quote": "CENTRE / MEDIUM",
+      "source": "https://scarpa.com/cdn/shop/files/Centre_Medium_3fb7106b-7e9c-4449-922f-b3bf5f478dff.jpg"
+    },
+    "volume": {
+      "value": null
+    },
+    "asymmetry": {
+      "value": 0,
+      "quote": "Its flat, neutral, non-asymmetric profile",
+      "source": "https://scarpa.com/products/helix-classic-style-reborn-70105-000-3"
+    },
+    "downturn": {
+      "value": 0,
+      "quote": "Its flat, neutral, non-asymmetric profile",
+      "source": "https://scarpa.com/products/helix-classic-style-reborn-70105-000-3"
+    },
+    "stiffness": {
+      "value": null
+    },
+    "rubber": {
+      "value": "Vibram XS Edge",
+      "quote": "SOLE Full-length Vibram® XS Edge sole with 3.5 mm thickness",
+      "source": "https://scarpa.com/products/helix-classic-style-reborn-70105-000-3"
+    },
+    "uses": {
+      "value": [
+        "multipitch",
+        "sport"
+      ],
+      "quote": "ideal for long routes, guiding days, and sport climbing",
+      "source": "https://scarpa.com/products/helix-classic-style-reborn-70105-000-3"
+    },
+    "price": {
+      "value": {
+        "amount": 129.95,
+        "currency": "EUR"
+      },
+      "quote": "€129,95",
+      "source": "https://scarpa.com/products/helix-classic-style-reborn-70105-000-3"
+    },
+    "notes": "'Thermoplastic polymer midsole: the most supportive in the line' is relative; stiffness null. Width read from the 'Fitting Specs' icon image (Centre_Medium_3fb7106b-7e9c-4449-922f-b3bf5f478dff.jpg)."
+  },
+  {
+    "brand": "Scarpa",
+    "model": "Helix V",
+    "url": "https://scarpa.com/products/helix-v-classic-style-quick-closure-70107-000-1",
+    "gender": {
+      "value": "MW",
+      "quote": "Helix V Woman",
+      "source": "https://scarpa.com/products/helix-v-woman-classic-style-quick-closure-70107-002-1"
+    },
+    "closure": {
+      "value": "V",
+      "quote": "adding the convenience of a double Velcro closure",
+      "source": "https://scarpa.com/products/helix-v-classic-style-quick-closure-70107-000-1"
+    },
+    "width": {
+      "value": "M",
+      "quote": "CENTRE / MEDIUM",
+      "source": "https://scarpa.com/cdn/shop/files/Centre_Medium_3fb7106b-7e9c-4449-922f-b3bf5f478dff.jpg"
+    },
+    "volume": {
+      "value": null
+    },
+    "asymmetry": {
+      "value": 0,
+      "quote": "with a flat, neutral, non-asymmetric profile",
+      "source": "https://scarpa.com/products/helix-v-classic-style-quick-closure-70107-000-1"
+    },
+    "downturn": {
+      "value": 0,
+      "quote": "with a flat, neutral, non-asymmetric profile",
+      "source": "https://scarpa.com/products/helix-v-classic-style-quick-closure-70107-000-1"
+    },
+    "stiffness": {
+      "value": null
+    },
+    "rubber": {
+      "value": "Vibram XS Edge",
+      "quote": "SOLE Full-length Vibram® XS Edge sole with 3.5 mm thickness",
+      "source": "https://scarpa.com/products/helix-v-classic-style-quick-closure-70107-000-1"
+    },
+    "uses": {
+      "value": [
+        "multipitch",
+        "sport",
+        "gym"
+      ],
+      "quote": "Ideal for multi-pitch routes, sport climbing, guiding days, and indoor sessions",
+      "source": "https://scarpa.com/products/helix-v-classic-style-quick-closure-70107-000-1"
+    },
+    "price": {
+      "value": {
+        "amount": 139.95,
+        "currency": "EUR"
+      },
+      "quote": "€139,95",
+      "source": "https://scarpa.com/products/helix-v-classic-style-quick-closure-70107-000-1"
+    },
+    "notes": "'the most supportive in the line' is relative; stiffness null. Width read from the 'Fitting Specs' icon image (Centre_Medium_3fb7106b-7e9c-4449-922f-b3bf5f478dff.jpg)."
+  },
+  {
+    "brand": "Scarpa",
+    "model": "Origin VS",
+    "url": "https://scarpa.com/products/origin-vs-indoor-climbing-shoe-70109-000-1",
+    "gender": {
+      "value": "U",
+      "quote": "Origin VS",
+      "source": "https://scarpa.com/collections/climbing-shoes"
+    },
+    "closure": {
+      "value": "V",
+      "quote": "LACING Single Velcro closure for quick adjustment",
+      "source": "https://scarpa.com/products/origin-vs-indoor-climbing-shoe-70109-000-1"
+    },
+    "width": {
+      "value": "M",
+      "quote": "CENTRE / MEDIUM",
+      "source": "https://scarpa.com/cdn/shop/files/Centre_Medium_3fb7106b-7e9c-4449-922f-b3bf5f478dff.jpg"
+    },
+    "volume": {
+      "value": "M",
+      "quote": "Origin VS LV",
+      "source": "https://scarpa.com/products/origin-vs-lv-indoor-climbing-shoe-70110-000-1"
+    },
+    "asymmetry": {
+      "value": 0,
+      "quote": "Its flat, neutral, non-asymmetric profile",
+      "source": "https://scarpa.com/products/origin-vs-indoor-climbing-shoe-70109-000-1"
+    },
+    "downturn": {
+      "value": 0,
+      "quote": "Its flat, neutral, non-asymmetric profile",
+      "source": "https://scarpa.com/products/origin-vs-indoor-climbing-shoe-70109-000-1"
+    },
+    "stiffness": {
+      "value": null
+    },
+    "rubber": {
+      "value": "S72",
+      "quote": "Full-length sole featuring our S72 compound",
+      "source": "https://scarpa.com/products/origin-vs-indoor-climbing-shoe-70109-000-1"
+    },
+    "uses": {
+      "value": [
+        "gym",
+        "beginner"
+      ],
+      "quote": "Ideal for both entry-level and advanced indoor climbers",
+      "source": "https://scarpa.com/products/origin-vs-indoor-climbing-shoe-70109-000-1"
+    },
+    "price": {
+      "value": {
+        "amount": 124.95,
+        "currency": "EUR"
+      },
+      "quote": "€124,95",
+      "source": "https://scarpa.com/products/origin-vs-indoor-climbing-shoe-70109-000-1"
+    },
+    "notes": "Volume M because Origin VS LV exists. Width read from the 'Fitting Specs' icon image (Centre_Medium_3fb7106b-7e9c-4449-922f-b3bf5f478dff.jpg). Gender U: only one version of this model on the official store (no Woman variant in the climbing-shoes collection)."
+  },
+  {
+    "brand": "Scarpa",
+    "model": "Origin VS LV",
+    "url": "https://scarpa.com/products/origin-vs-lv-indoor-climbing-shoe-70110-000-1",
+    "gender": {
+      "value": "U",
+      "quote": "Origin VS LV",
+      "source": "https://scarpa.com/collections/climbing-shoes"
+    },
+    "closure": {
+      "value": "V",
+      "quote": "LACING Single Velcro closure for quick adjustment",
+      "source": "https://scarpa.com/products/origin-vs-lv-indoor-climbing-shoe-70110-000-1"
+    },
+    "width": {
+      "value": "M",
+      "quote": "CENTRE / MEDIUM",
+      "source": "https://scarpa.com/cdn/shop/files/Centre_Medium_3fb7106b-7e9c-4449-922f-b3bf5f478dff.jpg"
+    },
+    "volume": {
+      "value": "L",
+      "quote": "features a lower-volume shape in the heel and instep areas",
+      "source": "https://scarpa.com/products/origin-vs-lv-indoor-climbing-shoe-70110-000-1"
+    },
+    "asymmetry": {
+      "value": 0,
+      "quote": "Its flat, neutral, non-asymmetric profile",
+      "source": "https://scarpa.com/products/origin-vs-lv-indoor-climbing-shoe-70110-000-1"
+    },
+    "downturn": {
+      "value": 0,
+      "quote": "Its flat, neutral, non-asymmetric profile",
+      "source": "https://scarpa.com/products/origin-vs-lv-indoor-climbing-shoe-70110-000-1"
+    },
+    "stiffness": {
+      "value": null
+    },
+    "rubber": {
+      "value": "S72",
+      "quote": "Full-length sole featuring our S72 compound",
+      "source": "https://scarpa.com/products/origin-vs-lv-indoor-climbing-shoe-70110-000-1"
+    },
+    "uses": {
+      "value": [
+        "gym",
+        "beginner"
+      ],
+      "quote": "Ideal for both entry-level and advanced indoor climbers",
+      "source": "https://scarpa.com/products/origin-vs-lv-indoor-climbing-shoe-70110-000-1"
+    },
+    "price": {
+      "value": {
+        "amount": 124.95,
+        "currency": "EUR"
+      },
+      "quote": "€124,95",
+      "source": "https://scarpa.com/products/origin-vs-lv-indoor-climbing-shoe-70110-000-1"
+    },
+    "notes": "Page calls it 'The Woman version' but the store lists it under both Men's and Women's Climbing Shoes and it is not named a women's model; gender U. Width read from the 'Fitting Specs' icon image (Centre_Medium_3fb7106b-7e9c-4449-922f-b3bf5f478dff.jpg). Gender U: only one version of this model on the official store (no Woman variant in the climbing-shoes collection)."
+  },
+  {
+    "brand": "Scarpa",
+    "model": "Reflex VS",
+    "url": "https://scarpa.com/products/reflex-vs-climbing-shoe-for-beginner-70088-000-1",
+    "gender": {
+      "value": "MW",
+      "quote": "Reflex VS Woman",
+      "source": "https://scarpa.com/products/reflex-vs-woman-climbing-shoe-for-beginner-70088-002-1"
+    },
+    "closure": {
+      "value": "V",
+      "quote": "Easy entry ensured by a dual Velcro strap",
+      "source": "https://scarpa.com/products/reflex-vs-climbing-shoe-for-beginner-70088-000-1"
+    },
+    "width": {
+      "value": "M",
+      "quote": "CENTRE / MEDIUM",
+      "source": "https://scarpa.com/cdn/shop/files/Centre_Medium_3fb7106b-7e9c-4449-922f-b3bf5f478dff.jpg"
+    },
+    "volume": {
+      "value": null
+    },
+    "asymmetry": {
+      "value": null
+    },
+    "downturn": {
+      "value": null
+    },
+    "stiffness": {
+      "value": null
+    },
+    "rubber": {
+      "value": "Vision",
+      "quote": "Full-length Vision rubber outsole with 4 mm thickness",
+      "source": "https://scarpa.com/products/reflex-vs-climbing-shoe-for-beginner-70088-000-1"
+    },
+    "uses": {
+      "value": [
+        "gym",
+        "beginner",
+        "all-round"
+      ],
+      "quote": "Perfect for indoor climbing and keen beginners",
+      "source": "https://scarpa.com/products/reflex-vs-climbing-shoe-for-beginner-70088-000-1"
+    },
+    "price": {
+      "value": {
+        "amount": 94.95,
+        "currency": "EUR"
+      },
+      "quote": "€94,95",
+      "source": "https://scarpa.com/products/reflex-vs-climbing-shoe-for-beginner-70088-000-1"
+    },
+    "notes": "all-round from 'Reflex VS is a multipurpose shoe' / 'USE MULTI-USE'. Width read from the 'Fitting Specs' icon image (Centre_Medium_3fb7106b-7e9c-4449-922f-b3bf5f478dff.jpg)."
+  }
+]

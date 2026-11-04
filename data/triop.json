@@ -1,0 +1,711 @@
+[
+  {
+    "brand": "Triop",
+    "model": "Genus",
+    "url": "https://www.triop.cz/produkt/genus/",
+    "gender": {
+      "value": "U",
+      "quote": "Lezečka / GENUS",
+      "source": "https://www.triop.cz/produkt/genus/"
+    },
+    "closure": {
+      "value": null
+    },
+    "width": {
+      "value": null
+    },
+    "volume": {
+      "value": null
+    },
+    "asymmetry": {
+      "value": null
+    },
+    "downturn": {
+      "value": null
+    },
+    "stiffness": {
+      "value": null
+    },
+    "rubber": {
+      "value": "Vibram XS Grip",
+      "quote": "Podešev: VIBRAM XS GRIP, 4 mm",
+      "source": "https://www.triop.cz/produkt/genus/"
+    },
+    "uses": {
+      "value": [
+        "bouldering"
+      ],
+      "quote": "Skvělý společník pro boulderování na podešvi Vibram XS Grip.",
+      "source": "https://www.triop.cz/produkt/genus/"
+    },
+    "price": {
+      "value": {
+        "amount": 2400,
+        "currency": "CZK"
+      },
+      "quote": "2 400,00 Kč",
+      "source": "https://www.triop.cz/produkt/genus/"
+    },
+    "notes": "gender U: only one version of this model is listed on triop.cz. price: list 2 400 Kč (sale 2 040 Kč shown). 'Asymetrická a prohnutá' gives no degree. Closure not stated."
+  },
+  {
+    "brand": "Triop",
+    "model": "Genus VCR",
+    "url": "https://www.triop.cz/produkt/genus-vcr/",
+    "gender": {
+      "value": "U",
+      "quote": "Lezečka / GENUS VCR",
+      "source": "https://www.triop.cz/produkt/genus-vcr/"
+    },
+    "closure": {
+      "value": "V",
+      "quote": "Lezečka / GENUS VCR",
+      "source": "https://www.triop.cz/produkt/genus-vcr/"
+    },
+    "width": {
+      "value": null
+    },
+    "volume": {
+      "value": null
+    },
+    "asymmetry": {
+      "value": null
+    },
+    "downturn": {
+      "value": null
+    },
+    "stiffness": {
+      "value": null
+    },
+    "rubber": {
+      "value": "Vibram XS Grip",
+      "quote": "Podešev: VIBRAM XS GRIP, 4 mm",
+      "source": "https://www.triop.cz/produkt/genus-vcr/"
+    },
+    "uses": {
+      "value": [
+        "bouldering"
+      ],
+      "quote": "Skvělý společník pro boulderování na podešvi Vibram XS Grip.",
+      "source": "https://www.triop.cz/produkt/genus-vcr/"
+    },
+    "price": {
+      "value": {
+        "amount": 2490,
+        "currency": "CZK"
+      },
+      "quote": "2 490,00 Kč",
+      "source": "https://www.triop.cz/produkt/genus-vcr/"
+    },
+    "notes": "gender U: only one version of this model is listed on triop.cz. closure from 'VCR' (velcro) in the official name. price: list 2 490 Kč (sale 2 116 Kč). No degree for asymmetry/downturn."
+  },
+  {
+    "brand": "Triop",
+    "model": "Rap",
+    "url": "https://www.triop.cz/produkt/rap/",
+    "gender": {
+      "value": "U",
+      "quote": "Lezečka / RAP",
+      "source": "https://www.triop.cz/produkt/rap/"
+    },
+    "closure": {
+      "value": null
+    },
+    "width": {
+      "value": null
+    },
+    "volume": {
+      "value": null
+    },
+    "asymmetry": {
+      "value": null
+    },
+    "downturn": {
+      "value": null
+    },
+    "stiffness": {
+      "value": null
+    },
+    "rubber": {
+      "value": "Vibram XS Grip",
+      "quote": "Podešev: VIBRAM XS GRIP, 4 mm",
+      "source": "https://www.triop.cz/produkt/rap/"
+    },
+    "uses": {
+      "value": null
+    },
+    "price": {
+      "value": {
+        "amount": 2130,
+        "currency": "CZK"
+      },
+      "quote": "2 130,00 Kč",
+      "source": "https://www.triop.cz/produkt/rap/"
+    },
+    "notes": "gender U: only one version of this model is listed on triop.cz. price: list 2 130 Kč (sale 1 810 Kč). 'Agresivní, anatomicky tvarovaná lezečka' does not name downturn -> null. Closure not stated."
+  },
+  {
+    "brand": "Triop",
+    "model": "Phet Maak",
+    "url": "https://www.triop.cz/produkt/phet-maak/",
+    "gender": {
+      "value": "U",
+      "quote": "Lezečka / PHET MAAK",
+      "source": "https://www.triop.cz/produkt/phet-maak/"
+    },
+    "closure": {
+      "value": null
+    },
+    "width": {
+      "value": null
+    },
+    "volume": {
+      "value": null
+    },
+    "asymmetry": {
+      "value": null
+    },
+    "downturn": {
+      "value": null
+    },
+    "stiffness": {
+      "value": null
+    },
+    "rubber": {
+      "value": "Vibram XS Grip",
+      "quote": "Podešev: VIBRAM XS GRIP, 4 mm",
+      "source": "https://www.triop.cz/produkt/phet-maak/"
+    },
+    "uses": {
+      "value": [
+        "sport",
+        "all-round"
+      ],
+      "quote": "Sportovní lezečka pro nejobtížnější lezení. ... Skvělá volba pro komfort, sportovní výkon a víceúčelové lezení.",
+      "source": "https://www.triop.cz/produkt/phet-maak/"
+    },
+    "price": {
+      "value": {
+        "amount": 2220,
+        "currency": "CZK"
+      },
+      "quote": "2 220,00 Kč",
+      "source": "https://www.triop.cz/produkt/phet-maak/"
+    },
+    "notes": "gender U: only one version of this model is listed on triop.cz. price: list 2 220 Kč (sale 1 870 Kč). Closure not stated."
+  },
+  {
+    "brand": "Triop",
+    "model": "Phet Maak VCR",
+    "url": "https://www.triop.cz/produkt/phet-maak-vcr/",
+    "gender": {
+      "value": "U",
+      "quote": "Lezečka / PHET MAAK VCR",
+      "source": "https://www.triop.cz/produkt/phet-maak-vcr/"
+    },
+    "closure": {
+      "value": "V",
+      "quote": "Lezečka / PHET MAAK VCR",
+      "source": "https://www.triop.cz/produkt/phet-maak-vcr/"
+    },
+    "width": {
+      "value": null
+    },
+    "volume": {
+      "value": null
+    },
+    "asymmetry": {
+      "value": null
+    },
+    "downturn": {
+      "value": null
+    },
+    "stiffness": {
+      "value": null
+    },
+    "rubber": {
+      "value": "Vibram XS Grip",
+      "quote": "Podešev: VIBRAM XS GRIP, 4 mm",
+      "source": "https://www.triop.cz/produkt/phet-maak-vcr/"
+    },
+    "uses": {
+      "value": [
+        "sport",
+        "all-round"
+      ],
+      "quote": "Sportovní lezečka pro nejobtížnější lezení. ... Skvělá volba pro komfort, sportovní výkon a víceúčelové lezení.",
+      "source": "https://www.triop.cz/produkt/phet-maak-vcr/"
+    },
+    "price": {
+      "value": {
+        "amount": 2300,
+        "currency": "CZK"
+      },
+      "quote": "2 300,00 Kč",
+      "source": "https://www.triop.cz/produkt/phet-maak-vcr/"
+    },
+    "notes": "gender U: only one version of this model is listed on triop.cz. closure from 'VCR' in the official name. price: list 2 300 Kč (sale 1 955 Kč)."
+  },
+  {
+    "brand": "Triop",
+    "model": "Conga",
+    "url": "https://www.triop.cz/produkt/conga-green/",
+    "gender": {
+      "value": "U",
+      "quote": "Lezečka / CONGA GREEN",
+      "source": "https://www.triop.cz/produkt/conga-green/"
+    },
+    "closure": {
+      "value": null
+    },
+    "width": {
+      "value": null
+    },
+    "volume": {
+      "value": null
+    },
+    "asymmetry": {
+      "value": null
+    },
+    "downturn": {
+      "value": 1,
+      "quote": "Lehké zakřivení kopyta společně s dokonalou konstrukcí",
+      "source": "https://www.triop.cz/produkt/conga-green/"
+    },
+    "stiffness": {
+      "value": null
+    },
+    "rubber": {
+      "value": "Vibram XS Grip",
+      "quote": "Podešev: VIBRAM XS GRIP, 4 mm",
+      "source": "https://www.triop.cz/produkt/conga-green/"
+    },
+    "uses": {
+      "value": [
+        "gym"
+      ],
+      "quote": "určená pro vnitřní i venkovní technické lezení",
+      "source": "https://www.triop.cz/produkt/conga-green/"
+    },
+    "price": {
+      "value": {
+        "amount": 2190,
+        "currency": "CZK"
+      },
+      "quote": "2 190,00 Kč",
+      "source": "https://www.triop.cz/produkt/conga-green/"
+    },
+    "notes": "gender U: only one version of this model is listed on triop.cz. 'Lehké zakřivení kopyta' (slightly curved last) -> downturn 1. price: list 2 190 Kč (sale 1 650 Kč). Closure not stated."
+  },
+  {
+    "brand": "Triop",
+    "model": "Boulder-X",
+    "url": "https://www.triop.cz/produkt/lezecka-boulder-x/",
+    "gender": {
+      "value": "U",
+      "quote": "Lezečka / Boulder-X",
+      "source": "https://www.triop.cz/produkt/lezecka-boulder-x/"
+    },
+    "closure": {
+      "value": "S",
+      "quote": "Snadné nazouvání baletkového typu lezečky s podpůrným páskem uzavírání",
+      "source": "https://www.triop.cz/produkt/lezecka-boulder-x/"
+    },
+    "width": {
+      "value": null
+    },
+    "volume": {
+      "value": null
+    },
+    "asymmetry": {
+      "value": null
+    },
+    "downturn": {
+      "value": null
+    },
+    "stiffness": {
+      "value": null
+    },
+    "rubber": {
+      "value": "Vibram XS Grip",
+      "quote": "Podešev: VIBRAM XS GRIP, 4 mm",
+      "source": "https://www.triop.cz/produkt/lezecka-boulder-x/"
+    },
+    "uses": {
+      "value": [
+        "bouldering"
+      ],
+      "quote": "Lezečka pro boulderové lezení",
+      "source": "https://www.triop.cz/produkt/lezecka-boulder-x/"
+    },
+    "price": {
+      "value": {
+        "amount": 2040,
+        "currency": "CZK"
+      },
+      "quote": "2 040,00 Kč",
+      "source": "https://www.triop.cz/produkt/lezecka-boulder-x/"
+    },
+    "notes": "gender U: only one version of this model is listed on triop.cz. closure: brand calls it ballet/slipper type with a support strap -> S."
+  },
+  {
+    "brand": "Triop",
+    "model": "Tantrum",
+    "url": "https://www.triop.cz/produkt/lezecka-tantrum/",
+    "gender": {
+      "value": "U",
+      "quote": "Lezečka / Tantrum",
+      "source": "https://www.triop.cz/produkt/lezecka-tantrum/"
+    },
+    "closure": {
+      "value": "S",
+      "quote": "Model z kategorie baletek na novém kopytě",
+      "source": "https://www.triop.cz/produkt/lezecka-tantrum/"
+    },
+    "width": {
+      "value": null
+    },
+    "volume": {
+      "value": null
+    },
+    "asymmetry": {
+      "value": null
+    },
+    "downturn": {
+      "value": null
+    },
+    "stiffness": {
+      "value": null
+    },
+    "rubber": {
+      "value": "Cling",
+      "quote": "Podešev: CLING, 4 mm",
+      "source": "https://www.triop.cz/produkt/lezecka-tantrum/"
+    },
+    "uses": {
+      "value": [
+        "bouldering"
+      ],
+      "quote": "Výborná lezečka pro těžší cesty a bouldering.",
+      "source": "https://www.triop.cz/produkt/lezecka-tantrum/"
+    },
+    "price": {
+      "value": {
+        "amount": 2040,
+        "currency": "CZK"
+      },
+      "quote": "2 040,00 Kč",
+      "source": "https://www.triop.cz/produkt/lezecka-tantrum/"
+    },
+    "notes": "gender U: only one version of this model is listed on triop.cz."
+  },
+  {
+    "brand": "Triop",
+    "model": "Orca",
+    "url": "https://www.triop.cz/produkt/orca/",
+    "gender": {
+      "value": "U",
+      "quote": "Lezečka / ORCA",
+      "source": "https://www.triop.cz/produkt/orca/"
+    },
+    "closure": {
+      "value": null
+    },
+    "width": {
+      "value": null
+    },
+    "volume": {
+      "value": null
+    },
+    "asymmetry": {
+      "value": null
+    },
+    "downturn": {
+      "value": null
+    },
+    "stiffness": {
+      "value": null
+    },
+    "rubber": {
+      "value": "Cling",
+      "quote": "Podešev: CLING, 4 mm",
+      "source": "https://www.triop.cz/produkt/orca/"
+    },
+    "uses": {
+      "value": null
+    },
+    "price": {
+      "value": {
+        "amount": 1800,
+        "currency": "CZK"
+      },
+      "quote": "1 800,00 Kč",
+      "source": "https://www.triop.cz/produkt/orca/"
+    },
+    "notes": "gender U: only one version of this model is listed on triop.cz. price: list 1 800 Kč (sale 1 490 Kč). Stiffness null: 'vyváženou rovnováhu mezi tvrdostí a citlivostí' gives no level. Closure not stated."
+  },
+  {
+    "brand": "Triop",
+    "model": "Start",
+    "url": "https://www.triop.cz/produkt/start/",
+    "gender": {
+      "value": "U",
+      "quote": "Lezečka / START",
+      "source": "https://www.triop.cz/produkt/start/"
+    },
+    "closure": {
+      "value": null
+    },
+    "width": {
+      "value": null
+    },
+    "volume": {
+      "value": null
+    },
+    "asymmetry": {
+      "value": null
+    },
+    "downturn": {
+      "value": null
+    },
+    "stiffness": {
+      "value": null
+    },
+    "rubber": {
+      "value": "Cling",
+      "quote": "Podešev: CLING, 4 mm",
+      "source": "https://www.triop.cz/produkt/start/"
+    },
+    "uses": {
+      "value": [
+        "all-round",
+        "beginner"
+      ],
+      "quote": "Univerzální pohodlná lezečka, určená zejména pro začínající a rekreační lezce.",
+      "source": "https://www.triop.cz/produkt/start/"
+    },
+    "price": {
+      "value": {
+        "amount": 1720,
+        "currency": "CZK"
+      },
+      "quote": "1 720,00 Kč",
+      "source": "https://www.triop.cz/produkt/start/"
+    },
+    "notes": "gender U: only one version of this model is listed on triop.cz. price: list 1 720 Kč (sale 1 190 Kč). Closure not stated."
+  },
+  {
+    "brand": "Triop",
+    "model": "Tango",
+    "url": "https://www.triop.cz/produkt/tango/",
+    "gender": {
+      "value": "MW",
+      "quote": "Lezečka / TANGO LADY",
+      "source": "https://www.triop.cz/produkt/tango-lady/"
+    },
+    "closure": {
+      "value": "V",
+      "quote": "Komfortní zapínání na suchý zip",
+      "source": "https://www.triop.cz/produkt/tango/"
+    },
+    "width": {
+      "value": null
+    },
+    "volume": {
+      "value": null
+    },
+    "asymmetry": {
+      "value": 2,
+      "quote": "středně asymetrická a prohnutá konstrukce umožňují celodenní lezení",
+      "source": "https://www.triop.cz/produkt/tango/"
+    },
+    "downturn": {
+      "value": 2,
+      "quote": "středně asymetrická a prohnutá konstrukce umožňují celodenní lezení",
+      "source": "https://www.triop.cz/produkt/tango/"
+    },
+    "stiffness": {
+      "value": null
+    },
+    "rubber": {
+      "value": "Cling",
+      "quote": "Podešev: CLING, 4 mm",
+      "source": "https://www.triop.cz/produkt/tango/"
+    },
+    "uses": {
+      "value": [
+        "all-round",
+        "gym"
+      ],
+      "quote": "určen pro všestranné lezení na umělých stěnách i skalách",
+      "source": "https://www.triop.cz/produkt/tango/"
+    },
+    "price": {
+      "value": {
+        "amount": 1860,
+        "currency": "CZK"
+      },
+      "quote": "1 860,00 Kč",
+      "source": "https://www.triop.cz/produkt/tango/"
+    },
+    "notes": "'středně' (moderately) asymmetric and downturned -> 2/2. price: list 1 860 Kč (sale 1 460 Kč)."
+  },
+  {
+    "brand": "Triop",
+    "model": "Zumba VCR",
+    "url": "https://www.triop.cz/produkt/lezecka-zumba-vcr/",
+    "gender": {
+      "value": "U",
+      "quote": "Lezečka / Zumba VCR",
+      "source": "https://www.triop.cz/produkt/lezecka-zumba-vcr/"
+    },
+    "closure": {
+      "value": "V",
+      "quote": "Má dvojitý systém zapínání na suchý zip",
+      "source": "https://www.triop.cz/produkt/lezecka-zumba-vcr/"
+    },
+    "width": {
+      "value": "W",
+      "quote": "vylepšenou verzi modelu Zumba Vcr na širším kopytě",
+      "source": "https://www.triop.cz/produkt/lezecka-zumba-vcr/"
+    },
+    "volume": {
+      "value": null
+    },
+    "asymmetry": {
+      "value": null
+    },
+    "downturn": {
+      "value": null
+    },
+    "stiffness": {
+      "value": null
+    },
+    "rubber": {
+      "value": "Cling",
+      "quote": "Podešev: CLING šedá, 4 mm",
+      "source": "https://www.triop.cz/produkt/lezecka-zumba-vcr/"
+    },
+    "uses": {
+      "value": [
+        "beginner",
+        "gym"
+      ],
+      "quote": "pro začínající lezce pro lezení na umělé stěně",
+      "source": "https://www.triop.cz/produkt/lezecka-zumba-vcr/"
+    },
+    "price": {
+      "value": {
+        "amount": 1830,
+        "currency": "CZK"
+      },
+      "quote": "1 830,00 Kč",
+      "source": "https://www.triop.cz/produkt/lezecka-zumba-vcr/"
+    },
+    "notes": "gender U: only one version of this model is listed on triop.cz. width: 'širší kopyto' (wider last) -> W. Stiffness null: only comparative 'tvrdší mezistélkou'."
+  },
+  {
+    "brand": "Triop",
+    "model": "Kova",
+    "url": "https://www.triop.cz/produkt/kova/",
+    "gender": {
+      "value": "U",
+      "quote": "Lezečka / KOVA",
+      "source": "https://www.triop.cz/produkt/kova/"
+    },
+    "closure": {
+      "value": null
+    },
+    "width": {
+      "value": null
+    },
+    "volume": {
+      "value": null
+    },
+    "asymmetry": {
+      "value": null
+    },
+    "downturn": {
+      "value": null
+    },
+    "stiffness": {
+      "value": 3,
+      "quote": "se středně tvrdou mezistélkou po celé délce",
+      "source": "https://www.triop.cz/produkt/kova/"
+    },
+    "rubber": {
+      "value": "Cling",
+      "quote": "Podešev: CLING, 4 mm",
+      "source": "https://www.triop.cz/produkt/kova/"
+    },
+    "uses": {
+      "value": [
+        "multipitch",
+        "crack"
+      ],
+      "quote": "poskytuje komfort v dlouhých cestách a ve spárách",
+      "source": "https://www.triop.cz/produkt/kova/"
+    },
+    "price": {
+      "value": {
+        "amount": 2050,
+        "currency": "CZK"
+      },
+      "quote": "2 050,00 Kč",
+      "source": "https://www.triop.cz/produkt/kova/"
+    },
+    "notes": "gender U: only one version of this model is listed on triop.cz. 'středně tvrdá mezistélka' (medium-stiff full-length midsole) -> 3. Closure not stated."
+  },
+  {
+    "brand": "Triop",
+    "model": "Rental VCR",
+    "url": "https://www.triop.cz/produkt/rental-vcr/",
+    "gender": {
+      "value": "U",
+      "quote": "Lezečka / RENTAL VCR",
+      "source": "https://www.triop.cz/produkt/rental-vcr/"
+    },
+    "closure": {
+      "value": "V",
+      "quote": "Lezečka / RENTAL VCR",
+      "source": "https://www.triop.cz/produkt/rental-vcr/"
+    },
+    "width": {
+      "value": null
+    },
+    "volume": {
+      "value": null
+    },
+    "asymmetry": {
+      "value": null
+    },
+    "downturn": {
+      "value": null
+    },
+    "stiffness": {
+      "value": null
+    },
+    "rubber": {
+      "value": "Cling",
+      "quote": "Podešev: CLING, 5 mm",
+      "source": "https://www.triop.cz/produkt/rental-vcr/"
+    },
+    "uses": {
+      "value": [
+        "beginner",
+        "gym"
+      ],
+      "quote": "vhodný jak pro začínající lezce ... Ocení jej také horolezecké školy a provozovatelé umělých stěn.",
+      "source": "https://www.triop.cz/produkt/rental-vcr/"
+    },
+    "price": {
+      "value": {
+        "amount": 1870,
+        "currency": "CZK"
+      },
+      "quote": "1 870,00 Kč",
+      "source": "https://www.triop.cz/produkt/rental-vcr/"
+    },
+    "notes": "gender U: only one version of this model is listed on triop.cz. closure from 'VCR' in the official name. price: list 1 870 Kč (sale 1 589 Kč)."
+  }
+]

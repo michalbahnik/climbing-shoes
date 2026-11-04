@@ -1,0 +1,329 @@
+[
+  {
+    "brand": "Simond",
+    "model": "First Klimb",
+    "url": "https://www.simond.com/fr-FR/product/climbing-shoe-first-klimb-grey_303601--c382m8518575",
+    "gender": {
+      "value": "U",
+      "quote": "CHAUSSON D'ESCALADE - FIRST KLIMB GRIS",
+      "source": "https://www.simond.com/fr-FR/browse/women-climbing-shoes"
+    },
+    "closure": {
+      "value": "V",
+      "quote": "Le scratch facilite l'enfilage.",
+      "source": "https://www.simond.com/fr-FR/product/climbing-shoe-first-klimb-grey_303601--c382m8518575"
+    },
+    "width": {
+      "value": null
+    },
+    "volume": {
+      "value": null
+    },
+    "asymmetry": {
+      "value": 0,
+      "quote": "une forme droite, au profil plat, aligné sur la forme naturelle du pied",
+      "source": "https://www.simond.com/fr-FR/product/climbing-shoe-first-klimb-grey_303601--c382m8518575"
+    },
+    "downturn": {
+      "value": 0,
+      "quote": "une forme droite, au profil plat, aligné sur la forme naturelle du pied",
+      "source": "https://www.simond.com/fr-FR/product/climbing-shoe-first-klimb-grey_303601--c382m8518575"
+    },
+    "stiffness": {
+      "value": 4,
+      "quote": "Sa semelle rigide assure maintien et force sur les prises.",
+      "source": "https://www.simond.com/fr-FR/product/climbing-shoe-first-klimb-grey_303601--c382m8518575"
+    },
+    "rubber": {
+      "value": null
+    },
+    "uses": {
+      "value": [
+        "beginner"
+      ],
+      "quote": "Vous débutez l'escalade occasionnellement ?",
+      "source": "https://www.simond.com/fr-FR/product/climbing-shoe-first-klimb-grey_303601--c382m8518575"
+    },
+    "price": {
+      "value": {
+        "amount": 44.99,
+        "currency": "EUR"
+      },
+      "quote": "44,99 € prix de vente conseillé",
+      "source": "https://www.simond.com/fr-FR/product/climbing-shoe-first-klimb-grey_303601--c382m8518575"
+    },
+    "notes": "Gender U: one product, listed under both the men's and women's climbing-shoe categories on simond.com (fr-FR). Asymmetry 0 from 'forme droite', downturn 0 from 'profil plat'. Stiffness 4 from 'semelle rigide'. Rubber only 'gomme résinée' (generic), null."
+  },
+  {
+    "brand": "Simond",
+    "model": "Klimb",
+    "url": "https://www.simond.com/fr-FR/product/climbing-shoes-klimb-comet-grey_339875--c356c443c356m8871107",
+    "gender": {
+      "value": "U",
+      "quote": "Chausson d'escalade - Klimb gris comète",
+      "source": "https://www.simond.com/fr-FR/browse/women-climbing-shoes"
+    },
+    "closure": {
+      "value": "V",
+      "quote": "2 sangles inversées, en scratch, pour ajuster le serrage avec précision.",
+      "source": "https://www.simond.com/fr-FR/product/climbing-shoes-klimb-comet-grey_339875--c356c443c356m8871107"
+    },
+    "width": {
+      "value": null
+    },
+    "volume": {
+      "value": null
+    },
+    "asymmetry": {
+      "value": null
+    },
+    "downturn": {
+      "value": 1,
+      "quote": "La forme du chausson est plate et peu cambrée.",
+      "source": "https://www.simond.com/fr-FR/product/climbing-shoes-klimb-comet-grey_339875--c356c443c356m8871107"
+    },
+    "stiffness": {
+      "value": null
+    },
+    "rubber": {
+      "value": "Vibram XS Grip",
+      "quote": "Gomme XS GRIP Vibram® 4 mm",
+      "source": "https://www.simond.com/fr-FR/product/climbing-shoes-klimb-comet-grey_339875--c356c443c356m8871107"
+    },
+    "uses": {
+      "value": [
+        "beginner",
+        "all-round"
+      ],
+      "quote": "conçu ce chausson pour apprendre et progresser en escalade, quel que soit le terrain.",
+      "source": "https://www.simond.com/fr-FR/product/climbing-shoes-klimb-comet-grey_339875--c356c443c356m8871107"
+    },
+    "price": {
+      "value": {
+        "amount": 64.99,
+        "currency": "EUR"
+      },
+      "quote": "64,99 € prix de vente conseillé",
+      "source": "https://www.simond.com/fr-FR/product/climbing-shoes-klimb-comet-grey_339875--c356c443c356m8871107"
+    },
+    "notes": "Gender U: one product, listed under both the men's and women's climbing-shoe categories on simond.com (fr-FR). Downturn: 'plate et peu cambrée' mapped to 1 (peu cambrée = low camber). 'gomme souple' describes the rubber, not shoe stiffness."
+  },
+  {
+    "brand": "Simond",
+    "model": "Vertika",
+    "url": "https://www.simond.com/fr-FR/product/chaussons-d-escalade-techniques-et-precis-homme-vertika_373824--c382m8967157",
+    "gender": {
+      "value": "MW",
+      "quote": "Chaussons d'escalade techniques et précis femme, Vertika",
+      "source": "https://www.simond.com/fr-FR/product/chaussons-d-escalade-techniques-et-precis-femme-vertika_374695--c1c40m8969004"
+    },
+    "closure": {
+      "value": "V",
+      "quote": "Serrage par 2 bandes auto-agrippantes pour se chausser et déchausser rapidement",
+      "source": "https://www.simond.com/fr-FR/product/chaussons-d-escalade-techniques-et-precis-homme-vertika_373824--c382m8967157"
+    },
+    "width": {
+      "value": null
+    },
+    "volume": {
+      "value": null
+    },
+    "asymmetry": {
+      "value": 1,
+      "quote": "Forme légèrement asymétrique et pointe fine pour plus de précision",
+      "source": "https://www.simond.com/fr-FR/product/chaussons-d-escalade-techniques-et-precis-homme-vertika_373824--c382m8967157"
+    },
+    "downturn": {
+      "value": 1,
+      "quote": "La forme du chausson est légèrement cambrée et asymétrique.",
+      "source": "https://www.simond.com/fr-FR/product/chaussons-d-escalade-techniques-et-precis-homme-vertika_373824--c382m8967157"
+    },
+    "stiffness": {
+      "value": null
+    },
+    "rubber": {
+      "value": "Vibram XS Grip",
+      "quote": "La semelle est fabriquée dans une gomme Vibram XS GRIP de 4 mm d’épaisseur.",
+      "source": "https://www.simond.com/fr-FR/product/chaussons-d-escalade-techniques-et-precis-homme-vertika_373824--c382m8967157"
+    },
+    "uses": {
+      "value": [
+        "all-round",
+        "sport"
+      ],
+      "quote": "ce qui la rend polyvalente, avec une préférence pour la voie.",
+      "source": "https://www.simond.com/fr-FR/product/chaussons-d-escalade-techniques-et-precis-homme-vertika_373824--c382m8967157"
+    },
+    "price": {
+      "value": {
+        "amount": 89.99,
+        "currency": "EUR"
+      },
+      "quote": "89,99 € prix de vente conseillé",
+      "source": "https://www.simond.com/fr-FR/product/chaussons-d-escalade-techniques-et-precis-homme-vertika_373824--c382m8967157"
+    },
+    "notes": "Separate 'homme' and 'femme' products. Sport from 'préférence pour la voie' (route climbing). Width: only relative ('taillant légèrement plus étroit que le Vertika Soft'), null. Stiffness not graded."
+  },
+  {
+    "brand": "Simond",
+    "model": "Vertika Soft",
+    "url": "https://www.simond.com/fr-FR/product/men-s-climbing-technical-and-flexible-shoes-vertika-soft-green_354043--c311c339m8916466",
+    "gender": {
+      "value": "MW",
+      "quote": "Chaussons d'escalade techniques et souples femme, Vertika Soft gris",
+      "source": "https://www.simond.com/fr-FR/product/women-s-climbing-technical-and-flexible-shoes-vertika-soft-grey_359255--c193m8916468"
+    },
+    "closure": {
+      "value": null
+    },
+    "width": {
+      "value": null
+    },
+    "volume": {
+      "value": null
+    },
+    "asymmetry": {
+      "value": 1,
+      "quote": "Forme légèrement asymétrique et cambrée pour plus de précision.",
+      "source": "https://www.simond.com/fr-FR/product/men-s-climbing-technical-and-flexible-shoes-vertika-soft-green_354043--c311c339m8916466"
+    },
+    "downturn": {
+      "value": 1,
+      "quote": "Forme légèrement asymétrique et cambrée pour plus de précision.",
+      "source": "https://www.simond.com/fr-FR/product/men-s-climbing-technical-and-flexible-shoes-vertika-soft-green_354043--c311c339m8916466"
+    },
+    "stiffness": {
+      "value": 2,
+      "quote": "Chausson d'escalade, technique et souple",
+      "source": "https://www.simond.com/fr-FR/product/men-s-climbing-technical-and-flexible-shoes-vertika-soft-green_354043--c311c339m8916466"
+    },
+    "rubber": {
+      "value": "Vibram XS Grip",
+      "quote": "Semelle XS GRIP Vibram® 4 mm.",
+      "source": "https://www.simond.com/fr-FR/product/men-s-climbing-technical-and-flexible-shoes-vertika-soft-green_354043--c311c339m8916466"
+    },
+    "uses": {
+      "value": [
+        "gym",
+        "bouldering"
+      ],
+      "quote": "spécialement en salle / La version Soft, plus souple, s’adapte mieux aux volumes et sera idéale pour le bloc.",
+      "source": "https://www.simond.com/fr-FR/product/men-s-climbing-technical-and-flexible-shoes-vertika-soft-green_354043--c311c339m8916466"
+    },
+    "price": {
+      "value": {
+        "amount": 89.99,
+        "currency": "EUR"
+      },
+      "quote": "89,99 € prix de vente conseillé",
+      "source": "https://www.simond.com/fr-FR/product/men-s-climbing-technical-and-flexible-shoes-vertika-soft-green_354043--c311c339m8916466"
+    },
+    "notes": "'idéale pour le bloc' is on the Vertika page (https://www.simond.com/fr-FR/product/chaussons-d-escalade-techniques-et-precis-homme-vertika_373824--c382m8967157). Closure not stated (page mentions only 'Forme ballerine'). Width 'largeur normale à un peu large' spans two values, null. Stiffness 'souple' mapped to 2."
+  },
+  {
+    "brand": "Simond",
+    "model": "Edge Soft",
+    "url": "https://www.simond.com/fr-FR/product/climbing-shoes-edge-soft-white-black_346802--c382c406c81m8801502",
+    "gender": {
+      "value": "U",
+      "quote": "CHAUSSONS D'ESCALADE - EDGE SOFT  BLANC/ NOIR",
+      "source": "https://www.simond.com/fr-FR/browse/women-climbing-shoes"
+    },
+    "closure": {
+      "value": "V",
+      "quote": "Un scratch large et puissant permet de bien verrouiller le pied lorsque vous fermez le velcro.",
+      "source": "https://www.simond.com/fr-FR/product/climbing-shoes-edge-soft-white-black_346802--c382c406c81m8801502"
+    },
+    "width": {
+      "value": null
+    },
+    "volume": {
+      "value": null
+    },
+    "asymmetry": {
+      "value": null
+    },
+    "downturn": {
+      "value": null
+    },
+    "stiffness": {
+      "value": 2,
+      "quote": "SOUPLE MAIS PAS QUE... La souplesse permet de maximiser l'adhérence",
+      "source": "https://www.simond.com/fr-FR/product/climbing-shoes-edge-soft-white-black_346802--c382c406c81m8801502"
+    },
+    "rubber": {
+      "value": "Vibram XS Grip",
+      "quote": "nous avons sélectionné la gomme XS GRIP Vibram® 4 mm",
+      "source": "https://www.simond.com/fr-FR/product/climbing-shoes-edge-soft-white-black_346802--c382c406c81m8801502"
+    },
+    "uses": {
+      "value": null
+    },
+    "price": {
+      "value": {
+        "amount": 109.99,
+        "currency": "EUR"
+      },
+      "quote": "109,99 € prix de vente conseillé",
+      "source": "https://www.simond.com/fr-FR/product/climbing-shoes-edge-soft-white-black_346802--c382c406c81m8801502"
+    },
+    "notes": "Gender U: one product, listed under both the men's and women's climbing-shoe categories on simond.com (fr-FR). Shape 'asymétrique, cambrée et griffée' without degree, asymmetry/downturn null. Stiffness 'souple' mapped to 2. Uses not stated explicitly ('haut niveau', 'volumes')."
+  },
+  {
+    "brand": "Simond",
+    "model": "Edge Slipper Soft",
+    "url": "https://www.simond.com/fr-FR/product/chaussons-d-escalade-edge-slipper-soft-bleu-vert_304250--c177c198m8518549",
+    "gender": {
+      "value": "U",
+      "quote": "CHAUSSONS D'ESCALADE - EDGE SLIPPER SOFT BLEU/VERT",
+      "source": "https://www.simond.com/fr-FR/browse/women-climbing-shoes"
+    },
+    "closure": {
+      "value": "S",
+      "quote": "Ballerine élastiquée pour se chausser /déchausser facilement entre bloc et voie.",
+      "source": "https://www.simond.com/fr-FR/product/chaussons-d-escalade-edge-slipper-soft-bleu-vert_304250--c177c198m8518549"
+    },
+    "width": {
+      "value": null
+    },
+    "volume": {
+      "value": null
+    },
+    "asymmetry": {
+      "value": 3,
+      "quote": "Forme ayant une  forte cambrure, une  forte asymétrie",
+      "source": "https://www.simond.com/fr-FR/product/chaussons-d-escalade-edge-slipper-soft-bleu-vert_304250--c177c198m8518549"
+    },
+    "downturn": {
+      "value": 3,
+      "quote": "Forme ayant une  forte cambrure, une  forte asymétrie",
+      "source": "https://www.simond.com/fr-FR/product/chaussons-d-escalade-edge-slipper-soft-bleu-vert_304250--c177c198m8518549"
+    },
+    "stiffness": {
+      "value": 1,
+      "quote": "Très souple, il garantit un maximum de sensations",
+      "source": "https://www.simond.com/fr-FR/product/chaussons-d-escalade-edge-slipper-soft-bleu-vert_304250--c177c198m8518549"
+    },
+    "rubber": {
+      "value": "Vibram XS Grip",
+      "quote": "Semelle en Vibram XS grip.",
+      "source": "https://www.simond.com/fr-FR/product/chaussons-d-escalade-edge-slipper-soft-bleu-vert_304250--c177c198m8518549"
+    },
+    "uses": {
+      "value": [
+        "gym"
+      ],
+      "quote": "pour performer spécialement en salle sur les volumes et en devers.",
+      "source": "https://www.simond.com/fr-FR/product/chaussons-d-escalade-edge-slipper-soft-bleu-vert_304250--c177c198m8518549"
+    },
+    "price": {
+      "value": {
+        "amount": 59.0,
+        "currency": "EUR"
+      },
+      "quote": "59,00 € prix de vente conseillé",
+      "source": "https://www.simond.com/fr-FR/product/chaussons-d-escalade-edge-slipper-soft-bleu-vert_304250--c177c198m8518549"
+    },
+    "notes": "Gender U: one product, listed under both the men's and women's climbing-shoe categories on simond.com (fr-FR). Closure S: brand calls it a slipper ('Ballerine élastiquée', name 'Slipper') with a single strap ('1 mono scratch')."
+  }
+]

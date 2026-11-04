@@ -1,0 +1,1806 @@
+[
+  {
+    "brand": "La Sportiva",
+    "model": "Solution",
+    "url": "https://www.lasportivausa.com/products/solution",
+    "gender": {
+      "value": "MW",
+      "quote": "Solution Women's",
+      "source": "https://www.lasportivausa.com/products/solution-womens"
+    },
+    "closure": {
+      "value": "V",
+      "quote": "Fast Lacing System™ lets you tailor the quick closing hook and loop closure",
+      "source": "https://www.lasportivausa.com/products/solution"
+    },
+    "width": {
+      "value": null
+    },
+    "volume": {
+      "value": null
+    },
+    "asymmetry": {
+      "value": 3,
+      "quote": "High asymmetry, aggressive downturned shape",
+      "source": "https://www.lasportivausa.com/products/solution"
+    },
+    "downturn": {
+      "value": 3,
+      "quote": "High asymmetry, aggressive downturned shape",
+      "source": "https://www.lasportivausa.com/products/solution"
+    },
+    "stiffness": {
+      "value": 3,
+      "quote": "RIGIDITY: 3/5",
+      "source": "https://www.lasportivausa.com/products/solution"
+    },
+    "rubber": {
+      "value": "Vibram® XS Grip2™",
+      "quote": "3.5 mm Vibram® XS Grip2™",
+      "source": "https://www.lasportivausa.com/products/solution"
+    },
+    "uses": {
+      "value": [
+        "sport",
+        "bouldering",
+        "gym"
+      ],
+      "quote": "Ideal terrain: Overhanging sport routes, bouldering, gym climbing and technical face climbing",
+      "source": "https://www.lasportivausa.com/products/solution"
+    },
+    "price": {
+      "value": {
+        "amount": 219,
+        "currency": "USD"
+      },
+      "quote": "$219.00",
+      "source": "https://www.lasportivausa.com/products/solution"
+    },
+    "notes": "Spec SHAPE/FIT words mapped: high asym 3, medium 2, low 1; aggressive downturn 3, moderate 2, light/slight 1, flat 0. RIGIDITY x/5 used directly as stiffness 1-5. Price from lasportivausa.com (USD); lasportiva.com (EU store) returns a bot challenge page, so no EUR price."
+  },
+  {
+    "brand": "La Sportiva",
+    "model": "Solution Comp",
+    "url": "https://www.lasportivausa.com/products/solution-comp",
+    "gender": {
+      "value": "MW",
+      "quote": "Solution Comp Women's",
+      "source": "https://www.lasportivausa.com/products/solution-comp-womens"
+    },
+    "closure": {
+      "value": "V",
+      "quote": "Fast Lacing System™ lets you tailor the quick closing hook and loop closure",
+      "source": "https://www.lasportivausa.com/products/solution"
+    },
+    "width": {
+      "value": null
+    },
+    "volume": {
+      "value": null
+    },
+    "asymmetry": {
+      "value": 3,
+      "quote": "High asymmetry, aggressive downturned shape",
+      "source": "https://www.lasportivausa.com/products/solution-comp"
+    },
+    "downturn": {
+      "value": 3,
+      "quote": "High asymmetry, aggressive downturned shape",
+      "source": "https://www.lasportivausa.com/products/solution-comp"
+    },
+    "stiffness": {
+      "value": 2,
+      "quote": "RIGIDITY: 2/5",
+      "source": "https://www.lasportivausa.com/products/solution-comp"
+    },
+    "rubber": {
+      "value": "Vibram® XS Grip2™",
+      "quote": "3.5mm Vibram® XS Grip2™",
+      "source": "https://www.lasportivausa.com/products/solution-comp"
+    },
+    "uses": {
+      "value": null
+    },
+    "price": {
+      "value": {
+        "amount": 229,
+        "currency": "USD"
+      },
+      "quote": "$229.00",
+      "source": "https://www.lasportivausa.com/products/solution-comp"
+    },
+    "notes": "Closure: page lists 'Fast Lacing System™'; the Solution page defines it as a hook and loop closure. Spec SHAPE/FIT words mapped: high asym 3, medium 2, low 1; aggressive downturn 3, moderate 2, light/slight 1, flat 0. RIGIDITY x/5 used directly as stiffness 1-5. Price from lasportivausa.com (USD); lasportiva.com (EU store) returns a bot challenge page, so no EUR price."
+  },
+  {
+    "brand": "La Sportiva",
+    "model": "Skwama",
+    "url": "https://www.lasportivausa.com/products/skwama",
+    "gender": {
+      "value": "MW",
+      "quote": "Skwama Women's",
+      "source": "https://www.lasportivausa.com/products/skwama-womens"
+    },
+    "closure": {
+      "value": "S",
+      "quote": "Single-strap slipper for technical routes and boulder problems",
+      "source": "https://www.lasportivausa.com/products/skwama"
+    },
+    "width": {
+      "value": null
+    },
+    "volume": {
+      "value": null
+    },
+    "asymmetry": {
+      "value": 2,
+      "quote": "Medium asymmetry, aggressive downturned shape",
+      "source": "https://www.lasportivausa.com/products/skwama"
+    },
+    "downturn": {
+      "value": 3,
+      "quote": "Medium asymmetry, aggressive downturned shape",
+      "source": "https://www.lasportivausa.com/products/skwama"
+    },
+    "stiffness": {
+      "value": 2,
+      "quote": "RIGIDITY: 2/5",
+      "source": "https://www.lasportivausa.com/products/skwama"
+    },
+    "rubber": {
+      "value": "Vibram® XS Grip2™",
+      "quote": "4mm Vibram® XS Grip2™",
+      "source": "https://www.lasportivausa.com/products/skwama"
+    },
+    "uses": {
+      "value": [
+        "bouldering"
+      ],
+      "quote": "Single-strap slipper for technical routes and boulder problems",
+      "source": "https://www.lasportivausa.com/products/skwama"
+    },
+    "price": {
+      "value": {
+        "amount": 219,
+        "currency": "USD"
+      },
+      "quote": "$219.00",
+      "source": "https://www.lasportivausa.com/products/skwama"
+    },
+    "notes": "Spec SHAPE/FIT words mapped: high asym 3, medium 2, low 1; aggressive downturn 3, moderate 2, light/slight 1, flat 0. RIGIDITY x/5 used directly as stiffness 1-5. Price from lasportivausa.com (USD); lasportiva.com (EU store) returns a bot challenge page, so no EUR price."
+  },
+  {
+    "brand": "La Sportiva",
+    "model": "Skwama Vegan",
+    "url": "https://www.lasportivausa.com/products/skwama-vegan",
+    "gender": {
+      "value": "MW",
+      "quote": "Skwama Vegan Women's",
+      "source": "https://www.lasportivausa.com/products/skwama-vegan-womens"
+    },
+    "closure": {
+      "value": "S",
+      "quote": "Single-strap slipper for technical routes and boulder problems",
+      "source": "https://www.lasportivausa.com/products/skwama-vegan"
+    },
+    "width": {
+      "value": null
+    },
+    "volume": {
+      "value": null
+    },
+    "asymmetry": {
+      "value": 2,
+      "quote": "Medium asymmetry, aggressive downturned shape",
+      "source": "https://www.lasportivausa.com/products/skwama-vegan"
+    },
+    "downturn": {
+      "value": 3,
+      "quote": "Medium asymmetry, aggressive downturned shape",
+      "source": "https://www.lasportivausa.com/products/skwama-vegan"
+    },
+    "stiffness": {
+      "value": 2,
+      "quote": "RIGIDITY: 2/5",
+      "source": "https://www.lasportivausa.com/products/skwama-vegan"
+    },
+    "rubber": {
+      "value": "Vibram® XS Grip2™",
+      "quote": "4mm Vibram® XS Grip2™",
+      "source": "https://www.lasportivausa.com/products/skwama-vegan"
+    },
+    "uses": {
+      "value": [
+        "bouldering",
+        "vegan"
+      ],
+      "quote": "made entirely without animal-derived materials",
+      "source": "https://www.lasportivausa.com/products/skwama-vegan"
+    },
+    "price": {
+      "value": {
+        "amount": 219,
+        "currency": "USD"
+      },
+      "quote": "$219.00",
+      "source": "https://www.lasportivausa.com/products/skwama-vegan"
+    },
+    "notes": "Uses: bouldering from 'Single-strap slipper for technical routes and boulder problems'. Spec SHAPE/FIT words mapped: high asym 3, medium 2, low 1; aggressive downturn 3, moderate 2, light/slight 1, flat 0. RIGIDITY x/5 used directly as stiffness 1-5. Price from lasportivausa.com (USD); lasportiva.com (EU store) returns a bot challenge page, so no EUR price."
+  },
+  {
+    "brand": "La Sportiva",
+    "model": "Skwama Lite",
+    "url": "https://www.lasportivausa.com/products/skwama-lite",
+    "gender": {
+      "value": "MW",
+      "quote": "Skwama Lite Women's",
+      "source": "https://www.lasportivausa.com/products/skwama-lite-womens"
+    },
+    "closure": {
+      "value": "V",
+      "quote": "Single hook-and-loop closure system",
+      "source": "https://www.lasportivausa.com/products/skwama-lite"
+    },
+    "width": {
+      "value": null
+    },
+    "volume": {
+      "value": null
+    },
+    "asymmetry": {
+      "value": 2,
+      "quote": "Medium asymmetry, light downturned shape",
+      "source": "https://www.lasportivausa.com/products/skwama-lite"
+    },
+    "downturn": {
+      "value": 1,
+      "quote": "Medium asymmetry, light downturned shape",
+      "source": "https://www.lasportivausa.com/products/skwama-lite"
+    },
+    "stiffness": {
+      "value": 2,
+      "quote": "RIGIDITY: 2/5",
+      "source": "https://www.lasportivausa.com/products/skwama-lite"
+    },
+    "rubber": {
+      "value": "FriXion® Black",
+      "quote": "4mm FriXion® Black half-sole rubber",
+      "source": "https://www.lasportivausa.com/products/skwama-lite"
+    },
+    "uses": {
+      "value": [
+        "gym",
+        "bouldering",
+        "vegan"
+      ],
+      "quote": "training at the gym, working your first lead routes, or dialing in dynamic bouldering moves",
+      "source": "https://www.lasportivausa.com/products/skwama-lite"
+    },
+    "price": {
+      "value": {
+        "amount": 159,
+        "currency": "USD"
+      },
+      "quote": "$159.00",
+      "source": "https://www.lasportivausa.com/products/skwama-lite"
+    },
+    "notes": "Vegan from 'Made without animal-derived materials'. Spec SHAPE/FIT words mapped: high asym 3, medium 2, low 1; aggressive downturn 3, moderate 2, light/slight 1, flat 0. RIGIDITY x/5 used directly as stiffness 1-5. Price from lasportivausa.com (USD); lasportiva.com (EU store) returns a bot challenge page, so no EUR price."
+  },
+  {
+    "brand": "La Sportiva",
+    "model": "Theory",
+    "url": "https://www.lasportivausa.com/products/theory",
+    "gender": {
+      "value": "MW",
+      "quote": "Theory Women's",
+      "source": "https://www.lasportivausa.com/products/theory-womens"
+    },
+    "closure": {
+      "value": "S",
+      "quote": "An aggressive yet ultra-sensitive slipper with a single hook and loop closure",
+      "source": "https://www.lasportivausa.com/products/theory"
+    },
+    "width": {
+      "value": null
+    },
+    "volume": {
+      "value": null
+    },
+    "asymmetry": {
+      "value": null
+    },
+    "downturn": {
+      "value": null
+    },
+    "stiffness": {
+      "value": 3,
+      "quote": "RIGIDITY: 3/5",
+      "source": "https://www.lasportivausa.com/products/theory"
+    },
+    "rubber": {
+      "value": "Vibram® XS Grip2™",
+      "quote": "Differentiated 1.9-4mm Vibram XS Grip-2™ Rubber",
+      "source": "https://www.lasportivausa.com/products/theory"
+    },
+    "uses": {
+      "value": [
+        "competition"
+      ],
+      "quote": "to adapt to the futuristic footwork required for modern competition climbing",
+      "source": "https://www.lasportivausa.com/products/theory"
+    },
+    "price": {
+      "value": {
+        "amount": 219,
+        "currency": "USD"
+      },
+      "quote": "$219.00",
+      "source": "https://www.lasportivausa.com/products/theory"
+    },
+    "notes": "No asymmetry/downturn spec on page. Spec SHAPE/FIT words mapped: high asym 3, medium 2, low 1; aggressive downturn 3, moderate 2, light/slight 1, flat 0. RIGIDITY x/5 used directly as stiffness 1-5. Price from lasportivausa.com (USD); lasportiva.com (EU store) returns a bot challenge page, so no EUR price."
+  },
+  {
+    "brand": "La Sportiva",
+    "model": "Mantra",
+    "url": "https://www.lasportivausa.com/products/mantra",
+    "gender": {
+      "value": "U",
+      "quote": "Mantra",
+      "source": "https://www.lasportivausa.com/products/mantra"
+    },
+    "closure": {
+      "value": null
+    },
+    "width": {
+      "value": null
+    },
+    "volume": {
+      "value": null
+    },
+    "asymmetry": {
+      "value": 3,
+      "quote": "FIT: High asymmetry",
+      "source": "https://www.lasportivausa.com/products/mantra"
+    },
+    "downturn": {
+      "value": null
+    },
+    "stiffness": {
+      "value": 1,
+      "quote": "RIGIDITY: 1/5",
+      "source": "https://www.lasportivausa.com/products/mantra"
+    },
+    "rubber": {
+      "value": "Vibram® XS Grip2™",
+      "quote": "Differentiated 1-2mm Vibram® XS Grip2™",
+      "source": "https://www.lasportivausa.com/products/mantra"
+    },
+    "uses": {
+      "value": [
+        "competition",
+        "gym"
+      ],
+      "quote": "For modern competition climbing and futuristic maneuvers",
+      "source": "https://www.lasportivausa.com/products/mantra"
+    },
+    "price": {
+      "value": {
+        "amount": 189,
+        "currency": "USD"
+      },
+      "quote": "$189.00",
+      "source": "https://www.lasportivausa.com/products/mantra"
+    },
+    "notes": "Gender U: single version on official store. Closure not stated (elastic upper, 'Slip your foot in'). Gym from 'increased grip on large volumes in the gym'. Spec SHAPE/FIT words mapped: high asym 3, medium 2, low 1; aggressive downturn 3, moderate 2, light/slight 1, flat 0. RIGIDITY x/5 used directly as stiffness 1-5. Price from lasportivausa.com (USD); lasportiva.com (EU store) returns a bot challenge page, so no EUR price."
+  },
+  {
+    "brand": "La Sportiva",
+    "model": "Mandala",
+    "url": "https://www.lasportivausa.com/products/mandala",
+    "gender": {
+      "value": "U",
+      "quote": "Mandala",
+      "source": "https://www.lasportivausa.com/products/mandala"
+    },
+    "closure": {
+      "value": "S",
+      "quote": "Single strap slipper design",
+      "source": "https://www.lasportivausa.com/products/mandala"
+    },
+    "width": {
+      "value": null
+    },
+    "volume": {
+      "value": null
+    },
+    "asymmetry": {
+      "value": 3,
+      "quote": "FIT: High asymmetry",
+      "source": "https://www.lasportivausa.com/products/mandala"
+    },
+    "downturn": {
+      "value": null
+    },
+    "stiffness": {
+      "value": 3,
+      "quote": "RIGIDITY: 3/5",
+      "source": "https://www.lasportivausa.com/products/mandala"
+    },
+    "rubber": {
+      "value": "Vibram® XS Grip2™",
+      "quote": "3mm Vibram® XS Grip2™",
+      "source": "https://www.lasportivausa.com/products/mandala"
+    },
+    "uses": {
+      "value": null
+    },
+    "price": {
+      "value": {
+        "amount": 229,
+        "currency": "USD"
+      },
+      "quote": "$229.00",
+      "source": "https://www.lasportivausa.com/products/mandala"
+    },
+    "notes": "Gender U: single version on official store. Spec SHAPE/FIT words mapped: high asym 3, medium 2, low 1; aggressive downturn 3, moderate 2, light/slight 1, flat 0. RIGIDITY x/5 used directly as stiffness 1-5. Price from lasportivausa.com (USD); lasportiva.com (EU store) returns a bot challenge page, so no EUR price."
+  },
+  {
+    "brand": "La Sportiva",
+    "model": "Futura",
+    "url": "https://www.lasportivausa.com/products/futura",
+    "gender": {
+      "value": "U",
+      "quote": "Futura",
+      "source": "https://www.lasportivausa.com/products/futura"
+    },
+    "closure": {
+      "value": "V",
+      "quote": "Fast Lacing System™ lets you tailor the quick closing hook and loop closure",
+      "source": "https://www.lasportivausa.com/products/solution"
+    },
+    "width": {
+      "value": null
+    },
+    "volume": {
+      "value": null
+    },
+    "asymmetry": {
+      "value": 3,
+      "quote": "FIT: High asymmetry",
+      "source": "https://www.lasportivausa.com/products/futura"
+    },
+    "downturn": {
+      "value": null
+    },
+    "stiffness": {
+      "value": 3,
+      "quote": "RIGIDITY: 3/5",
+      "source": "https://www.lasportivausa.com/products/futura"
+    },
+    "rubber": {
+      "value": "Vibram® XS Grip2™",
+      "quote": "3 mm Vibram® XS Grip2™",
+      "source": "https://www.lasportivausa.com/products/futura"
+    },
+    "uses": {
+      "value": [
+        "gym"
+      ],
+      "quote": "high performer in indoor and outdoor settings",
+      "source": "https://www.lasportivausa.com/products/futura"
+    },
+    "price": {
+      "value": {
+        "amount": 219,
+        "currency": "USD"
+      },
+      "quote": "$219.00",
+      "source": "https://www.lasportivausa.com/products/futura"
+    },
+    "notes": "Gender U: single version on official store. Closure: page lists 'Patented Fast Lacing System™'; the Solution page defines it as hook and loop. Spec SHAPE/FIT words mapped: high asym 3, medium 2, low 1; aggressive downturn 3, moderate 2, light/slight 1, flat 0. RIGIDITY x/5 used directly as stiffness 1-5. Price from lasportivausa.com (USD); lasportiva.com (EU store) returns a bot challenge page, so no EUR price."
+  },
+  {
+    "brand": "La Sportiva",
+    "model": "Genius",
+    "url": "https://www.lasportivausa.com/products/genius",
+    "gender": {
+      "value": "U",
+      "quote": "Genius",
+      "source": "https://www.lasportivausa.com/products/genius"
+    },
+    "closure": {
+      "value": "L",
+      "quote": "Lace-up comfort makes this shoe fit every type of foot",
+      "source": "https://www.lasportivausa.com/products/genius"
+    },
+    "width": {
+      "value": null
+    },
+    "volume": {
+      "value": null
+    },
+    "asymmetry": {
+      "value": 3,
+      "quote": "High asymmetry, aggressive downturned shape",
+      "source": "https://www.lasportivausa.com/products/genius"
+    },
+    "downturn": {
+      "value": 3,
+      "quote": "High asymmetry, aggressive downturned shape",
+      "source": "https://www.lasportivausa.com/products/genius"
+    },
+    "stiffness": {
+      "value": 3,
+      "quote": "RIGIDITY: 3/5",
+      "source": "https://www.lasportivausa.com/products/genius"
+    },
+    "rubber": {
+      "value": "Vibram® XS Grip2™",
+      "quote": "3mm Vibram® XS Grip2™",
+      "source": "https://www.lasportivausa.com/products/genius"
+    },
+    "uses": {
+      "value": null
+    },
+    "price": {
+      "value": {
+        "amount": 239,
+        "currency": "USD"
+      },
+      "quote": "$239.00",
+      "source": "https://www.lasportivausa.com/products/genius"
+    },
+    "notes": "Gender U: single version on official store. Spec SHAPE/FIT words mapped: high asym 3, medium 2, low 1; aggressive downturn 3, moderate 2, light/slight 1, flat 0. RIGIDITY x/5 used directly as stiffness 1-5. Price from lasportivausa.com (USD); lasportiva.com (EU store) returns a bot challenge page, so no EUR price."
+  },
+  {
+    "brand": "La Sportiva",
+    "model": "Ondra Comp",
+    "url": "https://www.lasportivausa.com/products/ondra-comp",
+    "gender": {
+      "value": "U",
+      "quote": "Ondra Comp",
+      "source": "https://www.lasportivausa.com/products/ondra-comp"
+    },
+    "closure": {
+      "value": null
+    },
+    "width": {
+      "value": null
+    },
+    "volume": {
+      "value": null
+    },
+    "asymmetry": {
+      "value": 3,
+      "quote": "High asymmetry, aggressive downturned shape",
+      "source": "https://www.lasportivausa.com/products/ondra-comp"
+    },
+    "downturn": {
+      "value": 3,
+      "quote": "High asymmetry, aggressive downturned shape",
+      "source": "https://www.lasportivausa.com/products/ondra-comp"
+    },
+    "stiffness": {
+      "value": 3,
+      "quote": "RIGIDITY: 3/5",
+      "source": "https://www.lasportivausa.com/products/ondra-comp"
+    },
+    "rubber": {
+      "value": "Vibram® XS Grip2™",
+      "quote": "3.5mm Vibram® XS Grip2™ with SenseGrip™ Technology",
+      "source": "https://www.lasportivausa.com/products/ondra-comp"
+    },
+    "uses": {
+      "value": null
+    },
+    "price": {
+      "value": {
+        "amount": 239,
+        "currency": "USD"
+      },
+      "quote": "$239.00",
+      "source": "https://www.lasportivausa.com/products/ondra-comp"
+    },
+    "notes": "Gender U: single version on official store. Closure not stated. Spec SHAPE/FIT words mapped: high asym 3, medium 2, low 1; aggressive downturn 3, moderate 2, light/slight 1, flat 0. RIGIDITY x/5 used directly as stiffness 1-5. Price from lasportivausa.com (USD); lasportiva.com (EU store) returns a bot challenge page, so no EUR price."
+  },
+  {
+    "brand": "La Sportiva",
+    "model": "Cobra",
+    "url": null,
+    "gender": {
+      "value": null
+    },
+    "closure": {
+      "value": null
+    },
+    "width": {
+      "value": null
+    },
+    "volume": {
+      "value": null
+    },
+    "asymmetry": {
+      "value": null
+    },
+    "downturn": {
+      "value": null
+    },
+    "stiffness": {
+      "value": null
+    },
+    "rubber": {
+      "value": null
+    },
+    "uses": {
+      "value": null
+    },
+    "price": {
+      "value": null
+    },
+    "notes": "No 'Cobra' product on lasportivausa.com (only the different 'Cobra ECO' re-edition); lasportiva.com returns a bot challenge page, not circumvented."
+  },
+  {
+    "brand": "La Sportiva",
+    "model": "Cobra 4.99",
+    "url": "https://www.lasportivausa.com/products/cobra-4-99",
+    "gender": {
+      "value": "U",
+      "quote": "Cobra 4:99",
+      "source": "https://www.lasportivausa.com/products/cobra-4-99"
+    },
+    "closure": {
+      "value": null
+    },
+    "width": {
+      "value": null
+    },
+    "volume": {
+      "value": null
+    },
+    "asymmetry": {
+      "value": 1,
+      "quote": "Low asymmetry, flat shape",
+      "source": "https://www.lasportivausa.com/products/cobra-4-99"
+    },
+    "downturn": {
+      "value": 0,
+      "quote": "Low asymmetry, flat shape",
+      "source": "https://www.lasportivausa.com/products/cobra-4-99"
+    },
+    "stiffness": {
+      "value": null
+    },
+    "rubber": {
+      "value": "Vibram® XS Grip2™",
+      "quote": "3.5mm Vibram® XS Grip 2™",
+      "source": "https://www.lasportivausa.com/products/cobra-4-99"
+    },
+    "uses": {
+      "value": [
+        "competition"
+      ],
+      "quote": "The only shoe purposely designed and built for competition speed climbing.",
+      "source": "https://www.lasportivausa.com/products/cobra-4-99"
+    },
+    "price": {
+      "value": {
+        "amount": 179,
+        "currency": "USD"
+      },
+      "quote": "$179.00",
+      "source": "https://www.lasportivausa.com/products/cobra-4-99"
+    },
+    "notes": "Gender U: single version on official store. Closure and rigidity not stated. Spec SHAPE/FIT words mapped: high asym 3, medium 2, low 1; aggressive downturn 3, moderate 2, light/slight 1, flat 0. RIGIDITY x/5 used directly as stiffness 1-5. Price from lasportivausa.com (USD); lasportiva.com (EU store) returns a bot challenge page, so no EUR price."
+  },
+  {
+    "brand": "La Sportiva",
+    "model": "TC Pro",
+    "url": "https://www.lasportivausa.com/products/tc-pro",
+    "gender": {
+      "value": "U",
+      "quote": "TC Pro",
+      "source": "https://www.lasportivausa.com/products/tc-pro"
+    },
+    "closure": {
+      "value": "L",
+      "quote": "LACES: 100% Recycled polyester",
+      "source": "https://www.lasportivausa.com/products/tc-pro"
+    },
+    "width": {
+      "value": null
+    },
+    "volume": {
+      "value": null
+    },
+    "asymmetry": {
+      "value": 2,
+      "quote": "Medium asymmetry, flat shape",
+      "source": "https://www.lasportivausa.com/products/tc-pro"
+    },
+    "downturn": {
+      "value": 0,
+      "quote": "Medium asymmetry, flat shape",
+      "source": "https://www.lasportivausa.com/products/tc-pro"
+    },
+    "stiffness": {
+      "value": 5,
+      "quote": "RIGIDITY: 5/5",
+      "source": "https://www.lasportivausa.com/products/tc-pro"
+    },
+    "rubber": {
+      "value": "Vibram® XS Edge™",
+      "quote": "4mm Vibram® XS Edge™ Rubber Compound",
+      "source": "https://www.lasportivausa.com/products/tc-pro"
+    },
+    "uses": {
+      "value": [
+        "crack"
+      ],
+      "quote": "Designed for vertical edging, crack climbing and all-day support and comfort",
+      "source": "https://www.lasportivausa.com/products/tc-pro"
+    },
+    "price": {
+      "value": {
+        "amount": 239,
+        "currency": "USD"
+      },
+      "quote": "$239.00",
+      "source": "https://www.lasportivausa.com/products/tc-pro"
+    },
+    "notes": "Gender U: single version on official store. Spec SHAPE/FIT words mapped: high asym 3, medium 2, low 1; aggressive downturn 3, moderate 2, light/slight 1, flat 0. RIGIDITY x/5 used directly as stiffness 1-5. Price from lasportivausa.com (USD); lasportiva.com (EU store) returns a bot challenge page, so no EUR price."
+  },
+  {
+    "brand": "La Sportiva",
+    "model": "TC Extreme",
+    "url": "https://www.lasportivausa.com/products/tc-extreme",
+    "gender": {
+      "value": "U",
+      "quote": "TC Extreme",
+      "source": "https://www.lasportivausa.com/products/tc-extreme"
+    },
+    "closure": {
+      "value": "L",
+      "quote": "Recycled laces",
+      "source": "https://www.lasportivausa.com/products/tc-extreme"
+    },
+    "width": {
+      "value": null
+    },
+    "volume": {
+      "value": null
+    },
+    "asymmetry": {
+      "value": 2,
+      "quote": "Tech with medium asymmetry",
+      "source": "https://www.lasportivausa.com/products/tc-extreme"
+    },
+    "downturn": {
+      "value": null
+    },
+    "stiffness": {
+      "value": null
+    },
+    "rubber": {
+      "value": "Vibram® XS Grip2™",
+      "quote": "4mm Vibram® XS Grip2™",
+      "source": "https://www.lasportivausa.com/products/tc-extreme"
+    },
+    "uses": {
+      "value": [
+        "crack"
+      ],
+      "quote": "Designed for vertical edging, crack climbing and all day support and comfort",
+      "source": "https://www.lasportivausa.com/products/tc-extreme"
+    },
+    "price": {
+      "value": {
+        "amount": 329,
+        "currency": "USD"
+      },
+      "quote": "$329.00",
+      "source": "https://www.lasportivausa.com/products/tc-extreme"
+    },
+    "notes": "Gender U: single version on official store. No downturn or rigidity spec. Spec SHAPE/FIT words mapped: high asym 3, medium 2, low 1; aggressive downturn 3, moderate 2, light/slight 1, flat 0. RIGIDITY x/5 used directly as stiffness 1-5. Price from lasportivausa.com (USD); lasportiva.com (EU store) returns a bot challenge page, so no EUR price."
+  },
+  {
+    "brand": "La Sportiva",
+    "model": "Katana Lace",
+    "url": "https://www.lasportivausa.com/products/katana-lace",
+    "gender": {
+      "value": "M",
+      "quote": "now available in Men’s and Women’s styles",
+      "source": "https://www.lasportivausa.com/products/katana-lace"
+    },
+    "closure": {
+      "value": "L",
+      "quote": "LACES: 100% Recycled polyester",
+      "source": "https://www.lasportivausa.com/products/katana-lace"
+    },
+    "width": {
+      "value": null
+    },
+    "volume": {
+      "value": null
+    },
+    "asymmetry": {
+      "value": 2,
+      "quote": "Medium asymmetry, moderate downturned shape",
+      "source": "https://www.lasportivausa.com/products/katana-lace"
+    },
+    "downturn": {
+      "value": 2,
+      "quote": "Medium asymmetry, moderate downturned shape",
+      "source": "https://www.lasportivausa.com/products/katana-lace"
+    },
+    "stiffness": {
+      "value": 4,
+      "quote": "RIGIDITY: 4/5",
+      "source": "https://www.lasportivausa.com/products/katana-lace"
+    },
+    "rubber": {
+      "value": "Vibram® XS Edge™",
+      "quote": "4mm Vibram® XS Edge™",
+      "source": "https://www.lasportivausa.com/products/katana-lace"
+    },
+    "uses": {
+      "value": [
+        "slab",
+        "crack",
+        "multipitch"
+      ],
+      "quote": "performs well on slabs and can easily twist into thin cracks but excels outside on steep single or multi-pitch routes",
+      "source": "https://www.lasportivausa.com/products/katana-lace"
+    },
+    "price": {
+      "value": {
+        "amount": 239,
+        "currency": "USD"
+      },
+      "quote": "$239.00",
+      "source": "https://www.lasportivausa.com/products/katana-lace"
+    },
+    "notes": "Spec SHAPE/FIT words mapped: high asym 3, medium 2, low 1; aggressive downturn 3, moderate 2, light/slight 1, flat 0. RIGIDITY x/5 used directly as stiffness 1-5. Price from lasportivausa.com (USD); lasportiva.com (EU store) returns a bot challenge page, so no EUR price."
+  },
+  {
+    "brand": "La Sportiva",
+    "model": "Katana Lace Woman",
+    "url": "https://www.lasportivausa.com/products/katana-lace-womens",
+    "gender": {
+      "value": "W",
+      "quote": "now available in Men’s and Women’s styles",
+      "source": "https://www.lasportivausa.com/products/katana-lace-womens"
+    },
+    "closure": {
+      "value": "L",
+      "quote": "LACES: 100% Recycled polyester",
+      "source": "https://www.lasportivausa.com/products/katana-lace-womens"
+    },
+    "width": {
+      "value": null
+    },
+    "volume": {
+      "value": null
+    },
+    "asymmetry": {
+      "value": 2,
+      "quote": "Medium asymmetry, moderate downturned shape",
+      "source": "https://www.lasportivausa.com/products/katana-lace-womens"
+    },
+    "downturn": {
+      "value": 2,
+      "quote": "Medium asymmetry, moderate downturned shape",
+      "source": "https://www.lasportivausa.com/products/katana-lace-womens"
+    },
+    "stiffness": {
+      "value": 3,
+      "quote": "RIGIDITY: 3/5",
+      "source": "https://www.lasportivausa.com/products/katana-lace-womens"
+    },
+    "rubber": {
+      "value": "Vibram® XS Grip2™",
+      "quote": "1/2 sole contains 4mm Vibram® XS Grip2™",
+      "source": "https://www.lasportivausa.com/products/katana-lace-womens"
+    },
+    "uses": {
+      "value": [
+        "slab",
+        "crack",
+        "multipitch"
+      ],
+      "quote": "performs well on slabs and can easily twist into thin cracks but excels outside on steep single or multi-pitch routes",
+      "source": "https://www.lasportivausa.com/products/katana-lace-womens"
+    },
+    "price": {
+      "value": {
+        "amount": 239,
+        "currency": "USD"
+      },
+      "quote": "$239.00",
+      "source": "https://www.lasportivausa.com/products/katana-lace-womens"
+    },
+    "notes": "Spec SHAPE/FIT words mapped: high asym 3, medium 2, low 1; aggressive downturn 3, moderate 2, light/slight 1, flat 0. RIGIDITY x/5 used directly as stiffness 1-5. Price from lasportivausa.com (USD); lasportiva.com (EU store) returns a bot challenge page, so no EUR price."
+  },
+  {
+    "brand": "La Sportiva",
+    "model": "Katana",
+    "url": "https://www.lasportivausa.com/products/katana",
+    "gender": {
+      "value": "MW",
+      "quote": "Katana Women's",
+      "source": "https://www.lasportivausa.com/products/katana-womens"
+    },
+    "closure": {
+      "value": "V",
+      "quote": "The Katana is a dual strap, flat lasted climbing shoe",
+      "source": "https://www.lasportivausa.com/products/katana"
+    },
+    "width": {
+      "value": null
+    },
+    "volume": {
+      "value": null
+    },
+    "asymmetry": {
+      "value": 2,
+      "quote": "Tech with medium asymmetry",
+      "source": "https://www.lasportivausa.com/products/katana"
+    },
+    "downturn": {
+      "value": 0,
+      "quote": "The Katana is a dual strap, flat lasted climbing shoe",
+      "source": "https://www.lasportivausa.com/products/katana"
+    },
+    "stiffness": {
+      "value": 4,
+      "quote": "RIGIDITY: 4/5",
+      "source": "https://www.lasportivausa.com/products/katana"
+    },
+    "rubber": {
+      "value": "Vibram® XS Edge™",
+      "quote": "4mm Vibram® XS Edge™",
+      "source": "https://www.lasportivausa.com/products/katana"
+    },
+    "uses": {
+      "value": [
+        "all-round"
+      ],
+      "quote": "the Katana continues to provides comfort, sensitivity and precision for any type of climbing",
+      "source": "https://www.lasportivausa.com/products/katana"
+    },
+    "price": {
+      "value": {
+        "amount": 179,
+        "currency": "USD"
+      },
+      "quote": "$179.00",
+      "source": "https://www.lasportivausa.com/products/katana"
+    },
+    "notes": "Used product ZFCS080 (matches row link); a 'Katana (2025)' listing (item 40J, $209.00) has identical specs. Downturn 0 from 'flat lasted'. Spec SHAPE/FIT words mapped: high asym 3, medium 2, low 1; aggressive downturn 3, moderate 2, light/slight 1, flat 0. RIGIDITY x/5 used directly as stiffness 1-5. Price from lasportivausa.com (USD); lasportiva.com (EU store) returns a bot challenge page, so no EUR price."
+  },
+  {
+    "brand": "La Sportiva",
+    "model": "Miura",
+    "url": "https://www.lasportivausa.com/products/miura",
+    "gender": {
+      "value": "M",
+      "quote": "Miura",
+      "source": "https://www.lasportivausa.com/products/miura"
+    },
+    "closure": {
+      "value": "L",
+      "quote": "Speed lacing system for quick lace-ups",
+      "source": "https://www.lasportivausa.com/products/miura"
+    },
+    "width": {
+      "value": null
+    },
+    "volume": {
+      "value": null
+    },
+    "asymmetry": {
+      "value": 2,
+      "quote": "Medium asymmetry, flat shape",
+      "source": "https://www.lasportivausa.com/products/miura"
+    },
+    "downturn": {
+      "value": 0,
+      "quote": "Medium asymmetry, flat shape",
+      "source": "https://www.lasportivausa.com/products/miura"
+    },
+    "stiffness": {
+      "value": 4,
+      "quote": "RIGIDITY: 4/5",
+      "source": "https://www.lasportivausa.com/products/miura"
+    },
+    "rubber": {
+      "value": "Vibram® XS Edge™",
+      "quote": "4mm Vibram® XS Edge™",
+      "source": "https://www.lasportivausa.com/products/miura"
+    },
+    "uses": {
+      "value": [
+        "sport",
+        "bouldering",
+        "gym"
+      ],
+      "quote": "Ideal terrain: Overhanging sport routes, bouldering, gym climbing and technical face climbing",
+      "source": "https://www.lasportivausa.com/products/miura"
+    },
+    "price": {
+      "value": {
+        "amount": 209,
+        "currency": "USD"
+      },
+      "quote": "$209.00",
+      "source": "https://www.lasportivausa.com/products/miura"
+    },
+    "notes": "Gender: separate men's (Miura) and women's (Miura Women's) products. Spec SHAPE/FIT words mapped: high asym 3, medium 2, low 1; aggressive downturn 3, moderate 2, light/slight 1, flat 0. RIGIDITY x/5 used directly as stiffness 1-5. Price from lasportivausa.com (USD); lasportiva.com (EU store) returns a bot challenge page, so no EUR price."
+  },
+  {
+    "brand": "La Sportiva",
+    "model": "Miura Woman",
+    "url": "https://www.lasportivausa.com/products/miura-womens",
+    "gender": {
+      "value": "W",
+      "quote": "Miura Women's",
+      "source": "https://www.lasportivausa.com/products/miura-womens"
+    },
+    "closure": {
+      "value": "L",
+      "quote": "Speed lacing system for quick lace-ups",
+      "source": "https://www.lasportivausa.com/products/miura-womens"
+    },
+    "width": {
+      "value": null
+    },
+    "volume": {
+      "value": null
+    },
+    "asymmetry": {
+      "value": 2,
+      "quote": "Medium asymmetry, flat shape",
+      "source": "https://www.lasportivausa.com/products/miura-womens"
+    },
+    "downturn": {
+      "value": 0,
+      "quote": "Medium asymmetry, flat shape",
+      "source": "https://www.lasportivausa.com/products/miura-womens"
+    },
+    "stiffness": {
+      "value": 4,
+      "quote": "RIGIDITY: 4/5",
+      "source": "https://www.lasportivausa.com/products/miura-womens"
+    },
+    "rubber": {
+      "value": "Vibram® XS Grip2™",
+      "quote": "4mm Vibram® XS Grip2™",
+      "source": "https://www.lasportivausa.com/products/miura-womens"
+    },
+    "uses": {
+      "value": [
+        "sport",
+        "bouldering",
+        "gym"
+      ],
+      "quote": "Ideal terrain: Overhanging sport routes, bouldering, gym climbing and technical face climbing",
+      "source": "https://www.lasportivausa.com/products/miura-womens"
+    },
+    "price": {
+      "value": {
+        "amount": 209,
+        "currency": "USD"
+      },
+      "quote": "$209.00",
+      "source": "https://www.lasportivausa.com/products/miura-womens"
+    },
+    "notes": "Gender: separate men's (Miura) and women's (Miura Women's) products. Spec SHAPE/FIT words mapped: high asym 3, medium 2, low 1; aggressive downturn 3, moderate 2, light/slight 1, flat 0. RIGIDITY x/5 used directly as stiffness 1-5. Price from lasportivausa.com (USD); lasportiva.com (EU store) returns a bot challenge page, so no EUR price."
+  },
+  {
+    "brand": "La Sportiva",
+    "model": "Miura VS",
+    "url": "https://www.lasportivausa.com/products/miura-vs",
+    "gender": {
+      "value": "M",
+      "quote": "Miura VS",
+      "source": "https://www.lasportivausa.com/products/miura-vs"
+    },
+    "closure": {
+      "value": "V",
+      "quote": "Triple hook-and-loop closure straps",
+      "source": "https://www.lasportivausa.com/products/miura-vs"
+    },
+    "width": {
+      "value": null
+    },
+    "volume": {
+      "value": null
+    },
+    "asymmetry": {
+      "value": 3,
+      "quote": "High asymmetry, moderate downturned shape",
+      "source": "https://www.lasportivausa.com/products/miura-vs"
+    },
+    "downturn": {
+      "value": 2,
+      "quote": "High asymmetry, moderate downturned shape",
+      "source": "https://www.lasportivausa.com/products/miura-vs"
+    },
+    "stiffness": {
+      "value": 4,
+      "quote": "RIGIDITY: 4/5",
+      "source": "https://www.lasportivausa.com/products/miura-vs"
+    },
+    "rubber": {
+      "value": "Vibram® XS Edge™",
+      "quote": "4mm Vibram® XS Edge™",
+      "source": "https://www.lasportivausa.com/products/miura-vs"
+    },
+    "uses": {
+      "value": [
+        "all-round"
+      ],
+      "quote": "versatility in nearly all rock climbing scenarios",
+      "source": "https://www.lasportivausa.com/products/miura-vs"
+    },
+    "price": {
+      "value": {
+        "amount": 219,
+        "currency": "USD"
+      },
+      "quote": "$219.00",
+      "source": "https://www.lasportivausa.com/products/miura-vs"
+    },
+    "notes": "Gender: separate men's and women's products. Spec SHAPE/FIT words mapped: high asym 3, medium 2, low 1; aggressive downturn 3, moderate 2, light/slight 1, flat 0. RIGIDITY x/5 used directly as stiffness 1-5. Price from lasportivausa.com (USD); lasportiva.com (EU store) returns a bot challenge page, so no EUR price."
+  },
+  {
+    "brand": "La Sportiva",
+    "model": "Miura VS Woman",
+    "url": "https://www.lasportivausa.com/products/miura-vs-womens",
+    "gender": {
+      "value": "W",
+      "quote": "Miura VS Women's",
+      "source": "https://www.lasportivausa.com/products/miura-vs-womens"
+    },
+    "closure": {
+      "value": "V",
+      "quote": "Triple hook-and-loop closure straps",
+      "source": "https://www.lasportivausa.com/products/miura-vs-womens"
+    },
+    "width": {
+      "value": null
+    },
+    "volume": {
+      "value": null
+    },
+    "asymmetry": {
+      "value": 3,
+      "quote": "High asymmetry, moderate downturned shape",
+      "source": "https://www.lasportivausa.com/products/miura-vs-womens"
+    },
+    "downturn": {
+      "value": 2,
+      "quote": "High asymmetry, moderate downturned shape",
+      "source": "https://www.lasportivausa.com/products/miura-vs-womens"
+    },
+    "stiffness": {
+      "value": 4,
+      "quote": "RIGIDITY: 4/5",
+      "source": "https://www.lasportivausa.com/products/miura-vs-womens"
+    },
+    "rubber": {
+      "value": "Vibram® XS Grip2™",
+      "quote": "4mm Vibram® XS Grip2™",
+      "source": "https://www.lasportivausa.com/products/miura-vs-womens"
+    },
+    "uses": {
+      "value": [
+        "all-round"
+      ],
+      "quote": "versatility in nearly all rock climbing scenarios",
+      "source": "https://www.lasportivausa.com/products/miura-vs-womens"
+    },
+    "price": {
+      "value": {
+        "amount": 219,
+        "currency": "USD"
+      },
+      "quote": "$219.00",
+      "source": "https://www.lasportivausa.com/products/miura-vs-womens"
+    },
+    "notes": "Gender: separate men's and women's products. Spec SHAPE/FIT words mapped: high asym 3, medium 2, low 1; aggressive downturn 3, moderate 2, light/slight 1, flat 0. RIGIDITY x/5 used directly as stiffness 1-5. Price from lasportivausa.com (USD); lasportiva.com (EU store) returns a bot challenge page, so no EUR price."
+  },
+  {
+    "brand": "La Sportiva",
+    "model": "Otaki",
+    "url": "https://www.lasportivausa.com/products/otaki",
+    "gender": {
+      "value": "M",
+      "quote": "Otaki",
+      "source": "https://www.lasportivausa.com/products/otaki"
+    },
+    "closure": {
+      "value": "V",
+      "quote": "supportive two-strap closure system",
+      "source": "https://www.lasportivausa.com/products/otaki"
+    },
+    "width": {
+      "value": null
+    },
+    "volume": {
+      "value": null
+    },
+    "asymmetry": {
+      "value": 2,
+      "quote": "Medium asymmetry, moderate downturned shape",
+      "source": "https://www.lasportivausa.com/products/otaki"
+    },
+    "downturn": {
+      "value": 2,
+      "quote": "Medium asymmetry, moderate downturned shape",
+      "source": "https://www.lasportivausa.com/products/otaki"
+    },
+    "stiffness": {
+      "value": 4,
+      "quote": "RIGIDITY: 4/5",
+      "source": "https://www.lasportivausa.com/products/otaki"
+    },
+    "rubber": {
+      "value": "Vibram® XS Edge™",
+      "quote": "4mm Vibram® XS Edge™",
+      "source": "https://www.lasportivausa.com/products/otaki"
+    },
+    "uses": {
+      "value": [
+        "all-round"
+      ],
+      "quote": "This versatile rock shoe provides high-level performance across a wide variety of rock conditions",
+      "source": "https://www.lasportivausa.com/products/otaki"
+    },
+    "price": {
+      "value": {
+        "amount": 229,
+        "currency": "USD"
+      },
+      "quote": "$229.00",
+      "source": "https://www.lasportivausa.com/products/otaki"
+    },
+    "notes": "Gender: separate men's and women's products. Spec SHAPE/FIT words mapped: high asym 3, medium 2, low 1; aggressive downturn 3, moderate 2, light/slight 1, flat 0. RIGIDITY x/5 used directly as stiffness 1-5. Price from lasportivausa.com (USD); lasportiva.com (EU store) returns a bot challenge page, so no EUR price."
+  },
+  {
+    "brand": "La Sportiva",
+    "model": "Otaki Woman",
+    "url": "https://www.lasportivausa.com/products/otaki-womens",
+    "gender": {
+      "value": "W",
+      "quote": "Otaki Women's",
+      "source": "https://www.lasportivausa.com/products/otaki-womens"
+    },
+    "closure": {
+      "value": "V",
+      "quote": "supportive two-strap closure system",
+      "source": "https://www.lasportivausa.com/products/otaki-womens"
+    },
+    "width": {
+      "value": null
+    },
+    "volume": {
+      "value": null
+    },
+    "asymmetry": {
+      "value": 2,
+      "quote": "Medium asymmetry, moderate downturned shape",
+      "source": "https://www.lasportivausa.com/products/otaki-womens"
+    },
+    "downturn": {
+      "value": 2,
+      "quote": "Medium asymmetry, moderate downturned shape",
+      "source": "https://www.lasportivausa.com/products/otaki-womens"
+    },
+    "stiffness": {
+      "value": 4,
+      "quote": "RIGIDITY: 4/5",
+      "source": "https://www.lasportivausa.com/products/otaki-womens"
+    },
+    "rubber": {
+      "value": "Vibram® XS Grip2™",
+      "quote": "4mm Vibram® XS Grip2™",
+      "source": "https://www.lasportivausa.com/products/otaki-womens"
+    },
+    "uses": {
+      "value": [
+        "all-round"
+      ],
+      "quote": "This versatile rock shoe provides high-level performance across a wide variety of rock conditions",
+      "source": "https://www.lasportivausa.com/products/otaki-womens"
+    },
+    "price": {
+      "value": {
+        "amount": 229,
+        "currency": "USD"
+      },
+      "quote": "$229.00",
+      "source": "https://www.lasportivausa.com/products/otaki-womens"
+    },
+    "notes": "Gender: separate men's and women's products. Spec SHAPE/FIT words mapped: high asym 3, medium 2, low 1; aggressive downturn 3, moderate 2, light/slight 1, flat 0. RIGIDITY x/5 used directly as stiffness 1-5. Price from lasportivausa.com (USD); lasportiva.com (EU store) returns a bot challenge page, so no EUR price."
+  },
+  {
+    "brand": "La Sportiva",
+    "model": "Kubo",
+    "url": "https://www.lasportivausa.com/products/kubo",
+    "gender": {
+      "value": "M",
+      "quote": "Kubo",
+      "source": "https://www.lasportivausa.com/products/kubo"
+    },
+    "closure": {
+      "value": "V",
+      "quote": "Opposing dual hook-and-loop closure system",
+      "source": "https://www.lasportivausa.com/products/kubo"
+    },
+    "width": {
+      "value": null
+    },
+    "volume": {
+      "value": null
+    },
+    "asymmetry": {
+      "value": 2,
+      "quote": "Medium asymmetry, light downturned shape",
+      "source": "https://www.lasportivausa.com/products/kubo"
+    },
+    "downturn": {
+      "value": 1,
+      "quote": "Medium asymmetry, light downturned shape",
+      "source": "https://www.lasportivausa.com/products/kubo"
+    },
+    "stiffness": {
+      "value": 3,
+      "quote": "RIGIDITY: 3/5",
+      "source": "https://www.lasportivausa.com/products/kubo"
+    },
+    "rubber": {
+      "value": "Vibram® XS Edge™",
+      "quote": "4mm Vibram® XS Edge™",
+      "source": "https://www.lasportivausa.com/products/kubo"
+    },
+    "uses": {
+      "value": [
+        "all-round",
+        "bouldering",
+        "sport"
+      ],
+      "quote": "looking for versatility and comfort when heading outdoors to boulder or lead climb",
+      "source": "https://www.lasportivausa.com/products/kubo"
+    },
+    "price": {
+      "value": {
+        "amount": 169,
+        "currency": "USD"
+      },
+      "quote": "$169.00",
+      "source": "https://www.lasportivausa.com/products/kubo"
+    },
+    "notes": "Gender: separate men's and women's products. Spec SHAPE/FIT words mapped: high asym 3, medium 2, low 1; aggressive downturn 3, moderate 2, light/slight 1, flat 0. RIGIDITY x/5 used directly as stiffness 1-5. Price from lasportivausa.com (USD); lasportiva.com (EU store) returns a bot challenge page, so no EUR price."
+  },
+  {
+    "brand": "La Sportiva",
+    "model": "Kubo Woman",
+    "url": "https://www.lasportivausa.com/products/kubo-womens",
+    "gender": {
+      "value": "W",
+      "quote": "Kubo Women's",
+      "source": "https://www.lasportivausa.com/products/kubo-womens"
+    },
+    "closure": {
+      "value": "V",
+      "quote": "Opposing dual hook-and-loop closure system",
+      "source": "https://www.lasportivausa.com/products/kubo-womens"
+    },
+    "width": {
+      "value": null
+    },
+    "volume": {
+      "value": null
+    },
+    "asymmetry": {
+      "value": 2,
+      "quote": "Medium asymmetry, light downturned shape",
+      "source": "https://www.lasportivausa.com/products/kubo-womens"
+    },
+    "downturn": {
+      "value": 1,
+      "quote": "Medium asymmetry, light downturned shape",
+      "source": "https://www.lasportivausa.com/products/kubo-womens"
+    },
+    "stiffness": {
+      "value": 3,
+      "quote": "RIGIDITY: 3/5",
+      "source": "https://www.lasportivausa.com/products/kubo-womens"
+    },
+    "rubber": {
+      "value": "Vibram® XS Grip2™",
+      "quote": "4mm Vibram® XS Grip2™",
+      "source": "https://www.lasportivausa.com/products/kubo-womens"
+    },
+    "uses": {
+      "value": [
+        "all-round",
+        "bouldering",
+        "sport"
+      ],
+      "quote": "looking for versatility and comfort when heading outdoors to boulder or lead climb",
+      "source": "https://www.lasportivausa.com/products/kubo-womens"
+    },
+    "price": {
+      "value": {
+        "amount": 169,
+        "currency": "USD"
+      },
+      "quote": "$169.00",
+      "source": "https://www.lasportivausa.com/products/kubo-womens"
+    },
+    "notes": "Gender: separate men's and women's products. Spec SHAPE/FIT words mapped: high asym 3, medium 2, low 1; aggressive downturn 3, moderate 2, light/slight 1, flat 0. RIGIDITY x/5 used directly as stiffness 1-5. Price from lasportivausa.com (USD); lasportiva.com (EU store) returns a bot challenge page, so no EUR price."
+  },
+  {
+    "brand": "La Sportiva",
+    "model": "Finale",
+    "url": "https://www.lasportivausa.com/products/finale",
+    "gender": {
+      "value": "MW",
+      "quote": "Finale Women's",
+      "source": "https://www.lasportivausa.com/products/finale-womens"
+    },
+    "closure": {
+      "value": "L",
+      "quote": "eco components (laces, webbing, microfiber eyestay and leather)",
+      "source": "https://www.lasportivausa.com/products/finale"
+    },
+    "width": {
+      "value": null
+    },
+    "volume": {
+      "value": null
+    },
+    "asymmetry": {
+      "value": 2,
+      "quote": "FIT: Medium asymmetry",
+      "source": "https://www.lasportivausa.com/products/finale"
+    },
+    "downturn": {
+      "value": 1,
+      "quote": "slight downturn shape",
+      "source": "https://www.lasportivausa.com/products/finale"
+    },
+    "stiffness": {
+      "value": 4,
+      "quote": "RIGIDITY: 4/5",
+      "source": "https://www.lasportivausa.com/products/finale"
+    },
+    "rubber": {
+      "value": "Vibram® XS Edge™",
+      "quote": "1/2 Sole 5mm Vibram® XS Edge™",
+      "source": "https://www.lasportivausa.com/products/finale"
+    },
+    "uses": {
+      "value": [
+        "gym",
+        "beginner"
+      ],
+      "quote": "equally capable in the gym or at the crag. It might be known as an “entry level shoe”",
+      "source": "https://www.lasportivausa.com/products/finale"
+    },
+    "price": {
+      "value": {
+        "amount": 139,
+        "currency": "USD"
+      },
+      "quote": "$139.00",
+      "source": "https://www.lasportivausa.com/products/finale"
+    },
+    "notes": "Spec SHAPE/FIT words mapped: high asym 3, medium 2, low 1; aggressive downturn 3, moderate 2, light/slight 1, flat 0. RIGIDITY x/5 used directly as stiffness 1-5. Price from lasportivausa.com (USD); lasportiva.com (EU store) returns a bot challenge page, so no EUR price."
+  },
+  {
+    "brand": "La Sportiva",
+    "model": "Mythos",
+    "url": null,
+    "gender": {
+      "value": null
+    },
+    "closure": {
+      "value": null
+    },
+    "width": {
+      "value": null
+    },
+    "volume": {
+      "value": null
+    },
+    "asymmetry": {
+      "value": null
+    },
+    "downturn": {
+      "value": null
+    },
+    "stiffness": {
+      "value": null
+    },
+    "rubber": {
+      "value": null
+    },
+    "uses": {
+      "value": null
+    },
+    "price": {
+      "value": null
+    },
+    "notes": "No 'Mythos' product on lasportivausa.com (only the different 'Mythos ECO' re-edition); lasportiva.com returns a bot challenge page, not circumvented."
+  },
+  {
+    "brand": "La Sportiva",
+    "model": "Tarantula",
+    "url": "https://www.lasportivausa.com/products/tarantula",
+    "gender": {
+      "value": "MW",
+      "quote": "Tarantula Women's",
+      "source": "https://www.lasportivausa.com/products/tarantula-womens"
+    },
+    "closure": {
+      "value": "V",
+      "quote": "Dual hook-and-loop closure system",
+      "source": "https://www.lasportivausa.com/products/tarantula"
+    },
+    "width": {
+      "value": null
+    },
+    "volume": {
+      "value": "H",
+      "quote": "The forefoot shape is rounded and has a higher volume",
+      "source": "https://www.lasportivausa.com/products/tarantula"
+    },
+    "asymmetry": {
+      "value": 1,
+      "quote": "Comfort with low asymmetry",
+      "source": "https://www.lasportivausa.com/products/tarantula"
+    },
+    "downturn": {
+      "value": null
+    },
+    "stiffness": {
+      "value": 4,
+      "quote": "RIGIDITY: 4/5",
+      "source": "https://www.lasportivausa.com/products/tarantula"
+    },
+    "rubber": {
+      "value": "FriXion® RS",
+      "quote": "5mm FriXion® RS",
+      "source": "https://www.lasportivausa.com/products/tarantula"
+    },
+    "uses": {
+      "value": [
+        "beginner"
+      ],
+      "quote": "Asymmetrical shape helps beginning climbers push the grades at a faster pace",
+      "source": "https://www.lasportivausa.com/products/tarantula"
+    },
+    "price": {
+      "value": {
+        "amount": 119,
+        "currency": "USD"
+      },
+      "quote": "$119.00",
+      "source": "https://www.lasportivausa.com/products/tarantula"
+    },
+    "notes": "Volume H from 'higher volume' forefoot. Spec SHAPE/FIT words mapped: high asym 3, medium 2, low 1; aggressive downturn 3, moderate 2, light/slight 1, flat 0. RIGIDITY x/5 used directly as stiffness 1-5. Price from lasportivausa.com (USD); lasportiva.com (EU store) returns a bot challenge page, so no EUR price."
+  },
+  {
+    "brand": "La Sportiva",
+    "model": "Tarantulace",
+    "url": "https://www.lasportivausa.com/products/tarantulace",
+    "gender": {
+      "value": "MW",
+      "quote": "Tarantulace Women's",
+      "source": "https://www.lasportivausa.com/products/tarantulace-womens"
+    },
+    "closure": {
+      "value": "L",
+      "quote": "Quick-pull lacing harness",
+      "source": "https://www.lasportivausa.com/products/tarantulace"
+    },
+    "width": {
+      "value": null
+    },
+    "volume": {
+      "value": null
+    },
+    "asymmetry": {
+      "value": 1,
+      "quote": "Comfort with low asymmetry",
+      "source": "https://www.lasportivausa.com/products/tarantulace"
+    },
+    "downturn": {
+      "value": null
+    },
+    "stiffness": {
+      "value": 4,
+      "quote": "RIGIDITY: 4/5",
+      "source": "https://www.lasportivausa.com/products/tarantulace"
+    },
+    "rubber": {
+      "value": "FriXion® RS",
+      "quote": "5mm FriXion® RS",
+      "source": "https://www.lasportivausa.com/products/tarantulace"
+    },
+    "uses": {
+      "value": [
+        "gym",
+        "all-round"
+      ],
+      "quote": "the ideal shoe for both outdoor and gym climbers that need a one quiver shoe to do it all",
+      "source": "https://www.lasportivausa.com/products/tarantulace"
+    },
+    "price": {
+      "value": {
+        "amount": 99,
+        "currency": "USD"
+      },
+      "quote": "$99.00",
+      "source": "https://www.lasportivausa.com/products/tarantulace"
+    },
+    "notes": "Spec SHAPE/FIT words mapped: high asym 3, medium 2, low 1; aggressive downturn 3, moderate 2, light/slight 1, flat 0. RIGIDITY x/5 used directly as stiffness 1-5. Price from lasportivausa.com (USD); lasportiva.com (EU store) returns a bot challenge page, so no EUR price."
+  },
+  {
+    "brand": "La Sportiva",
+    "model": "Tarantula Boulder",
+    "url": "https://www.lasportivausa.com/products/tarantula-boulder",
+    "gender": {
+      "value": "MW",
+      "quote": "Tarantula Boulder Women's",
+      "source": "https://www.lasportivausa.com/products/tarantula-boulder-womens"
+    },
+    "closure": {
+      "value": "V",
+      "quote": "Dual hook-and-loop closure system",
+      "source": "https://www.lasportivausa.com/products/tarantula-boulder"
+    },
+    "width": {
+      "value": null
+    },
+    "volume": {
+      "value": null
+    },
+    "asymmetry": {
+      "value": 1,
+      "quote": "Comfort with low asymmetry",
+      "source": "https://www.lasportivausa.com/products/tarantula-boulder"
+    },
+    "downturn": {
+      "value": null
+    },
+    "stiffness": {
+      "value": 4,
+      "quote": "RIGIDITY: 4/5",
+      "source": "https://www.lasportivausa.com/products/tarantula-boulder"
+    },
+    "rubber": {
+      "value": "FriXion® RS",
+      "quote": "5mm FriXion® RS",
+      "source": "https://www.lasportivausa.com/products/tarantula-boulder"
+    },
+    "uses": {
+      "value": [
+        "beginner",
+        "bouldering",
+        "gym"
+      ],
+      "quote": "help beginner climbers focus on bouldering",
+      "source": "https://www.lasportivausa.com/products/tarantula-boulder"
+    },
+    "price": {
+      "value": {
+        "amount": 129,
+        "currency": "USD"
+      },
+      "quote": "$129.00",
+      "source": "https://www.lasportivausa.com/products/tarantula-boulder"
+    },
+    "notes": "Gym from 'optimize the dynamic nature of bouldering in the gym'. Spec SHAPE/FIT words mapped: high asym 3, medium 2, low 1; aggressive downturn 3, moderate 2, light/slight 1, flat 0. RIGIDITY x/5 used directly as stiffness 1-5. Price from lasportivausa.com (USD); lasportiva.com (EU store) returns a bot challenge page, so no EUR price."
+  },
+  {
+    "brand": "La Sportiva",
+    "model": "Aragon",
+    "url": null,
+    "gender": {
+      "value": null
+    },
+    "closure": {
+      "value": null
+    },
+    "width": {
+      "value": null
+    },
+    "volume": {
+      "value": null
+    },
+    "asymmetry": {
+      "value": null
+    },
+    "downturn": {
+      "value": null
+    },
+    "stiffness": {
+      "value": null
+    },
+    "rubber": {
+      "value": null
+    },
+    "uses": {
+      "value": null
+    },
+    "price": {
+      "value": null
+    },
+    "notes": "No Aragon product on lasportivausa.com; lasportiva.com returns a bot challenge page, not circumvented."
+  },
+  {
+    "brand": "La Sportiva",
+    "model": "HyperEZ",
+    "url": "https://www.lasportivausa.com/products/hyperez",
+    "gender": {
+      "value": "U",
+      "quote": "HyperEZ",
+      "source": "https://www.lasportivausa.com/products/hyperez"
+    },
+    "closure": {
+      "value": "V",
+      "quote": "Dual-crossed straps",
+      "source": "https://www.lasportivausa.com/products/hyperez"
+    },
+    "width": {
+      "value": "W",
+      "quote": "accommodates high volume and wide fit needs",
+      "source": "https://www.lasportivausa.com/products/hyperez"
+    },
+    "volume": {
+      "value": "H",
+      "quote": "accommodates high volume and wide fit needs",
+      "source": "https://www.lasportivausa.com/products/hyperez"
+    },
+    "asymmetry": {
+      "value": 1,
+      "quote": "Low asymmetry, flat shape",
+      "source": "https://www.lasportivausa.com/products/hyperez"
+    },
+    "downturn": {
+      "value": 0,
+      "quote": "Low asymmetry, flat shape",
+      "source": "https://www.lasportivausa.com/products/hyperez"
+    },
+    "stiffness": {
+      "value": 4,
+      "quote": "RIGIDITY: 4/5",
+      "source": "https://www.lasportivausa.com/products/hyperez"
+    },
+    "rubber": {
+      "value": "FriXion® White",
+      "quote": "FriXion® White non-marking outsole",
+      "source": "https://www.lasportivausa.com/products/hyperez"
+    },
+    "uses": {
+      "value": [
+        "beginner",
+        "gym",
+        "vegan"
+      ],
+      "quote": "Developed with and for new climbers",
+      "source": "https://www.lasportivausa.com/products/hyperez"
+    },
+    "price": {
+      "value": {
+        "amount": 119,
+        "currency": "USD"
+      },
+      "quote": "$119.00",
+      "source": "https://www.lasportivausa.com/products/hyperez"
+    },
+    "notes": "Gender U: single version on official store. Gym from 'extended gym sessions'; vegan from 'Vegan' tech badge 'Products are free of animal-derived materials'. Spec SHAPE/FIT words mapped: high asym 3, medium 2, low 1; aggressive downturn 3, moderate 2, light/slight 1, flat 0. RIGIDITY x/5 used directly as stiffness 1-5. Price from lasportivausa.com (USD); lasportiva.com (EU store) returns a bot challenge page, so no EUR price."
+  }
+]

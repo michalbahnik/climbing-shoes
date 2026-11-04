@@ -1,0 +1,974 @@
+[
+  {
+    "brand": "Saltic",
+    "model": "Tajfun",
+    "url": "https://saltic.cz/produkt/tajfun/",
+    "gender": {
+      "value": "U",
+      "quote": "TAJFUN",
+      "source": "https://saltic.cz/produkt/tajfun/"
+    },
+    "closure": {
+      "value": "S",
+      "quote": "díky slip-on konstrukci krásně sedne na nohu",
+      "source": "https://saltic.cz/produkt/tajfun/"
+    },
+    "width": {
+      "value": null
+    },
+    "volume": {
+      "value": null
+    },
+    "asymmetry": {
+      "value": null
+    },
+    "downturn": {
+      "value": null
+    },
+    "stiffness": {
+      "value": null
+    },
+    "rubber": {
+      "value": "Project S4",
+      "quote": "PODEŠEV: Project S4® 4 mm",
+      "source": "https://saltic.cz/produkt/tajfun/"
+    },
+    "uses": {
+      "value": [
+        "all-round"
+      ],
+      "quote": "dělá z Tajfunu perfektní všestrannou lezečku",
+      "source": "https://saltic.cz/produkt/tajfun/"
+    },
+    "price": {
+      "value": {
+        "amount": 3180,
+        "currency": "CZK"
+      },
+      "quote": "3,180 Kč",
+      "source": "https://saltic.cz/produkt/tajfun/"
+    },
+    "notes": "gender U: only one version of this model is listed on saltic.cz. stiffness null: only comparative 'tužší konstrukce'."
+  },
+  {
+    "brand": "Saltic",
+    "model": "Toxic",
+    "url": "https://saltic.cz/produkt/toxic/",
+    "gender": {
+      "value": "U",
+      "quote": "TOXIC",
+      "source": "https://saltic.cz/produkt/toxic/"
+    },
+    "closure": {
+      "value": null
+    },
+    "width": {
+      "value": null
+    },
+    "volume": {
+      "value": null
+    },
+    "asymmetry": {
+      "value": null
+    },
+    "downturn": {
+      "value": null
+    },
+    "stiffness": {
+      "value": null
+    },
+    "rubber": {
+      "value": "Extasy High Grip",
+      "quote": "Velmi přilnavá podešev Extasy High Grip®",
+      "source": "https://saltic.cz/produkt/toxic/"
+    },
+    "uses": {
+      "value": [
+        "gym"
+      ],
+      "quote": "dostatek podpory na více technických cestách a převisech (indoors i outdoors)",
+      "source": "https://saltic.cz/produkt/toxic/"
+    },
+    "price": {
+      "value": {
+        "amount": 2530,
+        "currency": "CZK"
+      },
+      "quote": "2,530 Kč",
+      "source": "https://saltic.cz/produkt/toxic/"
+    },
+    "notes": "gender U: only one version of this model is listed on saltic.cz. closure not stated in text."
+  },
+  {
+    "brand": "Saltic",
+    "model": "Enigma Black Evo",
+    "url": "https://saltic.cz/produkt/enigma-black-evo/",
+    "gender": {
+      "value": "U",
+      "quote": "ENIGMA BLACK EVO",
+      "source": "https://saltic.cz/produkt/enigma-black-evo/"
+    },
+    "closure": {
+      "value": null
+    },
+    "width": {
+      "value": null
+    },
+    "volume": {
+      "value": null
+    },
+    "asymmetry": {
+      "value": null
+    },
+    "downturn": {
+      "value": null
+    },
+    "stiffness": {
+      "value": 4,
+      "quote": "Enigma Black Evo je z řady bot Enigma ta nejtvrdší",
+      "source": "https://saltic.cz/produkt/enigma-black-evo/"
+    },
+    "rubber": {
+      "value": "Extasy",
+      "quote": "PODEŠEV: EXTASY® 4 mm",
+      "source": "https://saltic.cz/produkt/enigma-black-evo/"
+    },
+    "uses": {
+      "value": [
+        "bouldering"
+      ],
+      "quote": "Komplexní lezecká bota vyvinutá se zaměřením na bouldering.",
+      "source": "https://saltic.cz/produkt/enigma-black-evo/"
+    },
+    "price": {
+      "value": {
+        "amount": 2390,
+        "currency": "CZK"
+      },
+      "quote": "2,390 Kč",
+      "source": "https://saltic.cz/produkt/enigma-black-evo/"
+    },
+    "notes": "gender U: only one version of this model is listed on saltic.cz. stiffness: stiffest of the Enigma line (Green is 'středně tvrdá' = medium), mapped to 4 (stiff). Closure not stated."
+  },
+  {
+    "brand": "Saltic",
+    "model": "Enigma Green Evo",
+    "url": "https://saltic.cz/produkt/enigma-green-evo/",
+    "gender": {
+      "value": "U",
+      "quote": "ENIGMA GREEN EVO",
+      "source": "https://saltic.cz/produkt/enigma-green-evo/"
+    },
+    "closure": {
+      "value": null
+    },
+    "width": {
+      "value": null
+    },
+    "volume": {
+      "value": null
+    },
+    "asymmetry": {
+      "value": null
+    },
+    "downturn": {
+      "value": null
+    },
+    "stiffness": {
+      "value": 3,
+      "quote": "Enigma Green Evo je z řady bot Enigma středně tvrdá.",
+      "source": "https://saltic.cz/produkt/enigma-green-evo/"
+    },
+    "rubber": {
+      "value": "Extasy",
+      "quote": "PODEŠEV: EXTASY® 4 mm",
+      "source": "https://saltic.cz/produkt/enigma-green-evo/"
+    },
+    "uses": {
+      "value": [
+        "bouldering",
+        "gym",
+        "all-round"
+      ],
+      "quote": "vyvinutá se zaměřením na bouldering ... se hodí jak na venkovní, tak i vnitřní lezení a díky jejich univerzálnímu použití",
+      "source": "https://saltic.cz/produkt/enigma-green-evo/"
+    },
+    "price": {
+      "value": {
+        "amount": 2390,
+        "currency": "CZK"
+      },
+      "quote": "2,390 Kč",
+      "source": "https://saltic.cz/produkt/enigma-green-evo/"
+    },
+    "notes": "gender U: only one version of this model is listed on saltic.cz. 'středně tvrdá' = medium stiff -> 3. Closure not stated."
+  },
+  {
+    "brand": "Saltic",
+    "model": "Enigma White Evo",
+    "url": "https://saltic.cz/produkt/enigma-white-evo/",
+    "gender": {
+      "value": "U",
+      "quote": "ENIGMA WHITE EVO",
+      "source": "https://saltic.cz/produkt/enigma-white-evo/"
+    },
+    "closure": {
+      "value": null
+    },
+    "width": {
+      "value": null
+    },
+    "volume": {
+      "value": null
+    },
+    "asymmetry": {
+      "value": null
+    },
+    "downturn": {
+      "value": null
+    },
+    "stiffness": {
+      "value": 1,
+      "quote": "díky měkosti boty a velké perforaci gumy je bota velmi flexibilní",
+      "source": "https://saltic.cz/produkt/enigma-white-evo/"
+    },
+    "rubber": {
+      "value": "Extasy",
+      "quote": "PODEŠEV: EXTASY® 4 mm",
+      "source": "https://saltic.cz/produkt/enigma-white-evo/"
+    },
+    "uses": {
+      "value": null
+    },
+    "price": {
+      "value": {
+        "amount": 2390,
+        "currency": "CZK"
+      },
+      "quote": "2,390 Kč",
+      "source": "https://saltic.cz/produkt/enigma-white-evo/"
+    },
+    "notes": "gender U: only one version of this model is listed on saltic.cz. 'velmi flexibilní' (very flexible) -> 1. Closure not stated."
+  },
+  {
+    "brand": "Saltic",
+    "model": "Vampir",
+    "url": "https://saltic.cz/produkt/vampir/",
+    "gender": {
+      "value": "U",
+      "quote": "VAMPIR",
+      "source": "https://saltic.cz/produkt/vampir/"
+    },
+    "closure": {
+      "value": "V",
+      "quote": "Rychloupínací šněrování na suchý zip s pevnými pásky",
+      "source": "https://saltic.cz/produkt/vampir/"
+    },
+    "width": {
+      "value": null
+    },
+    "volume": {
+      "value": null
+    },
+    "asymmetry": {
+      "value": null
+    },
+    "downturn": {
+      "value": null
+    },
+    "stiffness": {
+      "value": null
+    },
+    "rubber": {
+      "value": "Extasy",
+      "quote": "PODEŠEV: Extasy® 4 MM",
+      "source": "https://saltic.cz/produkt/vampir/"
+    },
+    "uses": {
+      "value": [
+        "all-round",
+        "beginner",
+        "gym"
+      ],
+      "quote": "Víceúčelová lezecká bota idealní pro začátečníky i pokročilé, kteří chtějí střídat lezení venku i na stěně.",
+      "source": "https://saltic.cz/produkt/vampir/"
+    },
+    "price": {
+      "value": {
+        "amount": 2350,
+        "currency": "CZK"
+      },
+      "quote": "2,350 Kč",
+      "source": "https://saltic.cz/produkt/vampir/"
+    },
+    "notes": "gender U: only one version of this model is listed on saltic.cz. downturn null: 'Mírně dynamický tvar' does not name downturn."
+  },
+  {
+    "brand": "Saltic",
+    "model": "Speed",
+    "url": "https://saltic.cz/produkt/speed/",
+    "gender": {
+      "value": "U",
+      "quote": "SPEED",
+      "source": "https://saltic.cz/produkt/speed/"
+    },
+    "closure": {
+      "value": null
+    },
+    "width": {
+      "value": null
+    },
+    "volume": {
+      "value": null
+    },
+    "asymmetry": {
+      "value": null
+    },
+    "downturn": {
+      "value": null
+    },
+    "stiffness": {
+      "value": null
+    },
+    "rubber": {
+      "value": "Extasy",
+      "quote": "PODEŠEV: EXTASY® 3 MM NEBO VIBRAM",
+      "source": "https://saltic.cz/produkt/speed/"
+    },
+    "uses": {
+      "value": [
+        "competition"
+      ],
+      "quote": "Je koncepčně zaměřena pro soutěže na rychlost.",
+      "source": "https://saltic.cz/produkt/speed/"
+    },
+    "price": {
+      "value": {
+        "amount": 2590,
+        "currency": "CZK"
+      },
+      "quote": "2,590 Kč",
+      "source": "https://saltic.cz/produkt/speed/"
+    },
+    "notes": "gender U: only one version of this model is listed on saltic.cz. rubber: Extasy or Vibram ('NEBO VIBRAM'). Closure not stated."
+  },
+  {
+    "brand": "Saltic",
+    "model": "Fenix",
+    "url": "https://saltic.cz/produkt/fenix/",
+    "gender": {
+      "value": "MW",
+      "quote": "FENIX LADY",
+      "source": "https://saltic.cz/produkt/fenix-lady/"
+    },
+    "closure": {
+      "value": null
+    },
+    "width": {
+      "value": null
+    },
+    "volume": {
+      "value": null
+    },
+    "asymmetry": {
+      "value": null
+    },
+    "downturn": {
+      "value": null
+    },
+    "stiffness": {
+      "value": null
+    },
+    "rubber": {
+      "value": "Extasy",
+      "quote": "PODEŠEV: EXTASY® 3,7 MM NEBO VIBRAM XS",
+      "source": "https://saltic.cz/produkt/fenix/"
+    },
+    "uses": {
+      "value": null
+    },
+    "price": {
+      "value": {
+        "amount": 2340,
+        "currency": "CZK"
+      },
+      "quote": "2,340 Kč",
+      "source": "https://saltic.cz/produkt/fenix/"
+    },
+    "notes": "rubber: Extasy or Vibram XS. Asymmetry/downturn null: 'agresivní lezečka' and 'celková asymetrie' give no degree. Closure null: 'trojnásobné zapínání' / 'ŠNĚROVACÍ SYSTÉM ZOBÁK' do not say velcro or lace."
+  },
+  {
+    "brand": "Saltic",
+    "model": "Q-Step",
+    "url": "https://saltic.cz/produkt/q-step/",
+    "gender": {
+      "value": "U",
+      "quote": "Q-STEP",
+      "source": "https://saltic.cz/produkt/q-step/"
+    },
+    "closure": {
+      "value": null
+    },
+    "width": {
+      "value": null
+    },
+    "volume": {
+      "value": null
+    },
+    "asymmetry": {
+      "value": null
+    },
+    "downturn": {
+      "value": 1,
+      "quote": "Torzní zahnutí špice a lehce prohnutá podešev vám umožní ustát nemožné.",
+      "source": "https://saltic.cz/produkt/q-step/"
+    },
+    "stiffness": {
+      "value": null
+    },
+    "rubber": {
+      "value": "Extasy",
+      "quote": "PODEŠEV: EXTASY® 3,7 MM NEBO VIBRAM XS",
+      "source": "https://saltic.cz/produkt/q-step/"
+    },
+    "uses": {
+      "value": [
+        "competition"
+      ],
+      "quote": "dodávají lezečce požadovanou dynamičnost a agresivitu sebevědomého závodníka",
+      "source": "https://saltic.cz/produkt/q-step/"
+    },
+    "price": {
+      "value": {
+        "amount": 2400,
+        "currency": "CZK"
+      },
+      "quote": "2,400 Kč",
+      "source": "https://saltic.cz/produkt/q-step/"
+    },
+    "notes": "gender U: only one version of this model is listed on saltic.cz. price: list 2,400 Kč (sale 1,990 Kč shown). 'lehce prohnutá' = slightly downturned -> 1. Asymmetry has no degree. Rubber: Extasy or Vibram XS."
+  },
+  {
+    "brand": "Saltic",
+    "model": "Avax",
+    "url": "https://saltic.cz/produkt/avax/",
+    "gender": {
+      "value": "U",
+      "quote": "AVAX",
+      "source": "https://saltic.cz/produkt/avax/"
+    },
+    "closure": {
+      "value": null
+    },
+    "width": {
+      "value": null
+    },
+    "volume": {
+      "value": null
+    },
+    "asymmetry": {
+      "value": null
+    },
+    "downturn": {
+      "value": null
+    },
+    "stiffness": {
+      "value": null
+    },
+    "rubber": {
+      "value": "Extasy",
+      "quote": "PODEŠEV: EXTASY® 3,5MM NEBO VIBRAM XS",
+      "source": "https://saltic.cz/produkt/avax/"
+    },
+    "uses": {
+      "value": null
+    },
+    "price": {
+      "value": {
+        "amount": 2350,
+        "currency": "CZK"
+      },
+      "quote": "2,350 Kč",
+      "source": "https://saltic.cz/produkt/avax/"
+    },
+    "notes": "gender U: only one version of this model is listed on saltic.cz. closure null: 'patentované šněrování' is ambiguous (Saltic also calls velcro 'šněrování'). Rubber: Extasy or Vibram XS."
+  },
+  {
+    "brand": "Saltic",
+    "model": "Avax NOP",
+    "url": "https://saltic.cz/produkt/avax-nop/",
+    "gender": {
+      "value": "U",
+      "quote": "AVAX NOP",
+      "source": "https://saltic.cz/produkt/avax-nop/"
+    },
+    "closure": {
+      "value": null
+    },
+    "width": {
+      "value": null
+    },
+    "volume": {
+      "value": null
+    },
+    "asymmetry": {
+      "value": null
+    },
+    "downturn": {
+      "value": null
+    },
+    "stiffness": {
+      "value": null
+    },
+    "rubber": {
+      "value": "Extasy",
+      "quote": "PODEŠEV: EXTASY® 3,5MM NEBO VIBRAM XS",
+      "source": "https://saltic.cz/produkt/avax-nop/"
+    },
+    "uses": {
+      "value": null
+    },
+    "price": {
+      "value": {
+        "amount": 2350,
+        "currency": "CZK"
+      },
+      "quote": "2,350 Kč",
+      "source": "https://saltic.cz/produkt/avax-nop/"
+    },
+    "notes": "gender U: only one version of this model is listed on saltic.cz. Rubber: Extasy or Vibram XS. Closure not stated."
+  },
+  {
+    "brand": "Saltic",
+    "model": "Falco",
+    "url": "https://saltic.cz/produkt/falco/",
+    "gender": {
+      "value": "U",
+      "quote": "FALCO",
+      "source": "https://saltic.cz/produkt/falco/"
+    },
+    "closure": {
+      "value": "V",
+      "quote": "Technicky konstruovaná ponožka s velcro zakončením",
+      "source": "https://saltic.cz/produkt/falco/"
+    },
+    "width": {
+      "value": null
+    },
+    "volume": {
+      "value": null
+    },
+    "asymmetry": {
+      "value": null
+    },
+    "downturn": {
+      "value": null
+    },
+    "stiffness": {
+      "value": null
+    },
+    "rubber": {
+      "value": "Extasy",
+      "quote": "PODEŠEV: EXTASY® 4 MM NEBO VIBRAM",
+      "source": "https://saltic.cz/produkt/falco/"
+    },
+    "uses": {
+      "value": null
+    },
+    "price": {
+      "value": {
+        "amount": 2200,
+        "currency": "CZK"
+      },
+      "quote": "2,200 Kč",
+      "source": "https://saltic.cz/produkt/falco/"
+    },
+    "notes": "gender U: only one version of this model is listed on saltic.cz. Rubber: Extasy or Vibram."
+  },
+  {
+    "brand": "Saltic",
+    "model": "Guru",
+    "url": "https://saltic.cz/produkt/guru/",
+    "gender": {
+      "value": "U",
+      "quote": "GURU",
+      "source": "https://saltic.cz/produkt/guru/"
+    },
+    "closure": {
+      "value": "V",
+      "quote": "jedinečným samosvorným zapínáním na velcro",
+      "source": "https://saltic.cz/produkt/guru/"
+    },
+    "width": {
+      "value": null
+    },
+    "volume": {
+      "value": null
+    },
+    "asymmetry": {
+      "value": null
+    },
+    "downturn": {
+      "value": null
+    },
+    "stiffness": {
+      "value": null
+    },
+    "rubber": {
+      "value": "Extasy",
+      "quote": "PODEŠEV: EXTASY® 3.5 MM NEBO VIBRAM",
+      "source": "https://saltic.cz/produkt/guru/"
+    },
+    "uses": {
+      "value": [
+        "all-round",
+        "bouldering"
+      ],
+      "quote": "Ideální pro víceúčelové použití v horách a při boulderingu.",
+      "source": "https://saltic.cz/produkt/guru/"
+    },
+    "price": {
+      "value": {
+        "amount": 1720,
+        "currency": "CZK"
+      },
+      "quote": "1,720 Kč",
+      "source": "https://saltic.cz/produkt/guru/"
+    },
+    "notes": "gender U: only one version of this model is listed on saltic.cz. 'Agresivní' without naming downturn -> null. Rubber: Extasy or Vibram."
+  },
+  {
+    "brand": "Saltic",
+    "model": "Tanaka",
+    "url": "https://saltic.cz/produkt/tanaka/",
+    "gender": {
+      "value": "U",
+      "quote": "TANAKA",
+      "source": "https://saltic.cz/produkt/tanaka/"
+    },
+    "closure": {
+      "value": null
+    },
+    "width": {
+      "value": null
+    },
+    "volume": {
+      "value": null
+    },
+    "asymmetry": {
+      "value": null
+    },
+    "downturn": {
+      "value": null
+    },
+    "stiffness": {
+      "value": null
+    },
+    "rubber": {
+      "value": "Extasy",
+      "quote": "PODEŠEV: EXTASY® 3,7 MM NEBO VIBRAM",
+      "source": "https://saltic.cz/produkt/tanaka/"
+    },
+    "uses": {
+      "value": [
+        "all-round"
+      ],
+      "quote": "Tanaka je agresivní, všestranný a nadmíru účinný nástroj",
+      "source": "https://saltic.cz/produkt/tanaka/"
+    },
+    "price": {
+      "value": {
+        "amount": 1990,
+        "currency": "CZK"
+      },
+      "quote": "1,990 Kč",
+      "source": "https://saltic.cz/produkt/tanaka/"
+    },
+    "notes": "gender U: only one version of this model is listed on saltic.cz. Closure not stated. Rubber: Extasy or Vibram."
+  },
+  {
+    "brand": "Saltic",
+    "model": "Bongo",
+    "url": "https://saltic.cz/produkt/bongo/",
+    "gender": {
+      "value": "U",
+      "quote": "BONGO",
+      "source": "https://saltic.cz/produkt/bongo/"
+    },
+    "closure": {
+      "value": "L",
+      "quote": "Asymetrické šněrování ven z nohy zajišťuje maximální cit v prstové části.",
+      "source": "https://saltic.cz/produkt/bongo/"
+    },
+    "width": {
+      "value": null
+    },
+    "volume": {
+      "value": null
+    },
+    "asymmetry": {
+      "value": null
+    },
+    "downturn": {
+      "value": null
+    },
+    "stiffness": {
+      "value": null
+    },
+    "rubber": {
+      "value": "Extasy",
+      "quote": "PODEŠEV: EXTASY® 3,7 MM NEBO VIBRAM",
+      "source": "https://saltic.cz/produkt/bongo/"
+    },
+    "uses": {
+      "value": [
+        "all-round"
+      ],
+      "quote": "Všestranně zaměřená technická lezečka.",
+      "source": "https://saltic.cz/produkt/bongo/"
+    },
+    "price": {
+      "value": {
+        "amount": 2150,
+        "currency": "CZK"
+      },
+      "quote": "2,150 Kč",
+      "source": "https://saltic.cz/produkt/bongo/"
+    },
+    "notes": "gender U: only one version of this model is listed on saltic.cz. Rubber: Extasy or Vibram."
+  },
+  {
+    "brand": "Saltic",
+    "model": "Givet",
+    "url": "https://saltic.cz/produkt/givet/",
+    "gender": {
+      "value": "U",
+      "quote": "GIVET",
+      "source": "https://saltic.cz/produkt/givet/"
+    },
+    "closure": {
+      "value": null
+    },
+    "width": {
+      "value": null
+    },
+    "volume": {
+      "value": null
+    },
+    "asymmetry": {
+      "value": null
+    },
+    "downturn": {
+      "value": null
+    },
+    "stiffness": {
+      "value": null
+    },
+    "rubber": {
+      "value": "Extasy",
+      "quote": "PODEŠEV: EXTASY® 3,5 MM NEBO VIBRAM",
+      "source": "https://saltic.cz/produkt/givet/"
+    },
+    "uses": {
+      "value": null
+    },
+    "price": {
+      "value": {
+        "amount": 2150,
+        "currency": "CZK"
+      },
+      "quote": "2,150 Kč",
+      "source": "https://saltic.cz/produkt/givet/"
+    },
+    "notes": "gender U: only one version of this model is listed on saltic.cz. (GIVET ORANGE is a colour variant.) Closure not stated. Rubber: Extasy or Vibram."
+  },
+  {
+    "brand": "Saltic",
+    "model": "Garnet",
+    "url": "https://saltic.cz/produkt/garnet/",
+    "gender": {
+      "value": "U",
+      "quote": "GARNET",
+      "source": "https://saltic.cz/produkt/garnet/"
+    },
+    "closure": {
+      "value": null
+    },
+    "width": {
+      "value": null
+    },
+    "volume": {
+      "value": null
+    },
+    "asymmetry": {
+      "value": null
+    },
+    "downturn": {
+      "value": null
+    },
+    "stiffness": {
+      "value": null
+    },
+    "rubber": {
+      "value": "Extasy",
+      "quote": "PODEŠEV: EXTASY® 4 MM NEBO VIBRAM",
+      "source": "https://saltic.cz/produkt/garnet/"
+    },
+    "uses": {
+      "value": null
+    },
+    "price": {
+      "value": {
+        "amount": 2100,
+        "currency": "CZK"
+      },
+      "quote": "2,100 Kč",
+      "source": "https://saltic.cz/produkt/garnet/"
+    },
+    "notes": "gender U: only one version of this model is listed on saltic.cz. Closure not stated. Rubber: Extasy or Vibram."
+  },
+  {
+    "brand": "Saltic",
+    "model": "Spirit",
+    "url": "https://saltic.cz/produkt/spirit/",
+    "gender": {
+      "value": "U",
+      "quote": "SPIRIT",
+      "source": "https://saltic.cz/produkt/spirit/"
+    },
+    "closure": {
+      "value": null
+    },
+    "width": {
+      "value": null
+    },
+    "volume": {
+      "value": null
+    },
+    "asymmetry": {
+      "value": null
+    },
+    "downturn": {
+      "value": null
+    },
+    "stiffness": {
+      "value": null
+    },
+    "rubber": {
+      "value": "Extasy",
+      "quote": "PODEŠEV: EXTASY® 4 MM NEBO VIBRAM",
+      "source": "https://saltic.cz/produkt/spirit/"
+    },
+    "uses": {
+      "value": null
+    },
+    "price": {
+      "value": {
+        "amount": 2100,
+        "currency": "CZK"
+      },
+      "quote": "2,100 Kč",
+      "source": "https://saltic.cz/produkt/spirit/"
+    },
+    "notes": "gender U: only one version of this model is listed on saltic.cz. price: list 2,100 Kč (sale 1,790 Kč shown). Closure not stated. Rubber: Extasy or Vibram."
+  },
+  {
+    "brand": "Saltic",
+    "model": "Saphir",
+    "url": "https://saltic.cz/produkt/saphir/",
+    "gender": {
+      "value": "U",
+      "quote": "SAPHIR",
+      "source": "https://saltic.cz/produkt/saphir/"
+    },
+    "closure": {
+      "value": null
+    },
+    "width": {
+      "value": null
+    },
+    "volume": {
+      "value": null
+    },
+    "asymmetry": {
+      "value": null
+    },
+    "downturn": {
+      "value": null
+    },
+    "stiffness": {
+      "value": null
+    },
+    "rubber": {
+      "value": "Extasy",
+      "quote": "PODEŠEV: EXTASY® 3,7MM NEBO VIBRAM",
+      "source": "https://saltic.cz/produkt/saphir/"
+    },
+    "uses": {
+      "value": [
+        "multipitch",
+        "crack"
+      ],
+      "quote": "jak na dlouhé cesty v horách, tak na spárové lezení",
+      "source": "https://saltic.cz/produkt/saphir/"
+    },
+    "price": {
+      "value": {
+        "amount": 2600,
+        "currency": "CZK"
+      },
+      "quote": "2,600 Kč",
+      "source": "https://saltic.cz/produkt/saphir/"
+    },
+    "notes": "gender U: only one version of this model is listed on saltic.cz. price: list 2,600 Kč (sale 1,490 Kč shown). Closure not stated. Rubber: Extasy or Vibram."
+  },
+  {
+    "brand": "Saltic",
+    "model": "Eliot Barefoot Climbing",
+    "url": "https://saltic.cz/produkt/eliot-barefoot-climbing/",
+    "gender": {
+      "value": "U",
+      "quote": "Eliot – Barefoot climbing",
+      "source": "https://saltic.cz/produkt/eliot-barefoot-climbing/"
+    },
+    "closure": {
+      "value": null
+    },
+    "width": {
+      "value": null
+    },
+    "volume": {
+      "value": null
+    },
+    "asymmetry": {
+      "value": null
+    },
+    "downturn": {
+      "value": null
+    },
+    "stiffness": {
+      "value": null
+    },
+    "rubber": {
+      "value": "Extasy",
+      "quote": "Podešev : Extasy ®",
+      "source": "https://saltic.cz/produkt/eliot-barefoot-climbing/"
+    },
+    "uses": {
+      "value": [
+        "bouldering"
+      ],
+      "quote": "vám dodají všechnu jistotu při lezení a boulderingu",
+      "source": "https://saltic.cz/produkt/eliot-barefoot-climbing/"
+    },
+    "price": {
+      "value": {
+        "amount": 3850,
+        "currency": "CZK"
+      },
+      "quote": "3,850 Kč",
+      "source": "https://saltic.cz/produkt/eliot-barefoot-climbing/"
+    },
+    "notes": "gender U: only one version of this model is listed on saltic.cz. Closure not stated."
+  }
+]

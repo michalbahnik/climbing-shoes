@@ -1,0 +1,332 @@
+[
+  {
+    "brand": "Black Diamond",
+    "model": "Momentum",
+    "url": "https://eu.blackdiamondequipment.com/products/mens-momentum-climbing-shoe",
+    "gender": {
+      "value": "MW",
+      "quote": "Women's Momentum Climbing Shoes",
+      "source": "https://eu.blackdiamondequipment.com/products/womens-momentum-climbing-shoe"
+    },
+    "closure": {
+      "value": "V",
+      "quote": "Two hook-and-loop straps for fit adjustability and quick on-and-off",
+      "source": "https://eu.blackdiamondequipment.com/products/mens-momentum-climbing-shoe"
+    },
+    "width": {
+      "value": null
+    },
+    "volume": {
+      "value": null
+    },
+    "asymmetry": {
+      "value": null
+    },
+    "downturn": {
+      "value": 0,
+      "quote": "Neutral, flat last for vertical climbing or all-day comfort",
+      "source": "https://eu.blackdiamondequipment.com/products/mens-momentum-climbing-shoe"
+    },
+    "stiffness": {
+      "value": 3,
+      "quote": "Mid flex, \"molded\" blackLabel rubber midsole",
+      "source": "https://eu.blackdiamondequipment.com/products/mens-momentum-climbing-shoe"
+    },
+    "rubber": {
+      "value": "Black Label",
+      "quote": "Updated Black Label rubber with improved grip and durability",
+      "source": "https://eu.blackdiamondequipment.com/products/mens-momentum-climbing-shoe"
+    },
+    "uses": {
+      "value": [
+        "beginner",
+        "gym",
+        "multipitch",
+        "all-round"
+      ],
+      "quote": "may be your first step toward a lifetime of climbing ... for long gym sessions or all-day multi-pitch endeavors ... a great one-shoe-quiver",
+      "source": "https://eu.blackdiamondequipment.com/products/mens-momentum-climbing-shoe"
+    },
+    "price": {
+      "value": {
+        "amount": 95,
+        "currency": "EUR"
+      },
+      "quote": "€95,00",
+      "source": "https://eu.blackdiamondequipment.com/products/mens-momentum-climbing-shoe"
+    },
+    "notes": "Stiffness from men's page ('Mid flex' -> 3); women's page says 'Soft flex'. Asymmetry not stated ('neutral, flat last' used for downturn only)."
+  },
+  {
+    "brand": "Black Diamond",
+    "model": "Momentum Lace",
+    "url": "https://eu.blackdiamondequipment.com/products/mens-momentum-lace-climbing-shoes",
+    "gender": {
+      "value": "MW",
+      "quote": "Women's Momentum Lace Climbing Shoes",
+      "source": "https://eu.blackdiamondequipment.com/products/womens-momentum-lace-climbing-shoes"
+    },
+    "closure": {
+      "value": "L",
+      "quote": "Lace entry for fit adjustability",
+      "source": "https://eu.blackdiamondequipment.com/products/mens-momentum-lace-climbing-shoes"
+    },
+    "width": {
+      "value": null
+    },
+    "volume": {
+      "value": null
+    },
+    "asymmetry": {
+      "value": null
+    },
+    "downturn": {
+      "value": 0,
+      "quote": "Neutral, flat last for vertical climbing or all-day comfort",
+      "source": "https://eu.blackdiamondequipment.com/products/mens-momentum-lace-climbing-shoes"
+    },
+    "stiffness": {
+      "value": 3,
+      "quote": "Mid flex, \"molded\" blackLabel rubber midsole",
+      "source": "https://eu.blackdiamondequipment.com/products/mens-momentum-lace-climbing-shoes"
+    },
+    "rubber": {
+      "value": "Black Label",
+      "quote": "Updated Black Label rubber with improved grip and durability",
+      "source": "https://eu.blackdiamondequipment.com/products/mens-momentum-lace-climbing-shoes"
+    },
+    "uses": {
+      "value": [
+        "beginner",
+        "slab",
+        "gym"
+      ],
+      "quote": "may be your first step toward a lifetime of climbing ... vertical terrain and slabs ... sized down for gym climbing",
+      "source": "https://eu.blackdiamondequipment.com/products/mens-momentum-lace-climbing-shoes"
+    },
+    "price": {
+      "value": {
+        "amount": 95,
+        "currency": "EUR"
+      },
+      "quote": "€95,00",
+      "source": "https://eu.blackdiamondequipment.com/products/mens-momentum-lace-climbing-shoes"
+    },
+    "notes": "Women's Momentum Lace is an outlet item (EUR 45 sale, EUR 90 list) with older specs ('Soft flex midsole', 'Materials in entire shoe are completely vegan'); vegan not tagged because the men's current page does not say it."
+  },
+  {
+    "brand": "Black Diamond",
+    "model": "Method",
+    "url": "https://eu.blackdiamondequipment.com/products/mens-method-climbing-shoes",
+    "gender": {
+      "value": "MW",
+      "quote": "Women's Method Climbing Shoes",
+      "source": "https://eu.blackdiamondequipment.com/products/womens-method-climbing-shoes"
+    },
+    "closure": {
+      "value": "V",
+      "quote": "Velcro straps for fit adjustability",
+      "source": "https://eu.blackdiamondequipment.com/products/mens-method-climbing-shoes"
+    },
+    "width": {
+      "value": null
+    },
+    "volume": {
+      "value": null
+    },
+    "asymmetry": {
+      "value": null
+    },
+    "downturn": {
+      "value": 2,
+      "quote": "Moderate, downturned last for vertical to gently overhanging sport routes",
+      "source": "https://eu.blackdiamondequipment.com/products/mens-method-climbing-shoes"
+    },
+    "stiffness": {
+      "value": null
+    },
+    "rubber": {
+      "value": "Black Label Fuse",
+      "quote": "4.0mm Black Label Fuse rubber is molded for superior grip",
+      "source": "https://eu.blackdiamondequipment.com/products/mens-method-climbing-shoes"
+    },
+    "uses": {
+      "value": [
+        "sport"
+      ],
+      "quote": "The Black Diamond Method is built for sending sport pitches",
+      "source": "https://eu.blackdiamondequipment.com/products/mens-method-climbing-shoes"
+    },
+    "price": {
+      "value": {
+        "amount": 130,
+        "currency": "EUR"
+      },
+      "quote": "€130,00",
+      "source": "https://eu.blackdiamondequipment.com/products/mens-method-climbing-shoes"
+    },
+    "notes": "Stiffness 4 from 'stiff edge control' (weak evidence). Women's version described as 'low volume, women's specific last'; men's volume not stated. Stiffness left null: \"stiff edge control\" is not a stiffness rating of the shoe."
+  },
+  {
+    "brand": "Black Diamond",
+    "model": "Method S",
+    "url": "https://eu.blackdiamondequipment.com/products/mens-method-s-climbing-shoes",
+    "gender": {
+      "value": "MW",
+      "quote": "Women's Method S Climbing Shoes",
+      "source": "https://eu.blackdiamondequipment.com/products/womens-method-s-climbing-shoes"
+    },
+    "closure": {
+      "value": "V",
+      "quote": "the single Velcro strap provides easy transitions between burns",
+      "source": "https://eu.blackdiamondequipment.com/products/mens-method-s-climbing-shoes"
+    },
+    "width": {
+      "value": null
+    },
+    "volume": {
+      "value": null
+    },
+    "asymmetry": {
+      "value": null
+    },
+    "downturn": {
+      "value": 2,
+      "quote": "Moderate downturn for steep climbing",
+      "source": "https://eu.blackdiamondequipment.com/products/mens-method-s-climbing-shoes"
+    },
+    "stiffness": {
+      "value": 2,
+      "quote": "A soft midsole, downturned last, and rubberized toe box",
+      "source": "https://eu.blackdiamondequipment.com/products/mens-method-s-climbing-shoes"
+    },
+    "rubber": {
+      "value": "BlackLabel Fuse",
+      "quote": "Features BlackLabel Fuse rubber molded for optimal grip and performance",
+      "source": "https://eu.blackdiamondequipment.com/products/mens-method-s-climbing-shoes"
+    },
+    "uses": {
+      "value": null
+    },
+    "price": {
+      "value": {
+        "amount": 140,
+        "currency": "EUR"
+      },
+      "quote": "€140,00",
+      "source": "https://eu.blackdiamondequipment.com/products/mens-method-s-climbing-shoes"
+    },
+    "notes": "Uses null: page only says 'designed for steep climbing'."
+  },
+  {
+    "brand": "Black Diamond",
+    "model": "Aspect",
+    "url": "https://eu.blackdiamondequipment.com/products/aspect-climbing-shoes",
+    "gender": {
+      "value": "U",
+      "quote": "Unisex",
+      "source": "https://eu.blackdiamondequipment.com/products/aspect-climbing-shoes"
+    },
+    "closure": {
+      "value": "L",
+      "quote": "this flat-lasted, slightly asymmetrical lace-up",
+      "source": "https://eu.blackdiamondequipment.com/products/aspect-climbing-shoes"
+    },
+    "width": {
+      "value": null
+    },
+    "volume": {
+      "value": null
+    },
+    "asymmetry": {
+      "value": 1,
+      "quote": "this flat-lasted, slightly asymmetrical lace-up",
+      "source": "https://eu.blackdiamondequipment.com/products/aspect-climbing-shoes"
+    },
+    "downturn": {
+      "value": 0,
+      "quote": "Neutral, flat last for all day cragging comfort",
+      "source": "https://eu.blackdiamondequipment.com/products/aspect-climbing-shoes"
+    },
+    "stiffness": {
+      "value": 3,
+      "quote": "Medium-flex midsole adds support without sacrificing sensitivity",
+      "source": "https://eu.blackdiamondequipment.com/products/aspect-climbing-shoes"
+    },
+    "rubber": {
+      "value": null
+    },
+    "uses": {
+      "value": [
+        "trad",
+        "crack",
+        "slab"
+      ],
+      "quote": "the Aspect is an engineered trad climbing machine ... extra padding for crack climbing ... a run-out granite slab",
+      "source": "https://eu.blackdiamondequipment.com/products/aspect-climbing-shoes"
+    },
+    "price": {
+      "value": {
+        "amount": 120,
+        "currency": "EUR"
+      },
+      "quote": "€120,00",
+      "source": "https://eu.blackdiamondequipment.com/products/aspect-climbing-shoes"
+    },
+    "notes": "Rubber null: page gives only '4.3mm rubber'."
+  },
+  {
+    "brand": "Black Diamond",
+    "model": "Aspect Pro",
+    "url": "https://eu.blackdiamondequipment.com/products/aspect-pro-climbing-shoes",
+    "gender": {
+      "value": "U",
+      "quote": "Aspect Pro Climbing Shoes",
+      "source": "https://eu.blackdiamondequipment.com/products/aspect-pro-climbing-shoes"
+    },
+    "closure": {
+      "value": null
+    },
+    "width": {
+      "value": null
+    },
+    "volume": {
+      "value": null
+    },
+    "asymmetry": {
+      "value": null
+    },
+    "downturn": {
+      "value": 1,
+      "quote": "a slightly downturned forefoot",
+      "source": "https://eu.blackdiamondequipment.com/products/aspect-pro-climbing-shoes"
+    },
+    "stiffness": {
+      "value": 4,
+      "quote": "Full-length, stiff midsole provides comfort on long days",
+      "source": "https://eu.blackdiamondequipment.com/products/aspect-pro-climbing-shoes"
+    },
+    "rubber": {
+      "value": "BlackLabel Fuse",
+      "quote": "BlackLabel Fuse sticky rubber molded from one sheet",
+      "source": "https://eu.blackdiamondequipment.com/products/aspect-pro-climbing-shoes"
+    },
+    "uses": {
+      "value": [
+        "slab",
+        "crack"
+      ],
+      "quote": "Engineered to perform on slabs and vertical terrain ... added durability for crack climbing",
+      "source": "https://eu.blackdiamondequipment.com/products/aspect-pro-climbing-shoes"
+    },
+    "price": {
+      "value": {
+        "amount": 170,
+        "currency": "EUR"
+      },
+      "quote": "€170,00",
+      "source": "https://eu.blackdiamondequipment.com/products/aspect-pro-climbing-shoes"
+    },
+    "notes": "Gender U: single listing, no men's/women's versions. Closure not stated on EU or US page."
+  }
+]

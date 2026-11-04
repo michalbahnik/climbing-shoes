@@ -1,0 +1,934 @@
+[
+  {
+    "brand": "Ocun",
+    "model": "Diamond S",
+    "url": "https://www.ocun.com/product/diamond-s3",
+    "gender": {
+      "value": "U",
+      "quote": "3 - 13 UK",
+      "source": "https://www.ocun.com/product/diamond-s3"
+    },
+    "closure": {
+      "value": "V",
+      "quote": "Velcro closure and pull tab on the tongue allow for quick on/off",
+      "source": "https://www.ocun.com/product/diamond-s3"
+    },
+    "width": {
+      "value": null
+    },
+    "volume": {
+      "value": null
+    },
+    "asymmetry": {
+      "value": null
+    },
+    "downturn": {
+      "value": null
+    },
+    "stiffness": {
+      "value": null
+    },
+    "rubber": {
+      "value": "CAT rubber 1.5",
+      "quote": "CAT rubber 1.5, 4 mm",
+      "source": "https://www.ocun.com/product/diamond-s3"
+    },
+    "uses": {
+      "value": [
+        "bouldering",
+        "gym",
+        "sport",
+        "vegan"
+      ],
+      "quote": "Designed for maximum performance in bouldering, gym training and sport climbing. | 100% vegan",
+      "source": "https://www.ocun.com/product/diamond-s3"
+    },
+    "price": {
+      "value": null
+    },
+    "notes": "Gender U: one unisex version listed in the ocun.com climbing-shoe catalogue. Price null: ocun.com has no official store (only 'Find a dealer'). Width null: 'Ideal for climbers with narrow to regular-width feet' spans two classes. Asymmetry null: only 'asymmetric Excentric 2.0 last', no degree."
+  },
+  {
+    "brand": "Ocun",
+    "model": "Sigma",
+    "url": "https://www.ocun.com/product/sigma6",
+    "gender": {
+      "value": "U",
+      "quote": "4 - 13 UK",
+      "source": "https://www.ocun.com/product/sigma6"
+    },
+    "closure": {
+      "value": "L",
+      "quote": "Flat laces and a lace pocket allow a secure fit",
+      "source": "https://www.ocun.com/product/sigma6"
+    },
+    "width": {
+      "value": null
+    },
+    "volume": {
+      "value": null
+    },
+    "asymmetry": {
+      "value": null
+    },
+    "downturn": {
+      "value": null
+    },
+    "stiffness": {
+      "value": null
+    },
+    "rubber": {
+      "value": null
+    },
+    "uses": {
+      "value": [
+        "vegan"
+      ],
+      "quote": "100% vegan – made without any animal-derived materials.",
+      "source": "https://www.ocun.com/product/sigma6"
+    },
+    "price": {
+      "value": null
+    },
+    "notes": "Gender U: one unisex version listed in the ocun.com climbing-shoe catalogue. Price null: ocun.com has no official store (only 'Find a dealer'). Width null: 'narrow to regular-width feet'. Rubber null: page says only 'Vibram, 4mm' (no compound). Stiffness null: only midsole name '3D Fit Hard'."
+  },
+  {
+    "brand": "Ocun",
+    "model": "Fury",
+    "url": "https://www.ocun.com/product/fury3",
+    "gender": {
+      "value": "U",
+      "quote": "3 - 13 UK",
+      "source": "https://www.ocun.com/product/fury3"
+    },
+    "closure": {
+      "value": null
+    },
+    "width": {
+      "value": null
+    },
+    "volume": {
+      "value": null
+    },
+    "asymmetry": {
+      "value": null
+    },
+    "downturn": {
+      "value": 3,
+      "quote": "Aggressive downturn – perfect for steep overhangs and technical boulders.",
+      "source": "https://www.ocun.com/product/fury3"
+    },
+    "stiffness": {
+      "value": 1,
+      "quote": "An exceptionally soft and sensitive shoe for maximum contact with rock",
+      "source": "https://www.ocun.com/product/fury3"
+    },
+    "rubber": {
+      "value": "CAT rubber 1.5",
+      "quote": "CAT rubber 1.5, 4 mm",
+      "source": "https://www.ocun.com/product/fury3"
+    },
+    "uses": {
+      "value": [
+        "bouldering",
+        "gym",
+        "vegan"
+      ],
+      "quote": "High-end bouldering shoes | both indoors, and outdoors | 100% vegan",
+      "source": "https://www.ocun.com/product/fury3"
+    },
+    "price": {
+      "value": null
+    },
+    "notes": "Gender U: one unisex version listed in the ocun.com climbing-shoe catalogue. Price null: ocun.com has no official store (only 'Find a dealer'). Closure null: closure type not stated in text. Width null: 'narrow to regular-width feet'. Stiffness: 'exceptionally soft' mapped to very soft (1)."
+  },
+  {
+    "brand": "Ocun",
+    "model": "Ozone",
+    "url": "https://www.ocun.com/product/ozone3",
+    "gender": {
+      "value": "U",
+      "quote": "4 - 13 UK",
+      "source": "https://www.ocun.com/product/ozone3"
+    },
+    "closure": {
+      "value": null
+    },
+    "width": {
+      "value": "M",
+      "quote": "Best suited for regular-width feet and the Greek toe shape.",
+      "source": "https://www.ocun.com/product/ozone3"
+    },
+    "volume": {
+      "value": "M",
+      "quote": "Ozone HV (High Volume) is the wider-fit version of the popular Ozone",
+      "source": "https://www.ocun.com/product/ozone-hv3"
+    },
+    "asymmetry": {
+      "value": 3,
+      "quote": "Asymmetrix last – slightly downturned with pronounced asymmetry",
+      "source": "https://www.ocun.com/product/ozone3"
+    },
+    "downturn": {
+      "value": 1,
+      "quote": "Asymmetrix last – slightly downturned with pronounced asymmetry",
+      "source": "https://www.ocun.com/product/ozone3"
+    },
+    "stiffness": {
+      "value": null
+    },
+    "rubber": {
+      "value": null
+    },
+    "uses": {
+      "value": [
+        "vegan"
+      ],
+      "quote": "100% vegan – made without the use of animal-based materials.",
+      "source": "https://www.ocun.com/product/ozone3"
+    },
+    "price": {
+      "value": null
+    },
+    "notes": "Gender U: one unisex version listed in the ocun.com climbing-shoe catalogue. Price null: ocun.com has no official store (only 'Find a dealer'). Closure null: not stated in text. Rubber null: only 'Vibram, 4mm'. Volume M because an HV variant of this model exists."
+  },
+  {
+    "brand": "Ocun",
+    "model": "Ozone HV",
+    "url": "https://www.ocun.com/product/ozone-hv3",
+    "gender": {
+      "value": "U",
+      "quote": "4 - 13 UK",
+      "source": "https://www.ocun.com/product/ozone-hv3"
+    },
+    "closure": {
+      "value": null
+    },
+    "width": {
+      "value": "W",
+      "quote": "Best suited for wider feet, accommodating both Greek and Roman toe shapes.",
+      "source": "https://www.ocun.com/product/ozone-hv3"
+    },
+    "volume": {
+      "value": "H",
+      "quote": "Ozone HV (High Volume) is the wider-fit version of the popular Ozone",
+      "source": "https://www.ocun.com/product/ozone-hv3"
+    },
+    "asymmetry": {
+      "value": null
+    },
+    "downturn": {
+      "value": null
+    },
+    "stiffness": {
+      "value": null
+    },
+    "rubber": {
+      "value": null
+    },
+    "uses": {
+      "value": [
+        "vegan"
+      ],
+      "quote": "100% vegan – produced without any animal-based materials.",
+      "source": "https://www.ocun.com/product/ozone-hv3"
+    },
+    "price": {
+      "value": null
+    },
+    "notes": "Gender U: one unisex version listed in the ocun.com climbing-shoe catalogue. Price null: ocun.com has no official store (only 'Find a dealer'). Closure null: not stated in text. Rubber null: only 'Vibram, 4mm'. Asymmetry/downturn null: HV page only says 'Asymmetrix Plus last – a wider version of the Asymmetrix last' (the Ozone page rates Asymmetrix 'pronounced asymmetry', 'slightly downturned')."
+  },
+  {
+    "brand": "Ocun",
+    "model": "Bullit",
+    "url": "https://www.ocun.com/product/bullit3",
+    "gender": {
+      "value": "U",
+      "quote": "4 - 13 UK",
+      "source": "https://www.ocun.com/product/bullit3"
+    },
+    "closure": {
+      "value": "V",
+      "quote": "Easy closure – single Velcro strap with a slim profile",
+      "source": "https://www.ocun.com/product/bullit3"
+    },
+    "width": {
+      "value": "M",
+      "quote": "performing particularly well with Greek toes and regular-width feet",
+      "source": "https://www.ocun.com/product/bullit3"
+    },
+    "volume": {
+      "value": null
+    },
+    "asymmetry": {
+      "value": 3,
+      "quote": "Asymmetrix last – slightly downturned with pronounced asymmetry",
+      "source": "https://www.ocun.com/product/bullit3"
+    },
+    "downturn": {
+      "value": 1,
+      "quote": "Asymmetrix last – slightly downturned with pronounced asymmetry",
+      "source": "https://www.ocun.com/product/bullit3"
+    },
+    "stiffness": {
+      "value": 2,
+      "quote": "Bullit is a soft performance shoe built on the Asymmetrix last",
+      "source": "https://www.ocun.com/product/bullit3"
+    },
+    "rubber": {
+      "value": "CAT rubber 1.5",
+      "quote": "CAT rubber 1.5, 4 mm",
+      "source": "https://www.ocun.com/product/bullit3"
+    },
+    "uses": {
+      "value": [
+        "bouldering",
+        "vegan"
+      ],
+      "quote": "High-performance climbing shoes designed for bouldering | 100% vegan",
+      "source": "https://www.ocun.com/product/bullit3"
+    },
+    "price": {
+      "value": null
+    },
+    "notes": "Gender U: one unisex version listed in the ocun.com climbing-shoe catalogue. Price null: ocun.com has no official store (only 'Find a dealer'). Stiffness: 'soft' mapped to 2."
+  },
+  {
+    "brand": "Ocun",
+    "model": "Havoc",
+    "url": "https://www.ocun.com/product/havoc3",
+    "gender": {
+      "value": "U",
+      "quote": "4 - 13 UK",
+      "source": "https://www.ocun.com/product/havoc3"
+    },
+    "closure": {
+      "value": "V",
+      "quote": "Easy closure – two Velcro straps and elastic tongue",
+      "source": "https://www.ocun.com/product/havoc3"
+    },
+    "width": {
+      "value": "M",
+      "quote": "Best suited for regular-width feet, fitting well for Egyptian and Roman toe shapes.",
+      "source": "https://www.ocun.com/product/havoc3"
+    },
+    "volume": {
+      "value": null
+    },
+    "asymmetry": {
+      "value": 2,
+      "quote": "All-round last – moderate asymmetry and neutral downturn",
+      "source": "https://www.ocun.com/product/havoc3"
+    },
+    "downturn": {
+      "value": 0,
+      "quote": "All-round last – moderate asymmetry and neutral downturn",
+      "source": "https://www.ocun.com/product/havoc3"
+    },
+    "stiffness": {
+      "value": 2,
+      "quote": "Soft construction – enhances sensitivity and direct surface contact",
+      "source": "https://www.ocun.com/product/havoc3"
+    },
+    "rubber": {
+      "value": "CAT rubber 1.5",
+      "quote": "CAT rubber 1.5, 4 mm",
+      "source": "https://www.ocun.com/product/havoc3"
+    },
+    "uses": {
+      "value": [
+        "bouldering",
+        "sport",
+        "vegan"
+      ],
+      "quote": "Performance and precision shoes for bouldering and sport climbing | 100% vegan",
+      "source": "https://www.ocun.com/product/havoc3"
+    },
+    "price": {
+      "value": null
+    },
+    "notes": "Gender U: one unisex version listed in the ocun.com climbing-shoe catalogue. Price null: ocun.com has no official store (only 'Find a dealer'). Stiffness: 'Soft construction' mapped to 2."
+  },
+  {
+    "brand": "Ocun",
+    "model": "Iris",
+    "url": "https://www.ocun.com/product/iris3",
+    "gender": {
+      "value": "U",
+      "quote": "2 - 10 UK",
+      "source": "https://www.ocun.com/product/iris3"
+    },
+    "closure": {
+      "value": "V",
+      "quote": "Quick closure – a single wide Velcro strap",
+      "source": "https://www.ocun.com/product/iris3"
+    },
+    "width": {
+      "value": "N",
+      "quote": "Best suited for climbers with narrow feet",
+      "source": "https://www.ocun.com/product/iris3"
+    },
+    "volume": {
+      "value": "L",
+      "quote": "Low-volume performance shoes, ideal for narrow feet",
+      "source": "https://www.ocun.com/product/iris3"
+    },
+    "asymmetry": {
+      "value": 2,
+      "quote": "low volume in instep and heel, moderate asymmetry and a relatively flat profile",
+      "source": "https://www.ocun.com/product/iris3"
+    },
+    "downturn": {
+      "value": 0,
+      "quote": "low volume in instep and heel, moderate asymmetry and a relatively flat profile",
+      "source": "https://www.ocun.com/product/iris3"
+    },
+    "stiffness": {
+      "value": 2,
+      "quote": "Soft midsole – the 2D Toe Soft construction allows natural flex",
+      "source": "https://www.ocun.com/product/iris3"
+    },
+    "rubber": {
+      "value": "CAT rubber 1.5",
+      "quote": "CAT rubber 1.5, 4 mm",
+      "source": "https://www.ocun.com/product/iris3"
+    },
+    "uses": {
+      "value": [
+        "vegan"
+      ],
+      "quote": "100% vegan – made without the use of animal-based materials.",
+      "source": "https://www.ocun.com/product/iris3"
+    },
+    "price": {
+      "value": null
+    },
+    "notes": "Gender U: one unisex version listed in the ocun.com climbing-shoe catalogue. Price null: ocun.com has no official store (only 'Find a dealer'). Downturn: 'relatively flat profile' mapped to 0; stiffness: 'Soft midsole' mapped to 2."
+  },
+  {
+    "brand": "Ocun",
+    "model": "Pearl",
+    "url": "https://www.ocun.com/product/pearl-20th-anniversary3",
+    "gender": {
+      "value": "U",
+      "quote": "4 - 13 UK",
+      "source": "https://www.ocun.com/product/pearl-20th-anniversary3"
+    },
+    "closure": {
+      "value": "L",
+      "quote": "Fast lacing allows precise adjustment",
+      "source": "https://www.ocun.com/product/pearl-20th-anniversary3"
+    },
+    "width": {
+      "value": null
+    },
+    "volume": {
+      "value": null
+    },
+    "asymmetry": {
+      "value": null
+    },
+    "downturn": {
+      "value": 3,
+      "quote": "Built on the Radical last with a pronounced downturn and slight asymmetry",
+      "source": "https://www.ocun.com/product/pearl-20th-anniversary3"
+    },
+    "stiffness": {
+      "value": 3,
+      "quote": "Balanced stiffness and sensitivity – stability on tiny holds without losing rock feel.",
+      "source": "https://www.ocun.com/product/pearl-20th-anniversary3"
+    },
+    "rubber": {
+      "value": "CAT rubber 1.5",
+      "quote": "CAT rubber 1.5, 4 mm",
+      "source": "https://www.ocun.com/product/pearl-20th-anniversary3"
+    },
+    "uses": {
+      "value": [
+        "gym",
+        "vegan"
+      ],
+      "quote": "high-friction compound that grips on both rock and indoor walls | 100% vegan",
+      "source": "https://www.ocun.com/product/pearl-20th-anniversary3"
+    },
+    "price": {
+      "value": null
+    },
+    "notes": "Gender U: one unisex version listed in the ocun.com climbing-shoe catalogue. Price null: ocun.com has no official store (only 'Find a dealer'). Asymmetry null: page contradicts itself ('slight asymmetry' vs 'Radical last – pronounced downturn, medium asymmetry'). Width null: 'narrow to regular-width feet'. Stiffness: 'Balanced stiffness' mapped to medium (3)."
+  },
+  {
+    "brand": "Ocun",
+    "model": "Jett Crack",
+    "url": "https://www.ocun.com/product/jett-crack3",
+    "gender": {
+      "value": "U",
+      "quote": "4 - 13 UK",
+      "source": "https://www.ocun.com/product/jett-crack3"
+    },
+    "closure": {
+      "value": "L",
+      "quote": "Ankle protection, rubber reinforcements around the toes and heel, and protected lacing",
+      "source": "https://www.ocun.com/product/jett-crack3"
+    },
+    "width": {
+      "value": "M",
+      "quote": "Best suited for climbers with regular-width feet and Egyptian or Roman toe shapes.",
+      "source": "https://www.ocun.com/product/jett-crack3"
+    },
+    "volume": {
+      "value": null
+    },
+    "asymmetry": {
+      "value": 2,
+      "quote": "All-round last – moderate asymmetry and neutral downturn",
+      "source": "https://www.ocun.com/product/jett-crack3"
+    },
+    "downturn": {
+      "value": 0,
+      "quote": "All-round last – moderate asymmetry and neutral downturn",
+      "source": "https://www.ocun.com/product/jett-crack3"
+    },
+    "stiffness": {
+      "value": null
+    },
+    "rubber": {
+      "value": "CAT rubber 1.5",
+      "quote": "CAT rubber 1.5, 4.5 mm",
+      "source": "https://www.ocun.com/product/jett-crack3"
+    },
+    "uses": {
+      "value": [
+        "trad",
+        "crack",
+        "multipitch",
+        "vegan"
+      ],
+      "quote": "designed specifically for traditional and crack climbing | also a reliable choice for multi-pitch climbing | 100% vegan",
+      "source": "https://www.ocun.com/product/jett-crack3"
+    },
+    "price": {
+      "value": null
+    },
+    "notes": "Gender U: one unisex version listed in the ocun.com climbing-shoe catalogue. Price null: ocun.com has no official store (only 'Find a dealer'). Stiffness null: only midsole name '2D Fit Hard'."
+  },
+  {
+    "brand": "Ocun",
+    "model": "Jett QC",
+    "url": "https://www.ocun.com/product/jett-qc",
+    "gender": {
+      "value": "U",
+      "quote": "4 - 13 UK",
+      "source": "https://www.ocun.com/product/jett-qc"
+    },
+    "closure": {
+      "value": "V",
+      "quote": "dual opposite Velcro straps make the JETT QC easy to put on",
+      "source": "https://www.ocun.com/product/jett-qc"
+    },
+    "width": {
+      "value": "M",
+      "quote": "ideal for climbers with the Egyptian toe shape and regular-width feet",
+      "source": "https://www.ocun.com/product/jett-qc"
+    },
+    "volume": {
+      "value": null
+    },
+    "asymmetry": {
+      "value": 2,
+      "quote": "All-round last – moderate asymmetry and neutral downturn",
+      "source": "https://www.ocun.com/product/jett-qc"
+    },
+    "downturn": {
+      "value": 0,
+      "quote": "All-round last – moderate asymmetry and neutral downturn",
+      "source": "https://www.ocun.com/product/jett-qc"
+    },
+    "stiffness": {
+      "value": 4,
+      "quote": "combined with a stiffer midsole, ensures both stability and support",
+      "source": "https://www.ocun.com/product/jett-qc"
+    },
+    "rubber": {
+      "value": "CAT rubber 1.5",
+      "quote": "CAT rubber 1.5, 4 mm",
+      "source": "https://www.ocun.com/product/jett-qc"
+    },
+    "uses": {
+      "value": [
+        "sport",
+        "vegan"
+      ],
+      "quote": "Sport climbing shoes that do not compromise the comfort | 100% vegan",
+      "source": "https://www.ocun.com/product/jett-qc"
+    },
+    "price": {
+      "value": null
+    },
+    "notes": "Gender U: one unisex version listed in the ocun.com climbing-shoe catalogue. Price null: ocun.com has no official store (only 'Find a dealer'). Volume null: 'more volume in the instep and toe area' is relative, not a volume class. Stiffness: 'stiffer midsole' mapped to stiff (4)."
+  },
+  {
+    "brand": "Ocun",
+    "model": "Jett LU",
+    "url": "https://www.ocun.com/product/jett-lu",
+    "gender": {
+      "value": "U",
+      "quote": "4 - 13 UK",
+      "source": "https://www.ocun.com/product/jett-lu"
+    },
+    "closure": {
+      "value": "L",
+      "quote": "Lace-to-toe closure allows for precise adjustment",
+      "source": "https://www.ocun.com/product/jett-lu"
+    },
+    "width": {
+      "value": "M",
+      "quote": "This model fits best on regular-width feet",
+      "source": "https://www.ocun.com/product/jett-lu"
+    },
+    "volume": {
+      "value": null
+    },
+    "asymmetry": {
+      "value": 2,
+      "quote": "All-round last – moderate asymmetry and neutral downturn",
+      "source": "https://www.ocun.com/product/jett-lu"
+    },
+    "downturn": {
+      "value": 0,
+      "quote": "All-round last – moderate asymmetry and neutral downturn",
+      "source": "https://www.ocun.com/product/jett-lu"
+    },
+    "stiffness": {
+      "value": 4,
+      "quote": "the CAT 1.5 sole and stiff midsole provide security on small footholds",
+      "source": "https://www.ocun.com/product/jett-lu"
+    },
+    "rubber": {
+      "value": "CAT rubber 1.5",
+      "quote": "CAT rubber 1.5, 4 mm",
+      "source": "https://www.ocun.com/product/jett-lu"
+    },
+    "uses": {
+      "value": [
+        "multipitch",
+        "gym",
+        "sport",
+        "vegan"
+      ],
+      "quote": "comfort on multi-pitch routes as well as at the gym | suitable both for technical multi-pitches and for sport routes | 100% vegan",
+      "source": "https://www.ocun.com/product/jett-lu"
+    },
+    "price": {
+      "value": null
+    },
+    "notes": "Gender U: one unisex version listed in the ocun.com climbing-shoe catalogue. Price null: ocun.com has no official store (only 'Find a dealer'). Volume null: 'extra volume in the instep and toe' is relative. Stiffness: 'stiff midsole' mapped to 4."
+  },
+  {
+    "brand": "Ocun",
+    "model": "Jett S",
+    "url": "https://www.ocun.com/product/jett-s",
+    "gender": {
+      "value": "U",
+      "quote": "4 - 13 UK",
+      "source": "https://www.ocun.com/product/jett-s"
+    },
+    "closure": {
+      "value": "V",
+      "quote": "the single Velcro strap makes tightening quick and easy during training",
+      "source": "https://www.ocun.com/product/jett-s"
+    },
+    "width": {
+      "value": null
+    },
+    "volume": {
+      "value": null
+    },
+    "asymmetry": {
+      "value": 2,
+      "quote": "All-round last – moderate asymmetry and neutral downturn",
+      "source": "https://www.ocun.com/product/jett-s"
+    },
+    "downturn": {
+      "value": 0,
+      "quote": "All-round last – moderate asymmetry and neutral downturn",
+      "source": "https://www.ocun.com/product/jett-s"
+    },
+    "stiffness": {
+      "value": null
+    },
+    "rubber": {
+      "value": "CAT rubber 1.5",
+      "quote": "CAT rubber 1.5, 4 mm",
+      "source": "https://www.ocun.com/product/jett-s"
+    },
+    "uses": {
+      "value": [
+        "bouldering",
+        "vegan"
+      ],
+      "quote": "perfect choice for intermediate climbers and boulderers | 100% vegan",
+      "source": "https://www.ocun.com/product/jett-s"
+    },
+    "price": {
+      "value": null
+    },
+    "notes": "Gender U: one unisex version listed in the ocun.com climbing-shoe catalogue. Price null: ocun.com has no official store (only 'Find a dealer'). Width null: 'regular to slightly narrower feet'. Stiffness null: page states both 'Stiffer 2D Fit Hard midsole' and 'split sole delivers high flexibility'."
+  },
+  {
+    "brand": "Ocun",
+    "model": "Advancer QC",
+    "url": "https://www.ocun.com/product/advancer-qc3",
+    "gender": {
+      "value": "U",
+      "quote": "4 - 13 UK",
+      "source": "https://www.ocun.com/product/advancer-qc3"
+    },
+    "closure": {
+      "value": "V",
+      "quote": "Opposing Velcro straps allow fast and secure closure",
+      "source": "https://www.ocun.com/product/advancer-qc3"
+    },
+    "width": {
+      "value": null
+    },
+    "volume": {
+      "value": "M",
+      "quote": "Built on the slightly asymmetric Advantic last with medium volume and a flat profile",
+      "source": "https://www.ocun.com/product/advancer-qc3"
+    },
+    "asymmetry": {
+      "value": 1,
+      "quote": "Advantic last – low asymmetry and slight downturn",
+      "source": "https://www.ocun.com/product/advancer-qc3"
+    },
+    "downturn": {
+      "value": null
+    },
+    "stiffness": {
+      "value": 4,
+      "quote": "it combines a stiffer midsole, supportive heel tension, and a CAT 1.5 sole",
+      "source": "https://www.ocun.com/product/advancer-qc3"
+    },
+    "rubber": {
+      "value": "CAT rubber 1.5",
+      "quote": "CAT rubber 1.5, 4 mm",
+      "source": "https://www.ocun.com/product/advancer-qc3"
+    },
+    "uses": {
+      "value": [
+        "all-round",
+        "gym",
+        "bouldering",
+        "sport",
+        "vegan"
+      ],
+      "quote": "Versatile construction – equally at home in the gym or on rock, from bouldering sessions to longer sport routes | 100% vegan",
+      "source": "https://www.ocun.com/product/advancer-qc3"
+    },
+    "price": {
+      "value": null
+    },
+    "notes": "Gender U: one unisex version listed in the ocun.com climbing-shoe catalogue. Price null: ocun.com has no official store (only 'Find a dealer'). Downturn null: page says both 'flat profile' and 'slight downturn'. Width null: 'narrow to regular-width feet'. Stiffness: 'stiffer midsole' mapped to 4."
+  },
+  {
+    "brand": "Ocun",
+    "model": "Advancer LU",
+    "url": "https://www.ocun.com/product/advancer-lu3",
+    "gender": {
+      "value": "U",
+      "quote": "4 - 13 UK",
+      "source": "https://www.ocun.com/product/advancer-lu3"
+    },
+    "closure": {
+      "value": "L",
+      "quote": "Lace-to-toe closure – allows precise tightening in every zone",
+      "source": "https://www.ocun.com/product/advancer-lu3"
+    },
+    "width": {
+      "value": null
+    },
+    "volume": {
+      "value": null
+    },
+    "asymmetry": {
+      "value": 1,
+      "quote": "Advantic last – low asymmetry and slight downturn",
+      "source": "https://www.ocun.com/product/advancer-lu3"
+    },
+    "downturn": {
+      "value": null
+    },
+    "stiffness": {
+      "value": 4,
+      "quote": "Stiffer 2D Fit Hard midsole – offers solid support on small edges",
+      "source": "https://www.ocun.com/product/advancer-lu3"
+    },
+    "rubber": {
+      "value": "CAT rubber 1.5",
+      "quote": "CAT rubber 1.5, 4 mm",
+      "source": "https://www.ocun.com/product/advancer-lu3"
+    },
+    "uses": {
+      "value": [
+        "multipitch",
+        "gym",
+        "vegan"
+      ],
+      "quote": "built for multipitch routes, cragging, and training at the gym | 100% vegan",
+      "source": "https://www.ocun.com/product/advancer-lu3"
+    },
+    "price": {
+      "value": null
+    },
+    "notes": "Gender U: one unisex version listed in the ocun.com climbing-shoe catalogue. Price null: ocun.com has no official store (only 'Find a dealer'). Downturn null: page says both 'moderate downturn' and 'slight downturn'. Width null: 'narrow to regular-width feet'. Stiffness: 'Stiffer' mapped to 4."
+  },
+  {
+    "brand": "Ocun",
+    "model": "Striker QC",
+    "url": "https://www.ocun.com/product/striker-qc3",
+    "gender": {
+      "value": "U",
+      "quote": "3 - 13, 14, 15 UK",
+      "source": "https://www.ocun.com/product/striker-qc3"
+    },
+    "closure": {
+      "value": "V",
+      "quote": "The easy-to-use Velcro closure is perfect for those switching between climbing activities",
+      "source": "https://www.ocun.com/product/striker-qc3"
+    },
+    "width": {
+      "value": null
+    },
+    "volume": {
+      "value": null
+    },
+    "asymmetry": {
+      "value": 1,
+      "quote": "With its comfortable Entratic last, mild asymmetry, and flat profile",
+      "source": "https://www.ocun.com/product/striker-qc3"
+    },
+    "downturn": {
+      "value": 0,
+      "quote": "With its comfortable Entratic last, mild asymmetry, and flat profile",
+      "source": "https://www.ocun.com/product/striker-qc3"
+    },
+    "stiffness": {
+      "value": null
+    },
+    "rubber": {
+      "value": "CAT rubber 1.1",
+      "quote": "CAT rubber 1.1, 4 mm",
+      "source": "https://www.ocun.com/product/striker-qc3"
+    },
+    "uses": {
+      "value": [
+        "beginner",
+        "gym",
+        "multipitch",
+        "vegan"
+      ],
+      "quote": "an ideal choice for beginners and recreational climbers | from gym training to light outdoor routes | multipitch routes | 100% vegan",
+      "source": "https://www.ocun.com/product/striker-qc3"
+    },
+    "price": {
+      "value": null
+    },
+    "notes": "Gender U: one unisex version listed in the ocun.com climbing-shoe catalogue. Price null: ocun.com has no official store (only 'Find a dealer'). Width null: 'suitable for narrow, wide, and regular-width feet'. Asymmetry: 'mild' mapped to 1."
+  },
+  {
+    "brand": "Ocun",
+    "model": "Striker LU",
+    "url": "https://www.ocun.com/product/striker-lu3",
+    "gender": {
+      "value": "U",
+      "quote": "4 - 13 UK",
+      "source": "https://www.ocun.com/product/striker-lu3"
+    },
+    "closure": {
+      "value": "L",
+      "quote": "Full-length lace closure – allows detailed adjustment to the shape of your foot",
+      "source": "https://www.ocun.com/product/striker-lu3"
+    },
+    "width": {
+      "value": null
+    },
+    "volume": {
+      "value": null
+    },
+    "asymmetry": {
+      "value": 1,
+      "quote": "comfortable Entratic last featuring mild asymmetry and a flat profile",
+      "source": "https://www.ocun.com/product/striker-lu3"
+    },
+    "downturn": {
+      "value": 0,
+      "quote": "comfortable Entratic last featuring mild asymmetry and a flat profile",
+      "source": "https://www.ocun.com/product/striker-lu3"
+    },
+    "stiffness": {
+      "value": null
+    },
+    "rubber": {
+      "value": null
+    },
+    "uses": {
+      "value": [
+        "beginner",
+        "gym",
+        "vegan"
+      ],
+      "quote": "ideal choice for beginners and recreational climbers | all-day climbing at the gym or outside on rock | 100% vegan",
+      "source": "https://www.ocun.com/product/striker-lu3"
+    },
+    "price": {
+      "value": null
+    },
+    "notes": "Gender U: one unisex version listed in the ocun.com climbing-shoe catalogue. Price null: ocun.com has no official store (only 'Find a dealer'). Rubber null: page says only 'Rubber 4 mm'. Width null: 'suitable for narrow, wide, and regular-width feet'."
+  },
+  {
+    "brand": "Ocun",
+    "model": "Rental",
+    "url": "https://www.ocun.com/product/rental4",
+    "gender": {
+      "value": "U",
+      "quote": "3 - 13, 14, 15 UK",
+      "source": "https://www.ocun.com/product/rental4"
+    },
+    "closure": {
+      "value": null
+    },
+    "width": {
+      "value": null
+    },
+    "volume": {
+      "value": null
+    },
+    "asymmetry": {
+      "value": 1,
+      "quote": "Comfortable Entratic last – mild asymmetry with an anatomically shaped heel",
+      "source": "https://www.ocun.com/product/rental4"
+    },
+    "downturn": {
+      "value": null
+    },
+    "stiffness": {
+      "value": null
+    },
+    "rubber": {
+      "value": null
+    },
+    "uses": {
+      "value": [
+        "gym",
+        "beginner",
+        "vegan"
+      ],
+      "quote": "ideal choice for climbing gyms and rental centers seeking a reliable and durable shoe suitable for beginners | 100% vegan",
+      "source": "https://www.ocun.com/product/rental4"
+    },
+    "price": {
+      "value": null
+    },
+    "notes": "Gender U: one unisex version listed in the ocun.com climbing-shoe catalogue. Price null: ocun.com has no official store (only 'Find a dealer'). Closure null: not stated in text. Rubber null: page says only 'Rubber 4 mm'. Width null: 'suitable for all foot shapes'."
+  }
+]

@@ -1,0 +1,1613 @@
+[
+  {
+    "brand": "Evolv",
+    "model": "Defy",
+    "url": "https://www.evolvsports.com/defy-_medium-volume_-66-0000062501",
+    "gender": {
+      "value": "U",
+      "quote": "This is the reason why our climbing shoes are unisex",
+      "source": "https://www.evolvsports.com/defy-_medium-volume_-66-0000062501"
+    },
+    "closure": {
+      "value": "V",
+      "quote": "Closure: Strap",
+      "source": "https://www.evolvsports.com/defy-_medium-volume_-66-0000062501"
+    },
+    "width": {
+      "value": null
+    },
+    "volume": {
+      "value": "M",
+      "quote": "Defy (Medium Volume)",
+      "source": "https://www.evolvsports.com/defy-_medium-volume_-66-0000062501"
+    },
+    "asymmetry": {
+      "value": 1,
+      "quote": "Designed with slight asymmetry and camber",
+      "source": "https://www.evolvsports.com/defy-_medium-volume_-66-0000062501"
+    },
+    "downturn": {
+      "value": 1,
+      "quote": "Slight camber and more asymmetric fit than traditional entry level shoes",
+      "source": "https://www.evolvsports.com/defy-_medium-volume_-66-0000062501"
+    },
+    "stiffness": {
+      "value": null
+    },
+    "rubber": {
+      "value": "TRAX SAS",
+      "quote": "3.5mm TRAX SAS Rubber",
+      "source": "https://www.evolvsports.com/defy-_medium-volume_-66-0000062501"
+    },
+    "uses": {
+      "value": [
+        "beginner",
+        "vegan"
+      ],
+      "quote": "The most advanced entry level shoe on the market ... 100% Synthetic Vegan",
+      "source": "https://www.evolvsports.com/defy-_medium-volume_-66-0000062501"
+    },
+    "price": {
+      "value": {
+        "amount": 110,
+        "currency": "EUR"
+      },
+      "quote": "€110.00",
+      "source": "https://www.evolvsports.com/defy-_medium-volume_-66-0000062501"
+    },
+    "notes": "Gender: page product attribute 'Unisex' plus site FAQ; Evolv sells no separate men's/women's versions. Stiffness from Evolv PSR scale (1 sensitive/smearing .. 10 powerful/edging), mapped linearly to 1-5: round(1+(PSR-1)*4/9). PSR 4 -> 2. Stiffness left null: Evolv PSR (power/sensitivity) scale is not a stiffness rating."
+  },
+  {
+    "brand": "Evolv",
+    "model": "Defy LV",
+    "url": "https://www.evolvsports.com/defy-_low-volume_-66-0000062502",
+    "gender": {
+      "value": "U",
+      "quote": "This is the reason why our climbing shoes are unisex",
+      "source": "https://www.evolvsports.com/defy-_low-volume_-66-0000062502"
+    },
+    "closure": {
+      "value": "V",
+      "quote": "Closure: Strap",
+      "source": "https://www.evolvsports.com/defy-_low-volume_-66-0000062502"
+    },
+    "width": {
+      "value": "N",
+      "quote": "The LV model has 6% lower overall volume than Defy for narrower feet",
+      "source": "https://www.evolvsports.com/defy-_low-volume_-66-0000062502"
+    },
+    "volume": {
+      "value": "L",
+      "quote": "Defy (Low Volume)",
+      "source": "https://www.evolvsports.com/defy-_low-volume_-66-0000062502"
+    },
+    "asymmetry": {
+      "value": null
+    },
+    "downturn": {
+      "value": 1,
+      "quote": "Slight camber and more asymmetric fit than traditional entry level shoes",
+      "source": "https://www.evolvsports.com/defy-_low-volume_-66-0000062502"
+    },
+    "stiffness": {
+      "value": null
+    },
+    "rubber": {
+      "value": "TRAX SAS",
+      "quote": "3.5mm TRAX SAS Rubber",
+      "source": "https://www.evolvsports.com/defy-_low-volume_-66-0000062502"
+    },
+    "uses": {
+      "value": [
+        "beginner",
+        "all-round",
+        "vegan"
+      ],
+      "quote": "A cambered entry level strap shoe for all around climbing. ... Vegan: 100%",
+      "source": "https://www.evolvsports.com/defy-_low-volume_-66-0000062502"
+    },
+    "price": {
+      "value": {
+        "amount": 110,
+        "currency": "EUR"
+      },
+      "quote": "€110.00",
+      "source": "https://www.evolvsports.com/defy-_low-volume_-66-0000062502"
+    },
+    "notes": "Gender: page product attribute 'Unisex' plus site FAQ; Evolv sells no separate men's/women's versions. Stiffness from Evolv PSR scale (1 sensitive/smearing .. 10 powerful/edging), mapped linearly to 1-5: round(1+(PSR-1)*4/9). PSR 4 -> 2. Asymmetry: only 'more asymmetric fit than traditional entry level shoes' (no level) -> null. Stiffness left null: Evolv PSR (power/sensitivity) scale is not a stiffness rating."
+  },
+  {
+    "brand": "Evolv",
+    "model": "Defy Lace",
+    "url": "https://www.evolvsports.com/defy-lace-66-0000062503",
+    "gender": {
+      "value": "U",
+      "quote": "This is the reason why our climbing shoes are unisex",
+      "source": "https://www.evolvsports.com/defy-lace-66-0000062503"
+    },
+    "closure": {
+      "value": "L",
+      "quote": "Closure: Lace",
+      "source": "https://www.evolvsports.com/defy-lace-66-0000062503"
+    },
+    "width": {
+      "value": null
+    },
+    "volume": {
+      "value": "M",
+      "quote": "35-49.5 MEDIUM VOLUME (INCLUDING HALF SIZES)",
+      "source": "https://www.evolvsports.com/defy-lace-66-0000062503"
+    },
+    "asymmetry": {
+      "value": null
+    },
+    "downturn": {
+      "value": 1,
+      "quote": "Slight camber and more asymmetric fit than traditional entry level shoes",
+      "source": "https://www.evolvsports.com/defy-lace-66-0000062503"
+    },
+    "stiffness": {
+      "value": null
+    },
+    "rubber": {
+      "value": "TRAX SAS",
+      "quote": "3.5mm TRAX SAS Rubber",
+      "source": "https://www.evolvsports.com/defy-lace-66-0000062503"
+    },
+    "uses": {
+      "value": [
+        "beginner",
+        "all-round",
+        "vegan"
+      ],
+      "quote": "A cambered entry level lace-up shoe for all around climbing. ... 100% Synthetic Vegan",
+      "source": "https://www.evolvsports.com/defy-lace-66-0000062503"
+    },
+    "price": {
+      "value": {
+        "amount": 120,
+        "currency": "EUR"
+      },
+      "quote": "€120.00",
+      "source": "https://www.evolvsports.com/defy-lace-66-0000062503"
+    },
+    "notes": "Gender: page product attribute 'Unisex' plus site FAQ; Evolv sells no separate men's/women's versions. Stiffness from Evolv PSR scale (1 sensitive/smearing .. 10 powerful/edging), mapped linearly to 1-5: round(1+(PSR-1)*4/9). PSR 4 -> 2 (page text is shared with Defy strap; Defy Lace LV page says PSR 5). Asymmetry: no level stated -> null. Stiffness left null: Evolv PSR (power/sensitivity) scale is not a stiffness rating."
+  },
+  {
+    "brand": "Evolv",
+    "model": "Defy Lace LV",
+    "url": "https://www.evolvsports.com/defy-lace-_low-volume_-66-0000062504",
+    "gender": {
+      "value": "U",
+      "quote": "This is the reason why our climbing shoes are unisex",
+      "source": "https://www.evolvsports.com/defy-lace-_low-volume_-66-0000062504"
+    },
+    "closure": {
+      "value": "L",
+      "quote": "Asymmetric lace closure: for a secure fit.",
+      "source": "https://www.evolvsports.com/defy-lace-_low-volume_-66-0000062504"
+    },
+    "width": {
+      "value": "N",
+      "quote": "The LV model has 6% lower overall volumne than Defy Lace for narrower feet",
+      "source": "https://www.evolvsports.com/defy-lace-_low-volume_-66-0000062504"
+    },
+    "volume": {
+      "value": "L",
+      "quote": "35.5-46.5 LOW VOLUME (INCLUDING HALF SIZES)",
+      "source": "https://www.evolvsports.com/defy-lace-_low-volume_-66-0000062504"
+    },
+    "asymmetry": {
+      "value": null
+    },
+    "downturn": {
+      "value": 1,
+      "quote": "Slight camber and more asymmetric fit than traditional entry level shoes",
+      "source": "https://www.evolvsports.com/defy-lace-_low-volume_-66-0000062504"
+    },
+    "stiffness": {
+      "value": null
+    },
+    "rubber": {
+      "value": "TRAX SAS",
+      "quote": "3.5mm TRAX SAS Rubber",
+      "source": "https://www.evolvsports.com/defy-lace-_low-volume_-66-0000062504"
+    },
+    "uses": {
+      "value": [
+        "beginner",
+        "all-round",
+        "vegan"
+      ],
+      "quote": "A cambered entry level lace-up shoe for all around climbing. ... 100% Synthetic Vegan",
+      "source": "https://www.evolvsports.com/defy-lace-_low-volume_-66-0000062504"
+    },
+    "price": {
+      "value": {
+        "amount": 120,
+        "currency": "EUR"
+      },
+      "quote": "€120.00",
+      "source": "https://www.evolvsports.com/defy-lace-_low-volume_-66-0000062504"
+    },
+    "notes": "Gender: page product attribute 'Unisex' plus site FAQ; Evolv sells no separate men's/women's versions. Stiffness from Evolv PSR scale (1 sensitive/smearing .. 10 powerful/edging), mapped linearly to 1-5: round(1+(PSR-1)*4/9). PSR 5 -> 3. Asymmetry: no level stated -> null. Hidden product data lists gender 'Frauen' (likely catalogue artefact; not shown on page). Stiffness left null: Evolv PSR (power/sensitivity) scale is not a stiffness rating."
+  },
+  {
+    "brand": "Evolv",
+    "model": "Kronos",
+    "url": "https://www.evolvsports.com/kronos-66-0000002475",
+    "gender": {
+      "value": "U",
+      "quote": "This is the reason why our climbing shoes are unisex",
+      "source": "https://www.evolvsports.com/kronos-66-0000002475"
+    },
+    "closure": {
+      "value": "V",
+      "quote": "Closure: Strap",
+      "source": "https://www.evolvsports.com/kronos-66-0000002475"
+    },
+    "width": {
+      "value": null
+    },
+    "volume": {
+      "value": null
+    },
+    "asymmetry": {
+      "value": null
+    },
+    "downturn": {
+      "value": 1,
+      "quote": "SLIGHT DOWN-CAMBER TECHNICAL SHAPE",
+      "source": "https://www.evolvsports.com/kronos-66-0000002475"
+    },
+    "stiffness": {
+      "value": null
+    },
+    "rubber": {
+      "value": "TRAX SAS",
+      "quote": "4.2mm TRAX® SAS",
+      "source": "https://www.evolvsports.com/kronos-66-0000002475"
+    },
+    "uses": {
+      "value": [
+        "all-round",
+        "gym",
+        "vegan"
+      ],
+      "quote": "All-around climbing shoe that blends comfort with performance in and out of the gym ... Vegan: Vegan",
+      "source": "https://www.evolvsports.com/kronos-66-0000002475"
+    },
+    "price": {
+      "value": {
+        "amount": 130,
+        "currency": "EUR"
+      },
+      "quote": "€130.00",
+      "source": "https://www.evolvsports.com/kronos-66-0000002475"
+    },
+    "notes": "Gender: page product attribute 'Unisex' plus site FAQ; Evolv sells no separate men's/women's versions. Volume/width not stated; Kira is described as the low-volume all-around shoe but is a separate model."
+  },
+  {
+    "brand": "Evolv",
+    "model": "Kira",
+    "url": "https://www.evolvsports.com/kira-66-0000002485",
+    "gender": {
+      "value": "U",
+      "quote": "This is the reason why our climbing shoes are unisex",
+      "source": "https://www.evolvsports.com/kira-66-0000002485"
+    },
+    "closure": {
+      "value": "V",
+      "quote": "Closure: Strap",
+      "source": "https://www.evolvsports.com/kira-66-0000002485"
+    },
+    "width": {
+      "value": "N",
+      "quote": "designed for the climber that has a lower volume and narrower foot",
+      "source": "https://www.evolvsports.com/kira-66-0000002485"
+    },
+    "volume": {
+      "value": "L",
+      "quote": "All-around low volume climbing shoe",
+      "source": "https://www.evolvsports.com/kira-66-0000002485"
+    },
+    "asymmetry": {
+      "value": null
+    },
+    "downturn": {
+      "value": 1,
+      "quote": "SLIGHT DOWN-CAMBER TECHNICAL SHAPE",
+      "source": "https://www.evolvsports.com/kira-66-0000002485"
+    },
+    "stiffness": {
+      "value": null
+    },
+    "rubber": {
+      "value": "TRAX SAS",
+      "quote": "4.2mm TRAX® SAS",
+      "source": "https://www.evolvsports.com/kira-66-0000002485"
+    },
+    "uses": {
+      "value": [
+        "all-round",
+        "gym",
+        "slab",
+        "vegan"
+      ],
+      "quote": "All-around ... in and out of the gym ... sensitivity to find features on slabs ... vegan synthetic upper",
+      "source": "https://www.evolvsports.com/kira-66-0000002485"
+    },
+    "price": {
+      "value": {
+        "amount": 130,
+        "currency": "EUR"
+      },
+      "quote": "€130.00",
+      "source": "https://www.evolvsports.com/kira-66-0000002485"
+    },
+    "notes": "Gender: page product attribute 'Unisex' plus site FAQ; Evolv sells no separate men's/women's versions. Gender: product attribute says 'Unisex' but spec sizes are given only as '4 - 11 US Women's'. Asymmetry: 'asymmetric toe profile' without level -> null."
+  },
+  {
+    "brand": "Evolv",
+    "model": "Rave",
+    "url": "https://www.evolvsports.com/rave-66-0000004105",
+    "gender": {
+      "value": "U",
+      "quote": "This is the reason why our climbing shoes are unisex",
+      "source": "https://www.evolvsports.com/rave-66-0000004105"
+    },
+    "closure": {
+      "value": "S",
+      "quote": "Closure: Slipper",
+      "source": "https://www.evolvsports.com/rave-66-0000004105"
+    },
+    "width": {
+      "value": null
+    },
+    "volume": {
+      "value": null
+    },
+    "asymmetry": {
+      "value": null
+    },
+    "downturn": {
+      "value": null
+    },
+    "stiffness": {
+      "value": null
+    },
+    "rubber": {
+      "value": "TRAX SAS",
+      "quote": "4.2mm TRAX® SAS",
+      "source": "https://www.evolvsports.com/rave-66-0000004105"
+    },
+    "uses": {
+      "value": null
+    },
+    "price": {
+      "value": {
+        "amount": 120,
+        "currency": "EUR"
+      },
+      "quote": "€120.00",
+      "source": "https://www.evolvsports.com/rave-66-0000004105"
+    },
+    "notes": "Gender: page product attribute 'Unisex' plus site FAQ; Evolv sells no separate men's/women's versions. Uses: only 'built for training and vertical faces' -> no tag from the allowed list. 'For maximum support and comfort' (midsole feature) not treated as a stiffness level."
+  },
+  {
+    "brand": "Evolv",
+    "model": "Geshido",
+    "url": "https://www.evolvsports.com/geshido-66-0000062110",
+    "gender": {
+      "value": "U",
+      "quote": "This is the reason why our climbing shoes are unisex",
+      "source": "https://www.evolvsports.com/geshido-66-0000062110"
+    },
+    "closure": {
+      "value": "V",
+      "quote": "Closure: Strap",
+      "source": "https://www.evolvsports.com/geshido-66-0000062110"
+    },
+    "width": {
+      "value": null
+    },
+    "volume": {
+      "value": "M",
+      "quote": "Geshido LV",
+      "source": "https://www.evolvsports.com/geshido-lv-66-0000062112"
+    },
+    "asymmetry": {
+      "value": null
+    },
+    "downturn": {
+      "value": null
+    },
+    "stiffness": {
+      "value": null
+    },
+    "rubber": {
+      "value": "TRAX SAS",
+      "quote": "4.2mm TRAX® SAS outsole",
+      "source": "https://www.evolvsports.com/geshido-66-0000062110"
+    },
+    "uses": {
+      "value": [
+        "all-round",
+        "gym",
+        "vegan"
+      ],
+      "quote": "powerful edging on all terrain in and out the gym ... Vegan: Vegan",
+      "source": "https://www.evolvsports.com/geshido-66-0000062110"
+    },
+    "price": {
+      "value": {
+        "amount": 160,
+        "currency": "EUR"
+      },
+      "quote": "€160.00",
+      "source": "https://www.evolvsports.com/geshido-66-0000062110"
+    },
+    "notes": "Gender: page product attribute 'Unisex' plus site FAQ; Evolv sells no separate men's/women's versions. Hidden product data lists gender 'Herren' (not shown on page)."
+  },
+  {
+    "brand": "Evolv",
+    "model": "Geshido LV",
+    "url": "https://www.evolvsports.com/geshido-lv-66-0000062112",
+    "gender": {
+      "value": "U",
+      "quote": "This is the reason why our climbing shoes are unisex",
+      "source": "https://www.evolvsports.com/geshido-lv-66-0000062112"
+    },
+    "closure": {
+      "value": "V",
+      "quote": "Closure: Strap",
+      "source": "https://www.evolvsports.com/geshido-lv-66-0000062112"
+    },
+    "width": {
+      "value": null
+    },
+    "volume": {
+      "value": "L",
+      "quote": "Geshido LV",
+      "source": "https://www.evolvsports.com/geshido-lv-66-0000062112"
+    },
+    "asymmetry": {
+      "value": null
+    },
+    "downturn": {
+      "value": null
+    },
+    "stiffness": {
+      "value": null
+    },
+    "rubber": {
+      "value": "TRAX SAS",
+      "quote": "4.2mm TRAX® SAS outsole",
+      "source": "https://www.evolvsports.com/geshido-lv-66-0000062112"
+    },
+    "uses": {
+      "value": [
+        "all-round",
+        "gym",
+        "vegan"
+      ],
+      "quote": "Low volume performance climbing shoe with powerful edging on all terrain in and out the gym ... Vegan: Vegan",
+      "source": "https://www.evolvsports.com/geshido-lv-66-0000062112"
+    },
+    "price": {
+      "value": {
+        "amount": 160,
+        "currency": "EUR"
+      },
+      "quote": "€160.00",
+      "source": "https://www.evolvsports.com/geshido-lv-66-0000062112"
+    },
+    "notes": "Gender: page product attribute 'Unisex' plus site FAQ; Evolv sells no separate men's/women's versions."
+  },
+  {
+    "brand": "Evolv",
+    "model": "Shaman",
+    "url": "https://www.evolvsports.com/shaman-66-0000062203",
+    "gender": {
+      "value": "U",
+      "quote": "This is the reason why our climbing shoes are unisex",
+      "source": "https://www.evolvsports.com/shaman-66-0000062203"
+    },
+    "closure": {
+      "value": "V",
+      "quote": "Closure: Strap",
+      "source": "https://www.evolvsports.com/shaman-66-0000062203"
+    },
+    "width": {
+      "value": null
+    },
+    "volume": {
+      "value": "M",
+      "quote": "Shaman LV",
+      "source": "https://www.evolvsports.com/shaman-lv-66-0000062211"
+    },
+    "asymmetry": {
+      "value": null
+    },
+    "downturn": {
+      "value": 3,
+      "quote": "built on an aggressively profiled last",
+      "source": "https://www.evolvsports.com/shaman-66-0000062203"
+    },
+    "stiffness": {
+      "value": null
+    },
+    "rubber": {
+      "value": "TRAX SAS",
+      "quote": "4.2mm TRAX® SAS",
+      "source": "https://www.evolvsports.com/shaman-66-0000062203"
+    },
+    "uses": {
+      "value": [
+        "all-round",
+        "vegan"
+      ],
+      "quote": "Excelling on every angle and rock type ... The vegan synthetic upper",
+      "source": "https://www.evolvsports.com/shaman-66-0000062203"
+    },
+    "price": {
+      "value": {
+        "amount": 160,
+        "currency": "EUR"
+      },
+      "quote": "€160.00",
+      "source": "https://www.evolvsports.com/shaman-66-0000062203"
+    },
+    "notes": "Gender: page product attribute 'Unisex' plus site FAQ; Evolv sells no separate men's/women's versions. Downturn: 'aggressively profiled last' / 'modern cambered shoe' read as aggressive downturn (3)."
+  },
+  {
+    "brand": "Evolv",
+    "model": "Shaman LV",
+    "url": "https://www.evolvsports.com/shaman-lv-66-0000062211",
+    "gender": {
+      "value": "U",
+      "quote": "This is the reason why our climbing shoes are unisex",
+      "source": "https://www.evolvsports.com/shaman-lv-66-0000062211"
+    },
+    "closure": {
+      "value": "V",
+      "quote": "Closure: Strap",
+      "source": "https://www.evolvsports.com/shaman-lv-66-0000062211"
+    },
+    "width": {
+      "value": null
+    },
+    "volume": {
+      "value": "L",
+      "quote": "This low volume climbing shoe excels on all types of terrain",
+      "source": "https://www.evolvsports.com/shaman-lv-66-0000062211"
+    },
+    "asymmetry": {
+      "value": null
+    },
+    "downturn": {
+      "value": 3,
+      "quote": "built on an aggressively profiled last",
+      "source": "https://www.evolvsports.com/shaman-lv-66-0000062211"
+    },
+    "stiffness": {
+      "value": null
+    },
+    "rubber": {
+      "value": "TRAX SAS",
+      "quote": "4.2mm TRAX® SAS",
+      "source": "https://www.evolvsports.com/shaman-lv-66-0000062211"
+    },
+    "uses": {
+      "value": [
+        "all-round",
+        "vegan"
+      ],
+      "quote": "Excelling on every angle and rock type ... The vegan synthetic upper",
+      "source": "https://www.evolvsports.com/shaman-lv-66-0000062211"
+    },
+    "price": {
+      "value": {
+        "amount": 160,
+        "currency": "EUR"
+      },
+      "quote": "€160.00",
+      "source": "https://www.evolvsports.com/shaman-lv-66-0000062211"
+    },
+    "notes": "Gender: page product attribute 'Unisex' plus site FAQ; Evolv sells no separate men's/women's versions. Downturn: 'aggressively profiled last' read as aggressive downturn (3)."
+  },
+  {
+    "brand": "Evolv",
+    "model": "Shaman 2S",
+    "url": "https://www.evolvsports.com/shaman-2s-66-0000062601",
+    "gender": {
+      "value": "U",
+      "quote": "This is the reason why our climbing shoes are unisex",
+      "source": "https://www.evolvsports.com/shaman-2s-66-0000062601"
+    },
+    "closure": {
+      "value": "V",
+      "quote": "Closure: Strap",
+      "source": "https://www.evolvsports.com/shaman-2s-66-0000062601"
+    },
+    "width": {
+      "value": null
+    },
+    "volume": {
+      "value": "M",
+      "quote": "Shaman 2S LV",
+      "source": "https://www.evolvsports.com/shaman-2s-lv-66-0000062602"
+    },
+    "asymmetry": {
+      "value": null
+    },
+    "downturn": {
+      "value": null
+    },
+    "stiffness": {
+      "value": null
+    },
+    "rubber": {
+      "value": "EVO 74",
+      "quote": "3.5mm EVO 74 Rubber",
+      "source": "https://www.evolvsports.com/shaman-2s-66-0000062601"
+    },
+    "uses": {
+      "value": [
+        "vegan"
+      ],
+      "quote": "Materials: Vegan, synthetic",
+      "source": "https://www.evolvsports.com/shaman-2s-66-0000062601"
+    },
+    "price": {
+      "value": {
+        "amount": 160,
+        "currency": "EUR"
+      },
+      "quote": "€160.00",
+      "source": "https://www.evolvsports.com/shaman-2s-66-0000062601"
+    },
+    "notes": "Gender: page product attribute 'Unisex' plus site FAQ; Evolv sells no separate men's/women's versions. Stiffness from Evolv PSR scale (1 sensitive/smearing .. 10 powerful/edging), mapped linearly to 1-5: round(1+(PSR-1)*4/9). PSR 5 -> 3. Stiffness left null: Evolv PSR (power/sensitivity) scale is not a stiffness rating."
+  },
+  {
+    "brand": "Evolv",
+    "model": "Shaman 2S LV",
+    "url": "https://www.evolvsports.com/shaman-2s-lv-66-0000062602",
+    "gender": {
+      "value": "U",
+      "quote": "This is the reason why our climbing shoes are unisex",
+      "source": "https://www.evolvsports.com/shaman-2s-lv-66-0000062602"
+    },
+    "closure": {
+      "value": "V",
+      "quote": "Closure: Strap",
+      "source": "https://www.evolvsports.com/shaman-2s-lv-66-0000062602"
+    },
+    "width": {
+      "value": null
+    },
+    "volume": {
+      "value": "L",
+      "quote": "Shaman 2S LV",
+      "source": "https://www.evolvsports.com/shaman-2s-lv-66-0000062602"
+    },
+    "asymmetry": {
+      "value": null
+    },
+    "downturn": {
+      "value": null
+    },
+    "stiffness": {
+      "value": null
+    },
+    "rubber": {
+      "value": "EVO 74",
+      "quote": "3.5mm EVO 74 Rubber",
+      "source": "https://www.evolvsports.com/shaman-2s-lv-66-0000062602"
+    },
+    "uses": {
+      "value": [
+        "vegan"
+      ],
+      "quote": "Materials: Vegan, synthetic",
+      "source": "https://www.evolvsports.com/shaman-2s-lv-66-0000062602"
+    },
+    "price": {
+      "value": {
+        "amount": 160,
+        "currency": "EUR"
+      },
+      "quote": "€160.00",
+      "source": "https://www.evolvsports.com/shaman-2s-lv-66-0000062602"
+    },
+    "notes": "Gender: page product attribute 'Unisex' plus site FAQ; Evolv sells no separate men's/women's versions. Stiffness from Evolv PSR scale (1 sensitive/smearing .. 10 powerful/edging), mapped linearly to 1-5: round(1+(PSR-1)*4/9). PSR 5 -> 3. Stiffness left null: Evolv PSR (power/sensitivity) scale is not a stiffness rating."
+  },
+  {
+    "brand": "Evolv",
+    "model": "Shaman Pro",
+    "url": "https://www.evolvsports.com/shaman-pro-66-0000062301",
+    "gender": {
+      "value": "U",
+      "quote": "This is the reason why our climbing shoes are unisex",
+      "source": "https://www.evolvsports.com/shaman-pro-66-0000062301"
+    },
+    "closure": {
+      "value": "V",
+      "quote": "Closure: Strap",
+      "source": "https://www.evolvsports.com/shaman-pro-66-0000062301"
+    },
+    "width": {
+      "value": null
+    },
+    "volume": {
+      "value": "M",
+      "quote": "Shaman Pro LV",
+      "source": "https://www.evolvsports.com/shaman-pro-lv-66-0000062302"
+    },
+    "asymmetry": {
+      "value": null
+    },
+    "downturn": {
+      "value": null
+    },
+    "stiffness": {
+      "value": null
+    },
+    "rubber": {
+      "value": "TRAX SAS",
+      "quote": "4.2mm TRAX SAS rubber",
+      "source": "https://www.evolvsports.com/shaman-pro-66-0000062301"
+    },
+    "uses": {
+      "value": [
+        "bouldering",
+        "sport",
+        "competition",
+        "vegan"
+      ],
+      "quote": "a softer, more sensitive model for comp style bouldering and lead routes ... Vegan: Vegan",
+      "source": "https://www.evolvsports.com/shaman-pro-66-0000062301"
+    },
+    "price": {
+      "value": {
+        "amount": 180,
+        "currency": "EUR"
+      },
+      "quote": "€180.00",
+      "source": "https://www.evolvsports.com/shaman-pro-66-0000062301"
+    },
+    "notes": "Gender: page product attribute 'Unisex' plus site FAQ; Evolv sells no separate men's/women's versions. Stiffness: only relative ('softer ... than Shaman') -> null. Lead routes -> sport."
+  },
+  {
+    "brand": "Evolv",
+    "model": "Shaman Pro LV",
+    "url": "https://www.evolvsports.com/shaman-pro-lv-66-0000062302",
+    "gender": {
+      "value": "U",
+      "quote": "This is the reason why our climbing shoes are unisex",
+      "source": "https://www.evolvsports.com/shaman-pro-lv-66-0000062302"
+    },
+    "closure": {
+      "value": "V",
+      "quote": "Closure: Strap",
+      "source": "https://www.evolvsports.com/shaman-pro-lv-66-0000062302"
+    },
+    "width": {
+      "value": null
+    },
+    "volume": {
+      "value": "L",
+      "quote": "With EvoWrap technology, a low volume sensitive shoe",
+      "source": "https://www.evolvsports.com/shaman-pro-lv-66-0000062302"
+    },
+    "asymmetry": {
+      "value": null
+    },
+    "downturn": {
+      "value": null
+    },
+    "stiffness": {
+      "value": null
+    },
+    "rubber": {
+      "value": "TRAX SAS",
+      "quote": "4.2mm TRAX SAS rubber",
+      "source": "https://www.evolvsports.com/shaman-pro-lv-66-0000062302"
+    },
+    "uses": {
+      "value": [
+        "bouldering",
+        "sport",
+        "competition",
+        "vegan"
+      ],
+      "quote": "a softer, more sensitive model for comp style bouldering and lead routes ... Vegan: Vegan",
+      "source": "https://www.evolvsports.com/shaman-pro-lv-66-0000062302"
+    },
+    "price": {
+      "value": {
+        "amount": 180,
+        "currency": "EUR"
+      },
+      "quote": "€180.00",
+      "source": "https://www.evolvsports.com/shaman-pro-lv-66-0000062302"
+    },
+    "notes": "Gender: page product attribute 'Unisex' plus site FAQ; Evolv sells no separate men's/women's versions. Stiffness: only relative -> null. Lead routes -> sport."
+  },
+  {
+    "brand": "Evolv",
+    "model": "Shaman Trance",
+    "url": "https://www.evolvsports.com/shaman-trance-66-0000062607",
+    "gender": {
+      "value": "U",
+      "quote": "This is the reason why our climbing shoes are unisex",
+      "source": "https://www.evolvsports.com/shaman-trance-66-0000062607"
+    },
+    "closure": {
+      "value": "V",
+      "quote": "Closure: Strap",
+      "source": "https://www.evolvsports.com/shaman-trance-66-0000062607"
+    },
+    "width": {
+      "value": null
+    },
+    "volume": {
+      "value": "M",
+      "quote": "Shaman Trance LV",
+      "source": "https://www.evolvsports.com/shaman-trance-lv-66-0000062608"
+    },
+    "asymmetry": {
+      "value": null
+    },
+    "downturn": {
+      "value": null
+    },
+    "stiffness": {
+      "value": null
+    },
+    "rubber": {
+      "value": "EVO 74",
+      "quote": "3.5mm EVO 74 Front Outsole",
+      "source": "https://www.evolvsports.com/shaman-trance-66-0000062607"
+    },
+    "uses": {
+      "value": [
+        "bouldering",
+        "sport",
+        "gym",
+        "vegan"
+      ],
+      "quote": "your new go-to companion for indoor climbing, outdoor boulders, steep sport routes ... Vegan Synthetic Upper",
+      "source": "https://www.evolvsports.com/shaman-trance-66-0000062607"
+    },
+    "price": {
+      "value": {
+        "amount": 180,
+        "currency": "EUR"
+      },
+      "quote": "€180.00",
+      "source": "https://www.evolvsports.com/shaman-trance-66-0000062607"
+    },
+    "notes": "Gender: page product attribute 'Unisex' plus site FAQ; Evolv sells no separate men's/women's versions. Stiffness from Evolv PSR scale (1 sensitive/smearing .. 10 powerful/edging), mapped linearly to 1-5: round(1+(PSR-1)*4/9). PSR 6 -> 3. Hidden product data lists gender 'Herren' (not shown on page). Stiffness left null: Evolv PSR (power/sensitivity) scale is not a stiffness rating."
+  },
+  {
+    "brand": "Evolv",
+    "model": "Shaman Trance LV",
+    "url": "https://www.evolvsports.com/shaman-trance-lv-66-0000062608",
+    "gender": {
+      "value": "U",
+      "quote": "This is the reason why our climbing shoes are unisex",
+      "source": "https://www.evolvsports.com/shaman-trance-lv-66-0000062608"
+    },
+    "closure": {
+      "value": "V",
+      "quote": "Closure: Strap",
+      "source": "https://www.evolvsports.com/shaman-trance-lv-66-0000062608"
+    },
+    "width": {
+      "value": null
+    },
+    "volume": {
+      "value": "L",
+      "quote": "Shaman Trance LV",
+      "source": "https://www.evolvsports.com/shaman-trance-lv-66-0000062608"
+    },
+    "asymmetry": {
+      "value": null
+    },
+    "downturn": {
+      "value": null
+    },
+    "stiffness": {
+      "value": null
+    },
+    "rubber": {
+      "value": "EVO 74",
+      "quote": "3.5mm EVO 74 Front Outsole",
+      "source": "https://www.evolvsports.com/shaman-trance-lv-66-0000062608"
+    },
+    "uses": {
+      "value": [
+        "bouldering",
+        "sport",
+        "gym",
+        "vegan"
+      ],
+      "quote": "your new go-to companion for indoor climbing, outdoor boulders, steep sport routes ... Vegan Synthetic Upper",
+      "source": "https://www.evolvsports.com/shaman-trance-lv-66-0000062608"
+    },
+    "price": {
+      "value": {
+        "amount": 180,
+        "currency": "EUR"
+      },
+      "quote": "€180.00",
+      "source": "https://www.evolvsports.com/shaman-trance-lv-66-0000062608"
+    },
+    "notes": "Gender: page product attribute 'Unisex' plus site FAQ; Evolv sells no separate men's/women's versions. Stiffness from Evolv PSR scale (1 sensitive/smearing .. 10 powerful/edging), mapped linearly to 1-5: round(1+(PSR-1)*4/9). PSR 6 -> 3. Hidden product data lists gender 'Frauen' (not shown on page). Stiffness left null: Evolv PSR (power/sensitivity) scale is not a stiffness rating."
+  },
+  {
+    "brand": "Evolv",
+    "model": "Phantom",
+    "url": "https://www.evolvsports.com/phantom-66-0000003645",
+    "gender": {
+      "value": "U",
+      "quote": "This is the reason why our climbing shoes are unisex",
+      "source": "https://www.evolvsports.com/phantom-66-0000003645"
+    },
+    "closure": {
+      "value": null
+    },
+    "width": {
+      "value": null
+    },
+    "volume": {
+      "value": "M",
+      "quote": "Phantom LV",
+      "source": "https://www.evolvsports.com/phantom-lv-66-0000062210"
+    },
+    "asymmetry": {
+      "value": null
+    },
+    "downturn": {
+      "value": 3,
+      "quote": "built on an aggressively profiled last",
+      "source": "https://www.evolvsports.com/phantom-66-0000003645"
+    },
+    "stiffness": {
+      "value": null
+    },
+    "rubber": {
+      "value": "TRAX SAS",
+      "quote": "4.2mm TRAX® SAS",
+      "source": "https://www.evolvsports.com/phantom-66-0000003645"
+    },
+    "uses": {
+      "value": [
+        "bouldering",
+        "vegan"
+      ],
+      "quote": "cambered shoe designed for steep boulder problems ... The vegan synthetic upper",
+      "source": "https://www.evolvsports.com/phantom-66-0000003645"
+    },
+    "price": {
+      "value": {
+        "amount": 180,
+        "currency": "EUR"
+      },
+      "quote": "€180.00",
+      "source": "https://www.evolvsports.com/phantom-66-0000003645"
+    },
+    "notes": "Gender: page product attribute 'Unisex' plus site FAQ; Evolv sells no separate men's/women's versions. Closure conflict on page: spec says 'Closure: Lace' but features say 'COMPRESSION CLOSURE SYSTEM (CCS) - 6-point single-pull closure' -> null. Downturn: 'aggressively profiled last' read as 3."
+  },
+  {
+    "brand": "Evolv",
+    "model": "Phantom LV",
+    "url": "https://www.evolvsports.com/phantom-lv-66-0000062210",
+    "gender": {
+      "value": "U",
+      "quote": "This is the reason why our climbing shoes are unisex",
+      "source": "https://www.evolvsports.com/phantom-lv-66-0000062210"
+    },
+    "closure": {
+      "value": "V",
+      "quote": "Closure: Strap",
+      "source": "https://www.evolvsports.com/phantom-lv-66-0000062210"
+    },
+    "width": {
+      "value": null
+    },
+    "volume": {
+      "value": "L",
+      "quote": "Low volume powerful and sensitive cambered shoe",
+      "source": "https://www.evolvsports.com/phantom-lv-66-0000062210"
+    },
+    "asymmetry": {
+      "value": null
+    },
+    "downturn": {
+      "value": 3,
+      "quote": "built is on an aggressively profiled last",
+      "source": "https://www.evolvsports.com/phantom-lv-66-0000062210"
+    },
+    "stiffness": {
+      "value": null
+    },
+    "rubber": {
+      "value": "TRAX SAS",
+      "quote": "4.2mm TRAX® SAS",
+      "source": "https://www.evolvsports.com/phantom-lv-66-0000062210"
+    },
+    "uses": {
+      "value": [
+        "bouldering",
+        "vegan"
+      ],
+      "quote": "designed for steep boulder problems ... The vegan synthetic upper",
+      "source": "https://www.evolvsports.com/phantom-lv-66-0000062210"
+    },
+    "price": {
+      "value": {
+        "amount": 180,
+        "currency": "EUR"
+      },
+      "quote": "€180.00",
+      "source": "https://www.evolvsports.com/phantom-lv-66-0000062210"
+    },
+    "notes": "Gender: page product attribute 'Unisex' plus site FAQ; Evolv sells no separate men's/women's versions. Downturn: 'aggressively profiled last' read as 3."
+  },
+  {
+    "brand": "Evolv",
+    "model": "Phantom Pro",
+    "url": "https://www.evolvsports.com/phantom-pro-66-0000062505",
+    "gender": {
+      "value": "U",
+      "quote": "This is the reason why our climbing shoes are unisex",
+      "source": "https://www.evolvsports.com/phantom-pro-66-0000062505"
+    },
+    "closure": {
+      "value": "V",
+      "quote": "Closure: Strap",
+      "source": "https://www.evolvsports.com/phantom-pro-66-0000062505"
+    },
+    "width": {
+      "value": null
+    },
+    "volume": {
+      "value": "M",
+      "quote": "35-49.5 MEDIUM VOLUME (INCLUDING HALF SIZES)",
+      "source": "https://www.evolvsports.com/phantom-pro-66-0000062505"
+    },
+    "asymmetry": {
+      "value": null
+    },
+    "downturn": {
+      "value": null
+    },
+    "stiffness": {
+      "value": null
+    },
+    "rubber": {
+      "value": "EVO 74",
+      "quote": "3.5mm Evo-74 Rubber",
+      "source": "https://www.evolvsports.com/phantom-pro-66-0000062505"
+    },
+    "uses": {
+      "value": [
+        "vegan"
+      ],
+      "quote": "100% Synthetic Vegan",
+      "source": "https://www.evolvsports.com/phantom-pro-66-0000062505"
+    },
+    "price": {
+      "value": {
+        "amount": 180,
+        "currency": "EUR"
+      },
+      "quote": "€180.00",
+      "source": "https://www.evolvsports.com/phantom-pro-66-0000062505"
+    },
+    "notes": "Gender: page product attribute 'Unisex' plus site FAQ; Evolv sells no separate men's/women's versions. Stiffness from Evolv PSR scale (1 sensitive/smearing .. 10 powerful/edging), mapped linearly to 1-5: round(1+(PSR-1)*4/9). PSR 9 -> 5. Downturn: 'Downturned Front Midsole' without level -> null. Stiffness left null: Evolv PSR (power/sensitivity) scale is not a stiffness rating."
+  },
+  {
+    "brand": "Evolv",
+    "model": "Phantom Pro LV",
+    "url": "https://www.evolvsports.com/phantom-pro-lv-66-0000062506",
+    "gender": {
+      "value": "U",
+      "quote": "This is the reason why our climbing shoes are unisex",
+      "source": "https://www.evolvsports.com/phantom-pro-lv-66-0000062506"
+    },
+    "closure": {
+      "value": "V",
+      "quote": "Closure: Strap",
+      "source": "https://www.evolvsports.com/phantom-pro-lv-66-0000062506"
+    },
+    "width": {
+      "value": "N",
+      "quote": "Low Volume version for narrow feet or higher tension.",
+      "source": "https://www.evolvsports.com/phantom-pro-lv-66-0000062506"
+    },
+    "volume": {
+      "value": "L",
+      "quote": "35-49.5 LOW VOLUME (INCLUDING HALF SIZES)",
+      "source": "https://www.evolvsports.com/phantom-pro-lv-66-0000062506"
+    },
+    "asymmetry": {
+      "value": null
+    },
+    "downturn": {
+      "value": null
+    },
+    "stiffness": {
+      "value": null
+    },
+    "rubber": {
+      "value": "EVO 74",
+      "quote": "3.5mm Evo-74 Rubber",
+      "source": "https://www.evolvsports.com/phantom-pro-lv-66-0000062506"
+    },
+    "uses": {
+      "value": [
+        "vegan"
+      ],
+      "quote": "100% Synthetic Vegan",
+      "source": "https://www.evolvsports.com/phantom-pro-lv-66-0000062506"
+    },
+    "price": {
+      "value": {
+        "amount": 180,
+        "currency": "EUR"
+      },
+      "quote": "€180.00",
+      "source": "https://www.evolvsports.com/phantom-pro-lv-66-0000062506"
+    },
+    "notes": "Gender: page product attribute 'Unisex' plus site FAQ; Evolv sells no separate men's/women's versions. Stiffness from Evolv PSR scale (1 sensitive/smearing .. 10 powerful/edging), mapped linearly to 1-5: round(1+(PSR-1)*4/9). PSR 9 -> 5. Stiffness left null: Evolv PSR (power/sensitivity) scale is not a stiffness rating."
+  },
+  {
+    "brand": "Evolv",
+    "model": "Zenist",
+    "url": "https://www.evolvsports.com/2026-zenist-66-0000062605",
+    "gender": {
+      "value": "U",
+      "quote": "This is the reason why our climbing shoes are unisex",
+      "source": "https://www.evolvsports.com/2026-zenist-66-0000062605"
+    },
+    "closure": {
+      "value": "V",
+      "quote": "Closure: Strap",
+      "source": "https://www.evolvsports.com/2026-zenist-66-0000062605"
+    },
+    "width": {
+      "value": null
+    },
+    "volume": {
+      "value": "M",
+      "quote": "2026 Zenist LV",
+      "source": "https://www.evolvsports.com/2026-zenist-lv-66-0000062606"
+    },
+    "asymmetry": {
+      "value": null
+    },
+    "downturn": {
+      "value": null
+    },
+    "stiffness": {
+      "value": null
+    },
+    "rubber": {
+      "value": "EVO 74",
+      "quote": "3.5mm EVO 74 Rubber",
+      "source": "https://www.evolvsports.com/2026-zenist-66-0000062605"
+    },
+    "uses": {
+      "value": [
+        "competition",
+        "gym",
+        "vegan"
+      ],
+      "quote": "Competitions and Training. ... Great for training boards. ... Materials: Vegan, synthetic",
+      "source": "https://www.evolvsports.com/2026-zenist-66-0000062605"
+    },
+    "price": {
+      "value": {
+        "amount": 150,
+        "currency": "EUR"
+      },
+      "quote": "€150.00",
+      "source": "https://www.evolvsports.com/2026-zenist-66-0000062605"
+    },
+    "notes": "Gender: page product attribute 'Unisex' plus site FAQ; Evolv sells no separate men's/women's versions. Stiffness from Evolv PSR scale (1 sensitive/smearing .. 10 powerful/edging), mapped linearly to 1-5: round(1+(PSR-1)*4/9). PSR 1 -> 1. Training boards -> gym. Stiffness left null: Evolv PSR (power/sensitivity) scale is not a stiffness rating."
+  },
+  {
+    "brand": "Evolv",
+    "model": "Zenist LV",
+    "url": "https://www.evolvsports.com/2026-zenist-lv-66-0000062606",
+    "gender": {
+      "value": "U",
+      "quote": "This is the reason why our climbing shoes are unisex",
+      "source": "https://www.evolvsports.com/2026-zenist-lv-66-0000062606"
+    },
+    "closure": {
+      "value": "V",
+      "quote": "Closure: Strap",
+      "source": "https://www.evolvsports.com/2026-zenist-lv-66-0000062606"
+    },
+    "width": {
+      "value": null
+    },
+    "volume": {
+      "value": "L",
+      "quote": "LV model has 6% lower overall volume than the Zenist",
+      "source": "https://www.evolvsports.com/2026-zenist-lv-66-0000062606"
+    },
+    "asymmetry": {
+      "value": null
+    },
+    "downturn": {
+      "value": null
+    },
+    "stiffness": {
+      "value": null
+    },
+    "rubber": {
+      "value": "EVO 74",
+      "quote": "3.5mm EVO 74 Rubber",
+      "source": "https://www.evolvsports.com/2026-zenist-lv-66-0000062606"
+    },
+    "uses": {
+      "value": [
+        "competition",
+        "gym",
+        "vegan"
+      ],
+      "quote": "Competitions and Training. ... Great for training boards. ... Materials: Vegan, synthetic",
+      "source": "https://www.evolvsports.com/2026-zenist-lv-66-0000062606"
+    },
+    "price": {
+      "value": {
+        "amount": 150,
+        "currency": "EUR"
+      },
+      "quote": "€150.00",
+      "source": "https://www.evolvsports.com/2026-zenist-lv-66-0000062606"
+    },
+    "notes": "Gender: page product attribute 'Unisex' plus site FAQ; Evolv sells no separate men's/women's versions. Stiffness from Evolv PSR scale (1 sensitive/smearing .. 10 powerful/edging), mapped linearly to 1-5: round(1+(PSR-1)*4/9). PSR 1 -> 1. Training boards -> gym. Stiffness left null: Evolv PSR (power/sensitivity) scale is not a stiffness rating."
+  },
+  {
+    "brand": "Evolv",
+    "model": "Zenist Pro",
+    "url": "https://www.evolvsports.com/zenist-pro-66-0000062305",
+    "gender": {
+      "value": "U",
+      "quote": "This is the reason why our climbing shoes are unisex",
+      "source": "https://www.evolvsports.com/zenist-pro-66-0000062305"
+    },
+    "closure": {
+      "value": "V",
+      "quote": "Closure: Strap",
+      "source": "https://www.evolvsports.com/zenist-pro-66-0000062305"
+    },
+    "width": {
+      "value": null
+    },
+    "volume": {
+      "value": "M",
+      "quote": "Zenist Pro Low Volume",
+      "source": "https://www.evolvsports.com/zenist-pro-low-volume-66-0000062306"
+    },
+    "asymmetry": {
+      "value": null
+    },
+    "downturn": {
+      "value": null
+    },
+    "stiffness": {
+      "value": 2,
+      "quote": "to create an extremely powerful soft shoe",
+      "source": "https://www.evolvsports.com/zenist-pro-66-0000062305"
+    },
+    "rubber": {
+      "value": "TRAX SAS",
+      "quote": "super sticky TRAX SAS® rubber",
+      "source": "https://www.evolvsports.com/zenist-pro-66-0000062305"
+    },
+    "uses": {
+      "value": [
+        "bouldering",
+        "competition"
+      ],
+      "quote": "purpose-built for modern competition style bouldering problems",
+      "source": "https://www.evolvsports.com/zenist-pro-66-0000062305"
+    },
+    "price": {
+      "value": {
+        "amount": 180,
+        "currency": "EUR"
+      },
+      "quote": "€180.00",
+      "source": "https://www.evolvsports.com/zenist-pro-66-0000062305"
+    },
+    "notes": "Gender: page product attribute 'Unisex' plus site FAQ; Evolv sells no separate men's/women's versions. Stiffness: 'soft shoe' -> 2. No vegan statement on page."
+  },
+  {
+    "brand": "Evolv",
+    "model": "Zenist Pro LV",
+    "url": "https://www.evolvsports.com/zenist-pro-low-volume-66-0000062306",
+    "gender": {
+      "value": "U",
+      "quote": "This is the reason why our climbing shoes are unisex",
+      "source": "https://www.evolvsports.com/zenist-pro-low-volume-66-0000062306"
+    },
+    "closure": {
+      "value": "V",
+      "quote": "Closure: Strap",
+      "source": "https://www.evolvsports.com/zenist-pro-low-volume-66-0000062306"
+    },
+    "width": {
+      "value": null
+    },
+    "volume": {
+      "value": "L",
+      "quote": "Zenist Pro Low Volume",
+      "source": "https://www.evolvsports.com/zenist-pro-low-volume-66-0000062306"
+    },
+    "asymmetry": {
+      "value": null
+    },
+    "downturn": {
+      "value": null
+    },
+    "stiffness": {
+      "value": 2,
+      "quote": "to create an extremely powerful soft shoe",
+      "source": "https://www.evolvsports.com/zenist-pro-low-volume-66-0000062306"
+    },
+    "rubber": {
+      "value": "TRAX SAS",
+      "quote": "super sticky TRAX SAS® rubber",
+      "source": "https://www.evolvsports.com/zenist-pro-low-volume-66-0000062306"
+    },
+    "uses": {
+      "value": [
+        "bouldering",
+        "competition"
+      ],
+      "quote": "purpose-built for modern competition style bouldering problems",
+      "source": "https://www.evolvsports.com/zenist-pro-low-volume-66-0000062306"
+    },
+    "price": {
+      "value": {
+        "amount": 180,
+        "currency": "EUR"
+      },
+      "quote": "€180.00",
+      "source": "https://www.evolvsports.com/zenist-pro-low-volume-66-0000062306"
+    },
+    "notes": "Gender: page product attribute 'Unisex' plus site FAQ; Evolv sells no separate men's/women's versions. Stiffness: 'soft shoe' -> 2. No vegan statement on page."
+  },
+  {
+    "brand": "Evolv",
+    "model": "V6",
+    "url": "https://www.evolvsports.com/2026-v6-66-0000062603",
+    "gender": {
+      "value": "U",
+      "quote": "This is the reason why our climbing shoes are unisex",
+      "source": "https://www.evolvsports.com/2026-v6-66-0000062603"
+    },
+    "closure": {
+      "value": "V",
+      "quote": "Closure: Strap",
+      "source": "https://www.evolvsports.com/2026-v6-66-0000062603"
+    },
+    "width": {
+      "value": null
+    },
+    "volume": {
+      "value": "M",
+      "quote": "2026 V6 LV",
+      "source": "https://www.evolvsports.com/2026-v6-lv-66-0000062604"
+    },
+    "asymmetry": {
+      "value": null
+    },
+    "downturn": {
+      "value": null
+    },
+    "stiffness": {
+      "value": null
+    },
+    "rubber": {
+      "value": "EVO 74",
+      "quote": "4.2mm EVO 74 Rubber",
+      "source": "https://www.evolvsports.com/2026-v6-66-0000062603"
+    },
+    "uses": {
+      "value": [
+        "gym",
+        "all-round",
+        "vegan"
+      ],
+      "quote": "maximizing indoor and outdoor performance ... perform across a wide variety of climbing disciplines ... Vegan",
+      "source": "https://www.evolvsports.com/2026-v6-66-0000062603"
+    },
+    "price": {
+      "value": {
+        "amount": 150,
+        "currency": "EUR"
+      },
+      "quote": "€150.00",
+      "source": "https://www.evolvsports.com/2026-v6-66-0000062603"
+    },
+    "notes": "Gender: page product attribute 'Unisex' plus site FAQ; Evolv sells no separate men's/women's versions. Stiffness from Evolv PSR scale (1 sensitive/smearing .. 10 powerful/edging), mapped linearly to 1-5: round(1+(PSR-1)*4/9). PSR 6 -> 3. Downturn: 'creates downturn power' without level -> null. Stiffness left null: Evolv PSR (power/sensitivity) scale is not a stiffness rating."
+  },
+  {
+    "brand": "Evolv",
+    "model": "V6 LV",
+    "url": "https://www.evolvsports.com/2026-v6-lv-66-0000062604",
+    "gender": {
+      "value": "U",
+      "quote": "This is the reason why our climbing shoes are unisex",
+      "source": "https://www.evolvsports.com/2026-v6-lv-66-0000062604"
+    },
+    "closure": {
+      "value": "V",
+      "quote": "Closure: Strap",
+      "source": "https://www.evolvsports.com/2026-v6-lv-66-0000062604"
+    },
+    "width": {
+      "value": null
+    },
+    "volume": {
+      "value": "L",
+      "quote": "The LV model has 6% lower overall volume than the V6",
+      "source": "https://www.evolvsports.com/2026-v6-lv-66-0000062604"
+    },
+    "asymmetry": {
+      "value": null
+    },
+    "downturn": {
+      "value": null
+    },
+    "stiffness": {
+      "value": null
+    },
+    "rubber": {
+      "value": "EVO 74",
+      "quote": "4.2mm EVO 74 Rubber",
+      "source": "https://www.evolvsports.com/2026-v6-lv-66-0000062604"
+    },
+    "uses": {
+      "value": [
+        "gym",
+        "all-round",
+        "vegan"
+      ],
+      "quote": "maximizing indoor and outdoor performance ... perform well across a wide variety of climbing disciplines ... Vegan",
+      "source": "https://www.evolvsports.com/2026-v6-lv-66-0000062604"
+    },
+    "price": {
+      "value": {
+        "amount": 150,
+        "currency": "EUR"
+      },
+      "quote": "€150.00",
+      "source": "https://www.evolvsports.com/2026-v6-lv-66-0000062604"
+    },
+    "notes": "Gender: page product attribute 'Unisex' plus site FAQ; Evolv sells no separate men's/women's versions. Stiffness from Evolv PSR scale (1 sensitive/smearing .. 10 powerful/edging), mapped linearly to 1-5: round(1+(PSR-1)*4/9). PSR 6 -> 3. Stiffness left null: Evolv PSR (power/sensitivity) scale is not a stiffness rating."
+  },
+  {
+    "brand": "Evolv",
+    "model": "Yosemite Bum",
+    "url": "https://www.evolvsports.com/yosemite-bum-_medium-volume_-66-0000062303",
+    "gender": {
+      "value": "U",
+      "quote": "This is the reason why our climbing shoes are unisex",
+      "source": "https://www.evolvsports.com/yosemite-bum-_medium-volume_-66-0000062303"
+    },
+    "closure": {
+      "value": "L",
+      "quote": "Closure: Lace",
+      "source": "https://www.evolvsports.com/yosemite-bum-_medium-volume_-66-0000062303"
+    },
+    "width": {
+      "value": null
+    },
+    "volume": {
+      "value": "M",
+      "quote": "Built medium-volume last with neutral camber",
+      "source": "https://www.evolvsports.com/yosemite-bum-_medium-volume_-66-0000062303"
+    },
+    "asymmetry": {
+      "value": null
+    },
+    "downturn": {
+      "value": 0,
+      "quote": "Built medium-volume last with neutral camber",
+      "source": "https://www.evolvsports.com/yosemite-bum-_medium-volume_-66-0000062303"
+    },
+    "stiffness": {
+      "value": null
+    },
+    "rubber": {
+      "value": "TRAX SAS",
+      "quote": "4.2mm TRAX SAS rubber",
+      "source": "https://www.evolvsports.com/yosemite-bum-_medium-volume_-66-0000062303"
+    },
+    "uses": {
+      "value": [
+        "multipitch",
+        "crack",
+        "vegan"
+      ],
+      "quote": "Ultimate multipitch instrument for crack and edge climbing ... Vegan: Vegan",
+      "source": "https://www.evolvsports.com/yosemite-bum-_medium-volume_-66-0000062303"
+    },
+    "price": {
+      "value": {
+        "amount": 185,
+        "currency": "EUR"
+      },
+      "quote": "€185.00",
+      "source": "https://www.evolvsports.com/yosemite-bum-_medium-volume_-66-0000062303"
+    },
+    "notes": "Gender: page product attribute 'Unisex' plus site FAQ; Evolv sells no separate men's/women's versions."
+  },
+  {
+    "brand": "Evolv",
+    "model": "Yosemite Bum LV",
+    "url": "https://www.evolvsports.com/yosemite-bum-lv-66-0000062304",
+    "gender": {
+      "value": "U",
+      "quote": "This is the reason why our climbing shoes are unisex",
+      "source": "https://www.evolvsports.com/yosemite-bum-lv-66-0000062304"
+    },
+    "closure": {
+      "value": "L",
+      "quote": "Closure: Lace",
+      "source": "https://www.evolvsports.com/yosemite-bum-lv-66-0000062304"
+    },
+    "width": {
+      "value": null
+    },
+    "volume": {
+      "value": "L",
+      "quote": "Ultimate low volume multipitch instrument",
+      "source": "https://www.evolvsports.com/yosemite-bum-lv-66-0000062304"
+    },
+    "asymmetry": {
+      "value": null
+    },
+    "downturn": {
+      "value": 0,
+      "quote": "Built medium-volume last with neutral camber",
+      "source": "https://www.evolvsports.com/yosemite-bum-lv-66-0000062304"
+    },
+    "stiffness": {
+      "value": null
+    },
+    "rubber": {
+      "value": "TRAX SAS",
+      "quote": "4.2mm TRAX SAS rubber",
+      "source": "https://www.evolvsports.com/yosemite-bum-lv-66-0000062304"
+    },
+    "uses": {
+      "value": [
+        "multipitch",
+        "crack",
+        "vegan"
+      ],
+      "quote": "Ultimate low volume multipitch instrument for crack and edge climbing ... Vegan: Vegan",
+      "source": "https://www.evolvsports.com/yosemite-bum-lv-66-0000062304"
+    },
+    "price": {
+      "value": {
+        "amount": 185,
+        "currency": "EUR"
+      },
+      "quote": "€185.00",
+      "source": "https://www.evolvsports.com/yosemite-bum-lv-66-0000062304"
+    },
+    "notes": "Gender: page product attribute 'Unisex' plus site FAQ; Evolv sells no separate men's/women's versions. Description copy also says 'Built medium-volume last' (shared with regular YB); volume taken from the LV name/subtitle."
+  }
+]

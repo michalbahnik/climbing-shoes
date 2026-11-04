@@ -1,0 +1,721 @@
+[
+  {
+    "brand": "Wild Climb",
+    "model": "Artemis",
+    "url": "https://www.wildclimb.it/prodotto/artemis-en/",
+    "gender": {
+      "value": "U",
+      "quote": "Artemis",
+      "source": "https://www.wildclimb.it/prodotto/artemis-en/"
+    },
+    "closure": {
+      "value": null
+    },
+    "width": {
+      "value": null
+    },
+    "volume": {
+      "value": null
+    },
+    "asymmetry": {
+      "value": 3,
+      "quote": "Offset 2: the tip of the last is shifted 2 cm in relation to the hypothetical tip of a natural last.",
+      "source": "https://www.wildclimb.it/prodotto/artemis-en/"
+    },
+    "downturn": {
+      "value": 3,
+      "quote": "Camber 5: the tip of the last is 5 cm lower than the hypothetical tip of a natural last.",
+      "source": "https://www.wildclimb.it/prodotto/artemis-en/"
+    },
+    "stiffness": {
+      "value": 1,
+      "quote": "Super soft and all rubber on the forefoot.",
+      "source": "https://www.wildclimb.it/prodotto/artemis-en/"
+    },
+    "rubber": {
+      "value": "AltAderenza",
+      "quote": "New high-performance AltAderenza midsole",
+      "source": "https://www.wildclimb.it/prodotto/artemis-en/"
+    },
+    "uses": {
+      "value": [
+        "gym",
+        "competition"
+      ],
+      "quote": "Designed by Laura Rogora to chase podiums in competition / developed by Laura Rogora for indoor climbing",
+      "source": "https://www.wildclimb.it/prodotto/artemis-en/"
+    },
+    "price": {
+      "value": {
+        "amount": 119,
+        "currency": "EUR"
+      },
+      "quote": "\"regular_price\":\"119\"",
+      "source": "https://www.wildclimb.it/wp-json/wc/store/v1/products?per_page=100"
+    },
+    "notes": "Gender U: one product with a single size run 33-48, no men's/women's versions. Camber/offset are the brand's numeric last specs in cm (observed range camber 1.5-5, offset 1-2). Downturn: camber 5->3, 4->2, 3->2, 2->1, 1.5->1 (proportional to the brand max of 5; shoe selector says Pantera/Mangusta use 'a lot of camber'). Asymmetry: offset 2->3 (shoe selector: Pantera/Mangusta use 'a lot of asymmetry'), offset 1-1.5->1 (Bat 'modest asymmetry', Dagara 'slightly asymmetrical'). Rubber: page lists 'AltAderenza' under SOLE MATERIAL. Price: English store product (EUR 119); the Italian product page lists EUR 131. Closure not stated."
+  },
+  {
+    "brand": "Wild Climb",
+    "model": "Pantera 2023 Edition",
+    "url": "https://www.wildclimb.it/prodotto/pantera-2023-edition-en/",
+    "gender": {
+      "value": "U",
+      "quote": "Pantera – 2023 EDITION",
+      "source": "https://www.wildclimb.it/prodotto/pantera-2023-edition-en/"
+    },
+    "closure": {
+      "value": null
+    },
+    "width": {
+      "value": null
+    },
+    "volume": {
+      "value": null
+    },
+    "asymmetry": {
+      "value": 3,
+      "quote": "Offset 2: the tip of the last is shifted 2 cm in relation to the hypothetical tip of a natural last.",
+      "source": "https://www.wildclimb.it/prodotto/pantera-2023-edition-en/"
+    },
+    "downturn": {
+      "value": 3,
+      "quote": "Camber 5: the tip of the last is 5 cm lower than the hypothetical tip of a natural last.",
+      "source": "https://www.wildclimb.it/prodotto/pantera-2023-edition-en/"
+    },
+    "stiffness": {
+      "value": null
+    },
+    "rubber": {
+      "value": "Wild Rubber Performance",
+      "quote": "SOLE MATERIAL. Wild Rubber performance.",
+      "source": "https://www.wildclimb.it/prodotto/pantera-2023-edition-en/"
+    },
+    "uses": {
+      "value": [
+        "all-round"
+      ],
+      "quote": "a shoe that shines on any terrain",
+      "source": "https://www.wildclimb.it/prodotto/pantera-2023-edition-en/"
+    },
+    "price": {
+      "value": {
+        "amount": 131,
+        "currency": "EUR"
+      },
+      "quote": "\"regular_price\":\"131\"",
+      "source": "https://www.wildclimb.it/wp-json/wc/store/v1/products?per_page=100"
+    },
+    "notes": "Gender U: one product with a single size run 33-48, no men's/women's versions. Camber/offset are the brand's numeric last specs in cm (observed range camber 1.5-5, offset 1-2). Downturn: camber 5->3, 4->2, 3->2, 2->1, 1.5->1 (proportional to the brand max of 5; shoe selector says Pantera/Mangusta use 'a lot of camber'). Asymmetry: offset 2->3 (shoe selector: Pantera/Mangusta use 'a lot of asymmetry'), offset 1-1.5->1 (Bat 'modest asymmetry', Dagara 'slightly asymmetrical'). Midsole 'Sensitive: lightweight midsole' is not a stiffness grade, null. Closure not stated."
+  },
+  {
+    "brand": "Wild Climb",
+    "model": "Pantera 2.0 2023 Edition",
+    "url": "https://www.wildclimb.it/prodotto/pantera-2-2023-edition-en/",
+    "gender": {
+      "value": "U",
+      "quote": "Pantera 2.0 – 2023 EDITION",
+      "source": "https://www.wildclimb.it/prodotto/pantera-2-2023-edition-en/"
+    },
+    "closure": {
+      "value": null
+    },
+    "width": {
+      "value": null
+    },
+    "volume": {
+      "value": null
+    },
+    "asymmetry": {
+      "value": 3,
+      "quote": "Offset 2: the tip of the last is shifted 2 cm in relation to the hypothetical tip of a natural last.",
+      "source": "https://www.wildclimb.it/prodotto/pantera-2-2023-edition-en/"
+    },
+    "downturn": {
+      "value": 3,
+      "quote": "Camber 5: the tip of the last is 5 cm lower than the hypothetical tip of a natural last.",
+      "source": "https://www.wildclimb.it/prodotto/pantera-2-2023-edition-en/"
+    },
+    "stiffness": {
+      "value": 5,
+      "quote": "Maximum stiffness from the sole to the microfiber in its least extensible version.",
+      "source": "https://www.wildclimb.it/prodotto/pantera-2-2023-edition-en/"
+    },
+    "rubber": {
+      "value": "Wild Rubber Performance",
+      "quote": "SOLE MATERIAL. Wild Rubber performance.",
+      "source": "https://www.wildclimb.it/prodotto/pantera-2-2023-edition-en/"
+    },
+    "uses": {
+      "value": [
+        "slab",
+        "multipitch"
+      ],
+      "quote": "Pantera for vertical slabs. ... Also excellent for big vertical journeys.",
+      "source": "https://www.wildclimb.it/prodotto/pantera-2-2023-edition-en/"
+    },
+    "price": {
+      "value": {
+        "amount": 134,
+        "currency": "EUR"
+      },
+      "quote": "\"regular_price\":\"134\"",
+      "source": "https://www.wildclimb.it/wp-json/wc/store/v1/products?per_page=100"
+    },
+    "notes": "Gender U: one product with a single size run 33-48, no men's/women's versions. Camber/offset are the brand's numeric last specs in cm (observed range camber 1.5-5, offset 1-2). Downturn: camber 5->3, 4->2, 3->2, 2->1, 1.5->1 (proportional to the brand max of 5; shoe selector says Pantera/Mangusta use 'a lot of camber'). Asymmetry: offset 2->3 (shoe selector: Pantera/Mangusta use 'a lot of asymmetry'), offset 1-1.5->1 (Bat 'modest asymmetry', Dagara 'slightly asymmetrical'). Multipitch from 'big vertical journeys'. Closure not stated."
+  },
+  {
+    "brand": "Wild Climb",
+    "model": "Pantera Laser",
+    "url": "https://www.wildclimb.it/prodotto/pantera-laser-en/",
+    "gender": {
+      "value": "U",
+      "quote": "Pantera Laser",
+      "source": "https://www.wildclimb.it/prodotto/pantera-laser-en/"
+    },
+    "closure": {
+      "value": null
+    },
+    "width": {
+      "value": null
+    },
+    "volume": {
+      "value": null
+    },
+    "asymmetry": {
+      "value": 3,
+      "quote": "Offset 2",
+      "source": "https://www.wildclimb.it/prodotto/pantera-laser-en/"
+    },
+    "downturn": {
+      "value": 3,
+      "quote": "Camber 5",
+      "source": "https://www.wildclimb.it/prodotto/pantera-laser-en/"
+    },
+    "stiffness": {
+      "value": 3,
+      "quote": "The Lasers borrow the semi-stiff midsole from the “Reds”",
+      "source": "https://www.wildclimb.it/prodotto/pantera-laser-en/"
+    },
+    "rubber": {
+      "value": "Wild Rubber Performance",
+      "quote": "sole material Wild Rubber performance.",
+      "source": "https://www.wildclimb.it/prodotto/pantera-laser-en/"
+    },
+    "uses": {
+      "value": [
+        "all-round"
+      ],
+      "quote": "Pantera Laser sums up and blends the best qualities of the Pantera line for a top all-round shoe.",
+      "source": "https://www.wildclimb.it/prodotto/pantera-laser-en/"
+    },
+    "price": {
+      "value": {
+        "amount": 129,
+        "currency": "EUR"
+      },
+      "quote": "\"regular_price\":\"129\"",
+      "source": "https://www.wildclimb.it/wp-json/wc/store/v1/products?per_page=100"
+    },
+    "notes": "Gender U: one product with a single size run 33-48, no men's/women's versions. Camber/offset are the brand's numeric last specs in cm (observed range camber 1.5-5, offset 1-2). Downturn: camber 5->3, 4->2, 3->2, 2->1, 1.5->1 (proportional to the brand max of 5; shoe selector says Pantera/Mangusta use 'a lot of camber'). Asymmetry: offset 2->3 (shoe selector: Pantera/Mangusta use 'a lot of asymmetry'), offset 1-1.5->1 (Bat 'modest asymmetry', Dagara 'slightly asymmetrical'). Camber/offset quotes are in Italian on the page ('Camber 5: la punta della forma è 5 cm più bassa...'). Stiffness 'semi-stiff' / 'Intermedia' mapped to 3. Closure not stated."
+  },
+  {
+    "brand": "Wild Climb",
+    "model": "Pantera Soft",
+    "url": "https://www.wildclimb.it/prodotto/pantera-soft-en/",
+    "gender": {
+      "value": "U",
+      "quote": "Pantera Soft",
+      "source": "https://www.wildclimb.it/prodotto/pantera-soft-en/"
+    },
+    "closure": {
+      "value": null
+    },
+    "width": {
+      "value": null
+    },
+    "volume": {
+      "value": null
+    },
+    "asymmetry": {
+      "value": 3,
+      "quote": "Offset 2",
+      "source": "https://www.wildclimb.it/prodotto/pantera-soft-en/"
+    },
+    "downturn": {
+      "value": 3,
+      "quote": "Camber 5",
+      "source": "https://www.wildclimb.it/prodotto/pantera-soft-en/"
+    },
+    "stiffness": {
+      "value": 1,
+      "quote": "midsole rigidity Ultrasoft, leggerissima intersuola dalla punta al metatarso.",
+      "source": "https://www.wildclimb.it/prodotto/pantera-soft-en/"
+    },
+    "rubber": {
+      "value": "Wild Rubber Performance",
+      "quote": "sole material Wild Rubber performance.",
+      "source": "https://www.wildclimb.it/prodotto/pantera-soft-en/"
+    },
+    "uses": {
+      "value": [
+        "gym",
+        "bouldering",
+        "all-round"
+      ],
+      "quote": "aimed at those seeking progress in the gym, bouldering and on steep routes, yet at home in any terrain",
+      "source": "https://www.wildclimb.it/prodotto/pantera-soft-en/"
+    },
+    "price": {
+      "value": {
+        "amount": 109,
+        "currency": "EUR"
+      },
+      "quote": "\"regular_price\":\"109\"",
+      "source": "https://www.wildclimb.it/wp-json/wc/store/v1/products?per_page=100"
+    },
+    "notes": "Gender U: one product with a single size run 33-48, no men's/women's versions. Camber/offset are the brand's numeric last specs in cm (observed range camber 1.5-5, offset 1-2). Downturn: camber 5->3, 4->2, 3->2, 2->1, 1.5->1 (proportional to the brand max of 5; shoe selector says Pantera/Mangusta use 'a lot of camber'). Asymmetry: offset 2->3 (shoe selector: Pantera/Mangusta use 'a lot of asymmetry'), offset 1-1.5->1 (Bat 'modest asymmetry', Dagara 'slightly asymmetrical'). Closure not stated."
+  },
+  {
+    "brand": "Wild Climb",
+    "model": "Pantera V",
+    "url": "https://www.wildclimb.it/prodotto/pantera-v-en/",
+    "gender": {
+      "value": "U",
+      "quote": "Pantera V",
+      "source": "https://www.wildclimb.it/prodotto/pantera-v-en/"
+    },
+    "closure": {
+      "value": null
+    },
+    "width": {
+      "value": null
+    },
+    "volume": {
+      "value": null
+    },
+    "asymmetry": {
+      "value": 3,
+      "quote": "Offset 2",
+      "source": "https://www.wildclimb.it/prodotto/pantera-v-en/"
+    },
+    "downturn": {
+      "value": 3,
+      "quote": "Camber 5",
+      "source": "https://www.wildclimb.it/prodotto/pantera-v-en/"
+    },
+    "stiffness": {
+      "value": 3,
+      "quote": "flexible, yet supportive thanks to the intermediate midsole",
+      "source": "https://www.wildclimb.it/prodotto/pantera-v-en/"
+    },
+    "rubber": {
+      "value": "Wild Rubber Performance",
+      "quote": "Sole material Wild Rubber performance.",
+      "source": "https://www.wildclimb.it/prodotto/pantera-v-en/"
+    },
+    "uses": {
+      "value": [
+        "competition"
+      ],
+      "quote": "Pantera V is the choice of many competitors, having achieved podiums in competition.",
+      "source": "https://www.wildclimb.it/prodotto/pantera-v-en/"
+    },
+    "price": {
+      "value": {
+        "amount": 109,
+        "currency": "EUR"
+      },
+      "quote": "\"regular_price\":\"109\"",
+      "source": "https://www.wildclimb.it/wp-json/wc/store/v1/products?per_page=100"
+    },
+    "notes": "Gender U: one product with a single size run 33-48, no men's/women's versions. Camber/offset are the brand's numeric last specs in cm (observed range camber 1.5-5, offset 1-2). Downturn: camber 5->3, 4->2, 3->2, 2->1, 1.5->1 (proportional to the brand max of 5; shoe selector says Pantera/Mangusta use 'a lot of camber'). Asymmetry: offset 2->3 (shoe selector: Pantera/Mangusta use 'a lot of asymmetry'), offset 1-1.5->1 (Bat 'modest asymmetry', Dagara 'slightly asymmetrical'). Stiffness 'intermediate midsole' mapped to 3. Closure not stated on the page (name only)."
+  },
+  {
+    "brand": "Wild Climb",
+    "model": "Mangusta",
+    "url": "https://www.wildclimb.it/prodotto/mangusta-en/",
+    "gender": {
+      "value": "U",
+      "quote": "Mangusta",
+      "source": "https://www.wildclimb.it/prodotto/mangusta-en/"
+    },
+    "closure": {
+      "value": null
+    },
+    "width": {
+      "value": null
+    },
+    "volume": {
+      "value": null
+    },
+    "asymmetry": {
+      "value": 3,
+      "quote": "Offset 2",
+      "source": "https://www.wildclimb.it/prodotto/mangusta-en/"
+    },
+    "downturn": {
+      "value": 3,
+      "quote": "Camber 5",
+      "source": "https://www.wildclimb.it/prodotto/mangusta-en/"
+    },
+    "stiffness": {
+      "value": null
+    },
+    "rubber": {
+      "value": "Wild Rubber Performance",
+      "quote": "sole material Wild Rubber performance.",
+      "source": "https://www.wildclimb.it/prodotto/mangusta-en/"
+    },
+    "uses": {
+      "value": [
+        "all-round"
+      ],
+      "quote": "It’s versatility is its strength.",
+      "source": "https://www.wildclimb.it/prodotto/mangusta-en/"
+    },
+    "price": {
+      "value": {
+        "amount": 99,
+        "currency": "EUR"
+      },
+      "quote": "\"regular_price\":\"99\"",
+      "source": "https://www.wildclimb.it/wp-json/wc/store/v1/products?per_page=100"
+    },
+    "notes": "Gender U: one product with a single size run 33-48, no men's/women's versions. Camber/offset are the brand's numeric last specs in cm (observed range camber 1.5-5, offset 1-2). Downturn: camber 5->3, 4->2, 3->2, 2->1, 1.5->1 (proportional to the brand max of 5; shoe selector says Pantera/Mangusta use 'a lot of camber'). Asymmetry: offset 2->3 (shoe selector: Pantera/Mangusta use 'a lot of asymmetry'), offset 1-1.5->1 (Bat 'modest asymmetry', Dagara 'slightly asymmetrical'). Closure: page says only 'L’assenza di lacci' (no laces), not slipper or strap, so null. 'light midsole support' is not a stiffness grade."
+  },
+  {
+    "brand": "Wild Climb",
+    "model": "Pegaso",
+    "url": "https://www.wildclimb.it/prodotto/pegaso-en/",
+    "gender": {
+      "value": "U",
+      "quote": "Pegaso",
+      "source": "https://www.wildclimb.it/prodotto/pegaso-en/"
+    },
+    "closure": {
+      "value": null
+    },
+    "width": {
+      "value": null
+    },
+    "volume": {
+      "value": null
+    },
+    "asymmetry": {
+      "value": 1,
+      "quote": "designed to prioritize sensitivity and comfort without excessive asymmetry",
+      "source": "https://www.wildclimb.it/prodotto/pegaso-en/"
+    },
+    "downturn": {
+      "value": 2,
+      "quote": "Camber 4",
+      "source": "https://www.wildclimb.it/prodotto/pegaso-en/"
+    },
+    "stiffness": {
+      "value": 2,
+      "quote": "It features medium-soft stiffness with a technopolymer midsole",
+      "source": "https://www.wildclimb.it/prodotto/pegaso-en/"
+    },
+    "rubber": {
+      "value": "Wild Rubber Performance",
+      "quote": "SOLE MATERIAL. WildRubber performance",
+      "source": "https://www.wildclimb.it/prodotto/pegaso-en/"
+    },
+    "uses": {
+      "value": [
+        "bouldering",
+        "gym"
+      ],
+      "quote": "Overhangs, steep walls, bouldering, indoor.",
+      "source": "https://www.wildclimb.it/prodotto/pegaso-en/"
+    },
+    "price": {
+      "value": {
+        "amount": 134,
+        "currency": "EUR"
+      },
+      "quote": "\"regular_price\":\"134\"",
+      "source": "https://www.wildclimb.it/wp-json/wc/store/v1/products?per_page=100"
+    },
+    "notes": "Gender U: one product with a single size run 33-48, no men's/women's versions. Camber/offset are the brand's numeric last specs in cm (observed range camber 1.5-5, offset 1-2). Downturn: camber 5->3, 4->2, 3->2, 2->1, 1.5->1 (proportional to the brand max of 5; shoe selector says Pantera/Mangusta use 'a lot of camber'). Asymmetry: offset 2->3 (shoe selector: Pantera/Mangusta use 'a lot of asymmetry'), offset 1-1.5->1 (Bat 'modest asymmetry', Dagara 'slightly asymmetrical'). Asymmetry 1 from 'Offset 1' and 'without excessive asymmetry'. Width: 'medium-to-wide last' spans two values, null. Stiffness 'medium-soft' mapped to 2. Closure not stated."
+  },
+  {
+    "brand": "Wild Climb",
+    "model": "Dagara",
+    "url": "https://www.wildclimb.it/prodotto/dagara-en/",
+    "gender": {
+      "value": "U",
+      "quote": "Dagara",
+      "source": "https://www.wildclimb.it/prodotto/dagara-en/"
+    },
+    "closure": {
+      "value": "V",
+      "quote": "A double strap closure with velcro",
+      "source": "https://www.wildclimb.it/prodotto/dagara-en/"
+    },
+    "width": {
+      "value": null
+    },
+    "volume": {
+      "value": null
+    },
+    "asymmetry": {
+      "value": 1,
+      "quote": "combines softness with a slightly asymmetrical design",
+      "source": "https://www.wildclimb.it/prodotto/dagara-en/"
+    },
+    "downturn": {
+      "value": 2,
+      "quote": "Camber 3: la punta della forma è 3 cm più bassa dell’ipotetica punta di una forma naturale.",
+      "source": "https://www.wildclimb.it/prodotto/dagara-en/"
+    },
+    "stiffness": {
+      "value": 1,
+      "quote": "WildClimb’s foray into the world of “super soft”",
+      "source": "https://www.wildclimb.it/prodotto/dagara-en/"
+    },
+    "rubber": {
+      "value": "Wild Rubber Performance",
+      "quote": "Sole Material Wild Rubber performance.",
+      "source": "https://www.wildclimb.it/prodotto/dagara-en/"
+    },
+    "uses": {
+      "value": [
+        "gym",
+        "bouldering"
+      ],
+      "quote": "Designed for the gym climber ... particularly adapted for modern indoor bouldering on volumes",
+      "source": "https://www.wildclimb.it/prodotto/dagara-en/"
+    },
+    "price": {
+      "value": {
+        "amount": 125,
+        "currency": "EUR"
+      },
+      "quote": "\"regular_price\":\"125\"",
+      "source": "https://www.wildclimb.it/wp-json/wc/store/v1/products?per_page=100"
+    },
+    "notes": "Gender U: one product with a single size run 33-48, no men's/women's versions. Camber/offset are the brand's numeric last specs in cm (observed range camber 1.5-5, offset 1-2). Downturn: camber 5->3, 4->2, 3->2, 2->1, 1.5->1 (proportional to the brand max of 5; shoe selector says Pantera/Mangusta use 'a lot of camber'). Asymmetry: offset 2->3 (shoe selector: Pantera/Mangusta use 'a lot of asymmetry'), offset 1-1.5->1 (Bat 'modest asymmetry', Dagara 'slightly asymmetrical'). Asymmetry from words and 'Offset 1,5'."
+  },
+  {
+    "brand": "Wild Climb",
+    "model": "Bat",
+    "url": "https://www.wildclimb.it/prodotto/bat-en/",
+    "gender": {
+      "value": "U",
+      "quote": "Bat",
+      "source": "https://www.wildclimb.it/prodotto/bat-en/"
+    },
+    "closure": {
+      "value": null
+    },
+    "width": {
+      "value": null
+    },
+    "volume": {
+      "value": null
+    },
+    "asymmetry": {
+      "value": 1,
+      "quote": "its modest asymmetry does not force your toes down",
+      "source": "https://www.wildclimb.it/prodotto/bat-en/"
+    },
+    "downturn": {
+      "value": 1,
+      "quote": "Camber 2: la punta della forma è 2 cm più bassa dell’ipotetica punta di una forma naturale.",
+      "source": "https://www.wildclimb.it/prodotto/bat-en/"
+    },
+    "stiffness": {
+      "value": 3,
+      "quote": "The semi-stiff half midsole and low volume toe box offers maximum support",
+      "source": "https://www.wildclimb.it/prodotto/bat-en/"
+    },
+    "rubber": {
+      "value": "AltAderenza",
+      "quote": "Altaderenza rubber (exclusive to WildClimb) ensures maximum grip.",
+      "source": "https://www.wildclimb.it/prodotto/bat-en/"
+    },
+    "uses": {
+      "value": null
+    },
+    "price": {
+      "value": {
+        "amount": 99,
+        "currency": "EUR"
+      },
+      "quote": "\"regular_price\":\"99\"",
+      "source": "https://www.wildclimb.it/wp-json/wc/store/v1/products?per_page=100"
+    },
+    "notes": "Gender U: one product with a single size run 33-48, no men's/women's versions. Camber/offset are the brand's numeric last specs in cm (observed range camber 1.5-5, offset 1-2). Downturn: camber 5->3, 4->2, 3->2, 2->1, 1.5->1 (proportional to the brand max of 5; shoe selector says Pantera/Mangusta use 'a lot of camber'). Asymmetry: offset 2->3 (shoe selector: Pantera/Mangusta use 'a lot of asymmetry'), offset 1-1.5->1 (Bat 'modest asymmetry', Dagara 'slightly asymmetrical'). Shoe selector calls it a 'flat platform', but the product page gives Camber 2 (mapped to 1). Volume: only the toe box is called 'low volume', so null. Uses: 'perfect for long vertical days' not mapped. Stiffness 'semi-stiff' mapped to 3. Closure not stated."
+  },
+  {
+    "brand": "Wild Climb",
+    "model": "Gladiator",
+    "url": "https://www.wildclimb.it/prodotto/gladiator-en/",
+    "gender": {
+      "value": "U",
+      "quote": "Gladiator",
+      "source": "https://www.wildclimb.it/prodotto/gladiator-en/"
+    },
+    "closure": {
+      "value": null
+    },
+    "width": {
+      "value": null
+    },
+    "volume": {
+      "value": null
+    },
+    "asymmetry": {
+      "value": 1,
+      "quote": "Offset 1: la punta della forma è spostata di 1 cm rispetto all’ipotetica punta di una forma naturale.",
+      "source": "https://www.wildclimb.it/prodotto/gladiator-en/"
+    },
+    "downturn": {
+      "value": 1,
+      "quote": "Camber 1,5: la punta della forma è 1,5 cm più bassa dell’ipotetica punta di una forma naturale.",
+      "source": "https://www.wildclimb.it/prodotto/gladiator-en/"
+    },
+    "stiffness": {
+      "value": 3,
+      "quote": "midsole rigidity intermedia, intersuola che si estende dalla punta fino al metatarso.",
+      "source": "https://www.wildclimb.it/prodotto/gladiator-en/"
+    },
+    "rubber": {
+      "value": "Wild Rubber Durability",
+      "quote": "sole material Wild Rubber durability con rinforzo sul puntale.",
+      "source": "https://www.wildclimb.it/prodotto/gladiator-en/"
+    },
+    "uses": {
+      "value": [
+        "beginner",
+        "gym"
+      ],
+      "quote": "Perfect for beginners ... ideal as a rental shoe or for long working days in the gym.",
+      "source": "https://www.wildclimb.it/prodotto/gladiator-en/"
+    },
+    "price": {
+      "value": {
+        "amount": 89,
+        "currency": "EUR"
+      },
+      "quote": "\"regular_price\":\"89\"",
+      "source": "https://www.wildclimb.it/wp-json/wc/store/v1/products?per_page=100"
+    },
+    "notes": "Gender U: one product with a single size run 33-48, no men's/women's versions. Camber/offset are the brand's numeric last specs in cm (observed range camber 1.5-5, offset 1-2). Downturn: camber 5->3, 4->2, 3->2, 2->1, 1.5->1 (proportional to the brand max of 5; shoe selector says Pantera/Mangusta use 'a lot of camber'). Asymmetry: offset 2->3 (shoe selector: Pantera/Mangusta use 'a lot of asymmetry'), offset 1-1.5->1 (Bat 'modest asymmetry', Dagara 'slightly asymmetrical'). Page also says 'neutral shape'; numeric camber/offset used. Stiffness 'intermedia' mapped to 3. Closure not stated."
+  },
+  {
+    "brand": "Wild Climb",
+    "model": "Sky V",
+    "url": "https://www.wildclimb.it/prodotto/sky-v-en/",
+    "gender": {
+      "value": "U",
+      "quote": "Sky V",
+      "source": "https://www.wildclimb.it/prodotto/sky-v-en/"
+    },
+    "closure": {
+      "value": null
+    },
+    "width": {
+      "value": null
+    },
+    "volume": {
+      "value": null
+    },
+    "asymmetry": {
+      "value": 1,
+      "quote": "Offset 1: la punta della forma è spostata di 1 cm rispetto all’ipotetica punta di una forma naturale.",
+      "source": "https://www.wildclimb.it/prodotto/sky-v-en/"
+    },
+    "downturn": {
+      "value": 1,
+      "quote": "Camber 1,5: la punta della forma è 1,5 cm più bassa dell’ipotetica punta di una forma naturale.",
+      "source": "https://www.wildclimb.it/prodotto/sky-v-en/"
+    },
+    "stiffness": {
+      "value": 3,
+      "quote": "Midsole Rigidity intermedia, intersuola che si estende dalla punta fino al metatarso.",
+      "source": "https://www.wildclimb.it/prodotto/sky-v-en/"
+    },
+    "rubber": {
+      "value": "Wild Rubber Durability",
+      "quote": "Sole Material Wild Rubber durability.",
+      "source": "https://www.wildclimb.it/prodotto/sky-v-en/"
+    },
+    "uses": {
+      "value": [
+        "beginner",
+        "gym"
+      ],
+      "quote": "designed for new climbers who want a comfortable and practical shoe for daily use in the gym",
+      "source": "https://www.wildclimb.it/prodotto/sky-v-en/"
+    },
+    "price": {
+      "value": {
+        "amount": 89,
+        "currency": "EUR"
+      },
+      "quote": "\"regular_price\":\"89\"",
+      "source": "https://www.wildclimb.it/wp-json/wc/store/v1/products?per_page=100"
+    },
+    "notes": "Gender U: one product with a single size run 33-48, no men's/women's versions. Camber/offset are the brand's numeric last specs in cm (observed range camber 1.5-5, offset 1-2). Downturn: camber 5->3, 4->2, 3->2, 2->1, 1.5->1 (proportional to the brand max of 5; shoe selector says Pantera/Mangusta use 'a lot of camber'). Asymmetry: offset 2->3 (shoe selector: Pantera/Mangusta use 'a lot of asymmetry'), offset 1-1.5->1 (Bat 'modest asymmetry', Dagara 'slightly asymmetrical'). Closure not stated on the page (only implied by name). Stiffness 'intermedia' mapped to 3."
+  },
+  {
+    "brand": "Wild Climb",
+    "model": "Sky Laces",
+    "url": "https://www.wildclimb.it/prodotto/sky-laces-en/",
+    "gender": {
+      "value": "U",
+      "quote": "Sky Laces",
+      "source": "https://www.wildclimb.it/prodotto/sky-laces-en/"
+    },
+    "closure": {
+      "value": "L",
+      "quote": "A laces version for the entry-level climber.",
+      "source": "https://www.wildclimb.it/prodotto/sky-laces-en/"
+    },
+    "width": {
+      "value": null
+    },
+    "volume": {
+      "value": null
+    },
+    "asymmetry": {
+      "value": 1,
+      "quote": "Offset 1: la punta della forma è spostata di 1 cm rispetto all’ipotetica punta di una forma naturale.",
+      "source": "https://www.wildclimb.it/prodotto/sky-laces-en/"
+    },
+    "downturn": {
+      "value": 1,
+      "quote": "Camber 1,5: la punta della forma è 1,5 cm più bassa dell’ipotetica punta di una forma naturale.",
+      "source": "https://www.wildclimb.it/prodotto/sky-laces-en/"
+    },
+    "stiffness": {
+      "value": 3,
+      "quote": "midsole rigidity intermedia, intersuola che si estende dalla punta fino al metatarso.",
+      "source": "https://www.wildclimb.it/prodotto/sky-laces-en/"
+    },
+    "rubber": {
+      "value": "Wild Rubber Durability",
+      "quote": "sole material Wild Rubber durability.",
+      "source": "https://www.wildclimb.it/prodotto/sky-laces-en/"
+    },
+    "uses": {
+      "value": [
+        "beginner"
+      ],
+      "quote": "A laces version for the entry-level climber.",
+      "source": "https://www.wildclimb.it/prodotto/sky-laces-en/"
+    },
+    "price": {
+      "value": {
+        "amount": 79,
+        "currency": "EUR"
+      },
+      "quote": "\"regular_price\":\"79\"",
+      "source": "https://www.wildclimb.it/wp-json/wc/store/v1/products?per_page=100"
+    },
+    "notes": "Gender U: one product with a single size run 33-48, no men's/women's versions. Camber/offset are the brand's numeric last specs in cm (observed range camber 1.5-5, offset 1-2). Downturn: camber 5->3, 4->2, 3->2, 2->1, 1.5->1 (proportional to the brand max of 5; shoe selector says Pantera/Mangusta use 'a lot of camber'). Asymmetry: offset 2->3 (shoe selector: Pantera/Mangusta use 'a lot of asymmetry'), offset 1-1.5->1 (Bat 'modest asymmetry', Dagara 'slightly asymmetrical'). Stiffness 'intermedia' mapped to 3."
+  }
+]

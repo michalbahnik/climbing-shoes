@@ -1,0 +1,1089 @@
+[
+  {
+    "brand": "Mad Rock",
+    "model": "Drone 2 HV",
+    "url": "https://madrock.com/products/drone-2-0-hv",
+    "gender": {
+      "value": "U",
+      "quote": "US M 4 / F 5.5",
+      "source": "https://madrock.com/products/drone-2-0-hv"
+    },
+    "closure": {
+      "value": "V",
+      "quote": "Closure: | Velcro",
+      "source": "https://www.madrock.eu/en_GB/shop/drone-hv-2-0-228"
+    },
+    "width": {
+      "value": "W",
+      "quote": "High Volume version offers a wider toe box, bigger heel cup, and a boxier profile",
+      "source": "https://madrock.com/products/drone-2-0-hv"
+    },
+    "volume": {
+      "value": "H",
+      "quote": "High Volume (HV) Fit:",
+      "source": "https://www.madrock.eu/en_GB/shop/drone-hv-2-0-228"
+    },
+    "asymmetry": {
+      "value": 3,
+      "quote": "Asymmetric Curvature: Significant",
+      "source": "https://www.madrock.eu/en_GB/shop/drone-hv-2-0-228"
+    },
+    "downturn": {
+      "value": 3,
+      "quote": "Profile: Aggressive",
+      "source": "https://www.madrock.eu/en_GB/shop/drone-hv-2-0-228"
+    },
+    "stiffness": {
+      "value": 3,
+      "quote": "Stiffness: Medium",
+      "source": "https://www.madrock.eu/en_GB/shop/drone-hv-2-0-228"
+    },
+    "rubber": {
+      "value": "Science Friction 3.0",
+      "quote": "Rubber: Science Friction 3.0 (sole), Science Friction R2 (heel rand)",
+      "source": "https://www.madrock.eu/en_GB/shop/drone-hv-2-0-228"
+    },
+    "uses": {
+      "value": [
+        "vegan"
+      ],
+      "quote": "engineered with cutting-edge technology and a vegan-friendly design",
+      "source": "https://www.madrock.eu/en_GB/shop/drone-hv-2-0-228"
+    },
+    "price": {
+      "value": {
+        "amount": 169.94,
+        "currency": "EUR"
+      },
+      "quote": "€ 169.94",
+      "source": "https://www.madrock.eu/en_GB/shop/drone-hv-2-0-228"
+    },
+    "notes": "gender U: one product with unisex men's/women's size labels. Mad Rock spec words mapped: Asymmetrical Curvature Significant=3, Moderate=2, Slightly=1; Profile Aggressive=3, Neutral=0; Stiffness Soft=2, Medium/Moderate=3, Hard/Stiff=4. Width W from 'wider toe box' (relative to LV). EU page also says the HV has 'a regular toe box, heel cup, and standard profile', contradicting the US wording."
+  },
+  {
+    "brand": "Mad Rock",
+    "model": "Drone 2 LV",
+    "url": "https://madrock.com/products/drone-2-0-lv",
+    "gender": {
+      "value": "U",
+      "quote": "US M 4 / F 5.5",
+      "source": "https://madrock.com/products/drone-2-0-lv"
+    },
+    "closure": {
+      "value": "V",
+      "quote": "Closure: | Velcro",
+      "source": "https://www.madrock.eu/en_GB/shop/drone-lv-2-0-229"
+    },
+    "width": {
+      "value": "N",
+      "quote": "Low Volume version offers a narrower toe box, smaller heel cup, and a lower profile",
+      "source": "https://madrock.com/products/drone-2-0-lv"
+    },
+    "volume": {
+      "value": "L",
+      "quote": "Optimized Low Volume (LV) Fit:",
+      "source": "https://www.madrock.eu/en_GB/shop/drone-lv-2-0-229"
+    },
+    "asymmetry": {
+      "value": 3,
+      "quote": "Asymmetric Curvature: Significant",
+      "source": "https://www.madrock.eu/en_GB/shop/drone-lv-2-0-229"
+    },
+    "downturn": {
+      "value": 3,
+      "quote": "Profile: Aggressive",
+      "source": "https://www.madrock.eu/en_GB/shop/drone-lv-2-0-229"
+    },
+    "stiffness": {
+      "value": 3,
+      "quote": "Stiffness: Medium",
+      "source": "https://www.madrock.eu/en_GB/shop/drone-lv-2-0-229"
+    },
+    "rubber": {
+      "value": "Science Friction 3.0",
+      "quote": "Rubber: Science Friction 3.0 (sole), Science Friction R2 (heel rand)",
+      "source": "https://www.madrock.eu/en_GB/shop/drone-lv-2-0-229"
+    },
+    "uses": {
+      "value": [
+        "vegan"
+      ],
+      "quote": "feature advanced technology and a vegan-friendly design",
+      "source": "https://www.madrock.eu/en_GB/shop/drone-lv-2-0-229"
+    },
+    "price": {
+      "value": {
+        "amount": 169.94,
+        "currency": "EUR"
+      },
+      "quote": "€ 169.94",
+      "source": "https://www.madrock.eu/en_GB/shop/drone-lv-2-0-229"
+    },
+    "notes": "gender U: one product with unisex men's/women's size labels. Mad Rock spec words mapped: Asymmetrical Curvature Significant=3, Moderate=2, Slightly=1; Profile Aggressive=3, Neutral=0; Stiffness Soft=2, Medium/Moderate=3, Hard/Stiff=4. Width N from 'narrower toe box' (relative to HV)."
+  },
+  {
+    "brand": "Mad Rock",
+    "model": "Drone CS HV",
+    "url": "https://madrock.com/products/drone-cs-hv",
+    "gender": {
+      "value": "U",
+      "quote": "US M 3 / W 4.5",
+      "source": "https://madrock.com/products/drone-cs-hv"
+    },
+    "closure": {
+      "value": "V",
+      "quote": "Closure: | Velcro",
+      "source": "https://www.madrock.eu/en_GB/shop/drone-hv-cs-169"
+    },
+    "width": {
+      "value": "W",
+      "quote": "High Volume version offers a wider toe box, bigger heel cup, and a boxier profile",
+      "source": "https://madrock.com/products/drone-cs-hv"
+    },
+    "volume": {
+      "value": "H",
+      "quote": "High Volume (HV) Fit:",
+      "source": "https://www.madrock.eu/en_GB/shop/drone-hv-cs-169"
+    },
+    "asymmetry": {
+      "value": 3,
+      "quote": "Asymmetrical Curvature | Significant",
+      "source": "https://madrock.com/products/drone-cs-hv"
+    },
+    "downturn": {
+      "value": 3,
+      "quote": "Profile: Aggressive with asymmetric curvature",
+      "source": "https://www.madrock.eu/en_GB/shop/drone-hv-cs-169"
+    },
+    "stiffness": {
+      "value": 2,
+      "quote": "Stiffness: Soft",
+      "source": "https://www.madrock.eu/en_GB/shop/drone-hv-cs-169"
+    },
+    "rubber": {
+      "value": "Xtreme Friction",
+      "quote": "Rubber: Xtreme Friction (Sole)",
+      "source": "https://www.madrock.eu/en_GB/shop/drone-hv-cs-169"
+    },
+    "uses": {
+      "value": [
+        "gym",
+        "bouldering",
+        "vegan"
+      ],
+      "quote": "Ideal for both outdoor and indoor climbing ... Whether solving bouldering problems or tackling difficult routes ... vegan-friendly materials",
+      "source": "https://www.madrock.eu/en_GB/shop/drone-hv-cs-169"
+    },
+    "price": {
+      "value": {
+        "amount": 179.95,
+        "currency": "EUR"
+      },
+      "quote": "€ 179.95",
+      "source": "https://www.madrock.eu/en_GB/shop/drone-hv-cs-169"
+    },
+    "notes": "gender U: one product with unisex men's/women's size labels. Mad Rock spec words mapped: Asymmetrical Curvature Significant=3, Moderate=2, Slightly=1; Profile Aggressive=3, Neutral=0; Stiffness Soft=2, Medium/Moderate=3, Hard/Stiff=4. Width W from 'wider toe box' (relative to LV)."
+  },
+  {
+    "brand": "Mad Rock",
+    "model": "Drone CS LV",
+    "url": "https://madrock.com/products/drone-cs-lv",
+    "gender": {
+      "value": "U",
+      "quote": "US M 3 / W 4.5",
+      "source": "https://madrock.com/products/drone-cs-lv"
+    },
+    "closure": {
+      "value": "V",
+      "quote": "Closure: | Velcro",
+      "source": "https://www.madrock.eu/en_GB/shop/drone-lv-cs-170"
+    },
+    "width": {
+      "value": "N",
+      "quote": "Low Volume (LV) Fit: Narrow toe box, smaller heel cup and low-profile design",
+      "source": "https://www.madrock.eu/en_GB/shop/drone-lv-cs-170"
+    },
+    "volume": {
+      "value": "L",
+      "quote": "Low Volume (LV) Fit:",
+      "source": "https://www.madrock.eu/en_GB/shop/drone-lv-cs-170"
+    },
+    "asymmetry": {
+      "value": 3,
+      "quote": "Asymmetrical Curvature | Significant",
+      "source": "https://madrock.com/products/drone-cs-lv"
+    },
+    "downturn": {
+      "value": 3,
+      "quote": "Profile: Aggressive with asymmetric curvature",
+      "source": "https://www.madrock.eu/en_GB/shop/drone-lv-cs-170"
+    },
+    "stiffness": {
+      "value": 2,
+      "quote": "Stiffness: Soft",
+      "source": "https://www.madrock.eu/en_GB/shop/drone-lv-cs-170"
+    },
+    "rubber": {
+      "value": "Xtreme Friction",
+      "quote": "Rubber: Xtreme Friction (sole)",
+      "source": "https://www.madrock.eu/en_GB/shop/drone-lv-cs-170"
+    },
+    "uses": {
+      "value": [
+        "gym",
+        "bouldering",
+        "vegan"
+      ],
+      "quote": "Perfect for rock and gym climbing ... Whether you are solving bouldering problems ... Made from vegan-friendly materials",
+      "source": "https://www.madrock.eu/en_GB/shop/drone-lv-cs-170"
+    },
+    "price": {
+      "value": {
+        "amount": 179.95,
+        "currency": "EUR"
+      },
+      "quote": "€ 179.95",
+      "source": "https://www.madrock.eu/en_GB/shop/drone-lv-cs-170"
+    },
+    "notes": "gender U: one product with unisex men's/women's size labels. Mad Rock spec words mapped: Asymmetrical Curvature Significant=3, Moderate=2, Slightly=1; Profile Aggressive=3, Neutral=0; Stiffness Soft=2, Medium/Moderate=3, Hard/Stiff=4. "
+  },
+  {
+    "brand": "Mad Rock",
+    "model": "D2.ONE HV",
+    "url": "https://madrock.com/products/d2-one-hv",
+    "gender": {
+      "value": "U",
+      "quote": "US M 4 / F 5.5",
+      "source": "https://madrock.com/products/d2-one-hv"
+    },
+    "closure": {
+      "value": "V",
+      "quote": "Closure: | Velcro",
+      "source": "https://www.madrock.eu/en_GB/shop/d2-one-hv-303"
+    },
+    "width": {
+      "value": null
+    },
+    "volume": {
+      "value": "H",
+      "quote": "D2.ONE HV",
+      "source": "https://www.madrock.eu/en_GB/shop/d2-one-hv-303"
+    },
+    "asymmetry": {
+      "value": 3,
+      "quote": "Asymmetry: | Significant",
+      "source": "https://www.madrock.eu/en_GB/shop/d2-one-hv-303"
+    },
+    "downturn": {
+      "value": null
+    },
+    "stiffness": {
+      "value": 3,
+      "quote": "Stiffness: | Moderate",
+      "source": "https://www.madrock.eu/en_GB/shop/d2-one-hv-303"
+    },
+    "rubber": {
+      "value": "Science Friction",
+      "quote": "Rubber Sole: | Science Friction",
+      "source": "https://www.madrock.eu/en_GB/shop/d2-one-hv-303"
+    },
+    "uses": {
+      "value": [
+        "sport",
+        "bouldering",
+        "all-round",
+        "vegan"
+      ],
+      "quote": "we have created a true all-rounder ... technical sport routes, or dynamic bouldering problems ... remaining vegan-friendly",
+      "source": "https://www.madrock.eu/en_GB/shop/d2-one-hv-303"
+    },
+    "price": {
+      "value": {
+        "amount": 174.95,
+        "currency": "EUR"
+      },
+      "quote": "€ 174.95",
+      "source": "https://www.madrock.eu/en_GB/shop/d2-one-hv-303"
+    },
+    "notes": "gender U: one product with unisex men's/women's size labels. Mad Rock spec words mapped: Asymmetrical Curvature Significant=3, Moderate=2, Slightly=1; Profile Aggressive=3, Neutral=0; Stiffness Soft=2, Medium/Moderate=3, Hard/Stiff=4. Volume H from the 'HV' (high volume) model name. Downturn null: profile given only as 'Downward-oriented' with no degree. Rubber as stated (no version number on the page)."
+  },
+  {
+    "brand": "Mad Rock",
+    "model": "D2.ONE LV",
+    "url": "https://madrock.com/products/d2-one-lv",
+    "gender": {
+      "value": "U",
+      "quote": "US M 4 / F 5.5",
+      "source": "https://madrock.com/products/d2-one-lv"
+    },
+    "closure": {
+      "value": "V",
+      "quote": "Closure: | Velcro",
+      "source": "https://www.madrock.eu/en_GB/shop/d2-one-lv-312"
+    },
+    "width": {
+      "value": null
+    },
+    "volume": {
+      "value": "L",
+      "quote": "D2.ONE LV",
+      "source": "https://www.madrock.eu/en_GB/shop/d2-one-lv-312"
+    },
+    "asymmetry": {
+      "value": 3,
+      "quote": "Asymmetry: | Significant",
+      "source": "https://www.madrock.eu/en_GB/shop/d2-one-lv-312"
+    },
+    "downturn": {
+      "value": null
+    },
+    "stiffness": {
+      "value": 3,
+      "quote": "Stiffness: | Moderate",
+      "source": "https://www.madrock.eu/en_GB/shop/d2-one-lv-312"
+    },
+    "rubber": {
+      "value": "Science Friction",
+      "quote": "Rubber Sole: | Science Friction",
+      "source": "https://www.madrock.eu/en_GB/shop/d2-one-lv-312"
+    },
+    "uses": {
+      "value": [
+        "sport",
+        "bouldering",
+        "all-round",
+        "vegan"
+      ],
+      "quote": "we have created a true all-rounder.. ... technical sport routes, or dynamic bouldering problems ... remaining vegan-friendly",
+      "source": "https://www.madrock.eu/en_GB/shop/d2-one-lv-312"
+    },
+    "price": {
+      "value": {
+        "amount": 174.95,
+        "currency": "EUR"
+      },
+      "quote": "€ 174.95",
+      "source": "https://www.madrock.eu/en_GB/shop/d2-one-lv-312"
+    },
+    "notes": "gender U: one product with unisex men's/women's size labels. Mad Rock spec words mapped: Asymmetrical Curvature Significant=3, Moderate=2, Slightly=1; Profile Aggressive=3, Neutral=0; Stiffness Soft=2, Medium/Moderate=3, Hard/Stiff=4. Downturn null: profile given only as 'Downward-oriented' with no degree. Rubber as stated (no version number on the page)."
+  },
+  {
+    "brand": "Mad Rock",
+    "model": "Villain",
+    "url": "https://madrock.com/products/villain",
+    "gender": {
+      "value": "U",
+      "quote": "US M 4 / F 5.5",
+      "source": "https://madrock.com/products/villain"
+    },
+    "closure": {
+      "value": "V",
+      "quote": "Closure: Hook-and-Loop",
+      "source": "https://madrock.com/products/villain"
+    },
+    "width": {
+      "value": null
+    },
+    "volume": {
+      "value": null
+    },
+    "asymmetry": {
+      "value": 3,
+      "quote": "Asymmetrical Curvature : Significant",
+      "source": "https://madrock.com/products/villain"
+    },
+    "downturn": {
+      "value": 3,
+      "quote": "Profile: Aggressive",
+      "source": "https://madrock.com/products/villain"
+    },
+    "stiffness": {
+      "value": 4,
+      "quote": "Stiffness: Stiff",
+      "source": "https://madrock.com/products/villain"
+    },
+    "rubber": {
+      "value": "Science Friction 3.0",
+      "quote": "Rubber : Science Friction 3.0",
+      "source": "https://madrock.com/products/villain"
+    },
+    "uses": {
+      "value": [
+        "vegan"
+      ],
+      "quote": "Features : ... Vegan Friendly",
+      "source": "https://madrock.com/products/villain"
+    },
+    "price": {
+      "value": {
+        "amount": 169.0,
+        "currency": "USD"
+      },
+      "quote": "$169.00",
+      "source": "https://madrock.com/products/villain"
+    },
+    "notes": "gender U: one product with unisex men's/women's size labels. Mad Rock spec words mapped: Asymmetrical Curvature Significant=3, Moderate=2, Slightly=1; Profile Aggressive=3, Neutral=0; Stiffness Soft=2, Medium/Moderate=3, Hard/Stiff=4. Not sold on the Mad Rock Europe store, so price is the US list price. Sold in HV and LV fits under one product, so width/volume null. Page also calls it 'a less downturned, yet still powerful option' (vs Drone 2) while listing Profile: Aggressive."
+  },
+  {
+    "brand": "Mad Rock",
+    "model": "Shark 3 HV",
+    "url": "https://madrock.com/products/shark-3-0",
+    "gender": {
+      "value": "U",
+      "quote": "US M 3 / F 4.5",
+      "source": "https://madrock.com/products/shark-3-0"
+    },
+    "closure": {
+      "value": "V",
+      "quote": "Closure: | Hook-and-loop for easy and adjustable fitting.",
+      "source": "https://www.madrock.eu/en_GB/shop/shark-iii-hv-254"
+    },
+    "width": {
+      "value": "W",
+      "quote": "Wider toe box, larger heel cup, and boxier profile cater to climbers with wider feet.",
+      "source": "https://www.madrock.eu/en_GB/shop/shark-iii-hv-254"
+    },
+    "volume": {
+      "value": "H",
+      "quote": "Our highest volume shoe",
+      "source": "https://madrock.com/products/shark-3-0"
+    },
+    "asymmetry": {
+      "value": 3,
+      "quote": "Asymmetrical Curvature: | Significant for enhanced power transmission and precision.",
+      "source": "https://www.madrock.eu/en_GB/shop/shark-iii-hv-254"
+    },
+    "downturn": {
+      "value": 0,
+      "quote": "Profile: | Neutral, designed for versatility.",
+      "source": "https://www.madrock.eu/en_GB/shop/shark-iii-hv-254"
+    },
+    "stiffness": {
+      "value": null
+    },
+    "rubber": {
+      "value": "Science Friction 3.0",
+      "quote": "Science Friction 3.0 rubber on the bottom and Xtreme Friction rubber on top",
+      "source": "https://www.madrock.eu/en_GB/shop/shark-iii-hv-254"
+    },
+    "uses": {
+      "value": [
+        "vegan"
+      ],
+      "quote": "Crafted without animal products, aligning with ethical values.",
+      "source": "https://www.madrock.eu/en_GB/shop/shark-iii-hv-254"
+    },
+    "price": {
+      "value": {
+        "amount": 159.95,
+        "currency": "EUR"
+      },
+      "quote": "€ 159.95",
+      "source": "https://www.madrock.eu/en_GB/shop/shark-iii-hv-254"
+    },
+    "notes": "gender U: one product with unisex men's/women's size labels. Mad Rock spec words mapped: Asymmetrical Curvature Significant=3, Moderate=2, Slightly=1; Profile Aggressive=3, Neutral=0; Stiffness Soft=2, Medium/Moderate=3, Hard/Stiff=4. EU store name 'Shark III HV'. Stiffness null: stated as 'Hybrid, balancing flexibility and support'. Uses quote is under the heading 'Vegan-Friendly Design'."
+  },
+  {
+    "brand": "Mad Rock",
+    "model": "Shark 3 LV",
+    "url": "https://madrock.com/products/shark-3-lv",
+    "gender": {
+      "value": "U",
+      "quote": "US M 4 / F 5.5",
+      "source": "https://madrock.com/products/shark-3-lv"
+    },
+    "closure": {
+      "value": "V",
+      "quote": "Closure: | Hook-and-loop for easy and adjustable fitting.",
+      "source": "https://www.madrock.eu/en_GB/shop/shark-iii-lv-304"
+    },
+    "width": {
+      "value": "N",
+      "quote": "Narrow toe box, smaller heel cup cater to climbers with narrow feet.",
+      "source": "https://www.madrock.eu/en_GB/shop/shark-iii-lv-304"
+    },
+    "volume": {
+      "value": "L",
+      "quote": "Low-Volume Fit:",
+      "source": "https://www.madrock.eu/en_GB/shop/shark-iii-lv-304"
+    },
+    "asymmetry": {
+      "value": 3,
+      "quote": "Asymmetrical Curvature: | Significant for enhanced power transmission and precision.",
+      "source": "https://www.madrock.eu/en_GB/shop/shark-iii-lv-304"
+    },
+    "downturn": {
+      "value": 0,
+      "quote": "Profile: | Neutral, designed for versatility.",
+      "source": "https://www.madrock.eu/en_GB/shop/shark-iii-lv-304"
+    },
+    "stiffness": {
+      "value": null
+    },
+    "rubber": {
+      "value": "Science Friction 3.0",
+      "quote": "Science Friction 3.0 rubber on the bottom and Xtreme Friction rubber on top",
+      "source": "https://www.madrock.eu/en_GB/shop/shark-iii-lv-304"
+    },
+    "uses": {
+      "value": [
+        "all-round",
+        "bouldering",
+        "vegan"
+      ],
+      "quote": "premiere all-around performance climbing shoe for hard boulders and stout routes | Vegan-Friendly Design",
+      "source": "https://www.madrock.eu/en_GB/shop/shark-iii-lv-304"
+    },
+    "price": {
+      "value": {
+        "amount": 159.95,
+        "currency": "EUR"
+      },
+      "quote": "€ 159.95",
+      "source": "https://www.madrock.eu/en_GB/shop/shark-iii-lv-304"
+    },
+    "notes": "gender U: one product with unisex men's/women's size labels. Mad Rock spec words mapped: Asymmetrical Curvature Significant=3, Moderate=2, Slightly=1; Profile Aggressive=3, Neutral=0; Stiffness Soft=2, Medium/Moderate=3, Hard/Stiff=4. EU store name 'Shark III LV'. Stiffness null: stated as 'Hybrid'. All-round/bouldering quote from madrock.com product description."
+  },
+  {
+    "brand": "Mad Rock",
+    "model": "Remora Pro HV",
+    "url": "https://madrock.com/products/remora-pro-hv",
+    "gender": {
+      "value": "U",
+      "quote": "US M 3 / F 4.5",
+      "source": "https://madrock.com/products/remora-pro-hv"
+    },
+    "closure": {
+      "value": "V",
+      "quote": "Closure: | Hook-and-Loop",
+      "source": "https://www.madrock.eu/en_GB/shop/remora-pro-hv-290"
+    },
+    "width": {
+      "value": null
+    },
+    "volume": {
+      "value": "H",
+      "quote": "Remora Pro HV",
+      "source": "https://www.madrock.eu/en_GB/shop/remora-pro-hv-290"
+    },
+    "asymmetry": {
+      "value": 2,
+      "quote": "Asymmetrical Curvature: | Moderate",
+      "source": "https://www.madrock.eu/en_GB/shop/remora-pro-hv-290"
+    },
+    "downturn": {
+      "value": 3,
+      "quote": "Profile: | Aggressive",
+      "source": "https://www.madrock.eu/en_GB/shop/remora-pro-hv-290"
+    },
+    "stiffness": {
+      "value": 2,
+      "quote": "Stiffness: | Soft",
+      "source": "https://www.madrock.eu/en_GB/shop/remora-pro-hv-290"
+    },
+    "rubber": {
+      "value": "Science Friction 3.0",
+      "quote": "Outsole Rubber: | Science Friction 3.0",
+      "source": "https://www.madrock.eu/en_GB/shop/remora-pro-hv-290"
+    },
+    "uses": {
+      "value": [
+        "vegan"
+      ],
+      "quote": "Built entirely without animal products, combining high performance with responsible materials.",
+      "source": "https://www.madrock.eu/en_GB/shop/remora-pro-hv-290"
+    },
+    "price": {
+      "value": {
+        "amount": 174.95,
+        "currency": "EUR"
+      },
+      "quote": "€ 174.95",
+      "source": "https://www.madrock.eu/en_GB/shop/remora-pro-hv-290"
+    },
+    "notes": "gender U: one product with unisex men's/women's size labels. Mad Rock spec words mapped: Asymmetrical Curvature Significant=3, Moderate=2, Slightly=1; Profile Aggressive=3, Neutral=0; Stiffness Soft=2, Medium/Moderate=3, Hard/Stiff=4. Volume H from the 'HV' (high volume) model name. Toe patch is Xtreme Friction. Vegan quote is under the heading 'Vegan-Friendly Construction'."
+  },
+  {
+    "brand": "Mad Rock",
+    "model": "Remora Pro LV",
+    "url": "https://madrock.com/products/remora-pro-lv",
+    "gender": {
+      "value": "U",
+      "quote": "US M 4 / F 5.5",
+      "source": "https://madrock.com/products/remora-pro-lv"
+    },
+    "closure": {
+      "value": "V",
+      "quote": "Closure: | Hook-and-Loop",
+      "source": "https://www.madrock.eu/en_GB/shop/remora-pro-lv-291"
+    },
+    "width": {
+      "value": null
+    },
+    "volume": {
+      "value": "L",
+      "quote": "Remora Pro LV",
+      "source": "https://www.madrock.eu/en_GB/shop/remora-pro-lv-291"
+    },
+    "asymmetry": {
+      "value": 2,
+      "quote": "Asymmetrical Curvature: | Moderate",
+      "source": "https://www.madrock.eu/en_GB/shop/remora-pro-lv-291"
+    },
+    "downturn": {
+      "value": 3,
+      "quote": "Profile: | Aggressive",
+      "source": "https://www.madrock.eu/en_GB/shop/remora-pro-lv-291"
+    },
+    "stiffness": {
+      "value": 2,
+      "quote": "Stiffness: | Soft",
+      "source": "https://www.madrock.eu/en_GB/shop/remora-pro-lv-291"
+    },
+    "rubber": {
+      "value": "Science Friction 3.0",
+      "quote": "Outsole Rubber: | Science Friction 3.0",
+      "source": "https://www.madrock.eu/en_GB/shop/remora-pro-lv-291"
+    },
+    "uses": {
+      "value": [
+        "vegan"
+      ],
+      "quote": "Built entirely without animal products, combining high performance with responsible materials.",
+      "source": "https://www.madrock.eu/en_GB/shop/remora-pro-lv-291"
+    },
+    "price": {
+      "value": {
+        "amount": 174.95,
+        "currency": "EUR"
+      },
+      "quote": "€ 174.95",
+      "source": "https://www.madrock.eu/en_GB/shop/remora-pro-lv-291"
+    },
+    "notes": "gender U: one product with unisex men's/women's size labels. Mad Rock spec words mapped: Asymmetrical Curvature Significant=3, Moderate=2, Slightly=1; Profile Aggressive=3, Neutral=0; Stiffness Soft=2, Medium/Moderate=3, Hard/Stiff=4. Toe patch is Xtreme Friction."
+  },
+  {
+    "brand": "Mad Rock",
+    "model": "Remora HV",
+    "url": "https://madrock.com/products/remora-hv",
+    "gender": {
+      "value": "U",
+      "quote": "US M 3 / W 4.5",
+      "source": "https://madrock.com/products/remora-hv"
+    },
+    "closure": {
+      "value": "S",
+      "quote": "Closure: | Slipper",
+      "source": "https://www.madrock.eu/en_GB/shop/remora-hv-22"
+    },
+    "width": {
+      "value": "W",
+      "quote": "tailored for climbers with wider feet",
+      "source": "https://www.madrock.eu/en_GB/shop/remora-hv-22"
+    },
+    "volume": {
+      "value": "H",
+      "quote": "comfortable high-volume fit",
+      "source": "https://www.madrock.eu/en_GB/shop/remora-hv-22"
+    },
+    "asymmetry": {
+      "value": 2,
+      "quote": "Asymmetrical Curvature: | Moderate",
+      "source": "https://www.madrock.eu/en_GB/shop/remora-hv-22"
+    },
+    "downturn": {
+      "value": 1,
+      "quote": "Light Downturn:",
+      "source": "https://www.madrock.eu/en_GB/shop/remora-hv-22"
+    },
+    "stiffness": {
+      "value": 2,
+      "quote": "Stiffness: | Soft",
+      "source": "https://www.madrock.eu/en_GB/shop/remora-hv-22"
+    },
+    "rubber": {
+      "value": "Science Friction 3.0",
+      "quote": "Rubber: | Science Friction 3.0 and R2 Rand Rubber",
+      "source": "https://www.madrock.eu/en_GB/shop/remora-hv-22"
+    },
+    "uses": {
+      "value": [
+        "bouldering",
+        "sport",
+        "gym",
+        "crack",
+        "vegan"
+      ],
+      "quote": "ideal for bouldering, sport climbing, and gym sessions ... perfect for crack climbing ... Vegan-Friendly Construction",
+      "source": "https://www.madrock.eu/en_GB/shop/remora-hv-22"
+    },
+    "price": {
+      "value": {
+        "amount": 129.95,
+        "currency": "EUR"
+      },
+      "quote": "€ 129.95",
+      "source": "https://www.madrock.eu/en_GB/shop/remora-hv-22"
+    },
+    "notes": "gender U: one product with unisex men's/women's size labels. Mad Rock spec words mapped: Asymmetrical Curvature Significant=3, Moderate=2, Slightly=1; Profile Aggressive=3, Neutral=0; Stiffness Soft=2, Medium/Moderate=3, Hard/Stiff=4. Downturn 1 from 'Light Downturn' / 'slight downturn'."
+  },
+  {
+    "brand": "Mad Rock",
+    "model": "Remora LV",
+    "url": "https://madrock.com/products/remora-lv",
+    "gender": {
+      "value": "U",
+      "quote": "US M 3 / W 4.5",
+      "source": "https://madrock.com/products/remora-lv"
+    },
+    "closure": {
+      "value": "S",
+      "quote": "Closure: | Slipper",
+      "source": "https://www.madrock.eu/en_GB/shop/remora-lv-23"
+    },
+    "width": {
+      "value": "N",
+      "quote": "tailored for climbers with narrower feet",
+      "source": "https://www.madrock.eu/en_GB/shop/remora-lv-23"
+    },
+    "volume": {
+      "value": "L",
+      "quote": "Mad Rock finally has a slip-on rock shoe for low volume foot shapes!",
+      "source": "https://madrock.com/products/remora-lv"
+    },
+    "asymmetry": {
+      "value": 2,
+      "quote": "Asymmetrical Curvature: | Moderate",
+      "source": "https://www.madrock.eu/en_GB/shop/remora-lv-23"
+    },
+    "downturn": {
+      "value": 1,
+      "quote": "Light Downturn:",
+      "source": "https://www.madrock.eu/en_GB/shop/remora-lv-23"
+    },
+    "stiffness": {
+      "value": 2,
+      "quote": "Stiffness: | Soft",
+      "source": "https://www.madrock.eu/en_GB/shop/remora-lv-23"
+    },
+    "rubber": {
+      "value": "Science Friction 3.0",
+      "quote": "Rubber: | Science Friction 3.0 and R2 Rand Rubber",
+      "source": "https://www.madrock.eu/en_GB/shop/remora-lv-23"
+    },
+    "uses": {
+      "value": [
+        "bouldering",
+        "sport",
+        "gym",
+        "crack",
+        "vegan"
+      ],
+      "quote": "perfect for bouldering, sport climbing, and gym sessions ... optimal toe grip for crack climbing ... Vegan-Friendly Construction",
+      "source": "https://www.madrock.eu/en_GB/shop/remora-lv-23"
+    },
+    "price": {
+      "value": {
+        "amount": 129.95,
+        "currency": "EUR"
+      },
+      "quote": "€ 129.95",
+      "source": "https://www.madrock.eu/en_GB/shop/remora-lv-23"
+    },
+    "notes": "gender U: one product with unisex men's/women's size labels. Mad Rock spec words mapped: Asymmetrical Curvature Significant=3, Moderate=2, Slightly=1; Profile Aggressive=3, Neutral=0; Stiffness Soft=2, Medium/Moderate=3, Hard/Stiff=4. Downturn 1 from 'Light Downturn' / 'slight downturn'."
+  },
+  {
+    "brand": "Mad Rock",
+    "model": "Talaria HV",
+    "url": "https://madrock.com/products/talaria-hv",
+    "gender": {
+      "value": "U",
+      "quote": "US M 3 / F 4.5",
+      "source": "https://madrock.com/products/talaria-hv"
+    },
+    "closure": {
+      "value": "S",
+      "quote": "Closure | Slipper",
+      "source": "https://madrock.com/products/talaria-hv"
+    },
+    "width": {
+      "value": "W",
+      "quote": "perfect for climbers with broader feet",
+      "source": "https://www.madrock.eu/en_GB/shop/talaria-hv-246"
+    },
+    "volume": {
+      "value": "H",
+      "quote": "High-Volume Fit:",
+      "source": "https://www.madrock.eu/en_GB/shop/talaria-hv-246"
+    },
+    "asymmetry": {
+      "value": 2,
+      "quote": "Asymmetrical Curvature: | Moderate for enhanced precision.",
+      "source": "https://www.madrock.eu/en_GB/shop/talaria-hv-246"
+    },
+    "downturn": {
+      "value": null
+    },
+    "stiffness": {
+      "value": 3,
+      "quote": "Stiffness: | Medium for balanced flexibility and support.",
+      "source": "https://www.madrock.eu/en_GB/shop/talaria-hv-246"
+    },
+    "rubber": {
+      "value": "Science Friction 3.0",
+      "quote": "Rubber: | Science Friction 3.0, R2 Rand Rubber, and Speed Bump Toe Patch",
+      "source": "https://www.madrock.eu/en_GB/shop/talaria-hv-246"
+    },
+    "uses": {
+      "value": [
+        "vegan"
+      ],
+      "quote": "Crafted entirely from vegan materials",
+      "source": "https://www.madrock.eu/en_GB/shop/talaria-hv-246"
+    },
+    "price": {
+      "value": {
+        "amount": 124.94,
+        "currency": "EUR"
+      },
+      "quote": "€ 124.94",
+      "source": "https://www.madrock.eu/en_GB/shop/talaria-hv-246"
+    },
+    "notes": "gender U: one product with unisex men's/women's size labels. Mad Rock spec words mapped: Asymmetrical Curvature Significant=3, Moderate=2, Slightly=1; Profile Aggressive=3, Neutral=0; Stiffness Soft=2, Medium/Moderate=3, Hard/Stiff=4. Downturn null: profile given as 'Performance-oriented'. Marketed for speed climbing (no matching use tag). EU closure line is in German, so closure quoted from madrock.com."
+  },
+  {
+    "brand": "Mad Rock",
+    "model": "Talaria LV",
+    "url": "https://madrock.com/products/talaria-lv",
+    "gender": {
+      "value": "U",
+      "quote": "US M 3 / F 4.5",
+      "source": "https://madrock.com/products/talaria-lv"
+    },
+    "closure": {
+      "value": "S",
+      "quote": "Closure: | Slipper",
+      "source": "https://www.madrock.eu/en_GB/shop/talaria-lv-245"
+    },
+    "width": {
+      "value": "N",
+      "quote": "perfect for climbers with narrower feet",
+      "source": "https://www.madrock.eu/en_GB/shop/talaria-lv-245"
+    },
+    "volume": {
+      "value": "L",
+      "quote": "Low-Volume Fit:",
+      "source": "https://www.madrock.eu/en_GB/shop/talaria-lv-245"
+    },
+    "asymmetry": {
+      "value": 2,
+      "quote": "Asymmetrical Curvature: | Moderate",
+      "source": "https://www.madrock.eu/en_GB/shop/talaria-lv-245"
+    },
+    "downturn": {
+      "value": null
+    },
+    "stiffness": {
+      "value": 3,
+      "quote": "Stiffness: | Medium",
+      "source": "https://www.madrock.eu/en_GB/shop/talaria-lv-245"
+    },
+    "rubber": {
+      "value": "Science Friction 3.0",
+      "quote": "Rubber: | Science Friction 3.0, R2 Rand Rubber, Speed Bump Toe Patch",
+      "source": "https://www.madrock.eu/en_GB/shop/talaria-lv-245"
+    },
+    "uses": {
+      "value": [
+        "vegan"
+      ],
+      "quote": "Made entirely from vegan materials",
+      "source": "https://www.madrock.eu/en_GB/shop/talaria-lv-245"
+    },
+    "price": {
+      "value": {
+        "amount": 124.94,
+        "currency": "EUR"
+      },
+      "quote": "€ 124.94",
+      "source": "https://www.madrock.eu/en_GB/shop/talaria-lv-245"
+    },
+    "notes": "gender U: one product with unisex men's/women's size labels. Mad Rock spec words mapped: Asymmetrical Curvature Significant=3, Moderate=2, Slightly=1; Profile Aggressive=3, Neutral=0; Stiffness Soft=2, Medium/Moderate=3, Hard/Stiff=4. Downturn null: profile given as 'Performance'. Marketed for speed climbing (no matching use tag)."
+  },
+  {
+    "brand": "Mad Rock",
+    "model": "RedLine Strap",
+    "url": "https://madrock.com/products/redline-strap",
+    "gender": {
+      "value": "U",
+      "quote": "US M 3 / W 4.5",
+      "source": "https://madrock.com/products/redline-strap"
+    },
+    "closure": {
+      "value": "V",
+      "quote": "Closure: | Velcro for quick adjustments and a secure fit.",
+      "source": "https://www.madrock.eu/en_GB/shop/redline-strap-21"
+    },
+    "width": {
+      "value": null
+    },
+    "volume": {
+      "value": null
+    },
+    "asymmetry": {
+      "value": 3,
+      "quote": "Asymmetry: | Significant, ensuring targeted precision for footholds.",
+      "source": "https://www.madrock.eu/en_GB/shop/redline-strap-21"
+    },
+    "downturn": {
+      "value": 3,
+      "quote": "Profile: | Aggressive for advanced climbing demands.",
+      "source": "https://www.madrock.eu/en_GB/shop/redline-strap-21"
+    },
+    "stiffness": {
+      "value": 2,
+      "quote": "Stiffness: | Soft for maximum flexibility and sensitivity.",
+      "source": "https://www.madrock.eu/en_GB/shop/redline-strap-21"
+    },
+    "rubber": {
+      "value": "Science Friction 3.0",
+      "quote": "Science Friction 3.0 Sole and Science Friction R2 Rand:",
+      "source": "https://www.madrock.eu/en_GB/shop/redline-strap-21"
+    },
+    "uses": {
+      "value": [
+        "vegan"
+      ],
+      "quote": "Vegan-Friendly Construction: | Made without animal products",
+      "source": "https://www.madrock.eu/en_GB/shop/redline-strap-21"
+    },
+    "price": {
+      "value": {
+        "amount": 154.95,
+        "currency": "EUR"
+      },
+      "quote": "€ 154.95",
+      "source": "https://www.madrock.eu/en_GB/shop/redline-strap-21"
+    },
+    "notes": "gender U: one product with unisex men's/women's size labels. Mad Rock spec words mapped: Asymmetrical Curvature Significant=3, Moderate=2, Slightly=1; Profile Aggressive=3, Neutral=0; Stiffness Soft=2, Medium/Moderate=3, Hard/Stiff=4. "
+  },
+  {
+    "brand": "Mad Rock",
+    "model": "Rover",
+    "url": "https://madrock.com/products/rover",
+    "gender": {
+      "value": "U",
+      "quote": "Black / US M 3 / W 4.5",
+      "source": "https://madrock.com/products/rover"
+    },
+    "closure": {
+      "value": "V",
+      "quote": "Closure: | Velcro",
+      "source": "https://www.madrock.eu/en_GB/shop/rover-hv-black-27"
+    },
+    "width": {
+      "value": "W",
+      "quote": "Tailored for climbers with wider feet",
+      "source": "https://www.madrock.eu/en_GB/shop/rover-hv-black-27"
+    },
+    "volume": {
+      "value": "H",
+      "quote": "Mad Rock Rover HV Black",
+      "source": "https://www.madrock.eu/en_GB/shop/rover-hv-black-27"
+    },
+    "asymmetry": {
+      "value": 2,
+      "quote": "Asymmetrical Curvature: | Moderate",
+      "source": "https://www.madrock.eu/en_GB/shop/rover-hv-black-27"
+    },
+    "downturn": {
+      "value": null
+    },
+    "stiffness": {
+      "value": 3,
+      "quote": "Stiffness: | Medium",
+      "source": "https://www.madrock.eu/en_GB/shop/rover-hv-black-27"
+    },
+    "rubber": {
+      "value": "Science Friction 3.0",
+      "quote": "Rubber: | Science Friction 3.0 and R2 Rand Rubber",
+      "source": "https://www.madrock.eu/en_GB/shop/rover-hv-black-27"
+    },
+    "uses": {
+      "value": [
+        "beginner",
+        "gym"
+      ],
+      "quote": "Comfort for Beginners: | Whether you're at the gym or venturing outdoors",
+      "source": "https://madrock.com/products/rover"
+    },
+    "price": {
+      "value": {
+        "amount": 114.95,
+        "currency": "EUR"
+      },
+      "quote": "€ 114.95",
+      "source": "https://www.madrock.eu/en_GB/shop/rover-hv-black-27"
+    },
+    "notes": "gender U: one product with unisex men's/women's size labels. Mad Rock spec words mapped: Asymmetrical Curvature Significant=3, Moderate=2, Slightly=1; Profile Aggressive=3, Neutral=0; Stiffness Soft=2, Medium/Moderate=3, Hard/Stiff=4. EU store sells it as 'Rover HV' (Black/White); volume H from that name. Downturn null: profile 'Performance/Comfort'. Vegan not stated on page text."
+  },
+  {
+    "brand": "Mad Rock",
+    "model": "Phoenix",
+    "url": "https://madrock.com/products/phoenix-2019",
+    "gender": {
+      "value": "U",
+      "quote": "US M 3 / W 4.5",
+      "source": "https://madrock.com/products/phoenix-2019"
+    },
+    "closure": {
+      "value": "L",
+      "quote": "Closure: | Lace",
+      "source": "https://www.madrock.eu/en_GB/shop/phoenix-19"
+    },
+    "width": {
+      "value": "W",
+      "quote": "Wide Toe Box for Enhanced Comfort: | Accommodates wider foot shapes comfortably",
+      "source": "https://www.madrock.eu/en_GB/shop/phoenix-19"
+    },
+    "volume": {
+      "value": null
+    },
+    "asymmetry": {
+      "value": 1,
+      "quote": "Asymmetrical Curvature: | Slightly",
+      "source": "https://www.madrock.eu/en_GB/shop/phoenix-19"
+    },
+    "downturn": {
+      "value": 0,
+      "quote": "Flat Shape and Stiff Sole:",
+      "source": "https://www.madrock.eu/en_GB/shop/phoenix-19"
+    },
+    "stiffness": {
+      "value": 4,
+      "quote": "Stiffness: | Hard",
+      "source": "https://www.madrock.eu/en_GB/shop/phoenix-19"
+    },
+    "rubber": {
+      "value": "Science Friction 3.0",
+      "quote": "Rubber: | Science Friction 3.0 and R2 Rand Rubber",
+      "source": "https://www.madrock.eu/en_GB/shop/phoenix-19"
+    },
+    "uses": {
+      "value": [
+        "trad"
+      ],
+      "quote": "Whether you're tackling trad routes or embarking on outdoor adventures",
+      "source": "https://www.madrock.eu/en_GB/shop/phoenix-19"
+    },
+    "price": {
+      "value": {
+        "amount": 124.94,
+        "currency": "EUR"
+      },
+      "quote": "€ 124.94",
+      "source": "https://www.madrock.eu/en_GB/shop/phoenix-19"
+    },
+    "notes": "gender U: one product with unisex men's/women's size labels. Mad Rock spec words mapped: Asymmetrical Curvature Significant=3, Moderate=2, Slightly=1; Profile Aggressive=3, Neutral=0; Stiffness Soft=2, Medium/Moderate=3, Hard/Stiff=4. Downturn 0 from 'Flat Shape'."
+  }
+]

@@ -1,0 +1,735 @@
+[
+  {
+    "brand": "Tenaya",
+    "model": "Aruma",
+    "url": "https://tenaya.net/en/item/aruma/",
+    "gender": {
+      "value": "U",
+      "quote": "Aruma",
+      "source": "https://tenaya.net/en/item/aruma/"
+    },
+    "closure": {
+      "value": "V",
+      "quote": "Patented Draxtor closure system allows secure tightening in a single movement.",
+      "source": "https://tenaya.net/en/item/aruma/"
+    },
+    "width": {
+      "value": null
+    },
+    "volume": {
+      "value": null
+    },
+    "asymmetry": {
+      "value": null
+    },
+    "downturn": {
+      "value": null
+    },
+    "stiffness": {
+      "value": null
+    },
+    "rubber": {
+      "value": "Vibram XS Grip",
+      "quote": "Vibram XS Grip 3.5 mm",
+      "source": "https://tenaya.net/en/item/aruma/"
+    },
+    "uses": {
+      "value": [
+        "sport",
+        "bouldering"
+      ],
+      "quote": "Sport climbing and bouldering",
+      "source": "https://tenaya.net/en/item/aruma/"
+    },
+    "price": {
+      "value": {
+        "amount": 189.95,
+        "currency": "EUR"
+      },
+      "quote": "189.95 €",
+      "source": "https://tenaya.net/en/item/aruma/"
+    },
+    "notes": "gender U: only one version in the official store. Closure: Draxtor is Tenaya's patented velcro system (other pages: 'Velcro (patented Draxtor system)'). No downturn/asymmetry wording. Product page has stiffness/sensitivity/foot-width scale widgets, but they are hidden on all devices and carry no readable value (Spanish labels only); left null."
+  },
+  {
+    "brand": "Tenaya",
+    "model": "Indalo",
+    "url": "https://tenaya.net/en/item/indalo/",
+    "gender": {
+      "value": "U",
+      "quote": "Indalo",
+      "source": "https://tenaya.net/en/item/indalo/"
+    },
+    "closure": {
+      "value": "V",
+      "quote": "Velcro (patented Draxtor system)",
+      "source": "https://tenaya.net/en/item/indalo/"
+    },
+    "width": {
+      "value": null
+    },
+    "volume": {
+      "value": null
+    },
+    "asymmetry": {
+      "value": null
+    },
+    "downturn": {
+      "value": 3,
+      "quote": "An aggressively shaped shoe providing superb responsiveness",
+      "source": "https://tenaya.net/en/item/indalo/"
+    },
+    "stiffness": {
+      "value": null
+    },
+    "rubber": {
+      "value": "Vibram XS Grip",
+      "quote": "Vibram XS Grip 3.5 mm",
+      "source": "https://tenaya.net/en/item/indalo/"
+    },
+    "uses": {
+      "value": [
+        "bouldering"
+      ],
+      "quote": "Vertical and overhanging routes. Bouldering.",
+      "source": "https://tenaya.net/en/item/indalo/"
+    },
+    "price": {
+      "value": {
+        "amount": 189.95,
+        "currency": "EUR"
+      },
+      "quote": "189.95 €",
+      "source": "https://tenaya.net/en/item/indalo/"
+    },
+    "notes": "gender U: single version in store. Downturn 3 from 'aggressively shaped'. 'Routes' not tagged sport (rope discipline not named). Product page has stiffness/sensitivity/foot-width scale widgets, but they are hidden on all devices and carry no readable value (Spanish labels only); left null."
+  },
+  {
+    "brand": "Tenaya",
+    "model": "Mastia",
+    "url": "https://tenaya.net/en/item/mastia/",
+    "gender": {
+      "value": "U",
+      "quote": "Mastia",
+      "source": "https://tenaya.net/en/item/mastia/"
+    },
+    "closure": {
+      "value": "V",
+      "quote": "Closure System Velcro",
+      "source": "https://tenaya.net/en/item/mastia/"
+    },
+    "width": {
+      "value": null
+    },
+    "volume": {
+      "value": null
+    },
+    "asymmetry": {
+      "value": null
+    },
+    "downturn": {
+      "value": 3,
+      "quote": "create an aggressively curved shoe that delivered maximum power",
+      "source": "https://tenaya.net/en/item/mastia/"
+    },
+    "stiffness": {
+      "value": null
+    },
+    "rubber": {
+      "value": "Vibram XS Grip",
+      "quote": "Vibram XS Grip 3.5 mm",
+      "source": "https://tenaya.net/en/item/mastia/"
+    },
+    "uses": {
+      "value": [
+        "bouldering"
+      ],
+      "quote": "Vertical and overhanging routes. Bouldering.",
+      "source": "https://tenaya.net/en/item/mastia/"
+    },
+    "price": {
+      "value": {
+        "amount": 179.95,
+        "currency": "EUR"
+      },
+      "quote": "179.95 €",
+      "source": "https://tenaya.net/en/item/mastia/"
+    },
+    "notes": "gender U: single version in store. Product page has stiffness/sensitivity/foot-width scale widgets, but they are hidden on all devices and carry no readable value (Spanish labels only); left null."
+  },
+  {
+    "brand": "Tenaya",
+    "model": "Mundaka",
+    "url": "https://tenaya.net/en/item/mundaka/",
+    "gender": {
+      "value": "U",
+      "quote": "Mundaka",
+      "source": "https://tenaya.net/en/item/mundaka/"
+    },
+    "closure": {
+      "value": "V",
+      "quote": "Velcro (patented Draxtor system)",
+      "source": "https://tenaya.net/en/item/mundaka/"
+    },
+    "width": {
+      "value": null
+    },
+    "volume": {
+      "value": null
+    },
+    "asymmetry": {
+      "value": null
+    },
+    "downturn": {
+      "value": 3,
+      "quote": "Aggressive yet balanced, the Mundaka is the widest-fitting climbing shoe in Tenaya’s toe-down range",
+      "source": "https://tenaya.net/en/item/mundaka/"
+    },
+    "stiffness": {
+      "value": null
+    },
+    "rubber": {
+      "value": "Vibram XS Grip",
+      "quote": "Vibram XS Grip 3.5 mm",
+      "source": "https://tenaya.net/en/item/mundaka/"
+    },
+    "uses": {
+      "value": [
+        "bouldering"
+      ],
+      "quote": "Overhanging walls or delicate moves requiring great sensitivity. Equally suited to bouldering.",
+      "source": "https://tenaya.net/en/item/mundaka/"
+    },
+    "price": {
+      "value": {
+        "amount": 174.95,
+        "currency": "EUR"
+      },
+      "quote": "174.95 €",
+      "source": "https://tenaya.net/en/item/mundaka/"
+    },
+    "notes": "gender U: single version in store. Width left null: 'widest-fitting ... in Tenaya's toe-down range' is relative, not a wide fit statement. Product page has stiffness/sensitivity/foot-width scale widgets, but they are hidden on all devices and carry no readable value (Spanish labels only); left null."
+  },
+  {
+    "brand": "Tenaya",
+    "model": "Iati",
+    "url": "https://tenaya.net/en/item/iati/",
+    "gender": {
+      "value": "U",
+      "quote": "Iati",
+      "source": "https://tenaya.net/en/item/iati/"
+    },
+    "closure": {
+      "value": "V",
+      "quote": "Velcro, patented Draxtor system",
+      "source": "https://tenaya.net/en/item/iati/"
+    },
+    "width": {
+      "value": null
+    },
+    "volume": {
+      "value": null
+    },
+    "asymmetry": {
+      "value": null
+    },
+    "downturn": {
+      "value": 3,
+      "quote": "Aggressively downturned toe-box giving superb precision",
+      "source": "https://tenaya.net/en/item/iati/"
+    },
+    "stiffness": {
+      "value": null
+    },
+    "rubber": {
+      "value": "Vibram XS Grip",
+      "quote": "Vibram XS Grip 3.5 mm",
+      "source": "https://tenaya.net/en/item/iati/"
+    },
+    "uses": {
+      "value": [
+        "sport",
+        "slab"
+      ],
+      "quote": "Sport climbing on rock of all angles, from powerfully overhanging routes to technical walls and delicate friction slabs.",
+      "source": "https://tenaya.net/en/item/iati/"
+    },
+    "price": {
+      "value": {
+        "amount": 169.95,
+        "currency": "EUR"
+      },
+      "quote": "169.95 €",
+      "source": "https://tenaya.net/en/item/iati/"
+    },
+    "notes": "gender U: single version in store. Asymmetry null: page says 'asymmetric shape' without a degree. Product page has stiffness/sensitivity/foot-width scale widgets, but they are hidden on all devices and carry no readable value (Spanish labels only); left null."
+  },
+  {
+    "brand": "Tenaya",
+    "model": "Oasi",
+    "url": "https://tenaya.net/en/item/oasi/",
+    "gender": {
+      "value": "MW",
+      "quote": "Oasi LV: A new version of the Oasi specifically adapted to the anatomy of the female foot.",
+      "source": "https://tenaya.net/en/item/oasi-lv/"
+    },
+    "closure": {
+      "value": "V",
+      "quote": "Patented Draxtor Velcro closure system allows optimal adjustment",
+      "source": "https://tenaya.net/en/item/oasi/"
+    },
+    "width": {
+      "value": null
+    },
+    "volume": {
+      "value": "M",
+      "quote": "Oasi LV",
+      "source": "https://tenaya.net/en/item/oasi-lv/"
+    },
+    "asymmetry": {
+      "value": null
+    },
+    "downturn": {
+      "value": null
+    },
+    "stiffness": {
+      "value": null
+    },
+    "rubber": {
+      "value": "Vibram XS Grip",
+      "quote": "Vibram XS Grip 3.5 mm",
+      "source": "https://tenaya.net/en/item/oasi/"
+    },
+    "uses": {
+      "value": [
+        "bouldering",
+        "slab"
+      ],
+      "quote": "works as well on friction slabs and vertical walls as it does on overhanging routes and boulder problems",
+      "source": "https://tenaya.net/en/item/oasi/"
+    },
+    "price": {
+      "value": {
+        "amount": 164.95,
+        "currency": "EUR"
+      },
+      "quote": "164.95 €",
+      "source": "https://tenaya.net/en/item/oasi/"
+    },
+    "notes": "gender MW: women's version sold as 'Oasi LV'. Volume M because a low-volume (LV) variant of this model exists. Downturn null: Oasi page says only 'curved'. Product page has stiffness/sensitivity/foot-width scale widgets, but they are hidden on all devices and carry no readable value (Spanish labels only); left null."
+  },
+  {
+    "brand": "Tenaya",
+    "model": "Tarifa",
+    "url": "https://tenaya.net/en/item/tarifa/",
+    "gender": {
+      "value": "U",
+      "quote": "Tarifa",
+      "source": "https://tenaya.net/en/item/tarifa/"
+    },
+    "closure": {
+      "value": "L",
+      "quote": "Closure System Lacing",
+      "source": "https://tenaya.net/en/item/tarifa/"
+    },
+    "width": {
+      "value": null
+    },
+    "volume": {
+      "value": null
+    },
+    "asymmetry": {
+      "value": null
+    },
+    "downturn": {
+      "value": null
+    },
+    "stiffness": {
+      "value": null
+    },
+    "rubber": {
+      "value": "Vibram XS Grip",
+      "quote": "Vibram XS Grip 3.5 mm",
+      "source": "https://tenaya.net/en/item/tarifa/"
+    },
+    "uses": {
+      "value": [
+        "sport",
+        "slab"
+      ],
+      "quote": "Sport climbing on rock of all angles, from powerfully overhanging routes to technical walls and delicate friction slabs.",
+      "source": "https://tenaya.net/en/item/tarifa/"
+    },
+    "price": {
+      "value": {
+        "amount": 164.95,
+        "currency": "EUR"
+      },
+      "quote": "164.95 €",
+      "source": "https://tenaya.net/en/item/tarifa/"
+    },
+    "notes": "gender U: single version in store. Stiffness null: only relative ('slightly stiffer in the forefoot and heel' than Oasi). Downturn null: 'curved' without degree. Product page has stiffness/sensitivity/foot-width scale widgets, but they are hidden on all devices and carry no readable value (Spanish labels only); left null."
+  },
+  {
+    "brand": "Tenaya",
+    "model": "Ra",
+    "url": "https://tenaya.net/en/item/ra/",
+    "gender": {
+      "value": "MW",
+      "quote": "Ra woman: A new version of the Ra specifically adapted to the anatomy of the female foot.",
+      "source": "https://tenaya.net/en/item/ra-woman/"
+    },
+    "closure": {
+      "value": "V",
+      "quote": "Closure System Velcro",
+      "source": "https://tenaya.net/en/item/ra/"
+    },
+    "width": {
+      "value": null
+    },
+    "volume": {
+      "value": null
+    },
+    "asymmetry": {
+      "value": null
+    },
+    "downturn": {
+      "value": 2,
+      "quote": "Moderately curved and precisely adjustable.",
+      "source": "https://tenaya.net/en/item/ra/"
+    },
+    "stiffness": {
+      "value": null
+    },
+    "rubber": {
+      "value": "Vibram XS Grip",
+      "quote": "Vibram XS Grip 4 mm",
+      "source": "https://tenaya.net/en/item/ra/"
+    },
+    "uses": {
+      "value": [
+        "bouldering",
+        "all-round"
+      ],
+      "quote": "RA is a versatile climbing shoe ... Equally suited to bouldering.",
+      "source": "https://tenaya.net/en/item/ra/"
+    },
+    "price": {
+      "value": {
+        "amount": 141.5,
+        "currency": "EUR"
+      },
+      "quote": "141.50 €",
+      "source": "https://tenaya.net/en/item/ra/"
+    },
+    "notes": "gender MW: separate 'Ra woman' product. Downturn 2 from 'moderately curved'. Product page has stiffness/sensitivity/foot-width scale widgets, but they are hidden on all devices and carry no readable value (Spanish labels only); left null."
+  },
+  {
+    "brand": "Tenaya",
+    "model": "Inti",
+    "url": "https://tenaya.net/en/item/inti/",
+    "gender": {
+      "value": "U",
+      "quote": "Inti",
+      "source": "https://tenaya.net/en/item/inti/"
+    },
+    "closure": {
+      "value": "V",
+      "quote": "Closure System Velcro",
+      "source": "https://tenaya.net/en/item/inti/"
+    },
+    "width": {
+      "value": null
+    },
+    "volume": {
+      "value": null
+    },
+    "asymmetry": {
+      "value": null
+    },
+    "downturn": {
+      "value": null
+    },
+    "stiffness": {
+      "value": null
+    },
+    "rubber": {
+      "value": "Vibram XS Grip",
+      "quote": "Vibram XS Grip 4 mm",
+      "source": "https://tenaya.net/en/item/inti/"
+    },
+    "uses": {
+      "value": [
+        "bouldering"
+      ],
+      "quote": "Vertical and moderately overhanging routes. Equally suited to bouldering.",
+      "source": "https://tenaya.net/en/item/inti/"
+    },
+    "price": {
+      "value": {
+        "amount": 141.5,
+        "currency": "EUR"
+      },
+      "quote": "141.50 €",
+      "source": "https://tenaya.net/en/item/inti/"
+    },
+    "notes": "gender U: single version in store. Stiffness null: only relative ('Slightly softer than its predecessor'). Product page has stiffness/sensitivity/foot-width scale widgets, but they are hidden on all devices and carry no readable value (Spanish labels only); left null."
+  },
+  {
+    "brand": "Tenaya",
+    "model": "Masai",
+    "url": "https://tenaya.net/en/item/masai/",
+    "gender": {
+      "value": "U",
+      "quote": "Masai",
+      "source": "https://tenaya.net/en/item/masai/"
+    },
+    "closure": {
+      "value": "L",
+      "quote": "Closure System Lace-up",
+      "source": "https://tenaya.net/en/item/masai/"
+    },
+    "width": {
+      "value": null
+    },
+    "volume": {
+      "value": null
+    },
+    "asymmetry": {
+      "value": null
+    },
+    "downturn": {
+      "value": null
+    },
+    "stiffness": {
+      "value": null
+    },
+    "rubber": {
+      "value": "Vibram XS Grip",
+      "quote": "Vibram XS Grip 4 mm",
+      "source": "https://tenaya.net/en/item/masai/"
+    },
+    "uses": {
+      "value": [
+        "crack",
+        "bouldering"
+      ],
+      "quote": "Extremely precise on small edges, rounded holds and cracks. | vertical or slightly overhanging routes and boulder problems",
+      "source": "https://tenaya.net/en/item/masai/"
+    },
+    "price": {
+      "value": {
+        "amount": 141.5,
+        "currency": "EUR"
+      },
+      "quote": "141.50 €",
+      "source": "https://tenaya.net/en/item/masai/"
+    },
+    "notes": "gender U: single version in store. Product page has stiffness/sensitivity/foot-width scale widgets, but they are hidden on all devices and carry no readable value (Spanish labels only); left null."
+  },
+  {
+    "brand": "Tenaya",
+    "model": "Tatanka",
+    "url": "https://tenaya.net/en/item/tatanka/",
+    "gender": {
+      "value": "U",
+      "quote": "Tatanka",
+      "source": "https://tenaya.net/en/item/tatanka/"
+    },
+    "closure": {
+      "value": "L",
+      "quote": "Closure System Lace-up",
+      "source": "https://tenaya.net/en/item/tatanka/"
+    },
+    "width": {
+      "value": null
+    },
+    "volume": {
+      "value": null
+    },
+    "asymmetry": {
+      "value": null
+    },
+    "downturn": {
+      "value": null
+    },
+    "stiffness": {
+      "value": null
+    },
+    "rubber": {
+      "value": "Vibram XS Grip",
+      "quote": "Vibram XS Grip 4 mm",
+      "source": "https://tenaya.net/en/item/tatanka/"
+    },
+    "uses": {
+      "value": [
+        "crack",
+        "bouldering"
+      ],
+      "quote": "Extremely precise on small edges, rounded holds and cracks. | any kind of high standard rock climbing and bouldering situation",
+      "source": "https://tenaya.net/en/item/tatanka/"
+    },
+    "price": {
+      "value": {
+        "amount": 149.5,
+        "currency": "EUR"
+      },
+      "quote": "149.50 €",
+      "source": "https://tenaya.net/en/item/tatanka/"
+    },
+    "notes": "gender U: single version in store. Stiffness null: only relative ('Slightly softer than the other shoes in the Balance Pro line'). Product page has stiffness/sensitivity/foot-width scale widgets, but they are hidden on all devices and carry no readable value (Spanish labels only); left null."
+  },
+  {
+    "brand": "Tenaya",
+    "model": "Arai",
+    "url": "https://tenaya.net/en/item/arai/",
+    "gender": {
+      "value": "U",
+      "quote": "Araí",
+      "source": "https://tenaya.net/en/item/arai/"
+    },
+    "closure": {
+      "value": "V",
+      "quote": "Closure System Velcro",
+      "source": "https://tenaya.net/en/item/arai/"
+    },
+    "width": {
+      "value": null
+    },
+    "volume": {
+      "value": null
+    },
+    "asymmetry": {
+      "value": null
+    },
+    "downturn": {
+      "value": null
+    },
+    "stiffness": {
+      "value": null
+    },
+    "rubber": {
+      "value": null
+    },
+    "uses": {
+      "value": [
+        "bouldering",
+        "sport",
+        "gym"
+      ],
+      "quote": "Bouldering and sport climbing. | long training days both on and off the rock and indoors",
+      "source": "https://tenaya.net/en/item/arai/"
+    },
+    "price": {
+      "value": {
+        "amount": 114.95,
+        "currency": "EUR"
+      },
+      "quote": "114.95 €",
+      "source": "https://tenaya.net/en/item/arai/"
+    },
+    "notes": "gender U: single version in store. Rubber null: data sheet says only 'RUBBER 4mm'. Product page has stiffness/sensitivity/foot-width scale widgets, but they are hidden on all devices and carry no readable value (Spanish labels only); left null."
+  },
+  {
+    "brand": "Tenaya",
+    "model": "Tanta",
+    "url": "https://tenaya.net/en/item/tanta/",
+    "gender": {
+      "value": "U",
+      "quote": "Tanta",
+      "source": "https://tenaya.net/en/item/tanta/"
+    },
+    "closure": {
+      "value": "V",
+      "quote": "The moderately downturned toe box and velcro closure system",
+      "source": "https://tenaya.net/en/item/tanta/"
+    },
+    "width": {
+      "value": null
+    },
+    "volume": {
+      "value": null
+    },
+    "asymmetry": {
+      "value": null
+    },
+    "downturn": {
+      "value": 2,
+      "quote": "The moderately downturned toe box",
+      "source": "https://tenaya.net/en/item/tanta/"
+    },
+    "stiffness": {
+      "value": null
+    },
+    "rubber": {
+      "value": null
+    },
+    "uses": {
+      "value": [
+        "gym"
+      ],
+      "quote": "Training both indoors and out.",
+      "source": "https://tenaya.net/en/item/tanta/"
+    },
+    "price": {
+      "value": {
+        "amount": 99.95,
+        "currency": "EUR"
+      },
+      "quote": "99.95 €",
+      "source": "https://tenaya.net/en/item/tanta/"
+    },
+    "notes": "gender U: single version (colour variants Tanta green / Tanta LX green). Page also says 'A slightly curved shoe'; downturn uses the explicit 'moderately downturned'. Rubber null: 'RUBBER 4mm' only. Product page has stiffness/sensitivity/foot-width scale widgets, but they are hidden on all devices and carry no readable value (Spanish labels only); left null."
+  },
+  {
+    "brand": "Tenaya",
+    "model": "Tanta Laces",
+    "url": "https://tenaya.net/en/item/tanta-laces/",
+    "gender": {
+      "value": "U",
+      "quote": "Tanta laces",
+      "source": "https://tenaya.net/en/item/tanta-laces/"
+    },
+    "closure": {
+      "value": "L",
+      "quote": "Tanta laces",
+      "source": "https://tenaya.net/en/item/tanta-laces/"
+    },
+    "width": {
+      "value": null
+    },
+    "volume": {
+      "value": null
+    },
+    "asymmetry": {
+      "value": null
+    },
+    "downturn": {
+      "value": 2,
+      "quote": "The moderately downturned toe box",
+      "source": "https://tenaya.net/en/item/tanta-laces/"
+    },
+    "stiffness": {
+      "value": null
+    },
+    "rubber": {
+      "value": null
+    },
+    "uses": {
+      "value": [
+        "gym"
+      ],
+      "quote": "Training both indoors and out.",
+      "source": "https://tenaya.net/en/item/tanta-laces/"
+    },
+    "price": {
+      "value": {
+        "amount": 99.95,
+        "currency": "EUR"
+      },
+      "quote": "99.95 €",
+      "source": "https://tenaya.net/en/item/tanta-laces/"
+    },
+    "notes": "Closure L from the product name 'Tanta laces'; the page text and data sheet are copied from the velcro Tanta and say 'velcro closure system' / 'Closure System Velcro'. Rubber null: 'RUBBER 4mm' only. Product page has stiffness/sensitivity/foot-width scale widgets, but they are hidden on all devices and carry no readable value (Spanish labels only); left null."
+  }
+]

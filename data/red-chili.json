@@ -1,0 +1,1074 @@
+[
+  {
+    "brand": "Red Chili",
+    "model": "Sensor",
+    "url": "https://redchiliclimbing.com/eu-en/shop/climbing-shoes/sensor",
+    "gender": {
+      "value": "U",
+      "quote": "US Men | US Women",
+      "source": "https://redchiliclimbing.com/eu-en/shop/climbing-shoes/sensor"
+    },
+    "closure": {
+      "value": "V",
+      "quote": "Closing System : Single VCR",
+      "source": "https://redchiliclimbing.com/eu-en/shop/climbing-shoes/sensor"
+    },
+    "width": {
+      "value": "N",
+      "quote": "Foot shape Narrow–Wide: point 1/5",
+      "source": "https://redchiliclimbing.com/eu-en/shop/climbing-shoes/sensor"
+    },
+    "volume": {
+      "value": null
+    },
+    "asymmetry": {
+      "value": 3,
+      "quote": "The combination of a minimalistic midsole, high asymmetry, and a powerful downturn",
+      "source": "https://redchiliclimbing.com/eu-en/shop/climbing-shoes/sensor"
+    },
+    "downturn": {
+      "value": 3,
+      "quote": "The combination of a minimalistic midsole, high asymmetry, and a powerful downturn",
+      "source": "https://redchiliclimbing.com/eu-en/shop/climbing-shoes/sensor"
+    },
+    "stiffness": {
+      "value": 2,
+      "quote": "Ridigity: 2/5 (scale bar)",
+      "source": "https://redchiliclimbing.com/eu-en/shop/climbing-shoes/sensor"
+    },
+    "rubber": {
+      "value": "Vibram XS Grip",
+      "quote": "The Vibram XS Grip sole and a large toe patch provide outstanding grip",
+      "source": "https://redchiliclimbing.com/eu-en/shop/climbing-shoes/sensor"
+    },
+    "uses": {
+      "value": [
+        "bouldering",
+        "competition",
+        "gym"
+      ],
+      "quote": "specially developed for climbing and bouldering on artificial holds as well as for competitions",
+      "source": "https://redchiliclimbing.com/eu-en/shop/climbing-shoes/sensor"
+    },
+    "price": {
+      "value": {
+        "amount": 160,
+        "currency": "EUR"
+      },
+      "quote": "€80.00 -50% €160.00",
+      "source": "https://redchiliclimbing.com/eu-en/shop/climbing-shoes/sensor"
+    },
+    "notes": "Gender U: single model with one size run (US Men and US Women columns in the size chart). Stiffness from the page's 'Ridigity' 5-step scale bar (count of active steps, read from HTML), mapped 1:1. Width from the 'Foot shape' Narrow-Wide 5-point scale (active point in HTML): 1-2 N, 3 M, 4-5 W. Price: page shows sale €80.00; crossed-out list price €160.00 used."
+  },
+  {
+    "brand": "Red Chili",
+    "model": "Voltage X",
+    "url": "https://redchiliclimbing.com/eu-en/shop/climbing-shoes/voltage-x",
+    "gender": {
+      "value": "U",
+      "quote": "US Men | US Women",
+      "source": "https://redchiliclimbing.com/eu-en/shop/climbing-shoes/voltage-x"
+    },
+    "closure": {
+      "value": "L",
+      "quote": "Closing System : Speed lace",
+      "source": "https://redchiliclimbing.com/eu-en/shop/climbing-shoes/voltage-x"
+    },
+    "width": {
+      "value": "W",
+      "quote": "Foot shape Narrow–Wide: point 4/5",
+      "source": "https://redchiliclimbing.com/eu-en/shop/climbing-shoes/voltage-x"
+    },
+    "volume": {
+      "value": null
+    },
+    "asymmetry": {
+      "value": null
+    },
+    "downturn": {
+      "value": null
+    },
+    "stiffness": {
+      "value": 1,
+      "quote": "Ridigity: 1/5 (scale bar)",
+      "source": "https://redchiliclimbing.com/eu-en/shop/climbing-shoes/voltage-x"
+    },
+    "rubber": {
+      "value": "Vibram XS Grip",
+      "quote": "The Vibram XS Grip split sole furthermore provides good grip.",
+      "source": "https://redchiliclimbing.com/eu-en/shop/climbing-shoes/voltage-x"
+    },
+    "uses": {
+      "value": [
+        "bouldering",
+        "gym"
+      ],
+      "quote": "tailored to the needs of modern, dynamic bouldering and climbing | high-end shoe for both crags and gyms",
+      "source": "https://redchiliclimbing.com/eu-en/shop/climbing-shoes/voltage-x"
+    },
+    "price": {
+      "value": {
+        "amount": 160,
+        "currency": "EUR"
+      },
+      "quote": "€160.00",
+      "source": "https://redchiliclimbing.com/eu-en/shop/climbing-shoes/voltage-x"
+    },
+    "notes": "Gender U: single model with one size run (US Men and US Women columns in the size chart). Stiffness from the page's 'Ridigity' 5-step scale bar (count of active steps, read from HTML), mapped 1:1. Width from the 'Foot shape' Narrow-Wide 5-point scale (active point in HTML): 1-2 N, 3 M, 4-5 W. Closure: speed lace plus one VCR strap ('The fast-lacing system with a VCR strap'), brand lists 'Speed lace'. Asymmetry/downturn null: only 'aggressive tension system' stated."
+  },
+  {
+    "brand": "Red Chili",
+    "model": "Voltage III",
+    "url": "https://redchiliclimbing.com/eu-en/shop/climbing-shoes/voltage-3",
+    "gender": {
+      "value": "U",
+      "quote": "Sizes: UK 3–12",
+      "source": "https://edelrid.com/040-downloads/pressemeldungen/produktneuheiten-sp-2026/EN/RC_Press-Release_VOLTAGE_EN.pdf"
+    },
+    "closure": {
+      "value": "V",
+      "quote": "The fit can be adjusted using the two VCR straps",
+      "source": "https://edelrid.com/040-downloads/pressemeldungen/produktneuheiten-sp-2026/EN/RC_Press-Release_VOLTAGE_EN.pdf"
+    },
+    "width": {
+      "value": "W",
+      "quote": "The Red Chili VOLTAGE is built around a wide anatomical last that offers plenty of toe room.",
+      "source": "https://edelrid.com/040-downloads/pressemeldungen/produktneuheiten-sp-2026/EN/RC_Press-Release_VOLTAGE_EN.pdf"
+    },
+    "volume": {
+      "value": "M",
+      "quote": "The trusted fit and all the features of the VOLTAGE, but for less voluminous, slimmer feet",
+      "source": "https://redchiliclimbing.com/eu-en/shop/climbing-shoes/voltage-lv"
+    },
+    "asymmetry": {
+      "value": 3,
+      "quote": "Aggressive asymmetry",
+      "source": "https://edelrid.com/040-downloads/pressemeldungen/produktneuheiten-sp-2026/EN/RC_Press-Release_VOLTAGE_EN.pdf"
+    },
+    "downturn": {
+      "value": 3,
+      "quote": "Aggressive downturn",
+      "source": "https://edelrid.com/040-downloads/pressemeldungen/produktneuheiten-sp-2026/EN/RC_Press-Release_VOLTAGE_EN.pdf"
+    },
+    "stiffness": {
+      "value": null
+    },
+    "rubber": {
+      "value": "Vibram XS Grip",
+      "quote": "Vibram XS Grip",
+      "source": "https://edelrid.com/040-downloads/pressemeldungen/produktneuheiten-sp-2026/EN/RC_Press-Release_VOLTAGE_EN.pdf"
+    },
+    "uses": {
+      "value": [
+        "sport",
+        "bouldering"
+      ],
+      "quote": "looking for a precise shoe for sport climbing and bouldering",
+      "source": "https://edelrid.com/040-downloads/pressemeldungen/produktneuheiten-sp-2026/EN/RC_Press-Release_VOLTAGE_EN.pdf"
+    },
+    "price": {
+      "value": null
+    },
+    "notes": "redchiliclimbing.com has only a landing page for the new VOLTAGE (voltage-3), no shop listing, specs or price; data from EDELRID press release 'Red Chili VOLTAGE' (overhauled version, 2026), which names it VOLTAGE, not 'Voltage III'. Gender U from the single size run. Volume M because Red Chili sells a VOLTAGE LV variant (LV page may refer to the previous Voltage). Price null: not on official store."
+  },
+  {
+    "brand": "Red Chili",
+    "model": "Voltage LV",
+    "url": "https://redchiliclimbing.com/eu-en/shop/climbing-shoes/voltage-lv",
+    "gender": {
+      "value": "U",
+      "quote": "US Men | US Women",
+      "source": "https://redchiliclimbing.com/eu-en/shop/climbing-shoes/voltage-lv"
+    },
+    "closure": {
+      "value": "V",
+      "quote": "Closing System : Double VCR",
+      "source": "https://redchiliclimbing.com/eu-en/shop/climbing-shoes/voltage-lv"
+    },
+    "width": {
+      "value": "N",
+      "quote": "Foot shape Narrow–Wide: point 1/5",
+      "source": "https://redchiliclimbing.com/eu-en/shop/climbing-shoes/voltage-lv"
+    },
+    "volume": {
+      "value": "L",
+      "quote": "Low Volume",
+      "source": "https://redchiliclimbing.com/eu-en/shop/climbing-shoes/voltage-lv"
+    },
+    "asymmetry": {
+      "value": null
+    },
+    "downturn": {
+      "value": 3,
+      "quote": "Its powerful downturn combined with the claw shape in the toe area",
+      "source": "https://redchiliclimbing.com/eu-en/shop/climbing-shoes/voltage-lv"
+    },
+    "stiffness": {
+      "value": 3,
+      "quote": "Ridigity: 3/5 (scale bar)",
+      "source": "https://redchiliclimbing.com/eu-en/shop/climbing-shoes/voltage-lv"
+    },
+    "rubber": {
+      "value": "Vibram XS Grip",
+      "quote": "Rubber front : Vibram XS Grip 4,0mm",
+      "source": "https://redchiliclimbing.com/eu-en/shop/climbing-shoes/voltage-lv"
+    },
+    "uses": {
+      "value": [
+        "bouldering"
+      ],
+      "quote": "soft enough to significantly increase friction even in modern volume bouldering",
+      "source": "https://redchiliclimbing.com/eu-en/shop/climbing-shoes/voltage-lv"
+    },
+    "price": {
+      "value": {
+        "amount": 150,
+        "currency": "EUR"
+      },
+      "quote": "€150.00",
+      "source": "https://redchiliclimbing.com/eu-en/shop/climbing-shoes/voltage-lv"
+    },
+    "notes": "Gender U: single model with one size run (US Men and US Women columns in the size chart). Stiffness from the page's 'Ridigity' 5-step scale bar (count of active steps, read from HTML), mapped 1:1. Width from the 'Foot shape' Narrow-Wide 5-point scale (active point in HTML): 1-2 N, 3 M, 4-5 W. Volume L from LV name and 'Low Volume' spec line. A separate older 'VOLTAGE LV ... 2023 version' (voltage-lv-I, €145) also exists; this row uses the current voltage-lv page."
+  },
+  {
+    "brand": "Red Chili",
+    "model": "Voltage Lace",
+    "url": "https://redchiliclimbing.com/eu-en/shop/climbing-shoes/voltage-lace",
+    "gender": {
+      "value": "U",
+      "quote": "US Men | US Women",
+      "source": "https://redchiliclimbing.com/eu-en/shop/climbing-shoes/voltage-lace"
+    },
+    "closure": {
+      "value": "L",
+      "quote": "Closing System : Lace",
+      "source": "https://redchiliclimbing.com/eu-en/shop/climbing-shoes/voltage-lace"
+    },
+    "width": {
+      "value": "W",
+      "quote": "Foot shape Narrow–Wide: point 4/5",
+      "source": "https://redchiliclimbing.com/eu-en/shop/climbing-shoes/voltage-lace"
+    },
+    "volume": {
+      "value": null
+    },
+    "asymmetry": {
+      "value": null
+    },
+    "downturn": {
+      "value": 3,
+      "quote": "The wide, anatomically designed last with a powerful downturn remains.",
+      "source": "https://redchiliclimbing.com/eu-en/shop/climbing-shoes/voltage-lace"
+    },
+    "stiffness": {
+      "value": 3,
+      "quote": "Ridigity: 3/5 (scale bar)",
+      "source": "https://redchiliclimbing.com/eu-en/shop/climbing-shoes/voltage-lace"
+    },
+    "rubber": {
+      "value": "Vibram XS Grip",
+      "quote": "Rubber front : Vibram XS Grip 4,0mm",
+      "source": "https://redchiliclimbing.com/eu-en/shop/climbing-shoes/voltage-lace"
+    },
+    "uses": {
+      "value": null
+    },
+    "price": {
+      "value": {
+        "amount": 150,
+        "currency": "EUR"
+      },
+      "quote": "€150.00",
+      "source": "https://redchiliclimbing.com/eu-en/shop/climbing-shoes/voltage-lace"
+    },
+    "notes": "Gender U: single model with one size run (US Men and US Women columns in the size chart). Stiffness from the page's 'Ridigity' 5-step scale bar (count of active steps, read from HTML), mapped 1:1. Width from the 'Foot shape' Narrow-Wide 5-point scale (active point in HTML): 1-2 N, 3 M, 4-5 W. Uses null: page says only 'particularly suitable for difficult routes on steep and overhanging crags'. Asymmetry null: not stated."
+  },
+  {
+    "brand": "Red Chili",
+    "model": "Clue",
+    "url": "https://redchiliclimbing.com/eu-en/shop/climbing-shoes/clue",
+    "gender": {
+      "value": "U",
+      "quote": "US Men | US Women",
+      "source": "https://redchiliclimbing.com/eu-en/shop/climbing-shoes/clue"
+    },
+    "closure": {
+      "value": "S",
+      "quote": "Closing System : Slipper Single VCR",
+      "source": "https://redchiliclimbing.com/eu-en/shop/climbing-shoes/clue"
+    },
+    "width": {
+      "value": "N",
+      "quote": "Foot shape Narrow–Wide: point 2/5",
+      "source": "https://redchiliclimbing.com/eu-en/shop/climbing-shoes/clue"
+    },
+    "volume": {
+      "value": null
+    },
+    "asymmetry": {
+      "value": null
+    },
+    "downturn": {
+      "value": null
+    },
+    "stiffness": {
+      "value": 3,
+      "quote": "Ridigity: 3/5 (scale bar)",
+      "source": "https://redchiliclimbing.com/eu-en/shop/climbing-shoes/clue"
+    },
+    "rubber": {
+      "value": "Vibram XS Grip",
+      "quote": "Rubber : Vibram XS Grip",
+      "source": "https://redchiliclimbing.com/eu-en/shop/climbing-shoes/clue"
+    },
+    "uses": {
+      "value": [
+        "bouldering",
+        "slab"
+      ],
+      "quote": "the CLUE is the ideal choice for bouldering problems, slabs and demanding overhang climbing",
+      "source": "https://redchiliclimbing.com/eu-en/shop/climbing-shoes/clue"
+    },
+    "price": {
+      "value": {
+        "amount": 140,
+        "currency": "EUR"
+      },
+      "quote": "€140.00",
+      "source": "https://redchiliclimbing.com/eu-en/shop/climbing-shoes/clue"
+    },
+    "notes": "Gender U: single model with one size run (US Men and US Women columns in the size chart). Stiffness from the page's 'Ridigity' 5-step scale bar (count of active steps, read from HTML), mapped 1:1. Width from the 'Foot shape' Narrow-Wide 5-point scale (active point in HTML): 1-2 N, 3 M, 4-5 W. Asymmetry/downturn null: only 'The aggressive shape brings a great deal of tension'."
+  },
+  {
+    "brand": "Red Chili",
+    "model": "Magnet",
+    "url": "https://redchiliclimbing.com/eu-en/shop/climbing-shoes/magnet",
+    "gender": {
+      "value": "U",
+      "quote": "US Men | US Women",
+      "source": "https://redchiliclimbing.com/eu-en/shop/climbing-shoes/magnet"
+    },
+    "closure": {
+      "value": "V",
+      "quote": "Closing System : Double VCR",
+      "source": "https://redchiliclimbing.com/eu-en/shop/climbing-shoes/magnet"
+    },
+    "width": {
+      "value": "M",
+      "quote": "Foot shape Narrow–Wide: point 3/5",
+      "source": "https://redchiliclimbing.com/eu-en/shop/climbing-shoes/magnet"
+    },
+    "volume": {
+      "value": null
+    },
+    "asymmetry": {
+      "value": null
+    },
+    "downturn": {
+      "value": null
+    },
+    "stiffness": {
+      "value": 4,
+      "quote": "Ridigity: 4/5 (scale bar)",
+      "source": "https://redchiliclimbing.com/eu-en/shop/climbing-shoes/magnet"
+    },
+    "rubber": {
+      "value": "Vibram XS Grip",
+      "quote": "Rubber : Vibram XS Grip",
+      "source": "https://redchiliclimbing.com/eu-en/shop/climbing-shoes/magnet"
+    },
+    "uses": {
+      "value": [
+        "sport",
+        "multipitch"
+      ],
+      "quote": "increases your attractive force when sport climbing or on multi-pitch routes",
+      "source": "https://redchiliclimbing.com/eu-en/shop/climbing-shoes/magnet"
+    },
+    "price": {
+      "value": {
+        "amount": 140,
+        "currency": "EUR"
+      },
+      "quote": "€140.00",
+      "source": "https://redchiliclimbing.com/eu-en/shop/climbing-shoes/magnet"
+    },
+    "notes": "Gender U: single model with one size run (US Men and US Women columns in the size chart). Stiffness from the page's 'Ridigity' 5-step scale bar (count of active steps, read from HTML), mapped 1:1. Width from the 'Foot shape' Narrow-Wide 5-point scale (active point in HTML): 1-2 N, 3 M, 4-5 W. Downturn null: only 'The last with moderate pre-tensioning' (pre-tension, not downturn)."
+  },
+  {
+    "brand": "Red Chili",
+    "model": "Magnet Lace",
+    "url": "https://redchiliclimbing.com/eu-en/shop/climbing-shoes/magnet-lace",
+    "gender": {
+      "value": "U",
+      "quote": "Sizes: UK 3–12",
+      "source": "https://edelrid.com/040-downloads/pressemeldungen/produktneuheiten-sp-2026/EN/RC_Press-Release_MAGNET_EN.pdf"
+    },
+    "closure": {
+      "value": "L",
+      "quote": "Laces",
+      "source": "https://edelrid.com/040-downloads/pressemeldungen/produktneuheiten-sp-2026/EN/RC_Press-Release_MAGNET_EN.pdf"
+    },
+    "width": {
+      "value": null
+    },
+    "volume": {
+      "value": null
+    },
+    "asymmetry": {
+      "value": 2,
+      "quote": "Moderate asymmetry",
+      "source": "https://edelrid.com/040-downloads/pressemeldungen/produktneuheiten-sp-2026/EN/RC_Press-Release_MAGNET_EN.pdf"
+    },
+    "downturn": {
+      "value": null
+    },
+    "stiffness": {
+      "value": null
+    },
+    "rubber": {
+      "value": "Vibram XS Grip",
+      "quote": "Vibram XS Grip",
+      "source": "https://edelrid.com/040-downloads/pressemeldungen/produktneuheiten-sp-2026/EN/RC_Press-Release_MAGNET_EN.pdf"
+    },
+    "uses": {
+      "value": [
+        "sport",
+        "multipitch",
+        "trad"
+      ],
+      "quote": "ideal companion for demanding sport, multi-pitch, and trad climbing routes",
+      "source": "https://redchiliclimbing.com/eu-en/shop/climbing-shoes/magnet-lace"
+    },
+    "price": {
+      "value": null
+    },
+    "notes": "redchiliclimbing.com has only a landing page for MAGNET LACE (no shop listing, specs or price); closure, asymmetry, rubber and gender from the EDELRID press release. Downturn null: press release says 'Ambitious downturn', not on the mapping scale. Price null: not on official store."
+  },
+  {
+    "brand": "Red Chili",
+    "model": "Fusion",
+    "url": "https://redchiliclimbing.com/eu-en/shop/climbing-shoes/fusion",
+    "gender": {
+      "value": "U",
+      "quote": "US Men | US Women",
+      "source": "https://redchiliclimbing.com/eu-en/shop/climbing-shoes/fusion"
+    },
+    "closure": {
+      "value": "L",
+      "quote": "Closing System : Speed lace",
+      "source": "https://redchiliclimbing.com/eu-en/shop/climbing-shoes/fusion"
+    },
+    "width": {
+      "value": "W",
+      "quote": "Foot shape Narrow–Wide: point 4/5",
+      "source": "https://redchiliclimbing.com/eu-en/shop/climbing-shoes/fusion"
+    },
+    "volume": {
+      "value": "M",
+      "quote": "The low volume version of the FUSION has a slimmer overall cut",
+      "source": "https://redchiliclimbing.com/eu-en/shop/climbing-shoes/fusion-lv"
+    },
+    "asymmetry": {
+      "value": null
+    },
+    "downturn": {
+      "value": null
+    },
+    "stiffness": {
+      "value": 4,
+      "quote": "Ridigity: 4/5 (scale bar)",
+      "source": "https://redchiliclimbing.com/eu-en/shop/climbing-shoes/fusion"
+    },
+    "rubber": {
+      "value": "RX-1 ALLROUND",
+      "quote": "the full-surface RX-1 ALLROUND sole",
+      "source": "https://redchiliclimbing.com/eu-en/shop/climbing-shoes/fusion"
+    },
+    "uses": {
+      "value": [
+        "all-round"
+      ],
+      "quote": "while still remaining a versatile all-rounder",
+      "source": "https://redchiliclimbing.com/eu-en/shop/climbing-shoes/fusion"
+    },
+    "price": {
+      "value": {
+        "amount": 130,
+        "currency": "EUR"
+      },
+      "quote": "€130.00",
+      "source": "https://redchiliclimbing.com/eu-en/shop/climbing-shoes/fusion"
+    },
+    "notes": "Gender U: single model with one size run (US Men and US Women columns in the size chart). Stiffness from the page's 'Ridigity' 5-step scale bar (count of active steps, read from HTML), mapped 1:1. Width from the 'Foot shape' Narrow-Wide 5-point scale (active point in HTML): 1-2 N, 3 M, 4-5 W. Closure: laces combined with VCR ('combines the benefits of VCR and laces'); brand lists 'Speed lace'. Downturn null: only 'The rand has more downturn'. Volume M because an LV variant exists."
+  },
+  {
+    "brand": "Red Chili",
+    "model": "Fusion LV",
+    "url": "https://redchiliclimbing.com/eu-en/shop/climbing-shoes/fusion-lv",
+    "gender": {
+      "value": "U",
+      "quote": "US Men | US Women",
+      "source": "https://redchiliclimbing.com/eu-en/shop/climbing-shoes/fusion-lv"
+    },
+    "closure": {
+      "value": "L",
+      "quote": "Closing System : Speed lace",
+      "source": "https://redchiliclimbing.com/eu-en/shop/climbing-shoes/fusion-lv"
+    },
+    "width": {
+      "value": "N",
+      "quote": "Foot shape Narrow–Wide: point 2/5",
+      "source": "https://redchiliclimbing.com/eu-en/shop/climbing-shoes/fusion-lv"
+    },
+    "volume": {
+      "value": "L",
+      "quote": "The low volume version of the FUSION has a slimmer overall cut",
+      "source": "https://redchiliclimbing.com/eu-en/shop/climbing-shoes/fusion-lv"
+    },
+    "asymmetry": {
+      "value": null
+    },
+    "downturn": {
+      "value": null
+    },
+    "stiffness": {
+      "value": 4,
+      "quote": "Ridigity: 4/5 (scale bar)",
+      "source": "https://redchiliclimbing.com/eu-en/shop/climbing-shoes/fusion-lv"
+    },
+    "rubber": {
+      "value": "RX-1 ALLROUND",
+      "quote": "the full-surface RX-1 ALLROUND sole",
+      "source": "https://redchiliclimbing.com/eu-en/shop/climbing-shoes/fusion-lv"
+    },
+    "uses": {
+      "value": [
+        "all-round"
+      ],
+      "quote": "the FUSION LV offers enhanced performance and a more individual fit while still remaining a versatile all-rounder",
+      "source": "https://redchiliclimbing.com/eu-en/shop/climbing-shoes/fusion-lv"
+    },
+    "price": {
+      "value": {
+        "amount": 130,
+        "currency": "EUR"
+      },
+      "quote": "€130.00",
+      "source": "https://redchiliclimbing.com/eu-en/shop/climbing-shoes/fusion-lv"
+    },
+    "notes": "Gender U: single model with one size run (US Men and US Women columns in the size chart). Stiffness from the page's 'Ridigity' 5-step scale bar (count of active steps, read from HTML), mapped 1:1. Width from the 'Foot shape' Narrow-Wide 5-point scale (active point in HTML): 1-2 N, 3 M, 4-5 W. Closure: laces combined with VCR; brand lists 'Speed lace'."
+  },
+  {
+    "brand": "Red Chili",
+    "model": "Spirit",
+    "url": "https://redchiliclimbing.com/eu-en/shop/climbing-shoes/spirit",
+    "gender": {
+      "value": "U",
+      "quote": "US Men | US Women",
+      "source": "https://redchiliclimbing.com/eu-en/shop/climbing-shoes/spirit"
+    },
+    "closure": {
+      "value": "V",
+      "quote": "Closing System : Triple VCR",
+      "source": "https://redchiliclimbing.com/eu-en/shop/climbing-shoes/spirit"
+    },
+    "width": {
+      "value": "M",
+      "quote": "Foot shape Narrow–Wide: point 3/5",
+      "source": "https://redchiliclimbing.com/eu-en/shop/climbing-shoes/spirit"
+    },
+    "volume": {
+      "value": "M",
+      "quote": "The low volume version of our 'luxury classic'.",
+      "source": "https://redchiliclimbing.com/eu-en/shop/climbing-shoes/spirit-lv"
+    },
+    "asymmetry": {
+      "value": null
+    },
+    "downturn": {
+      "value": null
+    },
+    "stiffness": {
+      "value": 4,
+      "quote": "Ridigity: 4/5 (scale bar)",
+      "source": "https://redchiliclimbing.com/eu-en/shop/climbing-shoes/spirit"
+    },
+    "rubber": {
+      "value": "RX-2 TECHGRIP",
+      "quote": "Rubber : RX-2 TECHGRIP",
+      "source": "https://redchiliclimbing.com/eu-en/shop/climbing-shoes/spirit"
+    },
+    "uses": {
+      "value": [
+        "all-round",
+        "gym",
+        "multipitch"
+      ],
+      "quote": "Comfy, versatile climbing shoes | feels great when in an climbing centre | even on the 23rd pitch",
+      "source": "https://redchiliclimbing.com/eu-en/shop/climbing-shoes/spirit"
+    },
+    "price": {
+      "value": {
+        "amount": 115,
+        "currency": "EUR"
+      },
+      "quote": "€115.00",
+      "source": "https://redchiliclimbing.com/eu-en/shop/climbing-shoes/spirit"
+    },
+    "notes": "Gender U: single model with one size run (US Men and US Women columns in the size chart). Stiffness from the page's 'Ridigity' 5-step scale bar (count of active steps, read from HTML), mapped 1:1. Width from the 'Foot shape' Narrow-Wide 5-point scale (active point in HTML): 1-2 N, 3 M, 4-5 W. Volume M because an LV variant exists."
+  },
+  {
+    "brand": "Red Chili",
+    "model": "Spirit LV",
+    "url": "https://redchiliclimbing.com/eu-en/shop/climbing-shoes/spirit-lv",
+    "gender": {
+      "value": "U",
+      "quote": "US Men | US Women",
+      "source": "https://redchiliclimbing.com/eu-en/shop/climbing-shoes/spirit-lv"
+    },
+    "closure": {
+      "value": "V",
+      "quote": "Closing System : Triple VCR",
+      "source": "https://redchiliclimbing.com/eu-en/shop/climbing-shoes/spirit-lv"
+    },
+    "width": {
+      "value": "N",
+      "quote": "Foot shape Narrow–Wide: point 2/5",
+      "source": "https://redchiliclimbing.com/eu-en/shop/climbing-shoes/spirit-lv"
+    },
+    "volume": {
+      "value": "L",
+      "quote": "The low volume version of our 'luxury classic'.",
+      "source": "https://redchiliclimbing.com/eu-en/shop/climbing-shoes/spirit-lv"
+    },
+    "asymmetry": {
+      "value": null
+    },
+    "downturn": {
+      "value": null
+    },
+    "stiffness": {
+      "value": 4,
+      "quote": "Ridigity: 4/5 (scale bar)",
+      "source": "https://redchiliclimbing.com/eu-en/shop/climbing-shoes/spirit-lv"
+    },
+    "rubber": {
+      "value": "RX-2 TECHGRIP",
+      "quote": "Rubber : RX-2 TECHGRIP",
+      "source": "https://redchiliclimbing.com/eu-en/shop/climbing-shoes/spirit-lv"
+    },
+    "uses": {
+      "value": [
+        "all-round"
+      ],
+      "quote": "Comfortable, versatile climbing shoes for narrow feet",
+      "source": "https://redchiliclimbing.com/eu-en/shop/climbing-shoes/spirit-lv"
+    },
+    "price": {
+      "value": {
+        "amount": 115,
+        "currency": "EUR"
+      },
+      "quote": "€115.00",
+      "source": "https://redchiliclimbing.com/eu-en/shop/climbing-shoes/spirit-lv"
+    },
+    "notes": "Gender U: single model with one size run (US Men and US Women columns in the size chart). Stiffness from the page's 'Ridigity' 5-step scale bar (count of active steps, read from HTML), mapped 1:1. Width from the 'Foot shape' Narrow-Wide 5-point scale (active point in HTML): 1-2 N, 3 M, 4-5 W."
+  },
+  {
+    "brand": "Red Chili",
+    "model": "Ventic Air",
+    "url": "https://redchiliclimbing.com/eu-en/shop/climbing-shoes/ventic-air",
+    "gender": {
+      "value": "U",
+      "quote": "US Men | US Women",
+      "source": "https://redchiliclimbing.com/eu-en/shop/climbing-shoes/ventic-air"
+    },
+    "closure": {
+      "value": "V",
+      "quote": "Closing System : Double VCR",
+      "source": "https://redchiliclimbing.com/eu-en/shop/climbing-shoes/ventic-air"
+    },
+    "width": {
+      "value": "W",
+      "quote": "Foot shape Narrow–Wide: point 5/5",
+      "source": "https://redchiliclimbing.com/eu-en/shop/climbing-shoes/ventic-air"
+    },
+    "volume": {
+      "value": null
+    },
+    "asymmetry": {
+      "value": null
+    },
+    "downturn": {
+      "value": 2,
+      "quote": "In combination with the moderate downturn and the slight pre-tensioning",
+      "source": "https://redchiliclimbing.com/eu-en/shop/climbing-shoes/ventic-air"
+    },
+    "stiffness": {
+      "value": 4,
+      "quote": "Ridigity: 4/5 (scale bar)",
+      "source": "https://redchiliclimbing.com/eu-en/shop/climbing-shoes/ventic-air"
+    },
+    "rubber": {
+      "value": "RX-2 TECHGRIP",
+      "quote": "Rubber : RX-2 TECHGRIP",
+      "source": "https://redchiliclimbing.com/eu-en/shop/climbing-shoes/ventic-air"
+    },
+    "uses": {
+      "value": [
+        "beginner"
+      ],
+      "quote": "An extremely comfortable shoe for all those who are relatively new to climbing",
+      "source": "https://redchiliclimbing.com/eu-en/shop/climbing-shoes/ventic-air"
+    },
+    "price": {
+      "value": {
+        "amount": 100,
+        "currency": "EUR"
+      },
+      "quote": "€100.00",
+      "source": "https://redchiliclimbing.com/eu-en/shop/climbing-shoes/ventic-air"
+    },
+    "notes": "Gender U: single model with one size run (US Men and US Women columns in the size chart). Stiffness from the page's 'Ridigity' 5-step scale bar (count of active steps, read from HTML), mapped 1:1. Width from the 'Foot shape' Narrow-Wide 5-point scale (active point in HTML): 1-2 N, 3 M, 4-5 W."
+  },
+  {
+    "brand": "Red Chili",
+    "model": "Ventic Air Lace",
+    "url": "https://redchiliclimbing.com/eu-en/shop/climbing-shoes/ventic-air-lace",
+    "gender": {
+      "value": "U",
+      "quote": "US Men | US Women",
+      "source": "https://redchiliclimbing.com/eu-en/shop/climbing-shoes/ventic-air-lace"
+    },
+    "closure": {
+      "value": "L",
+      "quote": "Closing System : Lace",
+      "source": "https://redchiliclimbing.com/eu-en/shop/climbing-shoes/ventic-air-lace"
+    },
+    "width": {
+      "value": null
+    },
+    "volume": {
+      "value": null
+    },
+    "asymmetry": {
+      "value": null
+    },
+    "downturn": {
+      "value": null
+    },
+    "stiffness": {
+      "value": 4,
+      "quote": "Ridigity: 4/5 (scale bar)",
+      "source": "https://redchiliclimbing.com/eu-en/shop/climbing-shoes/ventic-air-lace"
+    },
+    "rubber": {
+      "value": "RX-2 TECHGRIP",
+      "quote": "The RX-2 TECHGRIP sole offers good edge stability",
+      "source": "https://redchiliclimbing.com/eu-en/shop/climbing-shoes/ventic-air-lace"
+    },
+    "uses": {
+      "value": [
+        "gym",
+        "multipitch"
+      ],
+      "quote": "can even be worn for longer periods—for lengthy gym sessions or multi-pitch climbs",
+      "source": "https://redchiliclimbing.com/eu-en/shop/climbing-shoes/ventic-air-lace"
+    },
+    "price": {
+      "value": {
+        "amount": 100,
+        "currency": "EUR"
+      },
+      "quote": "€100.00",
+      "source": "https://redchiliclimbing.com/eu-en/shop/climbing-shoes/ventic-air-lace"
+    },
+    "notes": "Gender U: single model with one size run (US Men and US Women columns in the size chart). Stiffness from the page's 'Ridigity' 5-step scale bar (count of active steps, read from HTML), mapped 1:1. Width from the 'Foot shape' Narrow-Wide 5-point scale (active point in HTML): 1-2 N, 3 M, 4-5 W. Width null: conflict between tagline '| for narrow feet' and foot-shape scale point 3/5 (regular)."
+  },
+  {
+    "brand": "Red Chili",
+    "model": "Sausalito",
+    "url": "https://redchiliclimbing.com/eu-en/shop/climbing-shoes/sausalito",
+    "gender": {
+      "value": "U",
+      "quote": "US Men | US Women",
+      "source": "https://redchiliclimbing.com/eu-en/shop/climbing-shoes/sausalito"
+    },
+    "closure": {
+      "value": "L",
+      "quote": "Closing System : Lace",
+      "source": "https://redchiliclimbing.com/eu-en/shop/climbing-shoes/sausalito"
+    },
+    "width": {
+      "value": "W",
+      "quote": "Foot shape Narrow–Wide: point 4/5",
+      "source": "https://redchiliclimbing.com/eu-en/shop/climbing-shoes/sausalito"
+    },
+    "volume": {
+      "value": null
+    },
+    "asymmetry": {
+      "value": null
+    },
+    "downturn": {
+      "value": null
+    },
+    "stiffness": {
+      "value": 4,
+      "quote": "Ridigity: 4/5 (scale bar)",
+      "source": "https://redchiliclimbing.com/eu-en/shop/climbing-shoes/sausalito"
+    },
+    "rubber": {
+      "value": "RX-1 ALLROUND",
+      "quote": "Rubber : RX-1 ALLROUND",
+      "source": "https://redchiliclimbing.com/eu-en/shop/climbing-shoes/sausalito"
+    },
+    "uses": {
+      "value": null
+    },
+    "price": {
+      "value": {
+        "amount": 100,
+        "currency": "EUR"
+      },
+      "quote": "€100.00",
+      "source": "https://redchiliclimbing.com/eu-en/shop/climbing-shoes/sausalito"
+    },
+    "notes": "Gender U: single model with one size run (US Men and US Women columns in the size chart). Stiffness from the page's 'Ridigity' 5-step scale bar (count of active steps, read from HTML), mapped 1:1. Width from the 'Foot shape' Narrow-Wide 5-point scale (active point in HTML): 1-2 N, 3 M, 4-5 W. Width also supported by 'Due to its slightly broader last shape'. Uses null: no use stated (only comfort)."
+  },
+  {
+    "brand": "Red Chili",
+    "model": "Circuit",
+    "url": "https://redchiliclimbing.com/eu-en/shop/climbing-shoes/circuit",
+    "gender": {
+      "value": "U",
+      "quote": "US Men | US Women",
+      "source": "https://redchiliclimbing.com/eu-en/shop/climbing-shoes/circuit"
+    },
+    "closure": {
+      "value": "V",
+      "quote": "Closing System : Double VCR",
+      "source": "https://redchiliclimbing.com/eu-en/shop/climbing-shoes/circuit"
+    },
+    "width": {
+      "value": "W",
+      "quote": "Foot shape Narrow–Wide: point 5/5",
+      "source": "https://redchiliclimbing.com/eu-en/shop/climbing-shoes/circuit"
+    },
+    "volume": {
+      "value": "M",
+      "quote": "Maximum comfort with less volume is what you get with the CIRCUIT LV.",
+      "source": "https://redchiliclimbing.com/eu-en/shop/climbing-shoes/circuit-lv"
+    },
+    "asymmetry": {
+      "value": null
+    },
+    "downturn": {
+      "value": 1,
+      "quote": "the slightly muted downturn supports you perfectly when stepping",
+      "source": "https://redchiliclimbing.com/eu-en/shop/climbing-shoes/circuit"
+    },
+    "stiffness": {
+      "value": 4,
+      "quote": "Ridigity: 4/5 (scale bar)",
+      "source": "https://redchiliclimbing.com/eu-en/shop/climbing-shoes/circuit"
+    },
+    "rubber": {
+      "value": "RX-1 ALLROUND",
+      "quote": "Rubber : RX-1 ALLROUND",
+      "source": "https://redchiliclimbing.com/eu-en/shop/climbing-shoes/circuit"
+    },
+    "uses": {
+      "value": [
+        "all-round",
+        "beginner",
+        "sport",
+        "bouldering",
+        "multipitch"
+      ],
+      "quote": "Comfy, versatile climbing shoes for beginners | enough performance for advanced sport climbing and bouldering, for multi-pitch climbs",
+      "source": "https://redchiliclimbing.com/eu-en/shop/climbing-shoes/circuit"
+    },
+    "price": {
+      "value": {
+        "amount": 90,
+        "currency": "EUR"
+      },
+      "quote": "€90.00",
+      "source": "https://redchiliclimbing.com/eu-en/shop/climbing-shoes/circuit"
+    },
+    "notes": "Gender U: single model with one size run (US Men and US Women columns in the size chart). Stiffness from the page's 'Ridigity' 5-step scale bar (count of active steps, read from HTML), mapped 1:1. Width from the 'Foot shape' Narrow-Wide 5-point scale (active point in HTML): 1-2 N, 3 M, 4-5 W. Downturn: 'slightly muted downturn' mapped to slight (1). Volume M because an LV variant exists."
+  },
+  {
+    "brand": "Red Chili",
+    "model": "Circuit LV",
+    "url": "https://redchiliclimbing.com/eu-en/shop/climbing-shoes/circuit-lv",
+    "gender": {
+      "value": "U",
+      "quote": "US Men | US Women",
+      "source": "https://redchiliclimbing.com/eu-en/shop/climbing-shoes/circuit-lv"
+    },
+    "closure": {
+      "value": "V",
+      "quote": "Closing System : Double VCR",
+      "source": "https://redchiliclimbing.com/eu-en/shop/climbing-shoes/circuit-lv"
+    },
+    "width": {
+      "value": null
+    },
+    "volume": {
+      "value": "L",
+      "quote": "Maximum comfort with less volume is what you get with the CIRCUIT LV.",
+      "source": "https://redchiliclimbing.com/eu-en/shop/climbing-shoes/circuit-lv"
+    },
+    "asymmetry": {
+      "value": null
+    },
+    "downturn": {
+      "value": 1,
+      "quote": "the slightly muted downturn supports you perfectly when stepping",
+      "source": "https://redchiliclimbing.com/eu-en/shop/climbing-shoes/circuit-lv"
+    },
+    "stiffness": {
+      "value": 4,
+      "quote": "Ridigity: 4/5 (scale bar)",
+      "source": "https://redchiliclimbing.com/eu-en/shop/climbing-shoes/circuit-lv"
+    },
+    "rubber": {
+      "value": "RX-1 ALLROUND",
+      "quote": "Rubber : RX-1 ALLROUND",
+      "source": "https://redchiliclimbing.com/eu-en/shop/climbing-shoes/circuit-lv"
+    },
+    "uses": {
+      "value": [
+        "all-round",
+        "beginner",
+        "sport",
+        "bouldering",
+        "multipitch"
+      ],
+      "quote": "Comfortable, versatile climbing shoes for beginners | enough performance for advanced sport climbing and bouldering, for multi-pitch climbs",
+      "source": "https://redchiliclimbing.com/eu-en/shop/climbing-shoes/circuit-lv"
+    },
+    "price": {
+      "value": {
+        "amount": 90,
+        "currency": "EUR"
+      },
+      "quote": "€90.00",
+      "source": "https://redchiliclimbing.com/eu-en/shop/climbing-shoes/circuit-lv"
+    },
+    "notes": "Gender U: single model with one size run (US Men and US Women columns in the size chart). Stiffness from the page's 'Ridigity' 5-step scale bar (count of active steps, read from HTML), mapped 1:1. Width from the 'Foot shape' Narrow-Wide 5-point scale (active point in HTML): 1-2 N, 3 M, 4-5 W. Width null: conflict between tagline '| for narrow feet' and foot-shape scale point 4/5 (wide side). Downturn: 'slightly muted' mapped to 1."
+  },
+  {
+    "brand": "Red Chili",
+    "model": "Session 4",
+    "url": "https://redchiliclimbing.com/eu-en/shop/climbing-shoes/session-4",
+    "gender": {
+      "value": "U",
+      "quote": "US Men | US Women",
+      "source": "https://redchiliclimbing.com/eu-en/shop/climbing-shoes/session-4"
+    },
+    "closure": {
+      "value": "V",
+      "quote": "Closing System : Double VCR",
+      "source": "https://redchiliclimbing.com/eu-en/shop/climbing-shoes/session-4"
+    },
+    "width": {
+      "value": "W",
+      "quote": "Foot shape Narrow–Wide: point 5/5",
+      "source": "https://redchiliclimbing.com/eu-en/shop/climbing-shoes/session-4"
+    },
+    "volume": {
+      "value": null
+    },
+    "asymmetry": {
+      "value": null
+    },
+    "downturn": {
+      "value": null
+    },
+    "stiffness": {
+      "value": 5,
+      "quote": "Ridigity: 5/5 (scale bar)",
+      "source": "https://redchiliclimbing.com/eu-en/shop/climbing-shoes/session-4"
+    },
+    "rubber": {
+      "value": "RX-1 ALLROUND",
+      "quote": "Rubber : RX-1 ALLROUND",
+      "source": "https://redchiliclimbing.com/eu-en/shop/climbing-shoes/session-4"
+    },
+    "uses": {
+      "value": [
+        "gym"
+      ],
+      "quote": "designed as a pure rental shoe for climbing and bouldering gyms",
+      "source": "https://redchiliclimbing.com/eu-en/shop/climbing-shoes/session-4"
+    },
+    "price": {
+      "value": {
+        "amount": 90,
+        "currency": "EUR"
+      },
+      "quote": "€90.00",
+      "source": "https://redchiliclimbing.com/eu-en/shop/climbing-shoes/session-4"
+    },
+    "notes": "Gender U: single model with one size run (US Men and US Women columns in the size chart). Stiffness from the page's 'Ridigity' 5-step scale bar (count of active steps, read from HTML), mapped 1:1. Width from the 'Foot shape' Narrow-Wide 5-point scale (active point in HTML): 1-2 N, 3 M, 4-5 W."
+  },
+  {
+    "brand": "Red Chili",
+    "model": "Session Air",
+    "url": "https://redchiliclimbing.com/eu-en/shop/climbing-shoes/session-air",
+    "gender": {
+      "value": "U",
+      "quote": "US Men | US Women",
+      "source": "https://redchiliclimbing.com/eu-en/shop/climbing-shoes/session-air"
+    },
+    "closure": {
+      "value": "V",
+      "quote": "Closing System : Double VCR",
+      "source": "https://redchiliclimbing.com/eu-en/shop/climbing-shoes/session-air"
+    },
+    "width": {
+      "value": "W",
+      "quote": "Foot shape Narrow–Wide: point 5/5",
+      "source": "https://redchiliclimbing.com/eu-en/shop/climbing-shoes/session-air"
+    },
+    "volume": {
+      "value": null
+    },
+    "asymmetry": {
+      "value": null
+    },
+    "downturn": {
+      "value": null
+    },
+    "stiffness": {
+      "value": 5,
+      "quote": "Ridigity: 5/5 (scale bar)",
+      "source": "https://redchiliclimbing.com/eu-en/shop/climbing-shoes/session-air"
+    },
+    "rubber": {
+      "value": "RX-3 ENDURANCE",
+      "quote": "Rubber : RX-3 ENDURANCE",
+      "source": "https://redchiliclimbing.com/eu-en/shop/climbing-shoes/session-air"
+    },
+    "uses": {
+      "value": [
+        "gym"
+      ],
+      "quote": "made for intensive use in climbing gyms and rental operations",
+      "source": "https://redchiliclimbing.com/eu-en/shop/climbing-shoes/session-air"
+    },
+    "price": {
+      "value": {
+        "amount": 90,
+        "currency": "EUR"
+      },
+      "quote": "€90.00",
+      "source": "https://redchiliclimbing.com/eu-en/shop/climbing-shoes/session-air"
+    },
+    "notes": "Gender U: single model with one size run (US Men and US Women columns in the size chart). Stiffness from the page's 'Ridigity' 5-step scale bar (count of active steps, read from HTML), mapped 1:1. Width from the 'Foot shape' Narrow-Wide 5-point scale (active point in HTML): 1-2 N, 3 M, 4-5 W."
+  }
+]
