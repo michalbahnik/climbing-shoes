@@ -178,6 +178,18 @@ select{height:36px;border:1px solid var(--line-2);background-color:var(--panel);
 .c-foot a:hover{color:var(--accent)}
 .c-foot a svg.i{width:13px;height:13px}
 .c-foot .ver{color:var(--faint)}
+.maybe-bar{grid-column:1/-1;background:var(--sunk);padding:12px 18px;display:flex;align-items:center;gap:12px;flex-wrap:wrap;font-size:13px;color:var(--muted)}
+.maybe-bar b{color:var(--ink);font-weight:500}
+.maybe-bar .ibtn{margin-left:auto}
+.card.maybe{background:color-mix(in srgb,var(--panel) 55%,var(--sunk))}
+.card.maybe>*{opacity:.6}
+.card.maybe:hover>*{opacity:1}
+.card.maybe .unk-note{opacity:1}
+.unk-note{font-size:11px;color:var(--muted);border:1px dashed var(--line-2);border-radius:var(--r);padding:5px 8px}
+.tbl tr.sep td{background:var(--sunk);padding:0}
+.tbl tr.sep .maybe-bar{background:none}
+.tbl tr.maybe td{opacity:.6}
+.tbl tr.maybe:hover td{opacity:1}
 .empty{text-align:center;padding:90px 20px;color:var(--muted);background:var(--panel);grid-column:1/-1}
 .empty strong{display:block;color:var(--ink);font-size:18px;font-weight:600;margin-bottom:4px}
 .empty button{margin-top:16px}
@@ -312,7 +324,7 @@ footer p{margin:0;max-width:720px}
 
   <main>
     <div class="toolbar">
-      <div class="count"><b id="count">0</b> shoes</div>
+      <div class="count"><b id="count">0</b> shoes<span id="countMaybe"></span></div>
       <div class="sp"></div>
       <select id="sort" aria-label="Sort by">
         <option value="brand">Brand A–Z</option>
@@ -431,7 +443,7 @@ const SORTS = {
 };
 
 /* ---------- state ---------- */
-const state = {q:"", gender:"all", maxPrice:PRICE_MAX, sort:"brand", view:"grid", sel:{}};
+const state = {q:"", gender:"all", maxPrice:PRICE_MAX, sort:"brand", view:"grid", maybe:false, sel:{}};
 FILTERS.forEach(f => state.sel[f.key] = new Set());
 const expanded = {};
 const store = {
@@ -446,6 +458,7 @@ function readHash(){
   state.q = p.get("q") || "";
   state.gender = ["all","men","women"].includes(p.get("g")) ? p.get("g") : "all";
   state.sort = SORTS[p.get("sort")] ? p.get("sort") : "brand";
+  state.maybe = p.get("maybe") === "1";
   const mp = parseInt(p.get("max"), 10);
   state.maxPrice = mp >= PRICE_MIN && mp <= PRICE_MAX ? mp : PRICE_MAX;
   FILTERS.forEach(f => state.sel[f.key] = new Set((p.get(f.key) || "").split(",").filter(Boolean)));
@@ -455,6 +468,7 @@ function writeHash(){
   if (state.q) p.set("q", state.q);
   if (state.gender !== "all") p.set("g", state.gender);
   if (state.sort !== "brand") p.set("sort", state.sort);
+  if (state.maybe) p.set("maybe", "1");
   if (state.maxPrice < PRICE_MAX) p.set("max", state.maxPrice);
   FILTERS.forEach(f => { if (state.sel[f.key].size) p.set(f.key, [...state.sel[f.key]].join(",")); });
   const h = p.toString();
@@ -464,21 +478,33 @@ function activeCount(){
   return (state.q ? 1 : 0) + (state.gender !== "all" ? 1 : 0) + (state.maxPrice < PRICE_MAX ? 1 : 0)
     + FILTERS.reduce((n, f) => n + state.sel[f.key].size, 0);
 }
-function matches(s, skip){
+// Returns null when the shoe contradicts a filter, otherwise the labels of active filters it
+// has no official value for (empty = a true match).
+function classify(s, skip){
   if (state.q){
     const words = state.q.toLowerCase().split(/\s+/).filter(Boolean);
-    if (!words.every(w => s.text.includes(w))) return false;
+    if (!words.every(w => s.text.includes(w))) return null;
   }
-  if (state.gender === "men" && s.gender === "W") return false;
-  if (state.gender === "women" && s.gender === "M") return false;
-  if (state.maxPrice < PRICE_MAX && (s.price == null || s.price > state.maxPrice)) return false;
+  const unknown = [];
+  if (state.gender !== "all"){
+    if (s.gender == null) unknown.push("Versions");
+    else if (s.gender === (state.gender === "men" ? "W" : "M")) return null;
+  }
+  if (state.maxPrice < PRICE_MAX){
+    if (s.price == null) unknown.push("Price");
+    else if (s.price > state.maxPrice) return null;
+  }
   for (const f of FILTERS){
     if (f.key === skip) continue;
     const sel = state.sel[f.key];
-    if (sel.size && ![].concat(f.get(s)).some(x => sel.has(x))) return false;
+    if (!sel.size) continue;
+    const vals = [].concat(f.get(s)).filter(v => v !== "?");
+    if (!vals.length) unknown.push(f.label);
+    else if (!vals.some(x => sel.has(x))) return null;
   }
-  return true;
+  return unknown;
 }
+const matches = (s, skip) => classify(s, skip)?.length === 0;
 
 /* ---------- figures ---------- */
 // Side profile. The sole arches up between heel and toe as downturn grows (heel and toe stay on the
@@ -588,14 +614,15 @@ function renderFilters(){
   $("aside").scrollTop = scroll;
 }
 
-function card(s){
+function card(s, unknown){
   const uses = !s.tags.length ? `<span class="unk">Unknown</span>`
     : s.tags.filter(t => t !== "vegan").map(cap).join(", ") + (s.tags.includes("vegan") ? " · Vegan" : "");
-  return `<article class="card ${compare.includes(s.id) ? "sel" : ""}">
+  return `<article class="card ${compare.includes(s.id) ? "sel" : ""} ${unknown ? "maybe" : ""}">
     <div class="c-head">
       <div><div class="brand">${esc(s.brand)}</div><h2 class="model">${esc(s.model)}</h2><div class="price">${priceTxt(s)}</div></div>
       ${checkBtn(s)}
     </div>
+    ${unknown ? `<div class="unk-note">Not stated by the brand: ${esc(unknown.join(", ").toLowerCase())}</div>` : ""}
     ${figs(s)}
     <dl class="specs">
       <dt>Downturn</dt><dd>${scale(s.down, 3)}</dd><dd class="v${s.down == null ? " unk" : ""}">${lab(L.down, s.down)}</dd>
@@ -613,10 +640,10 @@ function card(s){
 
 const TABLE_COLS = [["Model"], ["Price","price"], ["Downturn","down"], ["Asymmetry","asym"], ["Stiffness","stiff"], ["Closure"], ["Width"], ["Volume"], ["Rubber"], [""]];
 const COL_SORT = {price:["price-asc","price-desc"], down:["aggr-desc","aggr-asc"], asym:["aggr-desc","aggr-asc"], stiff:["stiff","soft"]};
-function table(res){
+function table(res, maybe, bar){
   const head = `<th style="width:46px"></th>` + TABLE_COLS.map(([t, k]) => !k ? `<th>${t}</th>`
     : `<th class="${COL_SORT[k].includes(state.sort) ? "sorted" : ""}"><button data-colsort="${k}">${t}${icon("sort")}</button></th>`).join("");
-  const rows = res.map(s => `<tr class="${compare.includes(s.id) ? "sel" : ""}">
+  const row = (s, unknown) => `<tr class="${compare.includes(s.id) ? "sel" : ""} ${unknown ? "maybe" : ""}" ${unknown ? `title="Not stated by the brand: ${esc(unknown.join(", ").toLowerCase())}"` : ""}>
     <td>${checkBtn(s)}</td>
     <td class="m"><span>${esc(s.brand)}</span><b>${esc(s.model)}</b></td>
     <td class="mono">${priceTxt(s, "Unknown")}</td>
@@ -626,17 +653,29 @@ function table(res){
     <td>${unk(L.closure[s.closure])}</td><td>${unk(L.width[s.width])}</td><td>${unk(L.volume[s.volume])}</td>
     <td>${unk(s.rubber)}</td>
     <td><a href="${productHref(s)}" target="_blank" rel="noopener" aria-label="Product page for ${esc(s.model)}">${icon("out")}</a></td>
-  </tr>`).join("");
+  </tr>`;
+  const rows = res.map(s => row(s)).join("")
+    + (bar ? `<tr class="sep"><td colspan="${TABLE_COLS.length + 1}">${bar}</td></tr>` : "")
+    + maybe.map(([s, u]) => row(s, u)).join("");
   return `<div class="tbl-wrap"><table class="tbl"><thead><tr>${head}</tr></thead><tbody>${rows}</tbody></table></div>`;
 }
 
 function renderResults(){
-  const res = SHOES.filter(s => matches(s)).sort(SORTS[state.sort]);
+  const res = [], maybeAll = [];
+  for (const s of SHOES){ const u = classify(s); if (u) (u.length ? maybeAll.push([s, u]) : res.push(s)); }
+  res.sort(SORTS[state.sort]);
+  maybeAll.sort((a, b) => SORTS[state.sort](a[0], b[0]));
+  const maybe = state.maybe ? maybeAll : [];
   $("count").textContent = res.length;
+  $("countMaybe").textContent = maybeAll.length ? ` + ${maybeAll.length} possible` : "";
   document.querySelectorAll("[data-view]").forEach(b => b.setAttribute("aria-pressed", b.dataset.view === state.view));
+  const nm = maybeAll.length;
+  const bar = nm ? `<div class="maybe-bar"><span><b>${nm} more ${nm === 1 ? "shoe" : "shoes"} might match.</b> The brand doesn't state some of the values you filter by.</span>
+    <button class="ibtn" data-maybe aria-pressed="${state.maybe}">${state.maybe ? "Hide" : "Show"}</button></div>` : "";
   const empty = `<div class="empty"><strong>No shoes match these filters</strong>Remove a filter or raise the price limit.<br><button class="ibtn" data-reset>Clear all filters</button></div>`;
-  $("results").innerHTML = !res.length ? `<div class="grid">${empty}</div>`
-    : state.view === "table" ? table(res) : `<div class="grid">${res.map(card).join("")}</div>`;
+  $("results").innerHTML = !res.length && !maybe.length ? `<div class="grid">${empty}${bar}</div>`
+    : state.view === "table" ? table(res, maybe, bar)
+    : `<div class="grid">${res.map(s => card(s)).join("")}${bar}${maybe.map(([s, u]) => card(s, u)).join("")}</div>`;
 
   const act = [];
   const tag = (attrs, k, v) => `<button class="tag-x" ${attrs}>${k ? `<span class="k">${k}</span>` : ""}${v}${icon("x")}</button>`;
@@ -714,6 +753,7 @@ document.addEventListener("click", e => {
   if (d.clear) { state.sel[d.clear].clear(); return renderAll(); }
   if (d.more) { expanded[d.more] = !expanded[d.more]; return renderFilters(); }
   if (d.f) { const s = state.sel[d.f]; s.has(d.v) ? s.delete(d.v) : s.add(d.v); return renderAll(); }
+  if ("maybe" in d) { state.maybe = !state.maybe; renderResults(); return writeHash(); }
   if (d.view) { state.view = d.view; store.set("csf-view", state.view); return renderResults(); }
   if (d.colsort) { const [a, b] = COL_SORT[d.colsort]; state.sort = state.sort === a ? b : a; $("sort").value = state.sort; renderResults(); return writeHash(); }
   if (d.rm) {
