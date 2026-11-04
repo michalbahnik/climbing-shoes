@@ -14,7 +14,9 @@
       "source": "https://www.ocun.com/product/diamond-s3"
     },
     "width": {
-      "value": null
+      "value": "M",
+      "quote": "Foot type icons: Narrow 2/3, Normal 3/3, Wide 1/3",
+      "source": "https://www.ocun.com/product/diamond-s3"
     },
     "volume": {
       "value": null
@@ -36,17 +38,24 @@
     "uses": {
       "value": [
         "bouldering",
-        "gym",
         "sport",
+        "gym",
         "vegan"
       ],
-      "quote": "Designed for maximum performance in bouldering, gym training and sport climbing. | 100% vegan",
+      "quote": "Designed for maximum performance in bouldering, gym training and sport climbing. | 100% vegan | Terrain bars: Rocks 75%, Boulder 100%, Multipitch 25%, Indoor 100%",
       "source": "https://www.ocun.com/product/diamond-s3"
     },
     "price": {
       "value": null
     },
-    "notes": "Gender U: one unisex version listed in the ocun.com climbing-shoe catalogue. Price null: ocun.com has no official store (only 'Find a dealer'). Width null: 'Ideal for climbers with narrow to regular-width feet' spans two classes. Asymmetry null: only 'asymmetric Excentric 2.0 last', no degree."
+    "notes": "Gender U: one unisex version listed in the ocun.com climbing-shoe catalogue. Price null: ocun.com has no official store (only 'Find a dealer'). Width null: 'Ideal for climbers with narrow to regular-width feet' spans two classes. Asymmetry null: only 'asymmetric Excentric 2.0 last', no degree. Uses also from the terrain bars (>=75%: Rocks=sport, Boulder=bouldering, Multipitch=multipitch, Indoor=gym).",
+    "toe": {
+      "value": [
+        "R"
+      ],
+      "quote": "Toe shape icons: Egyptian 2/3, Roman 3/3, Greek 2/3",
+      "source": "https://www.ocun.com/product/diamond-s3"
+    }
   },
   {
     "brand": "Ocun",
@@ -82,15 +91,24 @@
     },
     "uses": {
       "value": [
+        "sport",
+        "multipitch",
         "vegan"
       ],
-      "quote": "100% vegan – made without any animal-derived materials.",
+      "quote": "100% vegan – made without any animal-derived materials. | Terrain bars: Rocks 100%, Boulder 50%, Multipitch 75%, Indoor 50%",
       "source": "https://www.ocun.com/product/sigma6"
     },
     "price": {
       "value": null
     },
-    "notes": "Gender U: one unisex version listed in the ocun.com climbing-shoe catalogue. Price null: ocun.com has no official store (only 'Find a dealer'). Width null: 'narrow to regular-width feet'. Rubber null: page says only 'Vibram, 4mm' (no compound). Stiffness null: only midsole name '3D Fit Hard'."
+    "notes": "Gender U: one unisex version listed in the ocun.com climbing-shoe catalogue. Price null: ocun.com has no official store (only 'Find a dealer'). Width null: 'narrow to regular-width feet'. Rubber null: page says only 'Vibram, 4mm' (no compound). Stiffness null: only midsole name '3D Fit Hard'. Uses also from the terrain bars (>=75%: Rocks=sport, Boulder=bouldering, Multipitch=multipitch, Indoor=gym).",
+    "toe": {
+      "value": [
+        "R"
+      ],
+      "quote": "Toe shape icons: Egyptian 2/3, Roman 3/3, Greek 2/3",
+      "source": "https://www.ocun.com/product/sigma6"
+    }
   },
   {
     "brand": "Ocun",
@@ -105,7 +123,9 @@
       "value": null
     },
     "width": {
-      "value": null
+      "value": "N",
+      "quote": "Foot type icons: Narrow 3/3, Normal 2/3, Wide 1/3",
+      "source": "https://www.ocun.com/product/fury3"
     },
     "volume": {
       "value": null
@@ -134,13 +154,20 @@
         "gym",
         "vegan"
       ],
-      "quote": "High-end bouldering shoes | both indoors, and outdoors | 100% vegan",
+      "quote": "High-end bouldering shoes | both indoors, and outdoors | 100% vegan | Terrain bars: Rocks 50%, Boulder 100%, Multipitch 0%, Indoor 100%",
       "source": "https://www.ocun.com/product/fury3"
     },
     "price": {
       "value": null
     },
-    "notes": "Gender U: one unisex version listed in the ocun.com climbing-shoe catalogue. Price null: ocun.com has no official store (only 'Find a dealer'). Closure null: closure type not stated in text. Width null: 'narrow to regular-width feet'. Stiffness: 'exceptionally soft' mapped to very soft (1)."
+    "notes": "Gender U: one unisex version listed in the ocun.com climbing-shoe catalogue. Price null: ocun.com has no official store (only 'Find a dealer'). Closure null: closure type not stated in text. Width null: 'narrow to regular-width feet'. Stiffness: 'exceptionally soft' mapped to very soft (1). Uses also from the terrain bars (>=75%: Rocks=sport, Boulder=bouldering, Multipitch=multipitch, Indoor=gym).",
+    "toe": {
+      "value": [
+        "R"
+      ],
+      "quote": "Toe shape icons: Egyptian 2/3, Roman 3/3, Greek 2/3",
+      "source": "https://www.ocun.com/product/fury3"
+    }
   },
   {
     "brand": "Ocun",
@@ -182,15 +209,25 @@
     },
     "uses": {
       "value": [
+        "bouldering",
+        "sport",
+        "gym",
         "vegan"
       ],
-      "quote": "100% vegan – made without the use of animal-based materials.",
+      "quote": "100% vegan – made without the use of animal-based materials. | Terrain bars: Rocks 100%, Boulder 100%, Multipitch 50%, Indoor 75%",
       "source": "https://www.ocun.com/product/ozone3"
     },
     "price": {
       "value": null
     },
-    "notes": "Gender U: one unisex version listed in the ocun.com climbing-shoe catalogue. Price null: ocun.com has no official store (only 'Find a dealer'). Closure null: not stated in text. Rubber null: only 'Vibram, 4mm'. Volume M because an HV variant of this model exists."
+    "notes": "Gender U: one unisex version listed in the ocun.com climbing-shoe catalogue. Price null: ocun.com has no official store (only 'Find a dealer'). Closure null: not stated in text. Rubber null: only 'Vibram, 4mm'. Volume M because an HV variant of this model exists. Uses also from the terrain bars (>=75%: Rocks=sport, Boulder=bouldering, Multipitch=multipitch, Indoor=gym).",
+    "toe": {
+      "value": [
+        "G"
+      ],
+      "quote": "Toe shape icons: Egyptian 1/3, Roman 2/3, Greek 3/3",
+      "source": "https://www.ocun.com/product/ozone3"
+    }
   },
   {
     "brand": "Ocun",
@@ -228,15 +265,26 @@
     },
     "uses": {
       "value": [
+        "bouldering",
+        "sport",
+        "gym",
         "vegan"
       ],
-      "quote": "100% vegan – produced without any animal-based materials.",
+      "quote": "100% vegan – produced without any animal-based materials. | Terrain bars: Rocks 100%, Boulder 100%, Multipitch 50%, Indoor 75%",
       "source": "https://www.ocun.com/product/ozone-hv3"
     },
     "price": {
       "value": null
     },
-    "notes": "Gender U: one unisex version listed in the ocun.com climbing-shoe catalogue. Price null: ocun.com has no official store (only 'Find a dealer'). Closure null: not stated in text. Rubber null: only 'Vibram, 4mm'. Asymmetry/downturn null: HV page only says 'Asymmetrix Plus last – a wider version of the Asymmetrix last' (the Ozone page rates Asymmetrix 'pronounced asymmetry', 'slightly downturned')."
+    "notes": "Gender U: one unisex version listed in the ocun.com climbing-shoe catalogue. Price null: ocun.com has no official store (only 'Find a dealer'). Closure null: not stated in text. Rubber null: only 'Vibram, 4mm'. Asymmetry/downturn null: HV page only says 'Asymmetrix Plus last – a wider version of the Asymmetrix last' (the Ozone page rates Asymmetrix 'pronounced asymmetry', 'slightly downturned'). Uses also from the terrain bars (>=75%: Rocks=sport, Boulder=bouldering, Multipitch=multipitch, Indoor=gym).",
+    "toe": {
+      "value": [
+        "R",
+        "G"
+      ],
+      "quote": "Toe shape icons: Egyptian 1/3, Roman 3/3, Greek 3/3",
+      "source": "https://www.ocun.com/product/ozone-hv3"
+    }
   },
   {
     "brand": "Ocun",
@@ -283,15 +331,24 @@
     "uses": {
       "value": [
         "bouldering",
+        "sport",
+        "gym",
         "vegan"
       ],
-      "quote": "High-performance climbing shoes designed for bouldering | 100% vegan",
+      "quote": "High-performance climbing shoes designed for bouldering | 100% vegan | Terrain bars: Rocks 75%, Boulder 100%, Multipitch 0%, Indoor 100%",
       "source": "https://www.ocun.com/product/bullit3"
     },
     "price": {
       "value": null
     },
-    "notes": "Gender U: one unisex version listed in the ocun.com climbing-shoe catalogue. Price null: ocun.com has no official store (only 'Find a dealer'). Stiffness: 'soft' mapped to 2."
+    "notes": "Gender U: one unisex version listed in the ocun.com climbing-shoe catalogue. Price null: ocun.com has no official store (only 'Find a dealer'). Stiffness: 'soft' mapped to 2. Uses also from the terrain bars (>=75%: Rocks=sport, Boulder=bouldering, Multipitch=multipitch, Indoor=gym).",
+    "toe": {
+      "value": [
+        "G"
+      ],
+      "quote": "Toe shape icons: Egyptian 1/3, Roman 2/3, Greek 3/3",
+      "source": "https://www.ocun.com/product/bullit3"
+    }
   },
   {
     "brand": "Ocun",
@@ -339,15 +396,23 @@
       "value": [
         "bouldering",
         "sport",
+        "gym",
         "vegan"
       ],
-      "quote": "Performance and precision shoes for bouldering and sport climbing | 100% vegan",
+      "quote": "Performance and precision shoes for bouldering and sport climbing | 100% vegan | Terrain bars: Rocks 75%, Boulder 75%, Multipitch 50%, Indoor 100%",
       "source": "https://www.ocun.com/product/havoc3"
     },
     "price": {
       "value": null
     },
-    "notes": "Gender U: one unisex version listed in the ocun.com climbing-shoe catalogue. Price null: ocun.com has no official store (only 'Find a dealer'). Stiffness: 'Soft construction' mapped to 2."
+    "notes": "Gender U: one unisex version listed in the ocun.com climbing-shoe catalogue. Price null: ocun.com has no official store (only 'Find a dealer'). Stiffness: 'Soft construction' mapped to 2. Uses also from the terrain bars (>=75%: Rocks=sport, Boulder=bouldering, Multipitch=multipitch, Indoor=gym).",
+    "toe": {
+      "value": [
+        "E"
+      ],
+      "quote": "Toe shape icons: Egyptian 3/3, Roman 2/3, Greek 1/3",
+      "source": "https://www.ocun.com/product/havoc3"
+    }
   },
   {
     "brand": "Ocun",
@@ -395,15 +460,26 @@
     },
     "uses": {
       "value": [
+        "bouldering",
+        "sport",
+        "gym",
         "vegan"
       ],
-      "quote": "100% vegan – made without the use of animal-based materials.",
+      "quote": "100% vegan – made without the use of animal-based materials. | Terrain bars: Rocks 75%, Boulder 75%, Multipitch 25%, Indoor 100%",
       "source": "https://www.ocun.com/product/iris3"
     },
     "price": {
       "value": null
     },
-    "notes": "Gender U: one unisex version listed in the ocun.com climbing-shoe catalogue. Price null: ocun.com has no official store (only 'Find a dealer'). Downturn: 'relatively flat profile' mapped to 0; stiffness: 'Soft midsole' mapped to 2."
+    "notes": "Gender U: one unisex version listed in the ocun.com climbing-shoe catalogue. Price null: ocun.com has no official store (only 'Find a dealer'). Downturn: 'relatively flat profile' mapped to 0; stiffness: 'Soft midsole' mapped to 2. Uses also from the terrain bars (>=75%: Rocks=sport, Boulder=bouldering, Multipitch=multipitch, Indoor=gym).",
+    "toe": {
+      "value": [
+        "R",
+        "G"
+      ],
+      "quote": "Toe shape icons: Egyptian 2/3, Roman 3/3, Greek 3/3",
+      "source": "https://www.ocun.com/product/iris3"
+    }
   },
   {
     "brand": "Ocun",
@@ -420,7 +496,9 @@
       "source": "https://www.ocun.com/product/pearl-20th-anniversary3"
     },
     "width": {
-      "value": null
+      "value": "N",
+      "quote": "Foot type icons: Narrow 3/3, Normal 2/3, Wide 0/3",
+      "source": "https://www.ocun.com/product/pearl-20th-anniversary3"
     },
     "volume": {
       "value": null
@@ -445,16 +523,25 @@
     },
     "uses": {
       "value": [
+        "sport",
+        "multipitch",
         "gym",
         "vegan"
       ],
-      "quote": "high-friction compound that grips on both rock and indoor walls | 100% vegan",
+      "quote": "high-friction compound that grips on both rock and indoor walls | 100% vegan | Terrain bars: Rocks 100%, Boulder 25%, Multipitch 75%, Indoor 50%",
       "source": "https://www.ocun.com/product/pearl-20th-anniversary3"
     },
     "price": {
       "value": null
     },
-    "notes": "Gender U: one unisex version listed in the ocun.com climbing-shoe catalogue. Price null: ocun.com has no official store (only 'Find a dealer'). Asymmetry null: page contradicts itself ('slight asymmetry' vs 'Radical last – pronounced downturn, medium asymmetry'). Width null: 'narrow to regular-width feet'. Stiffness: 'Balanced stiffness' mapped to medium (3)."
+    "notes": "Gender U: one unisex version listed in the ocun.com climbing-shoe catalogue. Price null: ocun.com has no official store (only 'Find a dealer'). Asymmetry null: page contradicts itself ('slight asymmetry' vs 'Radical last – pronounced downturn, medium asymmetry'). Width null: 'narrow to regular-width feet'. Stiffness: 'Balanced stiffness' mapped to medium (3). Uses also from the terrain bars (>=75%: Rocks=sport, Boulder=bouldering, Multipitch=multipitch, Indoor=gym).",
+    "toe": {
+      "value": [
+        "G"
+      ],
+      "quote": "Toe shape icons: Egyptian 1/3, Roman 2/3, Greek 3/3",
+      "source": "https://www.ocun.com/product/pearl-20th-anniversary3"
+    }
   },
   {
     "brand": "Ocun",
@@ -498,18 +585,26 @@
     },
     "uses": {
       "value": [
+        "sport",
         "trad",
-        "crack",
         "multipitch",
+        "crack",
         "vegan"
       ],
-      "quote": "designed specifically for traditional and crack climbing | also a reliable choice for multi-pitch climbing | 100% vegan",
+      "quote": "designed specifically for traditional and crack climbing | also a reliable choice for multi-pitch climbing | 100% vegan | Terrain bars: Rocks 100%, Boulder 0%, Multipitch 100%, Indoor 25%",
       "source": "https://www.ocun.com/product/jett-crack3"
     },
     "price": {
       "value": null
     },
-    "notes": "Gender U: one unisex version listed in the ocun.com climbing-shoe catalogue. Price null: ocun.com has no official store (only 'Find a dealer'). Stiffness null: only midsole name '2D Fit Hard'."
+    "notes": "Gender U: one unisex version listed in the ocun.com climbing-shoe catalogue. Price null: ocun.com has no official store (only 'Find a dealer'). Stiffness null: only midsole name '2D Fit Hard'. Uses also from the terrain bars (>=75%: Rocks=sport, Boulder=bouldering, Multipitch=multipitch, Indoor=gym).",
+    "toe": {
+      "value": [
+        "E"
+      ],
+      "quote": "Toe shape icons: Egyptian 3/3, Roman 2/3, Greek 1/3",
+      "source": "https://www.ocun.com/product/jett-crack3"
+    }
   },
   {
     "brand": "Ocun",
@@ -556,15 +651,24 @@
     "uses": {
       "value": [
         "sport",
+        "multipitch",
+        "gym",
         "vegan"
       ],
-      "quote": "Sport climbing shoes that do not compromise the comfort | 100% vegan",
+      "quote": "Sport climbing shoes that do not compromise the comfort | 100% vegan | Terrain bars: Rocks 50%, Boulder 50%, Multipitch 75%, Indoor 75%",
       "source": "https://www.ocun.com/product/jett-qc"
     },
     "price": {
       "value": null
     },
-    "notes": "Gender U: one unisex version listed in the ocun.com climbing-shoe catalogue. Price null: ocun.com has no official store (only 'Find a dealer'). Volume null: 'more volume in the instep and toe area' is relative, not a volume class. Stiffness: 'stiffer midsole' mapped to stiff (4)."
+    "notes": "Gender U: one unisex version listed in the ocun.com climbing-shoe catalogue. Price null: ocun.com has no official store (only 'Find a dealer'). Volume null: 'more volume in the instep and toe area' is relative, not a volume class. Stiffness: 'stiffer midsole' mapped to stiff (4). Uses also from the terrain bars (>=75%: Rocks=sport, Boulder=bouldering, Multipitch=multipitch, Indoor=gym).",
+    "toe": {
+      "value": [
+        "E"
+      ],
+      "quote": "Toe shape icons: Egyptian 3/3, Roman 2/3, Greek 1/3",
+      "source": "https://www.ocun.com/product/jett-qc"
+    }
   },
   {
     "brand": "Ocun",
@@ -610,18 +714,25 @@
     },
     "uses": {
       "value": [
+        "sport",
         "multipitch",
         "gym",
-        "sport",
         "vegan"
       ],
-      "quote": "comfort on multi-pitch routes as well as at the gym | suitable both for technical multi-pitches and for sport routes | 100% vegan",
+      "quote": "comfort on multi-pitch routes as well as at the gym | suitable both for technical multi-pitches and for sport routes | 100% vegan | Terrain bars: Rocks 100%, Boulder 25%, Multipitch 100%, Indoor 50%",
       "source": "https://www.ocun.com/product/jett-lu"
     },
     "price": {
       "value": null
     },
-    "notes": "Gender U: one unisex version listed in the ocun.com climbing-shoe catalogue. Price null: ocun.com has no official store (only 'Find a dealer'). Volume null: 'extra volume in the instep and toe' is relative. Stiffness: 'stiff midsole' mapped to 4."
+    "notes": "Gender U: one unisex version listed in the ocun.com climbing-shoe catalogue. Price null: ocun.com has no official store (only 'Find a dealer'). Volume null: 'extra volume in the instep and toe' is relative. Stiffness: 'stiff midsole' mapped to 4. Uses also from the terrain bars (>=75%: Rocks=sport, Boulder=bouldering, Multipitch=multipitch, Indoor=gym).",
+    "toe": {
+      "value": [
+        "E"
+      ],
+      "quote": "Toe shape icons: Egyptian 3/3, Roman 2/3, Greek 1/3",
+      "source": "https://www.ocun.com/product/jett-lu"
+    }
   },
   {
     "brand": "Ocun",
@@ -638,7 +749,9 @@
       "source": "https://www.ocun.com/product/jett-s"
     },
     "width": {
-      "value": null
+      "value": "M",
+      "quote": "Foot type icons: Narrow 2/3, Normal 3/3, Wide 1/3",
+      "source": "https://www.ocun.com/product/jett-s"
     },
     "volume": {
       "value": null
@@ -664,15 +777,23 @@
     "uses": {
       "value": [
         "bouldering",
+        "gym",
         "vegan"
       ],
-      "quote": "perfect choice for intermediate climbers and boulderers | 100% vegan",
+      "quote": "perfect choice for intermediate climbers and boulderers | 100% vegan | Terrain bars: Rocks 50%, Boulder 100%, Multipitch 25%, Indoor 75%",
       "source": "https://www.ocun.com/product/jett-s"
     },
     "price": {
       "value": null
     },
-    "notes": "Gender U: one unisex version listed in the ocun.com climbing-shoe catalogue. Price null: ocun.com has no official store (only 'Find a dealer'). Width null: 'regular to slightly narrower feet'. Stiffness null: page states both 'Stiffer 2D Fit Hard midsole' and 'split sole delivers high flexibility'."
+    "notes": "Gender U: one unisex version listed in the ocun.com climbing-shoe catalogue. Price null: ocun.com has no official store (only 'Find a dealer'). Width null: 'regular to slightly narrower feet'. Stiffness null: page states both 'Stiffer 2D Fit Hard midsole' and 'split sole delivers high flexibility'. Uses also from the terrain bars (>=75%: Rocks=sport, Boulder=bouldering, Multipitch=multipitch, Indoor=gym).",
+    "toe": {
+      "value": [
+        "E"
+      ],
+      "quote": "Toe shape icons: Egyptian 3/3, Roman 2/3, Greek 1/3",
+      "source": "https://www.ocun.com/product/jett-s"
+    }
   },
   {
     "brand": "Ocun",
@@ -689,7 +810,9 @@
       "source": "https://www.ocun.com/product/advancer-qc3"
     },
     "width": {
-      "value": null
+      "value": "M",
+      "quote": "Foot type icons: Narrow 2/3, Normal 3/3, Wide 1/3",
+      "source": "https://www.ocun.com/product/advancer-qc3"
     },
     "volume": {
       "value": "M",
@@ -716,19 +839,27 @@
     },
     "uses": {
       "value": [
-        "all-round",
-        "gym",
         "bouldering",
         "sport",
+        "multipitch",
+        "gym",
+        "all-round",
         "vegan"
       ],
-      "quote": "Versatile construction – equally at home in the gym or on rock, from bouldering sessions to longer sport routes | 100% vegan",
+      "quote": "Versatile construction – equally at home in the gym or on rock, from bouldering sessions to longer sport routes | 100% vegan | Terrain bars: Rocks 75%, Boulder 50%, Multipitch 75%, Indoor 75%",
       "source": "https://www.ocun.com/product/advancer-qc3"
     },
     "price": {
       "value": null
     },
-    "notes": "Gender U: one unisex version listed in the ocun.com climbing-shoe catalogue. Price null: ocun.com has no official store (only 'Find a dealer'). Downturn null: page says both 'flat profile' and 'slight downturn'. Width null: 'narrow to regular-width feet'. Stiffness: 'stiffer midsole' mapped to 4."
+    "notes": "Gender U: one unisex version listed in the ocun.com climbing-shoe catalogue. Price null: ocun.com has no official store (only 'Find a dealer'). Downturn null: page says both 'flat profile' and 'slight downturn'. Width null: 'narrow to regular-width feet'. Stiffness: 'stiffer midsole' mapped to 4. Uses also from the terrain bars (>=75%: Rocks=sport, Boulder=bouldering, Multipitch=multipitch, Indoor=gym).",
+    "toe": {
+      "value": [
+        "G"
+      ],
+      "quote": "Toe shape icons: Egyptian 1/3, Roman 2/3, Greek 3/3",
+      "source": "https://www.ocun.com/product/advancer-qc3"
+    }
   },
   {
     "brand": "Ocun",
@@ -745,7 +876,9 @@
       "source": "https://www.ocun.com/product/advancer-lu3"
     },
     "width": {
-      "value": null
+      "value": "M",
+      "quote": "Foot type icons: Narrow 2/3, Normal 3/3, Wide 1/3",
+      "source": "https://www.ocun.com/product/advancer-lu3"
     },
     "volume": {
       "value": null
@@ -770,17 +903,25 @@
     },
     "uses": {
       "value": [
+        "sport",
         "multipitch",
         "gym",
         "vegan"
       ],
-      "quote": "built for multipitch routes, cragging, and training at the gym | 100% vegan",
+      "quote": "built for multipitch routes, cragging, and training at the gym | 100% vegan | Terrain bars: Rocks 100%, Boulder 0%, Multipitch 100%, Indoor 50%",
       "source": "https://www.ocun.com/product/advancer-lu3"
     },
     "price": {
       "value": null
     },
-    "notes": "Gender U: one unisex version listed in the ocun.com climbing-shoe catalogue. Price null: ocun.com has no official store (only 'Find a dealer'). Downturn null: page says both 'moderate downturn' and 'slight downturn'. Width null: 'narrow to regular-width feet'. Stiffness: 'Stiffer' mapped to 4."
+    "notes": "Gender U: one unisex version listed in the ocun.com climbing-shoe catalogue. Price null: ocun.com has no official store (only 'Find a dealer'). Downturn null: page says both 'moderate downturn' and 'slight downturn'. Width null: 'narrow to regular-width feet'. Stiffness: 'Stiffer' mapped to 4. Uses also from the terrain bars (>=75%: Rocks=sport, Boulder=bouldering, Multipitch=multipitch, Indoor=gym).",
+    "toe": {
+      "value": [
+        "G"
+      ],
+      "quote": "Toe shape icons: Egyptian 1/3, Roman 2/3, Greek 3/3",
+      "source": "https://www.ocun.com/product/advancer-lu3"
+    }
   },
   {
     "brand": "Ocun",
@@ -822,18 +963,28 @@
     },
     "uses": {
       "value": [
-        "beginner",
-        "gym",
+        "sport",
         "multipitch",
+        "gym",
+        "beginner",
         "vegan"
       ],
-      "quote": "an ideal choice for beginners and recreational climbers | from gym training to light outdoor routes | multipitch routes | 100% vegan",
+      "quote": "an ideal choice for beginners and recreational climbers | from gym training to light outdoor routes | multipitch routes | 100% vegan | Terrain bars: Rocks 75%, Boulder 50%, Multipitch 50%, Indoor 50%",
       "source": "https://www.ocun.com/product/striker-qc3"
     },
     "price": {
       "value": null
     },
-    "notes": "Gender U: one unisex version listed in the ocun.com climbing-shoe catalogue. Price null: ocun.com has no official store (only 'Find a dealer'). Width null: 'suitable for narrow, wide, and regular-width feet'. Asymmetry: 'mild' mapped to 1."
+    "notes": "Gender U: one unisex version listed in the ocun.com climbing-shoe catalogue. Price null: ocun.com has no official store (only 'Find a dealer'). Width null: 'suitable for narrow, wide, and regular-width feet'. Asymmetry: 'mild' mapped to 1. Uses also from the terrain bars (>=75%: Rocks=sport, Boulder=bouldering, Multipitch=multipitch, Indoor=gym).",
+    "toe": {
+      "value": [
+        "E",
+        "R",
+        "G"
+      ],
+      "quote": "Toe shape icons: Egyptian 2/3, Roman 2/3, Greek 2/3",
+      "source": "https://www.ocun.com/product/striker-qc3"
+    }
   },
   {
     "brand": "Ocun",
@@ -850,7 +1001,9 @@
       "source": "https://www.ocun.com/product/striker-lu3"
     },
     "width": {
-      "value": null
+      "value": "W",
+      "quote": "Foot type icons: Narrow 2/3, Normal 2/3, Wide 3/3",
+      "source": "https://www.ocun.com/product/striker-lu3"
     },
     "volume": {
       "value": null
@@ -873,17 +1026,28 @@
     },
     "uses": {
       "value": [
-        "beginner",
+        "sport",
+        "multipitch",
         "gym",
+        "beginner",
         "vegan"
       ],
-      "quote": "ideal choice for beginners and recreational climbers | all-day climbing at the gym or outside on rock | 100% vegan",
+      "quote": "ideal choice for beginners and recreational climbers | all-day climbing at the gym or outside on rock | 100% vegan | Terrain bars: Rocks 75%, Boulder 25%, Multipitch 75%, Indoor 50%",
       "source": "https://www.ocun.com/product/striker-lu3"
     },
     "price": {
       "value": null
     },
-    "notes": "Gender U: one unisex version listed in the ocun.com climbing-shoe catalogue. Price null: ocun.com has no official store (only 'Find a dealer'). Rubber null: page says only 'Rubber 4 mm'. Width null: 'suitable for narrow, wide, and regular-width feet'."
+    "notes": "Gender U: one unisex version listed in the ocun.com climbing-shoe catalogue. Price null: ocun.com has no official store (only 'Find a dealer'). Rubber null: page says only 'Rubber 4 mm'. Width null: 'suitable for narrow, wide, and regular-width feet'. Uses also from the terrain bars (>=75%: Rocks=sport, Boulder=bouldering, Multipitch=multipitch, Indoor=gym).",
+    "toe": {
+      "value": [
+        "E",
+        "R",
+        "G"
+      ],
+      "quote": "Toe shape icons: Egyptian 2/3, Roman 2/3, Greek 2/3",
+      "source": "https://www.ocun.com/product/striker-lu3"
+    }
   },
   {
     "brand": "Ocun",
@@ -923,12 +1087,21 @@
         "beginner",
         "vegan"
       ],
-      "quote": "ideal choice for climbing gyms and rental centers seeking a reliable and durable shoe suitable for beginners | 100% vegan",
+      "quote": "ideal choice for climbing gyms and rental centers seeking a reliable and durable shoe suitable for beginners | 100% vegan | Terrain bars: Rocks 0%, Boulder 50%, Multipitch 0%, Indoor 100%",
       "source": "https://www.ocun.com/product/rental4"
     },
     "price": {
       "value": null
     },
-    "notes": "Gender U: one unisex version listed in the ocun.com climbing-shoe catalogue. Price null: ocun.com has no official store (only 'Find a dealer'). Closure null: not stated in text. Rubber null: page says only 'Rubber 4 mm'. Width null: 'suitable for all foot shapes'."
+    "notes": "Gender U: one unisex version listed in the ocun.com climbing-shoe catalogue. Price null: ocun.com has no official store (only 'Find a dealer'). Closure null: not stated in text. Rubber null: page says only 'Rubber 4 mm'. Width null: 'suitable for all foot shapes'. Uses also from the terrain bars (>=75%: Rocks=sport, Boulder=bouldering, Multipitch=multipitch, Indoor=gym).",
+    "toe": {
+      "value": [
+        "E",
+        "R",
+        "G"
+      ],
+      "quote": "Toe shape icons: Egyptian 2/3, Roman 2/3, Greek 2/3",
+      "source": "https://www.ocun.com/product/rental4"
+    }
   }
 ]

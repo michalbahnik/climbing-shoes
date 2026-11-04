@@ -80,7 +80,9 @@
       "source": "https://tenaya.net/en/item/indalo/"
     },
     "stiffness": {
-      "value": null
+      "value": 4,
+      "quote": "Rigidez 4 (rating widget in page source)",
+      "source": "https://tenaya.net/en/item/indalo/"
     },
     "rubber": {
       "value": "Vibram XS Grip",
@@ -133,7 +135,9 @@
       "source": "https://tenaya.net/en/item/mastia/"
     },
     "stiffness": {
-      "value": null
+      "value": 4,
+      "quote": "Rigidez 4 (rating widget in page source)",
+      "source": "https://tenaya.net/en/item/mastia/"
     },
     "rubber": {
       "value": "Vibram XS Grip",
@@ -186,7 +190,9 @@
       "source": "https://tenaya.net/en/item/mundaka/"
     },
     "stiffness": {
-      "value": null
+      "value": 4,
+      "quote": "Rigidez 3.5 (rating widget in page source)",
+      "source": "https://tenaya.net/en/item/mundaka/"
     },
     "rubber": {
       "value": "Vibram XS Grip",
@@ -239,7 +245,9 @@
       "source": "https://tenaya.net/en/item/iati/"
     },
     "stiffness": {
-      "value": null
+      "value": 4,
+      "quote": "Rigidez 3.5 (rating widget in page source)",
+      "source": "https://tenaya.net/en/item/iati/"
     },
     "rubber": {
       "value": "Vibram XS Grip",
@@ -293,7 +301,9 @@
       "value": null
     },
     "stiffness": {
-      "value": null
+      "value": 3,
+      "quote": "Rigidez 3 (rating widget in page source)",
+      "source": "https://tenaya.net/en/item/oasi/"
     },
     "rubber": {
       "value": "Vibram XS Grip",
@@ -345,7 +355,9 @@
       "value": null
     },
     "stiffness": {
-      "value": null
+      "value": 4,
+      "quote": "Rigidez 3.5 (rating widget in page source)",
+      "source": "https://tenaya.net/en/item/tarifa/"
     },
     "rubber": {
       "value": "Vibram XS Grip",
@@ -399,7 +411,9 @@
       "source": "https://tenaya.net/en/item/ra/"
     },
     "stiffness": {
-      "value": null
+      "value": 4,
+      "quote": "Rigidez 3.5 (rating widget in page source)",
+      "source": "https://tenaya.net/en/item/ra/"
     },
     "rubber": {
       "value": "Vibram XS Grip",
@@ -451,7 +465,9 @@
       "value": null
     },
     "stiffness": {
-      "value": null
+      "value": 3,
+      "quote": "Rigidez 3 (rating widget in page source)",
+      "source": "https://tenaya.net/en/item/inti/"
     },
     "rubber": {
       "value": "Vibram XS Grip",
@@ -502,7 +518,9 @@
       "value": null
     },
     "stiffness": {
-      "value": null
+      "value": 4,
+      "quote": "Rigidez 3.5 (rating widget in page source)",
+      "source": "https://tenaya.net/en/item/masai/"
     },
     "rubber": {
       "value": "Vibram XS Grip",
@@ -554,7 +572,9 @@
       "value": null
     },
     "stiffness": {
-      "value": null
+      "value": 3,
+      "quote": "Rigidez 3 (rating widget in page source)",
+      "source": "https://tenaya.net/en/item/tatanka/"
     },
     "rubber": {
       "value": "Vibram XS Grip",
@@ -606,7 +626,9 @@
       "value": null
     },
     "stiffness": {
-      "value": null
+      "value": 4,
+      "quote": "Rigidez 3.5 (rating widget in page source)",
+      "source": "https://tenaya.net/en/item/arai/"
     },
     "rubber": {
       "value": null
@@ -659,7 +681,9 @@
       "source": "https://tenaya.net/en/item/tanta/"
     },
     "stiffness": {
-      "value": null
+      "value": 4,
+      "quote": "Rigidez 3.5 (rating widget in page source)",
+      "source": "https://tenaya.net/en/item/tanta/"
     },
     "rubber": {
       "value": null
@@ -710,7 +734,9 @@
       "source": "https://tenaya.net/en/item/tanta-laces/"
     },
     "stiffness": {
-      "value": null
+      "value": 4,
+      "quote": "Rigidez 3.5 (rating widget in page source)",
+      "source": "https://tenaya.net/en/item/tanta-laces/"
     },
     "rubber": {
       "value": null

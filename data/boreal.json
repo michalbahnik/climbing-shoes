@@ -28,8 +28,8 @@
       "source": "https://europe.borealoutdoor.com/product/ace/"
     },
     "stiffness": {
-      "value": 4,
-      "quote": "Featuring a stiffer midsole",
+      "value": 5,
+      "quote": "Flexibility scale image flexibilidad01EN.jpg (1/5 flexible)",
       "source": "https://europe.borealoutdoor.com/product/ace/"
     },
     "rubber": {
@@ -83,9 +83,7 @@
       "value": null
     },
     "stiffness": {
-      "value": 2,
-      "quote": "Medium-soft midole for greay sensitivity",
-      "source": "https://europe.borealoutdoor.com/product/alpha/"
+      "value": null
     },
     "rubber": {
       "value": "Zenith Quattro 2.0",
@@ -108,7 +106,7 @@
       "quote": "94.95€",
       "source": "https://europe.borealoutdoor.com/product/alpha/"
     },
-    "notes": "Stiffness: 'Medium-soft' (typos verbatim from page) mapped to 2."
+    "notes": "Stiffness: 'Medium-soft' (typos verbatim from page) mapped to 2. stiffness left null: text says 2, the brand scale says 4 (Flexibility scale image flexibilidad02EN.jpg (2/5 flexible))."
   },
   {
     "brand": "Boreal",
@@ -139,8 +137,8 @@
       "source": "https://europe.borealoutdoor.com/product/ballet/"
     },
     "stiffness": {
-      "value": 4,
-      "quote": "stiff midsole",
+      "value": 5,
+      "quote": "Flexibility scale image flexibilidad01EN.jpg (1/5 flexible)",
       "source": "https://europe.borealoutdoor.com/product/ballet/"
     },
     "rubber": {
@@ -196,7 +194,9 @@
       "value": null
     },
     "stiffness": {
-      "value": null
+      "value": 4,
+      "quote": "Flexibility scale image flexibilidad02EN.jpg (2/5 flexible)",
+      "source": "https://europe.borealoutdoor.com/product/beta-2-0-2026/"
     },
     "rubber": {
       "value": "Zenith Quattro",
@@ -251,7 +251,9 @@
       "value": null
     },
     "stiffness": {
-      "value": null
+      "value": 4,
+      "quote": "Flexibility scale image flexibilidad02EN.jpg (2/5 flexible)",
+      "source": "https://europe.borealoutdoor.com/product/beta-2-0-lv/"
     },
     "rubber": {
       "value": "Zenith Quattro",
@@ -304,7 +306,9 @@
       "value": null
     },
     "stiffness": {
-      "value": null
+      "value": 4,
+      "quote": "Flexibility scale image flexibilidad02EN.jpg (2/5 flexible)",
+      "source": "https://europe.borealoutdoor.com/product/beta-eco-2-0/"
     },
     "rubber": {
       "value": "Zenith Quattro",
@@ -355,7 +359,9 @@
       "value": null
     },
     "stiffness": {
-      "value": null
+      "value": 3,
+      "quote": "Flexibility scale image flexibilidad03EN.jpg (3/5 flexible)",
+      "source": "https://europe.borealoutdoor.com/product/crux/"
     },
     "rubber": {
       "value": "Zenith Pro 2.0",
@@ -412,7 +418,9 @@
       "source": "https://europe.borealoutdoor.com/product/crux-lace/"
     },
     "stiffness": {
-      "value": null
+      "value": 3,
+      "quote": "Flexibility scale image flexibilidad03EN.jpg (3/5 flexible)",
+      "source": "https://europe.borealoutdoor.com/product/crux-lace/"
     },
     "rubber": {
       "value": "Zenith Pro 2.0",
@@ -461,7 +469,9 @@
       "value": null
     },
     "stiffness": {
-      "value": null
+      "value": 3,
+      "quote": "Flexibility scale image flexibilidad03EN.jpg (3/5 flexible)",
+      "source": "https://europe.borealoutdoor.com/product/dharma/"
     },
     "rubber": {
       "value": "Zenith Pro 2.0",
@@ -518,9 +528,7 @@
       "source": "https://europe.borealoutdoor.com/product/indo/"
     },
     "stiffness": {
-      "value": 2,
-      "quote": "prioritising sensitivity and flexibility",
-      "source": "https://europe.borealoutdoor.com/product/indo/"
+      "value": null
     },
     "rubber": {
       "value": "Zenith Ultra 2.0",
@@ -542,7 +550,7 @@
       "quote": "144.95€",
       "source": "https://europe.borealoutdoor.com/product/indo/"
     },
-    "notes": "Stiffness 2 from 'flexibility' / 'great flexibility'."
+    "notes": "Stiffness 2 from 'flexibility' / 'great flexibility'. stiffness left null: text says 2, the brand scale says 4 (Flexibility scale image flexibilidad02EN.jpg (2/5 flexible))."
   },
   {
     "brand": "Boreal",
@@ -571,7 +579,9 @@
       "value": null
     },
     "stiffness": {
-      "value": null
+      "value": 4,
+      "quote": "Flexibility scale image flexibilidad02EN.jpg (2/5 flexible)",
+      "source": "https://europe.borealoutdoor.com/product/joker/"
     },
     "rubber": {
       "value": "Zenith Quattro",
@@ -623,7 +633,9 @@
       "value": null
     },
     "stiffness": {
-      "value": null
+      "value": 4,
+      "quote": "Flexibility scale image flexibilidad02EN.jpg (2/5 flexible)",
+      "source": "https://europe.borealoutdoor.com/product/joker-lace/"
     },
     "rubber": {
       "value": "Zenith Quattro",
@@ -677,7 +689,9 @@
       "source": "https://europe.borealoutdoor.com/product/lynx/"
     },
     "stiffness": {
-      "value": null
+      "value": 5,
+      "quote": "Flexibility scale image flexibilidad01EN.jpg (1/5 flexible)",
+      "source": "https://europe.borealoutdoor.com/product/lynx/"
     },
     "rubber": {
       "value": "Zenith Pro",
@@ -733,7 +747,9 @@
       "value": null
     },
     "stiffness": {
-      "value": null
+      "value": 2,
+      "quote": "Flexibility scale image flexibilidad04EN.jpg (4/5 flexible)",
+      "source": "https://europe.borealoutdoor.com/product/mutant-3-0/"
     },
     "rubber": {
       "value": "Zenith Ultra",
@@ -787,7 +803,9 @@
       "value": null
     },
     "stiffness": {
-      "value": null
+      "value": 2,
+      "quote": "Flexibility scale image flexibilidad04EN.jpg (4/5 flexible)",
+      "source": "https://europe.borealoutdoor.com/product/mutant-3-0-lv/"
     },
     "rubber": {
       "value": "Zenith Ultra",
@@ -841,7 +859,9 @@
       "source": "https://europe.borealoutdoor.com/product/ninja/"
     },
     "stiffness": {
-      "value": null
+      "value": 1,
+      "quote": "Flexibility scale image flexibilidad05EN.jpg (5/5 flexible)",
+      "source": "https://europe.borealoutdoor.com/product/ninja/"
     },
     "rubber": {
       "value": "Zenith Ultra",
@@ -894,8 +914,8 @@
       "value": null
     },
     "stiffness": {
-      "value": 2,
-      "quote": "supple midsole",
+      "value": 3,
+      "quote": "Flexibility scale image flexibilidad03EN.jpg (3/5 flexible)",
       "source": "https://europe.borealoutdoor.com/product/nodab-v7/"
     },
     "rubber": {
@@ -950,8 +970,8 @@
       "value": null
     },
     "stiffness": {
-      "value": 2,
-      "quote": "supple midsole",
+      "value": 3,
+      "quote": "Flexibility scale image flexibilidad03EN.jpg (3/5 flexible)",
       "source": "https://europe.borealoutdoor.com/product/nodab-v7-lv/"
     },
     "rubber": {
@@ -1004,7 +1024,9 @@
       "value": null
     },
     "stiffness": {
-      "value": null
+      "value": 2,
+      "quote": "Flexibility scale image flexibilidad04EN.jpg (4/5 flexible)",
+      "source": "https://europe.borealoutdoor.com/product/satori/"
     },
     "rubber": {
       "value": "Zenith Ultra 2.0",
@@ -1057,8 +1079,8 @@
       "value": null
     },
     "stiffness": {
-      "value": 4,
-      "quote": "A stiff and supportive shoe with superior comfort and breathability.",
+      "value": 5,
+      "quote": "Flexibility scale image flexibilidad01EN.jpg (1/5 flexible)",
       "source": "https://europe.borealoutdoor.com/product/silex/"
     },
     "rubber": {
@@ -1110,7 +1132,9 @@
       "value": null
     },
     "stiffness": {
-      "value": null
+      "value": 5,
+      "quote": "Flexibility scale image flexibilidad01EN.jpg (1/5 flexible)",
+      "source": "https://europe.borealoutdoor.com/product/silex-lace/"
     },
     "rubber": {
       "value": "Zenith Quattro",
@@ -1162,9 +1186,7 @@
       "value": null
     },
     "stiffness": {
-      "value": 2,
-      "quote": "Single strap for heel security with excellent flexibility.",
-      "source": "https://europe.borealoutdoor.com/product/synergy-2-0/"
+      "value": null
     },
     "rubber": {
       "value": "Zenith Ultra",
@@ -1188,6 +1210,6 @@
       "quote": "169.95€",
       "source": "https://europe.borealoutdoor.com/product/synergy-2-0/"
     },
-    "notes": "'highly aggressive last shape' not split into asymmetry/downturn, left null. Stiffness 2 from 'excellent flexibility' (page also lists Midsole: No)."
+    "notes": "'highly aggressive last shape' not split into asymmetry/downturn, left null. Stiffness 2 from 'excellent flexibility' (page also lists Midsole: No). stiffness left null: text says 2, the brand scale says 5 (Flexibility scale image flexibilidad01EN.jpg (1/5 flexible))."
   }
 ]

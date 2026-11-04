@@ -83,10 +83,14 @@
       "value": null
     },
     "asymmetry": {
-      "value": null
+      "value": 3,
+      "quote": "Shoe shape icon: RC_asymmetry-aggressive.png",
+      "source": "https://redchiliclimbing.com/eu-en/shop/climbing-shoes/voltage-x"
     },
     "downturn": {
-      "value": null
+      "value": 3,
+      "quote": "Downturn icon: RC_downturn-aggressive.png",
+      "source": "https://redchiliclimbing.com/eu-en/shop/climbing-shoes/voltage-x"
     },
     "stiffness": {
       "value": 1,
@@ -196,7 +200,9 @@
       "source": "https://redchiliclimbing.com/eu-en/shop/climbing-shoes/voltage-lv"
     },
     "asymmetry": {
-      "value": null
+      "value": 3,
+      "quote": "Shoe shape icon: RC_asymmetry-aggressive.png",
+      "source": "https://redchiliclimbing.com/eu-en/shop/climbing-shoes/voltage-lv"
     },
     "downturn": {
       "value": 3,
@@ -253,7 +259,9 @@
       "value": null
     },
     "asymmetry": {
-      "value": null
+      "value": 3,
+      "quote": "Shoe shape icon: RC_asymmetry-aggressive.png",
+      "source": "https://redchiliclimbing.com/eu-en/shop/climbing-shoes/voltage-lace"
     },
     "downturn": {
       "value": 3,
@@ -306,10 +314,14 @@
       "value": null
     },
     "asymmetry": {
-      "value": null
+      "value": 2,
+      "quote": "Shoe shape icon: RC_asymmetry-moderate.png",
+      "source": "https://redchiliclimbing.com/eu-en/shop/climbing-shoes/clue"
     },
     "downturn": {
-      "value": null
+      "value": 3,
+      "quote": "Downturn icon: RC_downturn-aggressive.png",
+      "source": "https://redchiliclimbing.com/eu-en/shop/climbing-shoes/clue"
     },
     "stiffness": {
       "value": 3,
@@ -362,10 +374,14 @@
       "value": null
     },
     "asymmetry": {
-      "value": null
+      "value": 2,
+      "quote": "Shoe shape icon: RC_asymmetry-moderate.png",
+      "source": "https://redchiliclimbing.com/eu-en/shop/climbing-shoes/magnet"
     },
     "downturn": {
-      "value": null
+      "value": 2,
+      "quote": "Downturn icon: RC_downturn-ambitious.png",
+      "source": "https://redchiliclimbing.com/eu-en/shop/climbing-shoes/magnet"
     },
     "stiffness": {
       "value": 4,
@@ -470,10 +486,14 @@
       "source": "https://redchiliclimbing.com/eu-en/shop/climbing-shoes/fusion-lv"
     },
     "asymmetry": {
-      "value": null
+      "value": 2,
+      "quote": "Shoe shape icon: RC_asymmetry-moderate.png",
+      "source": "https://redchiliclimbing.com/eu-en/shop/climbing-shoes/fusion"
     },
     "downturn": {
-      "value": null
+      "value": 2,
+      "quote": "Downturn icon: RC_downturn-ambitious.png",
+      "source": "https://redchiliclimbing.com/eu-en/shop/climbing-shoes/fusion"
     },
     "stiffness": {
       "value": 4,
@@ -527,10 +547,14 @@
       "source": "https://redchiliclimbing.com/eu-en/shop/climbing-shoes/fusion-lv"
     },
     "asymmetry": {
-      "value": null
+      "value": 2,
+      "quote": "Shoe shape icon: RC_asymmetry-moderate.png",
+      "source": "https://redchiliclimbing.com/eu-en/shop/climbing-shoes/fusion-lv"
     },
     "downturn": {
-      "value": null
+      "value": 2,
+      "quote": "Downturn icon: RC_downturn-ambitious.png",
+      "source": "https://redchiliclimbing.com/eu-en/shop/climbing-shoes/fusion-lv"
     },
     "stiffness": {
       "value": 4,
@@ -584,10 +608,14 @@
       "source": "https://redchiliclimbing.com/eu-en/shop/climbing-shoes/spirit-lv"
     },
     "asymmetry": {
-      "value": null
+      "value": 0,
+      "quote": "Shoe shape icon: RC_asymmetry-neutral.png",
+      "source": "https://redchiliclimbing.com/eu-en/shop/climbing-shoes/spirit"
     },
     "downturn": {
-      "value": null
+      "value": 0,
+      "quote": "Downturn icon: RC_downturn-flat.png",
+      "source": "https://redchiliclimbing.com/eu-en/shop/climbing-shoes/spirit"
     },
     "stiffness": {
       "value": 4,
@@ -643,10 +671,14 @@
       "source": "https://redchiliclimbing.com/eu-en/shop/climbing-shoes/spirit-lv"
     },
     "asymmetry": {
-      "value": null
+      "value": 0,
+      "quote": "Shoe shape icon: RC_asymmetry-neutral.png",
+      "source": "https://redchiliclimbing.com/eu-en/shop/climbing-shoes/spirit-lv"
     },
     "downturn": {
-      "value": null
+      "value": 0,
+      "quote": "Downturn icon: RC_downturn-flat.png",
+      "source": "https://redchiliclimbing.com/eu-en/shop/climbing-shoes/spirit-lv"
     },
     "stiffness": {
       "value": 4,
@@ -698,12 +730,12 @@
       "value": null
     },
     "asymmetry": {
-      "value": null
+      "value": 0,
+      "quote": "Shoe shape icon: RC_asymmetry-neutral.png",
+      "source": "https://redchiliclimbing.com/eu-en/shop/climbing-shoes/ventic-air"
     },
     "downturn": {
-      "value": 2,
-      "quote": "In combination with the moderate downturn and the slight pre-tensioning",
-      "source": "https://redchiliclimbing.com/eu-en/shop/climbing-shoes/ventic-air"
+      "value": null
     },
     "stiffness": {
       "value": 4,
@@ -730,7 +762,7 @@
       "quote": "€100.00",
       "source": "https://redchiliclimbing.com/eu-en/shop/climbing-shoes/ventic-air"
     },
-    "notes": "Gender U: single model with one size run (US Men and US Women columns in the size chart). Stiffness from the page's 'Ridigity' 5-step scale bar (count of active steps, read from HTML), mapped 1:1. Width from the 'Foot shape' Narrow-Wide 5-point scale (active point in HTML): 1-2 N, 3 M, 4-5 W."
+    "notes": "Gender U: single model with one size run (US Men and US Women columns in the size chart). Stiffness from the page's 'Ridigity' 5-step scale bar (count of active steps, read from HTML), mapped 1:1. Width from the 'Foot shape' Narrow-Wide 5-point scale (active point in HTML): 1-2 N, 3 M, 4-5 W. downturn left null: text says 2, the brand scale says 1 (Downturn icon: RC_downturn-moderate.png)."
   },
   {
     "brand": "Red Chili",
@@ -753,10 +785,14 @@
       "value": null
     },
     "asymmetry": {
-      "value": null
+      "value": 0,
+      "quote": "Shoe shape icon: RC_asymmetry-neutral.png",
+      "source": "https://redchiliclimbing.com/eu-en/shop/climbing-shoes/ventic-air-lace"
     },
     "downturn": {
-      "value": null
+      "value": 1,
+      "quote": "Downturn icon: RC_downturn-moderate.png",
+      "source": "https://redchiliclimbing.com/eu-en/shop/climbing-shoes/ventic-air-lace"
     },
     "stiffness": {
       "value": 4,
@@ -809,10 +845,14 @@
       "value": null
     },
     "asymmetry": {
-      "value": null
+      "value": 0,
+      "quote": "Shoe shape icon: RC_asymmetry-neutral.png",
+      "source": "https://redchiliclimbing.com/eu-en/shop/climbing-shoes/sausalito"
     },
     "downturn": {
-      "value": null
+      "value": 0,
+      "quote": "Downturn icon: RC_downturn-flat.png",
+      "source": "https://redchiliclimbing.com/eu-en/shop/climbing-shoes/sausalito"
     },
     "stiffness": {
       "value": 4,
@@ -862,7 +902,9 @@
       "source": "https://redchiliclimbing.com/eu-en/shop/climbing-shoes/circuit-lv"
     },
     "asymmetry": {
-      "value": null
+      "value": 0,
+      "quote": "Shoe shape icon: RC_asymmetry-neutral.png",
+      "source": "https://redchiliclimbing.com/eu-en/shop/climbing-shoes/circuit"
     },
     "downturn": {
       "value": 1,
@@ -923,7 +965,9 @@
       "source": "https://redchiliclimbing.com/eu-en/shop/climbing-shoes/circuit-lv"
     },
     "asymmetry": {
-      "value": null
+      "value": 0,
+      "quote": "Shoe shape icon: RC_asymmetry-neutral.png",
+      "source": "https://redchiliclimbing.com/eu-en/shop/climbing-shoes/circuit-lv"
     },
     "downturn": {
       "value": 1,
@@ -984,10 +1028,14 @@
       "value": null
     },
     "asymmetry": {
-      "value": null
+      "value": 0,
+      "quote": "Shoe shape icon: RC_asymmetry-neutral.png",
+      "source": "https://redchiliclimbing.com/eu-en/shop/climbing-shoes/session-4"
     },
     "downturn": {
-      "value": null
+      "value": 0,
+      "quote": "Downturn icon: RC_downturn-flat.png",
+      "source": "https://redchiliclimbing.com/eu-en/shop/climbing-shoes/session-4"
     },
     "stiffness": {
       "value": 5,
@@ -1039,10 +1087,14 @@
       "value": null
     },
     "asymmetry": {
-      "value": null
+      "value": 0,
+      "quote": "Shoe shape icon: RC_asymmetry-neutral.png",
+      "source": "https://redchiliclimbing.com/eu-en/shop/climbing-shoes/session-air"
     },
     "downturn": {
-      "value": null
+      "value": 0,
+      "quote": "Downturn icon: RC_downturn-flat.png",
+      "source": "https://redchiliclimbing.com/eu-en/shop/climbing-shoes/session-air"
     },
     "stiffness": {
       "value": 5,

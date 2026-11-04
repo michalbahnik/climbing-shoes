@@ -395,11 +395,11 @@ function toeFit(a, w){
 }
 
 const SHOES = window.SHOES_RAW.map((r, i) => {
-  const [brand, model, gender, closure, width, volume, asym, down, stiff, rubber, uses, price, url, priceOrig] = r;
+  const [brand, model, gender, closure, width, volume, asym, down, stiff, rubber, uses, price, url, priceOrig, toe] = r;
   return {
     id: (brand + "-" + model).toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/-$/, ""),
     i, brand, model, gender, closure, width, volume, asym, down, stiff, rubber, tags: uses ? uses.split(" ") : [], price, url, priceOrig,
-    toe: asym == null ? [] : toeFit(asym, width),
+    toe: toe ? ["E","G","R"].filter(t => toe.includes(t)) : asym == null ? [] : toeFit(asym, width),
     text: [brand, model, rubber, uses].filter(Boolean).join(" ").toLowerCase(),
   };
 });
@@ -418,7 +418,7 @@ const FILTERS = [
   {key:"width", label:"Width", type:"seg", opts:["N","M","W"].map(v => ({v, t:L.width[v]})), get:s => k(s.width)},
   {key:"volume", label:"Volume", type:"seg", opts:["L","M","H"].map(v => ({v, t:L.volume[v]})), get:s => k(s.volume)},
   {key:"toe", label:"Toe shape", type:"seg", toe:true, opts:["E","G","R"].map(v => ({v, t:L.toe[v]})), get:s => s.toe,
-   hint:"Egyptian: big toe longest. Greek: second toe longest. Roman: first toes about even. Derived from the shoe's asymmetry and width, not stated by the brands."},
+   hint:"Egyptian: big toe longest. Greek: second toe longest. Roman: first toes about even. Taken from the brand where it states it (Ocun), otherwise derived from the shoe's asymmetry and width."},
   {key:"tags", label:"Use", type:"chips", opts:USES.map(v => ({v, t:cap(v)})), get:s => s.tags},
   {key:"rubber", label:"Rubber", type:"list", opts:byFreq(s => s.rubber).filter(v => v !== "null").map(v => ({v, t:v})), get:s => k(s.rubber), limit:6},
   {key:"brand", label:"Brand", type:"list", opts:BRANDS.map(v => ({v, t:v})), get:s => s.brand, limit:8},

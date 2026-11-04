@@ -37,11 +37,11 @@
     },
     "uses": {
       "value": [
+        "bouldering",
         "sport",
-        "multipitch",
-        "bouldering"
+        "multipitch"
       ],
-      "quote": "USE Outdoor sport climbing, multipitch and bouldering.",
+      "quote": "USE Outdoor sport climbing, multipitch and bouldering. | Terrain level bars (0-5): SPORT CLIMBING 5, BOULDERING 5, MULTI-PITCH 5, INDOOR 2",
       "source": "https://scarpa.com/products/blackbird-our-first-carbon-midsole-climbing-shoe-70086-000-1"
     },
     "price": {
@@ -95,7 +95,7 @@
         "bouldering",
         "gym"
       ],
-      "quote": "Designed for bouldering as well as indoor and outdoor climbing",
+      "quote": "Designed for bouldering as well as indoor and outdoor climbing | Terrain level bars (0-5): SPORT CLIMBING 3, BOULDERING 4, MULTI-PITCH 3, INDOOR 5",
       "source": "https://scarpa.com/products/furia-air-lightweight-precision-70007-000-1"
     },
     "price": {
@@ -148,9 +148,11 @@
     },
     "uses": {
       "value": [
-        "bouldering"
+        "bouldering",
+        "sport",
+        "gym"
       ],
-      "quote": "USE PRECISE CLIMBING OR BOULDERING",
+      "quote": "USE PRECISE CLIMBING OR BOULDERING | Terrain level bars (0-5): SPORT CLIMBING 4, BOULDERING 5, MULTI-PITCH 1, INDOOR 5",
       "source": "https://scarpa.com/products/drago-xt-maximum-toe-precision-70091-000-1"
     },
     "price": {
@@ -205,10 +207,11 @@
     },
     "uses": {
       "value": [
+        "bouldering",
         "sport",
-        "bouldering"
+        "gym"
       ],
-      "quote": "USE SPORT CLIMBING AND BOULDERING",
+      "quote": "USE SPORT CLIMBING AND BOULDERING | Terrain level bars (0-5): SPORT CLIMBING 4, BOULDERING 5, MULTI-PITCH 1, INDOOR 5",
       "source": "https://scarpa.com/products/drago-all-hooking-possibilities-70017-000-1"
     },
     "price": {
@@ -263,10 +266,11 @@
     },
     "uses": {
       "value": [
+        "bouldering",
         "sport",
-        "bouldering"
+        "gym"
       ],
-      "quote": "USE SPORT CLIMBING AND BOULDERING",
+      "quote": "USE SPORT CLIMBING AND BOULDERING | Terrain level bars (0-5): SPORT CLIMBING 4, BOULDERING 5, MULTI-PITCH 1, INDOOR 5",
       "source": "https://scarpa.com/products/drago-lv-low-volume-and-all-hooking-possibilities-70029-000-2"
     },
     "price": {
@@ -319,11 +323,11 @@
     },
     "uses": {
       "value": [
-        "sport",
         "bouldering",
+        "sport",
         "gym"
       ],
-      "quote": "USE SPORT CLIMBING, BOULDERING & INDOOR CLIMBING",
+      "quote": "USE SPORT CLIMBING, BOULDERING & INDOOR CLIMBING | Terrain level bars (0-5): SPORT CLIMBING 4, BOULDERING 5, MULTI-PITCH 2, INDOOR 5",
       "source": "https://scarpa.com/products/instinct-vsr-sensitivity-and-aggressive-hooking-70015-000-1"
     },
     "price": {
@@ -374,11 +378,11 @@
     },
     "uses": {
       "value": [
-        "sport",
         "bouldering",
+        "sport",
         "gym"
       ],
-      "quote": "USE SPORT CLIMBING, BOULDERING & INDOOR CLIMBING",
+      "quote": "USE SPORT CLIMBING, BOULDERING & INDOOR CLIMBING | Terrain level bars (0-5): SPORT CLIMBING 4, BOULDERING 5, MULTI-PITCH 2, INDOOR 5",
       "source": "https://scarpa.com/products/instinct-vsr-lv-sensitivity-low-volume-and-aggressive-hooking-70092-000-1"
     },
     "price": {
@@ -429,10 +433,11 @@
     },
     "uses": {
       "value": [
+        "bouldering",
         "sport",
-        "bouldering"
+        "gym"
       ],
-      "quote": "USE SPORT CLIMBING AND BOULDERING",
+      "quote": "USE SPORT CLIMBING AND BOULDERING | Terrain level bars (0-5): SPORT CLIMBING 4, BOULDERING 4, MULTI-PITCH 1, INDOOR 4",
       "source": "https://scarpa.com/products/instinct-vs-precision-and-aggressive-hooking-70013-000-1"
     },
     "price": {
@@ -483,10 +488,11 @@
     },
     "uses": {
       "value": [
+        "bouldering",
         "sport",
-        "bouldering"
+        "gym"
       ],
-      "quote": "USE SPORT CLIMBING AND BOULDERING",
+      "quote": "USE SPORT CLIMBING AND BOULDERING | Terrain level bars (0-5): SPORT CLIMBING 4, BOULDERING 4, MULTI-PITCH 1, INDOOR 4",
       "source": "https://scarpa.com/products/instinct-vs-woman-precision-and-aggressive-hooking-70013-002-1"
     },
     "price": {
@@ -539,11 +545,11 @@
     },
     "uses": {
       "value": [
-        "sport",
         "bouldering",
+        "sport",
         "gym"
       ],
-      "quote": "USE SPORT CLIMBING, BOULDERING & INDOOR CLIMBING",
+      "quote": "USE SPORT CLIMBING, BOULDERING & INDOOR CLIMBING | Terrain level bars (0-5): SPORT CLIMBING 4, BOULDERING 5, MULTI-PITCH 2, INDOOR 5",
       "source": "https://scarpa.com/products/instinct-s-precision-and-aggressive-hooking-70039-000-1"
     },
     "price": {
@@ -596,10 +602,10 @@
     },
     "uses": {
       "value": [
-        "sport",
-        "bouldering"
+        "bouldering",
+        "sport"
       ],
-      "quote": "USE SPORT CLIMBING AND BOULDERING",
+      "quote": "USE SPORT CLIMBING AND BOULDERING | Terrain level bars (0-5): SPORT CLIMBING 5, BOULDERING 4, MULTI-PITCH 2, INDOOR 3",
       "source": "https://scarpa.com/products/instinct-precision-and-aggressive-hooking-70036-000-1"
     },
     "price": {
@@ -654,10 +660,10 @@
     },
     "uses": {
       "value": [
-        "sport",
-        "bouldering"
+        "bouldering",
+        "sport"
       ],
-      "quote": "USE SPORT CLIMBING AND BOULDERING",
+      "quote": "USE SPORT CLIMBING AND BOULDERING | Terrain level bars (0-5): SPORT CLIMBING 5, BOULDERING 4, MULTI-PITCH 2, INDOOR 3",
       "source": "https://scarpa.com/products/instinct-woman-precision-and-aggressive-hooking-70036-002-1"
     },
     "price": {
@@ -712,11 +718,12 @@
     },
     "uses": {
       "value": [
-        "sport",
         "bouldering",
+        "sport",
+        "gym",
         "all-round"
       ],
-      "quote": "USE SPORT CLIMBING AND BOULDER",
+      "quote": "USE SPORT CLIMBING AND BOULDER | Terrain level bars (0-5): SPORT CLIMBING 5, BOULDERING 3, MULTI-PITCH 3, INDOOR 4",
       "source": "https://scarpa.com/products/vapor-v-support-and-versatility-70096-000-1"
     },
     "price": {
@@ -771,11 +778,12 @@
     },
     "uses": {
       "value": [
-        "sport",
         "bouldering",
+        "sport",
+        "gym",
         "all-round"
       ],
-      "quote": "USE SPORT CLIMBING AND BOULDER",
+      "quote": "USE SPORT CLIMBING AND BOULDER | Terrain level bars (0-5): SPORT CLIMBING 5, BOULDERING 3, MULTI-PITCH 3, INDOOR 4",
       "source": "https://scarpa.com/products/vapor-v-lv-support-versatility-and-low-volume-70093-000-1"
     },
     "price": {
@@ -826,11 +834,12 @@
     },
     "uses": {
       "value": [
+        "bouldering",
         "sport",
-        "gym",
-        "crack"
+        "crack",
+        "gym"
       ],
-      "quote": "USE SPORT CLIMBING & INDOOR",
+      "quote": "USE SPORT CLIMBING & INDOOR | Terrain level bars (0-5): SPORT CLIMBING 5, BOULDERING 5, MULTI-PITCH 3, INDOOR 5",
       "source": "https://scarpa.com/products/vapor-s-slip-into-performance-70078-001-1"
     },
     "price": {
@@ -884,9 +893,10 @@
     "uses": {
       "value": [
         "sport",
+        "multipitch",
         "all-round"
       ],
-      "quote": "USE TECHNICAL SPORT CLIMBING",
+      "quote": "USE TECHNICAL SPORT CLIMBING | Terrain level bars (0-5): SPORT CLIMBING 5, BOULDERING 2, MULTI-PITCH 5, INDOOR 2",
       "source": "https://scarpa.com/products/vapor-versatility-on-the-edge-70074-000-1"
     },
     "price": {
@@ -943,12 +953,12 @@
     },
     "uses": {
       "value": [
-        "sport",
         "bouldering",
+        "sport",
         "gym",
         "all-round"
       ],
-      "quote": "USE SPORT CLIMBING, BOULDER & INDOOR CLIMBING",
+      "quote": "USE SPORT CLIMBING, BOULDER & INDOOR CLIMBING | Terrain level bars (0-5): SPORT CLIMBING 5, BOULDERING 5, MULTI-PITCH 3, INDOOR 4",
       "source": "https://scarpa.com/products/arpia-v-versatility-in-all-situations-70084-000-1"
     },
     "price": {
@@ -1005,12 +1015,12 @@
     },
     "uses": {
       "value": [
-        "sport",
         "bouldering",
+        "sport",
         "gym",
         "all-round"
       ],
-      "quote": "USE SPORT CLIMBING, BOULDER & INDOOR CLIMBING",
+      "quote": "USE SPORT CLIMBING, BOULDER & INDOOR CLIMBING | Terrain level bars (0-5): SPORT CLIMBING 5, BOULDERING 5, MULTI-PITCH 3, INDOOR 4",
       "source": "https://scarpa.com/products/arpia-v-lv-versatility-in-all-situations-70087-000-1"
     },
     "price": {
@@ -1061,10 +1071,11 @@
     },
     "uses": {
       "value": [
+        "bouldering",
         "sport",
-        "bouldering"
+        "gym"
       ],
-      "quote": "USE PRECISION SPORT CLIMBING AND BOULDERING",
+      "quote": "USE PRECISION SPORT CLIMBING AND BOULDERING | Terrain level bars (0-5): SPORT CLIMBING 5, BOULDERING 4, MULTI-PITCH 1, INDOOR 4",
       "source": "https://scarpa.com/products/booster-precise-climbing-shoe-70060-000-1"
     },
     "price": {
@@ -1115,11 +1126,11 @@
     },
     "uses": {
       "value": [
-        "sport",
         "bouldering",
+        "sport",
         "multipitch"
       ],
-      "quote": "A perfect choice for technical multi-pitch face climbing",
+      "quote": "A perfect choice for technical multi-pitch face climbing | Terrain level bars (0-5): SPORT CLIMBING 5, BOULDERING 4, MULTI-PITCH 4, INDOOR 2",
       "source": "https://scarpa.com/products/boostic-for-precise-edging-on-micro-holds-70071-000-2"
     },
     "price": {
@@ -1172,10 +1183,11 @@
     },
     "uses": {
       "value": [
+        "bouldering",
         "sport",
-        "bouldering"
+        "multipitch"
       ],
-      "quote": "USE PRECISION SPORT CLIMBING AND BOULDERING",
+      "quote": "USE PRECISION SPORT CLIMBING AND BOULDERING | Terrain level bars (0-5): SPORT CLIMBING 5, BOULDERING 4, MULTI-PITCH 4, INDOOR 2",
       "source": "https://scarpa.com/products/boostic-r-precise-and-powerful-on-micro-holds-70090-000-1"
     },
     "price": {
@@ -1228,7 +1240,7 @@
       "value": [
         "sport"
       ],
-      "quote": "USE SPORT CLIMBING",
+      "quote": "USE SPORT CLIMBING | Terrain level bars (0-5): SPORT CLIMBING 5, BOULDERING 3, MULTI-PITCH 2, INDOOR 1",
       "source": "https://scarpa.com/products/mago-the-power-of-focus-70077-000-1"
     },
     "price": {
@@ -1279,10 +1291,11 @@
     },
     "uses": {
       "value": [
+        "bouldering",
         "sport",
-        "bouldering"
+        "gym"
       ],
-      "quote": "USE: SPORT CLIMBING AND BOULDERING",
+      "quote": "USE: SPORT CLIMBING AND BOULDERING | Terrain level bars (0-5): SPORT CLIMBING 5, BOULDERING 4, MULTI-PITCH 1, INDOOR 4",
       "source": "https://scarpa.com/products/chimera-powerfully-soft-70073-000-1"
     },
     "price": {
@@ -1335,9 +1348,10 @@
     },
     "uses": {
       "value": [
+        "multipitch",
         "gym"
       ],
-      "quote": "Veloce offers comfort and technology with special focus on indoor climbing",
+      "quote": "Veloce offers comfort and technology with special focus on indoor climbing | Terrain level bars (0-5): SPORT CLIMBING 3, BOULDERING 3, MULTI-PITCH 4, INDOOR 5",
       "source": "https://scarpa.com/products/veloce-climbing-shoe-for-indoor-use-70065-001-1"
     },
     "price": {
@@ -1390,9 +1404,10 @@
     },
     "uses": {
       "value": [
+        "multipitch",
         "gym"
       ],
-      "quote": "designed specifically for indoor climbing",
+      "quote": "designed specifically for indoor climbing | Terrain level bars (0-5): SPORT CLIMBING 3, BOULDERING 3, MULTI-PITCH 4, INDOOR 5",
       "source": "https://scarpa.com/products/veloce-l-indoor-climbing-shoe-for-extended-use-70079-001-1"
     },
     "price": {
@@ -1443,11 +1458,11 @@
     },
     "uses": {
       "value": [
-        "multipitch",
         "trad",
+        "multipitch",
         "crack"
       ],
-      "quote": "prolonged use on big walls and cracks",
+      "quote": "prolonged use on big walls and cracks | Terrain level bars (0-5): SPORT CLIMBING 3, BOULDERING 1, MULTI-PITCH 5, INDOOR 1",
       "source": "https://scarpa.com/products/generator-trad-climbing-shoe-70068-000-1"
     },
     "price": {
@@ -1498,11 +1513,11 @@
     },
     "uses": {
       "value": [
-        "multipitch",
         "trad",
+        "multipitch",
         "crack"
       ],
-      "quote": "prolonged use on big walls and cracks",
+      "quote": "prolonged use on big walls and cracks | Terrain level bars (0-5): SPORT CLIMBING 3, BOULDERING 1, MULTI-PITCH 5, INDOOR 1",
       "source": "https://scarpa.com/products/generator-mid-mid-top-shoe-for-trad-climbing-70063-000-1"
     },
     "price": {
@@ -1557,7 +1572,7 @@
       "value": [
         "multipitch"
       ],
-      "quote": "USE MULTI PITCH AND ALL DAY CLIMBING",
+      "quote": "USE MULTI PITCH AND ALL DAY CLIMBING | Terrain level bars (0-5): SPORT CLIMBING 1, BOULDERING 1, MULTI-PITCH 5, INDOOR 3",
       "source": "https://scarpa.com/products/force-climbing-shoe-for-extended-use-70049-001-1"
     },
     "price": {
@@ -1612,10 +1627,10 @@
     },
     "uses": {
       "value": [
-        "multipitch",
-        "sport"
+        "sport",
+        "multipitch"
       ],
-      "quote": "ideal for long routes, guiding days, and sport climbing",
+      "quote": "ideal for long routes, guiding days, and sport climbing | Terrain level bars (0-5): SPORT CLIMBING 2, BOULDERING 1, MULTI-PITCH 5, INDOOR 2",
       "source": "https://scarpa.com/products/helix-classic-style-reborn-70105-000-3"
     },
     "price": {
@@ -1670,11 +1685,11 @@
     },
     "uses": {
       "value": [
-        "multipitch",
         "sport",
+        "multipitch",
         "gym"
       ],
-      "quote": "Ideal for multi-pitch routes, sport climbing, guiding days, and indoor sessions",
+      "quote": "Ideal for multi-pitch routes, sport climbing, guiding days, and indoor sessions | Terrain level bars (0-5): SPORT CLIMBING 2, BOULDERING 1, MULTI-PITCH 4, INDOOR 3",
       "source": "https://scarpa.com/products/helix-v-classic-style-quick-closure-70107-000-1"
     },
     "price": {
@@ -1731,10 +1746,11 @@
     },
     "uses": {
       "value": [
+        "multipitch",
         "gym",
         "beginner"
       ],
-      "quote": "Ideal for both entry-level and advanced indoor climbers",
+      "quote": "Ideal for both entry-level and advanced indoor climbers | Terrain level bars (0-5): SPORT CLIMBING 1, BOULDERING 3, MULTI-PITCH 4, INDOOR 5",
       "source": "https://scarpa.com/products/origin-vs-indoor-climbing-shoe-70109-000-1"
     },
     "price": {
@@ -1791,10 +1807,11 @@
     },
     "uses": {
       "value": [
+        "multipitch",
         "gym",
         "beginner"
       ],
-      "quote": "Ideal for both entry-level and advanced indoor climbers",
+      "quote": "Ideal for both entry-level and advanced indoor climbers | Terrain level bars (0-5): SPORT CLIMBING 1, BOULDERING 3, MULTI-PITCH 4, INDOOR 5",
       "source": "https://scarpa.com/products/origin-vs-lv-indoor-climbing-shoe-70110-000-1"
     },
     "price": {
@@ -1845,11 +1862,12 @@
     },
     "uses": {
       "value": [
+        "multipitch",
         "gym",
-        "beginner",
-        "all-round"
+        "all-round",
+        "beginner"
       ],
-      "quote": "Perfect for indoor climbing and keen beginners",
+      "quote": "Perfect for indoor climbing and keen beginners | Terrain level bars (0-5): SPORT CLIMBING 1, BOULDERING 1, MULTI-PITCH 4, INDOOR 4",
       "source": "https://scarpa.com/products/reflex-vs-climbing-shoe-for-beginner-70088-000-1"
     },
     "price": {
