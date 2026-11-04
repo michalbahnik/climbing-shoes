@@ -7,8 +7,8 @@
 <meta name="description" content="Filter and compare climbing shoes from La Sportiva, Scarpa, Tenaya, Ocun, Evolv, Five Ten, Black Diamond and more by downturn, asymmetry, stiffness, width, rubber, closure and toe shape.">
 <meta name="google-site-verification" content="WfYZzoU-e-u8LsAnEy4-QFdMxGxFWcs2B3Z1HDGGdD8">
 <link rel="canonical" href="https://michalbahnik.github.io/climbing-shoes/">
-<meta name="theme-color" content="#f5f2ec">
-<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Cpath d='M3 24c0-8 1-14 5-17 3-2 6-1 7 1l3 4c4 2 8 3 10 6 2 2 1 5-2 5-7 0-14 2-23 1z' fill='%23b9532f'/%3E%3C/svg%3E">
+<meta name="theme-color" content="#f6f6f4">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='7' fill='%23111'/%3E%3Cpath d='M6 21c6 0 9-4 14-4 3 0 5 1 6 3' fill='none' stroke='%23fff' stroke-width='2.4' stroke-linecap='round'/%3E%3C/svg%3E">
 <meta property="og:type" content="website">
 <meta property="og:title" content="Climbing Shoe Finder">
 <meta property="og:description" content="Filter and compare climbing shoes by downturn, asymmetry, stiffness, width, rubber and toe shape.">
@@ -16,229 +16,336 @@
 <meta property="og:image" content="https://michalbahnik.github.io/climbing-shoes/og.png">
 <meta name="twitter:card" content="summary_large_image">
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"WebApplication","name":"Climbing Shoe Finder","url":"https://michalbahnik.github.io/climbing-shoes/","applicationCategory":"SportsApplication","operatingSystem":"Any","description":"Filter and compare climbing shoes by downturn, asymmetry, stiffness, width, rubber, closure and toe shape.","offers":{"@type":"Offer","price":"0","priceCurrency":"EUR"}}
+{"@context":"https://schema.org","@type":"WebApplication","name":"Climbing Shoe Finder","url":"https://michalbahnik.github.io/climbing-shoes/","applicationCategory":"SportsApplication","operatingSystem":"Any","description":"Filter and compare climbing shoes by downturn, asymmetry, stiffness, width, rubber, closure and toe shape.","author":{"@type":"Person","name":"Michal Bahník"},"offers":{"@type":"Offer","price":"0","priceCurrency":"EUR"}}
 </script>
 <script data-goatcounter="https://climbing-shoes.goatcounter.com/count" async src="https://gc.zgo.at/count.js"></script>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Geist:wght@400;500;600;700&family=Geist+Mono:wght@400;500&display=swap" rel="stylesheet">
 <style>
 :root{
-  --bg:#f5f2ec; --surface:#fffdf9; --surface-2:#f0ebe2; --ink:#1f1c18; --muted:#6f685d; --faint:#a39b8e;
-  --line:#e3ddd2; --accent:#b9532f; --accent-soft:#f3ddd2; --accent-ink:#fff; --good:#3d7a5a;
-  --shadow:0 1px 2px rgba(40,30,20,.05),0 6px 24px rgba(40,30,20,.06);
-  --radius:14px; --sole:#2b2723;
+  --bg:#f6f6f4; --panel:#ffffff; --sunk:#efefec; --ink:#111110; --ink-2:#3a3a37; --muted:#77776f; --faint:#a9a9a1;
+  --line:#e2e2dd; --line-2:#d2d2cb; --accent:#2b4cff; --accent-soft:#e6eaff; --on-accent:#fff;
+  --scale:#111110; --scale-off:#dcdcd6;
+  --r:6px; --font:Geist,ui-sans-serif,system-ui,-apple-system,"Segoe UI",sans-serif; --mono:"Geist Mono",ui-monospace,"SF Mono",Menlo,monospace;
   color-scheme:light;
 }
 @media (prefers-color-scheme:dark){
   :root:not([data-theme="light"]){
-    --bg:#131211; --surface:#1b1a18; --surface-2:#24221f; --ink:#ede8df; --muted:#a19a8f; --faint:#6e685f;
-    --line:#2f2c28; --accent:#e07a52; --accent-soft:#3a2720; --accent-ink:#1a1210; --good:#6fb48c;
-    --shadow:0 1px 2px rgba(0,0,0,.3),0 8px 28px rgba(0,0,0,.25); --sole:#0c0b0a; color-scheme:dark;
+    --bg:#0e0e0d; --panel:#161615; --sunk:#1d1d1b; --ink:#f0f0ec; --ink-2:#cfcfc9; --muted:#8d8d86; --faint:#5e5e58;
+    --line:#262624; --line-2:#34342f; --accent:#7d93ff; --accent-soft:#1c2246; --on-accent:#0b0d1a;
+    --scale:#f0f0ec; --scale-off:#2e2e2b; color-scheme:dark;
   }
 }
 :root[data-theme="dark"]{
-  --bg:#131211; --surface:#1b1a18; --surface-2:#24221f; --ink:#ede8df; --muted:#a19a8f; --faint:#6e685f;
-  --line:#2f2c28; --accent:#e07a52; --accent-soft:#3a2720; --accent-ink:#1a1210; --good:#6fb48c;
-  --shadow:0 1px 2px rgba(0,0,0,.3),0 8px 28px rgba(0,0,0,.25); --sole:#0c0b0a; color-scheme:dark;
+  --bg:#0e0e0d; --panel:#161615; --sunk:#1d1d1b; --ink:#f0f0ec; --ink-2:#cfcfc9; --muted:#8d8d86; --faint:#5e5e58;
+  --line:#262624; --line-2:#34342f; --accent:#7d93ff; --accent-soft:#1c2246; --on-accent:#0b0d1a;
+  --scale:#f0f0ec; --scale-off:#2e2e2b; color-scheme:dark;
 }
 *{box-sizing:border-box}
 html,body{margin:0}
-body{background:var(--bg);color:var(--ink);font:14px/1.5 Inter,system-ui,-apple-system,"Segoe UI",sans-serif;-webkit-font-smoothing:antialiased}
+body{background:var(--bg);color:var(--ink);font:14px/1.45 var(--font);-webkit-font-smoothing:antialiased}
 button,input,select{font:inherit;color:inherit}
-button{cursor:pointer}
+button{cursor:pointer;background:none;border:0;padding:0}
 a{color:inherit}
-.serif{font-family:"Instrument Serif",Georgia,serif;font-weight:400}
+svg.i{width:16px;height:16px;flex:none;stroke:currentColor;fill:none;stroke-width:1.75;stroke-linecap:round;stroke-linejoin:round}
+.mono{font-family:var(--mono);font-variant-numeric:tabular-nums}
+:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
 
 /* header */
-header{position:sticky;top:0;z-index:20;background:color-mix(in srgb,var(--bg) 88%,transparent);backdrop-filter:blur(10px);border-bottom:1px solid var(--line)}
-.bar{max-width:1440px;margin:0 auto;padding:14px 24px;display:flex;align-items:center;gap:16px}
-.logo{display:flex;align-items:baseline;gap:10px;white-space:nowrap}
-.logo h1{margin:0;font-size:28px;letter-spacing:-.01em}
-.logo span{color:var(--muted);font-size:12px}
-.search{flex:1;max-width:520px;margin-left:auto;position:relative}
-.search input{width:100%;padding:10px 14px 10px 36px;border-radius:999px;border:1px solid var(--line);background:var(--surface);outline:none}
-.search input:focus{border-color:var(--accent)}
-.search svg{position:absolute;left:12px;top:50%;transform:translateY(-50%);color:var(--faint)}
-.icon-btn{border:1px solid var(--line);background:var(--surface);border-radius:999px;height:40px;min-width:40px;padding:0 12px;display:inline-flex;align-items:center;justify-content:center;gap:6px}
-.icon-btn:hover{border-color:var(--faint)}
+header{border-bottom:1px solid var(--line);background:var(--bg)}
+.bar{max-width:1480px;margin:0 auto;padding:0 28px;height:60px;display:flex;align-items:center;gap:20px}
+.wordmark{display:flex;align-items:center;gap:10px;font-weight:600;letter-spacing:-.01em;font-size:15px;white-space:nowrap}
+.wordmark svg{width:24px;height:24px}
+.wordmark span{color:var(--muted);font-weight:400}
+.search{flex:1;max-width:460px;margin-left:auto;position:relative}
+.search input{width:100%;height:36px;padding:0 30px 0 34px;border-radius:var(--r);border:1px solid var(--line-2);background:var(--panel);outline:none}
+.search input::placeholder{color:var(--faint)}
+.search input:focus{border-color:var(--ink)}
+.search .i{position:absolute;left:11px;top:50%;transform:translateY(-50%);color:var(--muted)}
+.search kbd{position:absolute;right:8px;top:50%;transform:translateY(-50%);font:11px var(--mono);color:var(--faint);border:1px solid var(--line-2);border-radius:4px;padding:1px 5px;pointer-events:none}
+.search input:focus + kbd,.search input:not(:placeholder-shown) + kbd{display:none}
+.ibtn{height:36px;min-width:36px;padding:0 10px;border:1px solid var(--line-2);border-radius:var(--r);display:inline-flex;align-items:center;justify-content:center;gap:6px;background:var(--panel);font-size:13px}
+.ibtn:hover{border-color:var(--ink)}
 #filtersBtn{display:none}
 
+/* intro */
+.intro{max-width:1480px;margin:0 auto;padding:40px 28px 12px;display:grid;grid-template-columns:minmax(0,1.4fr) minmax(0,1fr);gap:28px 56px;align-items:end}
+.intro h1{margin:0;font-size:36px;line-height:1.08;letter-spacing:-.028em;font-weight:600}
+.intro h1 span{color:var(--muted)}
+.intro .lead{margin:14px 0 0;color:var(--ink-2);font-size:15px;max-width:620px}
+.intro .why{margin:0;color:var(--muted);font-size:13px;border-left:2px solid var(--line-2);padding-left:14px;max-width:460px}
+.intro .why b{color:var(--ink-2);font-weight:500}
+
 /* layout */
-.wrap{max-width:1440px;margin:0 auto;padding:24px;display:grid;grid-template-columns:280px 1fr;gap:32px;align-items:start}
-aside{position:sticky;top:88px;max-height:calc(100vh - 104px);overflow:auto;padding-right:6px;scrollbar-width:thin}
-.fgroup{padding:14px 0;border-bottom:1px solid var(--line)}
-.fgroup:first-child{padding-top:0}
-.fhead{display:flex;justify-content:space-between;align-items:center;margin-bottom:10px}
-.fhead h3{margin:0;font-size:11px;letter-spacing:.09em;text-transform:uppercase;color:var(--muted);font-weight:600}
-.fhead button{border:0;background:none;color:var(--accent);font-size:12px;padding:0}
+.wrap{max-width:1480px;margin:0 auto;padding:24px 28px 0;display:grid;grid-template-columns:272px 1fr;gap:36px;align-items:start}
+aside{position:sticky;top:16px;max-height:calc(100vh - 32px);overflow:auto;scrollbar-width:thin;padding:2px 6px 24px 2px}
+.ftop{display:flex;align-items:center;justify-content:space-between;margin-bottom:6px;min-height:22px}
+.ftop h2{margin:0;font-size:13px;font-weight:600}
+.link{color:var(--muted);font-size:12px;text-decoration:underline;text-underline-offset:3px;text-decoration-color:var(--line-2)}
+.link:hover{color:var(--ink)}
+.link:disabled{opacity:.45;cursor:default;text-decoration:none}
+.fgroup{padding:16px 0;border-top:1px solid var(--line)}
+.fhead{display:flex;justify-content:space-between;align-items:baseline;margin-bottom:10px}
+.fhead h3{margin:0;font-size:12px;font-weight:500;color:var(--ink-2)}
+.fhead .link{font-size:11px}
+.scale-cap{display:flex;justify-content:space-between;font-size:11px;color:var(--faint);margin-top:6px}
+
+/* segmented multi-select */
+.seg{display:grid;grid-auto-columns:minmax(0,1fr);grid-auto-flow:column;border:1px solid var(--line-2);border-radius:var(--r);overflow:hidden;background:var(--panel)}
+.seg button{padding:7px 2px 6px;font-size:12px;line-height:1.2;display:flex;flex-direction:column;align-items:center;gap:2px;border-left:1px solid var(--line);color:var(--ink-2);min-width:0}
+.seg button:first-child{border-left:0}
+.seg button:hover{background:var(--sunk)}
+.seg button .n{font:10px var(--mono);color:var(--faint)}
+.seg button[aria-pressed="true"]{background:var(--ink);color:var(--bg);border-left-color:var(--ink)}
+.seg button[aria-pressed="true"] .n{color:color-mix(in srgb,var(--bg) 60%,transparent)}
+.seg button[aria-pressed="true"] + button{border-left-color:var(--ink)}
+.seg button.zero{color:var(--faint)}
+.seg.radio button{flex-direction:row;justify-content:center;padding:7px 4px}
+.seg svg.toe{width:22px;height:14px;margin-bottom:2px}
+
 .chips{display:flex;flex-wrap:wrap;gap:6px}
-.chip{border:1px solid var(--line);background:var(--surface);border-radius:999px;padding:5px 11px;font-size:13px;display:inline-flex;gap:6px;align-items:center;transition:background .12s,border-color .12s}
-.chip:hover{border-color:var(--faint)}
-.chip .n{color:var(--faint);font-size:11px;font-variant-numeric:tabular-nums}
+.chip{border:1px solid var(--line-2);background:var(--panel);border-radius:var(--r);padding:4px 8px;font-size:12px;display:inline-flex;gap:6px;align-items:baseline;color:var(--ink-2)}
+.chip:hover{border-color:var(--ink)}
+.chip .n{font:10px var(--mono);color:var(--faint)}
 .chip[aria-pressed="true"]{background:var(--ink);color:var(--bg);border-color:var(--ink)}
-.chip[aria-pressed="true"] .n{color:color-mix(in srgb,var(--bg) 65%,transparent)}
-.chip.zero{opacity:.45}
-.seg{display:flex;background:var(--surface-2);border-radius:999px;padding:3px}
-.seg button{flex:1;border:0;background:none;border-radius:999px;padding:6px 8px;font-size:13px;color:var(--muted)}
-.seg button[aria-pressed="true"]{background:var(--surface);color:var(--ink);box-shadow:var(--shadow)}
-.list{display:flex;flex-direction:column;gap:2px;max-height:none}
-.list label{display:flex;align-items:center;gap:8px;padding:4px 6px;border-radius:8px;cursor:pointer;font-size:13px}
-.list label:hover{background:var(--surface-2)}
-.list input{accent-color:var(--accent);margin:0}
-.list .n{margin-left:auto;color:var(--faint);font-size:11px;font-variant-numeric:tabular-nums}
-.list label.zero{opacity:.45}
-.more{border:0;background:none;color:var(--accent);font-size:12px;padding:6px 6px 0}
-.toe-chip svg{width:18px;height:18px}
-.range{display:flex;align-items:center;gap:10px}
-.range input{flex:1;accent-color:var(--accent)}
-.range output{font-variant-numeric:tabular-nums;min-width:52px;text-align:right;font-weight:500}
-.hint{color:var(--faint);font-size:12px;margin:8px 0 0}
+.chip[aria-pressed="true"] .n{color:color-mix(in srgb,var(--bg) 60%,transparent)}
+.chip.zero{color:var(--faint)}
 
-/* results */
-.toolbar{display:flex;align-items:center;gap:12px;flex-wrap:wrap;margin-bottom:16px}
-.count{font-size:30px;line-height:1}
-.count small{font-family:Inter,sans-serif;font-size:13px;color:var(--muted);margin-left:6px}
+.list{display:flex;flex-direction:column}
+.list label{display:flex;align-items:center;gap:9px;padding:4px 0;cursor:pointer;font-size:13px;color:var(--ink-2)}
+.list label:hover{color:var(--ink)}
+.list input{appearance:none;width:14px;height:14px;border:1px solid var(--line-2);border-radius:3px;margin:0;background:var(--panel);display:grid;place-items:center;flex:none}
+.list input:checked{background:var(--ink);border-color:var(--ink)}
+.list input:checked::after{content:"";width:7px;height:4px;border:solid var(--bg);border-width:0 0 1.6px 1.6px;transform:translateY(-1px) rotate(-45deg)}
+.list .n{margin-left:auto;font:11px var(--mono);color:var(--faint)}
+.list label.zero{color:var(--faint)}
+.more{margin-top:6px}
+.range{display:flex;align-items:center;gap:12px}
+.range input{flex:1;accent-color:var(--ink)}
+.range output{font:12px var(--mono);min-width:44px;text-align:right}
+.hint{color:var(--faint);font-size:11px;margin:8px 0 0;line-height:1.4}
+
+/* toolbar */
+.toolbar{display:flex;align-items:center;gap:10px;flex-wrap:wrap;margin-bottom:14px;min-height:36px}
+.count{font-size:13px;color:var(--muted)}
+.count b{color:var(--ink);font:500 13px var(--mono)}
 .toolbar .sp{flex:1}
-select{border:1px solid var(--line);background:var(--surface);border-radius:999px;padding:8px 30px 8px 14px;appearance:none;background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='10' height='6'%3E%3Cpath d='M1 1l4 4 4-4' fill='none' stroke='%23888' stroke-width='1.5'/%3E%3C/svg%3E");background-repeat:no-repeat;background-position:right 12px center}
-.active{display:flex;flex-wrap:wrap;gap:6px;margin-bottom:18px}
+select{height:36px;border:1px solid var(--line-2);background-color:var(--panel);border-radius:var(--r);padding:0 30px 0 12px;appearance:none;font-size:13px;background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='10' height='6'%3E%3Cpath d='M1 1l4 4 4-4' fill='none' stroke='%23888' stroke-width='1.5'/%3E%3C/svg%3E");background-repeat:no-repeat;background-position:right 11px center}
+.view{display:flex;border:1px solid var(--line-2);border-radius:var(--r);overflow:hidden;background:var(--panel)}
+.view button{height:34px;width:36px;display:grid;place-items:center;color:var(--muted)}
+.view button[aria-pressed="true"]{background:var(--ink);color:var(--bg)}
+.active{display:flex;flex-wrap:wrap;gap:6px;margin-bottom:16px;align-items:center}
 .active:empty{display:none}
-.tag-x{border:0;background:var(--accent-soft);color:var(--ink);border-radius:999px;padding:4px 10px;font-size:12px;display:inline-flex;gap:6px;align-items:center}
-.tag-x b{font-weight:400;color:var(--accent)}
-.clear-all{border:0;background:none;color:var(--muted);font-size:12px;text-decoration:underline}
+.tag-x{border:1px solid var(--line-2);background:var(--panel);border-radius:var(--r);padding:3px 6px 3px 9px;font-size:12px;display:inline-flex;gap:6px;align-items:center}
+.tag-x:hover{border-color:var(--ink)}
+.tag-x .k{color:var(--muted)}
+.tag-x svg.i{width:12px;height:12px;color:var(--muted)}
 
-.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(250px,1fr));gap:16px}
-.card{background:var(--surface);border:1px solid var(--line);border-radius:var(--radius);padding:16px;display:flex;flex-direction:column;gap:12px;transition:transform .15s,box-shadow .15s,border-color .15s;position:relative}
-.card:hover{box-shadow:var(--shadow);transform:translateY(-1px)}
-.card.sel{border-color:var(--accent);box-shadow:0 0 0 1px var(--accent)}
-.card-top{display:flex;justify-content:space-between;gap:8px}
-.brand{font-size:11px;letter-spacing:.09em;text-transform:uppercase;color:var(--muted);font-weight:600}
-.model{font-family:"Instrument Serif",Georgia,serif;font-size:25px;line-height:1.05;margin:2px 0 0}
-.price{font-variant-numeric:tabular-nums;font-weight:500;white-space:nowrap}
-.price small{color:var(--faint);font-weight:400}
-.art{background:var(--surface-2);border-radius:10px;height:96px;display:flex;align-items:center;justify-content:center}
-.art svg{width:86%;height:100%}
-.specs{display:grid;grid-template-columns:auto 1fr;gap:5px 12px;font-size:12px;align-items:center}
+/* grid */
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(258px,1fr));gap:1px;background:var(--line);border:1px solid var(--line);border-radius:10px;overflow:hidden}
+.card{background:var(--panel);padding:18px 18px 16px;display:flex;flex-direction:column;gap:14px;position:relative;min-width:0}
+.card.sel{box-shadow:inset 0 0 0 2px var(--accent)}
+.c-head{display:flex;justify-content:space-between;align-items:flex-start;gap:10px}
+.brand{font-size:11px;color:var(--muted);letter-spacing:.02em}
+.model{font-size:18px;font-weight:600;letter-spacing:-.015em;line-height:1.2;margin:1px 0 0}
+.price{font:500 13px var(--mono);margin-top:4px}
+.check{width:28px;height:28px;border:1px solid var(--line-2);border-radius:var(--r);display:grid;place-items:center;color:var(--muted);flex:none;background:var(--panel)}
+.check:hover{border-color:var(--ink);color:var(--ink)}
+.check[aria-pressed="true"]{background:var(--accent);border-color:var(--accent);color:var(--on-accent)}
+.figs{display:grid;grid-template-columns:1fr 46px;gap:10px;background:var(--sunk);border-radius:var(--r);padding:12px 14px 8px}
+.figs figure{margin:0;display:flex;flex-direction:column;align-items:center;gap:4px;min-width:0}
+.figs figcaption{font-size:10px;color:var(--faint);letter-spacing:.05em;text-transform:uppercase}
+.figs svg{width:100%;height:52px;overflow:visible}
+.specs{display:grid;grid-template-columns:auto auto 1fr;gap:7px 10px;font-size:12px;align-items:center;margin:0}
 .specs dt{color:var(--muted)}
-.specs dd{margin:0;display:flex;align-items:center;gap:8px;justify-content:flex-end}
-.meter{display:inline-flex;gap:3px}
-.meter i{width:14px;height:5px;border-radius:3px;background:var(--line)}
-.meter i.on{background:var(--accent)}
-.meter-label{color:var(--muted);font-size:11px;min-width:58px;text-align:right}
-.pills{display:flex;flex-wrap:wrap;gap:5px}
-.pill{font-size:11px;padding:2px 8px;border-radius:999px;background:var(--surface-2);color:var(--muted)}
-.pill.strong{color:var(--ink)}
-.card-foot{display:flex;gap:8px;margin-top:auto}
-.btn{border:1px solid var(--line);background:var(--surface);border-radius:999px;padding:7px 12px;font-size:12px;display:inline-flex;align-items:center;gap:6px;text-decoration:none;justify-content:center}
-.btn:hover{border-color:var(--faint)}
-.btn.primary{background:var(--ink);color:var(--bg);border-color:var(--ink)}
-.btn.on{background:var(--accent);border-color:var(--accent);color:var(--accent-ink)}
-.card-foot .btn:first-child{flex:1}
-.empty{text-align:center;padding:80px 20px;color:var(--muted)}
-.empty .serif{font-size:32px;color:var(--ink);display:block;margin-bottom:6px}
+.specs dd{margin:0}
+.specs dd.v{color:var(--ink-2);text-align:right}
+.scale{display:inline-flex;gap:2px;vertical-align:middle}
+.scale i{width:12px;height:6px;background:var(--scale-off)}
+.scale i:first-child{border-radius:2px 0 0 2px}
+.scale i:last-child{border-radius:0 2px 2px 0}
+.scale i.on{background:var(--scale)}
+.meta{font-size:12px;color:var(--ink-2);display:flex;flex-direction:column;gap:3px;border-top:1px solid var(--line);padding-top:12px}
+.meta .row{display:flex;gap:8px}
+.meta .k{color:var(--muted);min-width:54px;flex:none}
+.meta .uses{color:var(--muted)}
+.c-foot{margin-top:auto;display:flex;justify-content:space-between;align-items:center;font-size:12px;gap:8px}
+.c-foot a{display:inline-flex;align-items:center;gap:4px;text-decoration:none;color:var(--ink-2);white-space:nowrap}
+.c-foot a:hover{color:var(--accent)}
+.c-foot a svg.i{width:13px;height:13px}
+.c-foot .ver{color:var(--faint)}
+.empty{text-align:center;padding:90px 20px;color:var(--muted);background:var(--panel);grid-column:1/-1}
+.empty strong{display:block;color:var(--ink);font-size:18px;font-weight:600;margin-bottom:4px}
+.empty button{margin-top:16px}
+
+/* table */
+.tbl-wrap{border:1px solid var(--line);border-radius:10px;overflow:auto;background:var(--panel)}
+table.tbl{border-collapse:collapse;width:100%;font-size:13px;min-width:900px}
+.tbl th{font-weight:500;color:var(--muted);font-size:11px;text-align:left;padding:10px 12px;border-bottom:1px solid var(--line);white-space:nowrap;background:var(--panel)}
+.tbl th button{display:inline-flex;align-items:center;gap:3px;color:inherit}
+.tbl th button svg.i{width:12px;height:12px}
+.tbl th button:hover,.tbl th.sorted button{color:var(--ink)}
+.tbl td{padding:9px 12px;border-bottom:1px solid var(--line);white-space:nowrap}
+.tbl tr:last-child td{border-bottom:0}
+.tbl tbody tr:hover td{background:var(--sunk)}
+.tbl tr.sel td{background:var(--accent-soft)}
+.tbl td.m b{font-weight:600}
+.tbl td.m span{color:var(--muted);margin-right:6px}
+.tbl .check{width:22px;height:22px}
+.tbl .check svg.i{width:13px;height:13px}
+.tbl a{color:var(--muted);display:inline-flex}
+.tbl a:hover{color:var(--accent)}
 
 /* compare tray */
-.tray{position:fixed;left:50%;bottom:20px;transform:translate(-50%,140%);transition:transform .25s ease;z-index:30;background:var(--ink);color:var(--bg);border-radius:999px;padding:8px 8px 8px 20px;display:flex;align-items:center;gap:12px;box-shadow:0 12px 40px rgba(0,0,0,.25);max-width:calc(100vw - 32px)}
+.tray{position:fixed;left:50%;bottom:18px;transform:translate(-50%,160%);transition:transform .22s ease;z-index:30;background:var(--ink);color:var(--bg);border-radius:10px;padding:8px 8px 8px 14px;display:flex;align-items:center;gap:10px;box-shadow:0 10px 40px rgba(0,0,0,.22);max-width:calc(100vw - 32px)}
 .tray.show{transform:translate(-50%,0)}
+.tray .lbl{font-size:12px;opacity:.6;white-space:nowrap}
 .tray-items{display:flex;gap:6px;overflow:auto;scrollbar-width:none}
-.tray-items span{background:color-mix(in srgb,var(--bg) 14%,transparent);border-radius:999px;padding:4px 6px 4px 12px;font-size:12px;white-space:nowrap;display:inline-flex;align-items:center;gap:4px}
-.tray-items span button{border:0;background:none;color:inherit;opacity:.6;padding:0 4px;font-size:14px;line-height:1}
-.tray .btn{background:var(--accent);border-color:var(--accent);color:var(--accent-ink);font-weight:500;padding:9px 16px;white-space:nowrap}
-.tray .ghost{border:0;background:none;color:inherit;opacity:.7;font-size:12px;white-space:nowrap}
+.tray-items span{border:1px solid color-mix(in srgb,var(--bg) 22%,transparent);border-radius:var(--r);padding:4px 4px 4px 9px;font-size:12px;white-space:nowrap;display:inline-flex;align-items:center;gap:4px}
+.tray-items button{color:inherit;opacity:.6;display:grid;place-items:center;width:18px;height:18px}
+.tray-items button:hover{opacity:1}
+.tray-items svg.i{width:12px;height:12px}
+.tray .go{background:var(--accent);color:var(--on-accent);border-radius:var(--r);padding:8px 14px;font-size:13px;font-weight:500;white-space:nowrap}
+.tray .go:disabled{opacity:.55;cursor:default}
+.tray .ghost{color:inherit;opacity:.6;font-size:12px;white-space:nowrap;padding:0 4px}
+.tray .ghost:hover{opacity:1}
 
 /* modal */
-dialog{border:0;padding:0;background:var(--surface);color:var(--ink);border-radius:18px;width:min(1100px,calc(100vw - 32px));max-height:calc(100vh - 48px);box-shadow:0 30px 80px rgba(0,0,0,.35)}
-dialog::backdrop{background:rgba(15,12,10,.5);backdrop-filter:blur(3px)}
-.m-head{display:flex;align-items:center;justify-content:space-between;padding:18px 24px;border-bottom:1px solid var(--line);position:sticky;top:0;background:var(--surface);z-index:2}
-.m-head h2{margin:0;font-size:30px}
-.m-head label{font-size:12px;color:var(--muted);display:flex;gap:6px;align-items:center;margin-left:auto;margin-right:12px}
-.m-head input{accent-color:var(--accent)}
-.m-body{overflow:auto;max-height:calc(100vh - 130px)}
-table.cmp{border-collapse:collapse;width:100%;min-width:560px}
+dialog{border:1px solid var(--line-2);padding:0;background:var(--panel);color:var(--ink);border-radius:12px;width:min(1120px,calc(100vw - 32px));max-height:calc(100vh - 48px);box-shadow:0 30px 80px rgba(0,0,0,.3)}
+dialog::backdrop{background:rgba(10,10,9,.45)}
+.m-head{display:flex;align-items:center;gap:14px;padding:14px 20px;border-bottom:1px solid var(--line)}
+.m-head h2{margin:0;font-size:15px;font-weight:600}
+.m-head label{font-size:12px;color:var(--muted);display:flex;gap:7px;align-items:center;margin-left:auto;cursor:pointer}
+.m-head input{accent-color:var(--ink)}
+.m-body{overflow:auto;max-height:calc(100vh - 120px)}
+table.cmp{border-collapse:collapse;width:100%;min-width:600px;table-layout:fixed}
 .cmp th,.cmp td{padding:11px 16px;border-bottom:1px solid var(--line);text-align:left;vertical-align:middle;font-size:13px}
-.cmp thead th{vertical-align:bottom;background:var(--surface);border-bottom:1px solid var(--line)}
-.cmp tbody th{color:var(--muted);font-weight:500;font-size:12px;width:140px;white-space:nowrap;position:sticky;left:0;background:var(--surface)}
-.cmp tr.diff td{background:color-mix(in srgb,var(--accent-soft) 45%,transparent)}
+.cmp tbody th{color:var(--muted);font-weight:400;font-size:12px}
+.cmp thead th:first-child{width:130px}
+.cmp tbody td{color:var(--ink-2)}
+.cmp td .scale{margin-right:8px}
+.cmp tr.diff th{color:var(--ink)}
+.cmp tr.diff th::before{content:"";display:inline-block;width:5px;height:5px;border-radius:50%;background:var(--accent);margin:0 7px 1px 0}
 .cmp.only-diff tr.same{display:none}
-.cmp .head-cell .model{font-size:22px}
-.cmp .head-cell .art{height:80px;margin-top:10px}
-.cmp .rm{border:0;background:none;color:var(--faint);font-size:12px;padding:0;margin-top:6px}
+.cmp .hc{vertical-align:top}
+.cmp .hc .figs{margin-top:12px}
+.cmp .hc .rm{margin-top:8px}
 
-/* drawer for mobile */
+/* mobile */
 .scrim{display:none}
-@media (max-width:900px){
-  .wrap{grid-template-columns:1fr;padding:16px;gap:0}
-  .bar{padding:12px 16px;flex-wrap:wrap}
-  .search{order:3;flex-basis:100%;max-width:none}
-  .logo span{display:none}
-  #filtersBtn{display:inline-flex;margin-left:auto}
-  aside{position:fixed;top:0;left:0;bottom:0;width:min(340px,88vw);max-height:none;background:var(--bg);z-index:40;padding:20px;transform:translateX(-105%);transition:transform .25s ease;box-shadow:var(--shadow)}
+.aside-top{display:none}
+@media (max-width:920px){
+  .bar{padding:0 16px;gap:10px}
+  .search kbd{display:none}
+  .intro{padding:28px 16px 4px;grid-template-columns:1fr;gap:16px}
+  .intro h1{font-size:27px}
+  .wrap{grid-template-columns:1fr;padding:18px 16px 0;gap:0}
+  #filtersBtn{display:inline-flex}
+  aside{position:fixed;top:0;left:0;bottom:0;width:min(340px,88vw);max-height:none;background:var(--bg);z-index:40;padding:16px 20px 32px;transform:translateX(-105%);transition:transform .22s ease;border-right:1px solid var(--line)}
   aside.open{transform:none}
   .scrim.open{display:block;position:fixed;inset:0;background:rgba(0,0,0,.4);z-index:35}
-  .aside-close{display:flex!important}
-  .grid{grid-template-columns:repeat(auto-fill,minmax(220px,1fr))}
+  .aside-top{display:flex;justify-content:space-between;align-items:center;margin-bottom:10px}
+  .ftop h2{display:none}
+  .ftop{justify-content:flex-end}
+  .grid{grid-template-columns:1fr}
+  footer{padding:28px 16px 110px}
 }
-.reset-all{width:100%;margin-bottom:16px;border:1px solid var(--line);background:var(--surface);border-radius:999px;padding:8px 12px;font-size:13px;display:flex;align-items:center;justify-content:center;gap:6px}
-.reset-all:hover:not(:disabled){border-color:var(--accent);color:var(--accent)}
-.reset-all:disabled{opacity:.45;cursor:default}
-.aside-close{display:none;justify-content:space-between;align-items:center;margin-bottom:12px}
-.aside-close h2{margin:0;font-size:26px}
-footer{max-width:1440px;margin:0 auto;padding:8px 24px 100px;color:var(--faint);font-size:12px}
+@media (max-width:560px){
+  .wordmark span{display:none}
+  .bar{height:auto;flex-wrap:wrap;padding:10px 16px}
+  #filtersBtn{margin-left:auto}
+  .search{order:3;flex-basis:100%;max-width:none;margin-left:0}
+}
+footer{max-width:1480px;margin:0 auto;padding:28px 28px 110px;color:var(--faint);font-size:12px;display:flex;gap:24px;flex-wrap:wrap;justify-content:space-between}
+footer p{margin:0;max-width:720px}
 </style>
 </head>
 <body>
+<svg width="0" height="0" style="position:absolute" aria-hidden="true">
+  <symbol id="i-search" viewBox="0 0 24 24"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></symbol>
+  <symbol id="i-moon" viewBox="0 0 24 24"><path d="M20 14.5A8 8 0 0 1 9.5 4a8 8 0 1 0 10.5 10.5z"/></symbol>
+  <symbol id="i-plus" viewBox="0 0 24 24"><path d="M12 5v14M5 12h14"/></symbol>
+  <symbol id="i-check" viewBox="0 0 24 24"><path d="m5 12.5 4.5 4.5L19 7.5"/></symbol>
+  <symbol id="i-x" viewBox="0 0 24 24"><path d="M6 6l12 12M18 6 6 18"/></symbol>
+  <symbol id="i-out" viewBox="0 0 24 24"><path d="M8 16 16 8M9 8h7v7"/></symbol>
+  <symbol id="i-grid" viewBox="0 0 24 24"><rect x="4" y="4" width="6.5" height="6.5" rx="1"/><rect x="13.5" y="4" width="6.5" height="6.5" rx="1"/><rect x="4" y="13.5" width="6.5" height="6.5" rx="1"/><rect x="13.5" y="13.5" width="6.5" height="6.5" rx="1"/></symbol>
+  <symbol id="i-rows" viewBox="0 0 24 24"><path d="M4 6h16M4 12h16M4 18h16"/></symbol>
+  <symbol id="i-sliders" viewBox="0 0 24 24"><path d="M4 7h10M18 7h2M4 17h4M12 17h8"/><circle cx="16" cy="7" r="2"/><circle cx="10" cy="17" r="2"/></symbol>
+  <symbol id="i-sort" viewBox="0 0 24 24"><path d="m8 15 4 4 4-4M8 9l4-4 4 4"/></symbol>
+</svg>
+
 <header>
   <div class="bar">
-    <div class="logo"><h1 class="serif">Shoe Finder</h1><span>climbing shoe comparator</span></div>
-    <div class="search">
-      <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
-      <input id="q" type="search" placeholder="Search model, brand, rubber…" autocomplete="off">
+    <div class="wordmark">
+      <svg viewBox="0 0 32 32" aria-hidden="true"><rect width="32" height="32" rx="7" fill="var(--ink)"/><path d="M6 21c6 0 9-4 14-4 3 0 5 1 6 3" fill="none" stroke="var(--bg)" stroke-width="2.4" stroke-linecap="round"/></svg>
+      Shoe Finder <span>/ climbing</span>
     </div>
-    <button class="icon-btn" id="filtersBtn" aria-label="Filters">Filters <span id="fcount"></span></button>
-    <button class="icon-btn" id="themeBtn" aria-label="Toggle theme" title="Toggle theme">
-      <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 12.8A9 9 0 1 1 11.2 3a7 7 0 0 0 9.8 9.8z"/></svg>
-    </button>
+    <label class="search">
+      <svg class="i"><use href="#i-search"/></svg>
+      <input id="q" type="search" placeholder="Search model, brand or rubber" autocomplete="off" aria-label="Search">
+      <kbd>/</kbd>
+    </label>
+    <button class="ibtn" id="filtersBtn"><svg class="i"><use href="#i-sliders"/></svg>Filters<span id="fcount" class="mono"></span></button>
+    <button class="ibtn" id="themeBtn" aria-label="Toggle dark mode" title="Toggle dark mode"><svg class="i"><use href="#i-moon"/></svg></button>
   </div>
 </header>
 
+<section class="intro">
+  <div>
+    <h1>Find a climbing shoe that fits your foot. <span id="introStats"></span></h1>
+    <p class="lead">Narrow the list by downturn, asymmetry, stiffness, width, volume, closure, rubber and toe shape, then put up to four shoes side by side. Each shoe links to its product page.</p>
+  </div>
+  <p class="why"><b>Why this exists.</b> I wanted to choose shoes by how they fit, not by brand, and I didn't know of any site that let me filter the whole market that way. Shops filter by brand and size, and reviews cover a few models at a time. So I collected the specs myself. — Michal Bahník</p>
+</section>
+
 <div class="wrap">
   <div class="scrim" id="scrim"></div>
-  <aside id="aside">
-    <div class="aside-close"><h2 class="serif">Filters</h2><button class="icon-btn" id="asideClose">Done</button></div>
+  <aside id="aside" aria-label="Filters">
+    <div class="aside-top"><strong>Filters</strong><button class="ibtn" id="asideClose">Show results</button></div>
     <div id="filters"></div>
   </aside>
 
   <main>
     <div class="toolbar">
-      <div class="count serif"><span id="count">0</span><small>shoes</small></div>
+      <div class="count"><b id="count">0</b> shoes</div>
       <div class="sp"></div>
-      <select id="sort" aria-label="Sort">
+      <select id="sort" aria-label="Sort by">
         <option value="brand">Brand A–Z</option>
-        <option value="price-asc">Price: low to high</option>
-        <option value="price-desc">Price: high to low</option>
+        <option value="price-asc">Price, low to high</option>
+        <option value="price-desc">Price, high to low</option>
         <option value="aggr-desc">Most aggressive</option>
         <option value="aggr-asc">Most comfortable</option>
-        <option value="soft">Softest first</option>
-        <option value="stiff">Stiffest first</option>
+        <option value="soft">Softest</option>
+        <option value="stiff">Stiffest</option>
       </select>
+      <div class="view" role="group" aria-label="View">
+        <button data-view="grid" aria-label="Grid view" title="Grid"><svg class="i"><use href="#i-grid"/></svg></button>
+        <button data-view="table" aria-label="Table view" title="Table"><svg class="i"><use href="#i-rows"/></svg></button>
+      </div>
     </div>
     <div class="active" id="active"></div>
-    <div class="grid" id="grid"></div>
+    <div id="results"></div>
   </main>
 </div>
-<footer><span id="updated"></span>Specs are approximate, compiled from manufacturer descriptions and reviews. Width, volume and stiffness are relative and fit varies between feet; try shoes on before buying. Prices are indicative list prices in EUR.</footer>
 
-<div class="tray" id="tray">
+<footer>
+  <p><span id="updated"></span>Specs come from manufacturer catalogues and retailers. Width, volume and stiffness are relative judgements and fit differs between feet, so try shoes on before buying. Prices are indicative list prices in EUR.</p>
+  <p><a href="https://github.com/michalbahnik/climbing-shoes" class="link">Source and data on GitHub</a></p>
+</footer>
+
+<div class="tray" id="tray" aria-live="polite">
+  <span class="lbl">Compare</span>
   <div class="tray-items" id="trayItems"></div>
   <button class="ghost" id="trayClear">Clear</button>
-  <button class="btn" id="trayGo">Compare</button>
+  <button class="go" id="trayGo">Compare</button>
 </div>
 
-<dialog id="cmpDlg">
+<dialog id="cmpDlg" aria-labelledby="cmpTitle">
   <div class="m-head">
-    <h2 class="serif">Side by side</h2>
-    <label><input type="checkbox" id="onlyDiff"> Only differences</label>
-    <button class="icon-btn" id="cmpClose" aria-label="Close">✕</button>
+    <h2 id="cmpTitle">Comparison</h2>
+    <label><input type="checkbox" id="onlyDiff"> Show only differences</label>
+    <button class="ibtn" id="cmpClose" aria-label="Close"><svg class="i"><use href="#i-x"/></svg></button>
   </div>
   <div class="m-body" id="cmpBody"></div>
 </dialog>
@@ -250,7 +357,7 @@ footer{max-width:1440px;margin:0 auto;padding:8px 24px 100px;color:var(--faint);
 
 /* ---------- vocab ---------- */
 const L = {
-  gender:{U:"Unisex",MW:"Men's & women's",M:"Men's",W:"Women's"},
+  gender:{U:"Unisex",MW:"Men's and women's",M:"Men's",W:"Women's"},
   closure:{L:"Lace",V:"Velcro",S:"Slipper"},
   width:{N:"Narrow",M:"Medium",W:"Wide"},
   volume:{L:"Low",M:"Standard",H:"High"},
@@ -260,14 +367,14 @@ const L = {
   toe:{E:"Egyptian",G:"Greek",R:"Roman"},
 };
 const USES = ["bouldering","sport","trad","multipitch","crack","slab","gym","competition","all-round","beginner","vegan"];
+const cap = s => s[0].toUpperCase() + s.slice(1);
 
 // Which foot shapes a shoe tends to suit, from its toe box asymmetry and width.
 function toeFit(a, w){
   const s = new Set();
   if (a >= 2) s.add("E");
   if (a >= 1 && a <= 2) s.add("G");
-  if (a <= 1) s.add("R");
-  if (w === "W" && a <= 2) s.add("R");
+  if (a <= 1 || (w === "W" && a <= 2)) s.add("R");
   return ["E","G","R"].filter(x => s.has(x));
 }
 
@@ -280,39 +387,56 @@ const SHOES = window.SHOES_RAW.map((r, i) => {
     text: (brand + " " + model + " " + rubber + " " + uses).toLowerCase(),
   };
 });
+const BRANDS = [...new Set(SHOES.map(s => s.brand))].sort();
 
 /* ---------- filter definitions ---------- */
 const count = (arr, f) => arr.reduce((m, s) => { for (const v of [].concat(f(s))) m[v] = (m[v] || 0) + 1; return m; }, {});
-const byFreq = (f) => Object.entries(count(SHOES, f)).sort((a, b) => b[1] - a[1] || a[0].localeCompare(b[0])).map(e => e[0]);
+const byFreq = f => Object.entries(count(SHOES, f)).sort((a, b) => b[1] - a[1] || a[0].localeCompare(b[0])).map(e => e[0]);
 
 const FILTERS = [
-  {key:"closure", label:"Closure", type:"chips", opts:["V","L","S"].map(v => ({v, t:L.closure[v]})), get:s => s.closure},
-  {key:"down", label:"Downturn · aggressiveness", type:"chips", opts:[0,1,2,3].map(v => ({v:String(v), t:L.down[v]})), get:s => String(s.down)},
-  {key:"asym", label:"Asymmetry", type:"chips", opts:[0,1,2,3].map(v => ({v:String(v), t:L.asym[v]})), get:s => String(s.asym)},
-  {key:"stiff", label:"Stiffness", type:"chips", opts:[1,2,3,4,5].map(v => ({v:String(v), t:L.stiff[v]})), get:s => String(s.stiff)},
-  {key:"width", label:"Width", type:"chips", opts:["N","M","W"].map(v => ({v, t:L.width[v]})), get:s => s.width},
-  {key:"volume", label:"Volume", type:"chips", opts:["L","M","H"].map(v => ({v, t:L.volume[v]})), get:s => s.volume},
-  {key:"toe", label:"Toe shape", type:"toe", opts:["E","G","R"].map(v => ({v, t:L.toe[v]})), get:s => s.toe,
+  {key:"down", label:"Downturn", type:"seg", opts:[0,1,2,3].map(v => ({v:String(v), t:L.down[v]})), get:s => String(s.down), caps:["Flat, all-day","Aggressive"]},
+  {key:"asym", label:"Asymmetry", type:"seg", opts:[0,1,2,3].map(v => ({v:String(v), t:L.asym[v]})), get:s => String(s.asym)},
+  {key:"stiff", label:"Stiffness", type:"seg", opts:[1,2,3,4,5].map(v => ({v:String(v), t:String(v)})), get:s => String(s.stiff), caps:["Soft, sensitive","Stiff, supportive"]},
+  {key:"closure", label:"Closure", type:"seg", opts:["V","L","S"].map(v => ({v, t:L.closure[v]})), get:s => s.closure},
+  {key:"width", label:"Width", type:"seg", opts:["N","M","W"].map(v => ({v, t:L.width[v]})), get:s => s.width},
+  {key:"volume", label:"Volume", type:"seg", opts:["L","M","H"].map(v => ({v, t:L.volume[v]})), get:s => s.volume},
+  {key:"toe", label:"Toe shape", type:"seg", toe:true, opts:["E","G","R"].map(v => ({v, t:L.toe[v]})), get:s => s.toe,
    hint:"Egyptian: big toe longest. Greek: second toe longest. Roman: first toes about even."},
-  {key:"tags", label:"Use", type:"chips", opts:USES.map(v => ({v, t:v[0].toUpperCase() + v.slice(1)})), get:s => s.tags},
-  {key:"rubber", label:"Rubber", type:"list", opts:byFreq(s => s.rubber).map(v => ({v, t:v})), get:s => s.rubber, limit:7},
-  {key:"brand", label:"Brand", type:"list", opts:[...new Set(SHOES.map(s => s.brand))].sort().map(v => ({v, t:v})), get:s => s.brand, limit:8},
+  {key:"tags", label:"Use", type:"chips", opts:USES.map(v => ({v, t:cap(v)})), get:s => s.tags},
+  {key:"rubber", label:"Rubber", type:"list", opts:byFreq(s => s.rubber).map(v => ({v, t:v})), get:s => s.rubber, limit:6},
+  {key:"brand", label:"Brand", type:"list", opts:BRANDS.map(v => ({v, t:v})), get:s => s.brand, limit:8},
 ];
-const PRICE_MIN = Math.min(...SHOES.map(s => s.price));
-const PRICE_MAX = Math.max(...SHOES.map(s => s.price));
+const PRICE_MIN = Math.floor(Math.min(...SHOES.map(s => s.price)) / 5) * 5;
+const PRICE_MAX = Math.ceil(Math.max(...SHOES.map(s => s.price)) / 5) * 5;
+
+/* ---------- matching & sorting ---------- */
+const aggr = s => s.down * 2 + s.asym;
+const SORTS = {
+  "brand": (a, b) => a.brand.localeCompare(b.brand) || a.i - b.i,
+  "price-asc": (a, b) => a.price - b.price || a.i - b.i,
+  "price-desc": (a, b) => b.price - a.price || a.i - b.i,
+  "aggr-desc": (a, b) => aggr(b) - aggr(a) || a.stiff - b.stiff,
+  "aggr-asc": (a, b) => aggr(a) - aggr(b) || b.stiff - a.stiff,
+  "soft": (a, b) => a.stiff - b.stiff || b.down - a.down,
+  "stiff": (a, b) => b.stiff - a.stiff || a.down - b.down,
+};
 
 /* ---------- state ---------- */
-const state = {q:"", gender:"all", maxPrice:PRICE_MAX, sort:"brand", sel:{}};
+const state = {q:"", gender:"all", maxPrice:PRICE_MAX, sort:"brand", view:"grid", sel:{}};
 FILTERS.forEach(f => state.sel[f.key] = new Set());
 const expanded = {};
-let compare = [];
-try { compare = JSON.parse(localStorage.getItem("csf-compare") || "[]").filter(id => SHOES.some(s => s.id === id)); } catch (e) {}
+const store = {
+  get(k, d){ try { const v = localStorage.getItem(k); return v === null ? d : JSON.parse(v); } catch (e) { return d; } },
+  set(k, v){ try { localStorage.setItem(k, JSON.stringify(v)); } catch (e) {} },
+};
+let compare = [].concat(store.get("csf-compare", [])).filter(id => SHOES.some(s => s.id === id)).slice(0, 4);
+state.view = store.get("csf-view", "grid") === "table" ? "table" : "grid";
 
 function readHash(){
   const p = new URLSearchParams(location.hash.slice(1));
   state.q = p.get("q") || "";
   state.gender = ["all","men","women"].includes(p.get("g")) ? p.get("g") : "all";
-  state.sort = p.get("sort") || "brand";
+  state.sort = SORTS[p.get("sort")] ? p.get("sort") : "brand";
   const mp = parseInt(p.get("max"), 10);
   state.maxPrice = mp >= PRICE_MIN && mp <= PRICE_MAX ? mp : PRICE_MAX;
   FILTERS.forEach(f => state.sel[f.key] = new Set((p.get(f.key) || "").split(",").filter(Boolean)));
@@ -327,8 +451,10 @@ function writeHash(){
   const h = p.toString();
   history.replaceState(null, "", h ? "#" + h : location.pathname + location.search);
 }
-
-/* ---------- matching ---------- */
+function activeCount(){
+  return (state.q ? 1 : 0) + (state.gender !== "all" ? 1 : 0) + (state.maxPrice < PRICE_MAX ? 1 : 0)
+    + FILTERS.reduce((n, f) => n + state.sel[f.key].size, 0);
+}
 function matches(s, skip){
   if (state.q){
     const words = state.q.toLowerCase().split(/\s+/).filter(Boolean);
@@ -340,233 +466,223 @@ function matches(s, skip){
   for (const f of FILTERS){
     if (f.key === skip) continue;
     const sel = state.sel[f.key];
-    if (!sel.size) continue;
-    const v = [].concat(f.get(s));
-    if (!v.some(x => sel.has(x))) return false;
+    if (sel.size && ![].concat(f.get(s)).some(x => sel.has(x))) return false;
   }
   return true;
 }
 
-/* ---------- shoe illustration ---------- */
-const BRAND_HUE = {};
-[...new Set(SHOES.map(s => s.brand))].forEach((b, i, arr) => BRAND_HUE[b] = Math.round(12 + i * (330 / arr.length)) % 360);
-
-function shoeSVG(s){
-  const d = s.down, k = d * 7;
-  const toeY = 70 + d * 4, archY = 80 - k * 1.3, ballY = toeY - 2 - k * 0.35;
-  const hue = BRAND_HUE[s.brand];
-  const g = "g" + s.i;
-  const upper = `M30 78 C26 62 25 44 33 30 C39 21 54 19 63 25 L71 32 C100 40 134 45 162 ${52 + d * 2} C182 ${56 + d * 3} 195 ${63 + d * 2} 195 ${toeY} C194 ${toeY + 4} 187 ${toeY + 6} 178 ${toeY + 4} C152 ${ballY} 122 ${archY} 92 ${archY} C64 ${archY + 1} 44 80 30 78 Z`;
-  const sole = `M30 78 C44 80 64 ${archY + 1} 92 ${archY} C122 ${archY} 152 ${ballY} 178 ${toeY + 4} C187 ${toeY + 6} 194 ${toeY + 4} 195 ${toeY}`;
-  // points along the instep for straps / laces
-  const inst = t => [71 + 91 * t, 32 + (20 + d * 2) * t];
-  let deco = "";
-  if (s.closure === "V"){
-    const n = s.down >= 3 || s.model.match(/Comp|Theory|Drago|Furia|Python/) ? 1 : 2;
-    for (let j = 0; j < n; j++){
-      const [x, y] = inst(n === 1 ? 0.25 : 0.12 + j * 0.27);
-      deco += `<path d="M${x - 4} ${y - 2} L${x + 9} ${y + 1} L${x + 2} ${y + 30} L${x - 10} ${y + 27} Z" fill="hsl(${hue} 20% 22%)" opacity=".85"/>`;
-    }
-  } else if (s.closure === "L"){
-    let p = "";
-    for (let j = 0; j < 6; j++){
-      const [x, y] = inst(0.05 + j * 0.11);
-      p += `M${x - 3} ${y + 3} l10 3 `;
-    }
-    deco = `<path d="${p}" stroke="hsl(${hue} 20% 20%)" stroke-width="2.2" stroke-linecap="round"/>`;
-  } else {
-    const [x, y] = inst(0.2);
-    deco = `<path d="M${x} ${y} q8 14 2 28" stroke="hsl(${hue} 20% 22%)" stroke-width="5" fill="none" opacity=".6" stroke-linecap="round"/>`;
-  }
-  const rand = s.down >= 2 ? `<path d="M150 ${ballY - 4} C170 ${56 + d * 3} 190 ${60 + d * 2} 195 ${toeY}" stroke="var(--sole)" stroke-width="5" fill="none" opacity=".7" stroke-linecap="round"/>` : "";
-  return `<svg viewBox="15 10 192 80" aria-hidden="true">
-    <defs><linearGradient id="${g}" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="hsl(${hue} 55% 62%)"/><stop offset="1" stop-color="hsl(${(hue + 25) % 360} 50% 44%)"/>
-    </linearGradient></defs>
-    <path d="${upper}" fill="url(#${g})"/>
-    ${rand}${deco}
-    <path d="${sole}" stroke="var(--sole)" stroke-width="5" fill="none" stroke-linecap="round"/>
-    <path d="M30 78 C26 62 25 50 28 40" stroke="var(--sole)" stroke-width="4" fill="none" opacity=".75" stroke-linecap="round"/>
+/* ---------- figures ---------- */
+// Side profile: the sole lifts at the arch and the toe hooks down as downturn grows.
+function profileSVG(s){
+  const d = s.down;
+  const archY = 44 - d * 5, toeX = 150, toeY = 38 + d * 3.5, ballY = 43 - d * 1.5;
+  const sole = `C34 45 52 ${archY} 76 ${archY} C102 ${archY} 118 ${ballY} 138 ${ballY + 1} C146 ${ballY + 1} ${toeX} ${toeY + 3} ${toeX} ${toeY}`;
+  const upper = `M${toeX} ${toeY} C${toeX - 2} ${30 + d} ${toeX - 16} ${26 + d} ${toeX - 34} ${23 + d * 1.2} L66 13 C58 8 48 4 36 5 C22 6 12 12 12 24 C12 34 12 40 14 44`;
+  return `<svg viewBox="0 0 164 52" aria-hidden="true">
+    <line x1="8" y1="48" x2="160" y2="48" stroke="var(--line-2)" stroke-width="1" stroke-dasharray="2 3"/>
+    <path d="${upper} ${sole}" fill="var(--panel)" stroke="var(--ink-2)" stroke-width="1.4" stroke-linejoin="round"/>
+    <path d="M14 44 ${sole}" fill="none" stroke="var(--ink)" stroke-width="3" stroke-linecap="round"/>
   </svg>`;
 }
+// Sole seen from above: asymmetry moves the toe point towards the big toe; width widens the forefoot.
+function lastSVG(s){
+  const ax = 23 - s.asym * 4.2, w = s.width === "N" ? -1.5 : s.width === "W" ? 1.8 : 0;
+  const l = 7 - w, r = 33 + w;
+  return `<svg viewBox="0 0 40 80" aria-hidden="true">
+    <line x1="20" y1="2" x2="20" y2="78" stroke="var(--line-2)" stroke-width="1" stroke-dasharray="2 3"/>
+    <path d="M${l + 5} 66 C${l + 2} 54 ${l - 1} 40 ${l} 28 C${l + 1} 15 ${ax - 7} 4 ${ax} 4 C${ax + 9} 4 ${r} 15 ${r} 29 C${r} 43 ${r - 3} 56 ${r - 5} 66 C${r - 7} 77 ${l + 7} 77 ${l + 5} 66 Z"
+      fill="var(--panel)" stroke="var(--ink)" stroke-width="1.6" stroke-linejoin="round"/>
+    <circle cx="${ax}" cy="9" r="1.7" fill="var(--accent)"/>
+  </svg>`;
+}
+const figs = s => `<div class="figs"><figure>${profileSVG(s)}<figcaption>Profile</figcaption></figure><figure>${lastSVG(s)}<figcaption>Last</figcaption></figure></div>`;
 
-const TOE_ICON = {
-  E:[[4,5],[9,7],[13,9],[16.5,11],[19.5,13]],
-  G:[[4,7],[9,5],[13,8],[16.5,11],[19.5,13]],
-  R:[[4,6],[9,6],[13,7],[16.5,10],[19.5,12.5]],
-};
-const toeSVG = k => `<svg viewBox="0 0 24 24" aria-hidden="true">${TOE_ICON[k].map(([x, y], i) => `<ellipse cx="${x}" cy="${y + 3}" rx="${i ? 1.7 : 2.4}" ry="${i ? 2.2 : 2.8}" fill="currentColor"/>`).join("")}</svg>`;
+const TOE_ICON = {E:[5,6.5,8,9.5,11],G:[6.5,5,7.5,9.5,11],R:[5.5,5.5,6.5,8.5,10.5]};
+const toeSVG = k => `<svg class="toe" viewBox="0 0 30 16" aria-hidden="true">${TOE_ICON[k].map((y, i) => `<ellipse cx="${4 + i * 5.6}" cy="${y}" rx="${i ? 2 : 2.7}" ry="${i ? 2.5 : 3.1}" fill="currentColor"/>`).join("")}</svg>`;
 
 /* ---------- render helpers ---------- */
-const esc = s => String(s).replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
-const meter = (v, max) => `<span class="meter">${Array.from({length:max}, (_, j) => `<i class="${j < v ? "on" : ""}"></i>`).join("")}</span>`;
+const esc = s => String(s).replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+const icon = n => `<svg class="i"><use href="#i-${n}"/></svg>`;
+const scale = (v, max) => `<span class="scale" aria-hidden="true">${Array.from({length:max}, (_, j) => `<i class="${j < v ? "on" : ""}"></i>`).join("")}</span>`;
 const $ = id => document.getElementById(id);
+const fitLine = s => [L.closure[s.closure], L.width[s.width] + " width", s.volume !== "M" ? L.volume[s.volume] + " volume" : ""].filter(Boolean).join(" · ");
+const versions = s => s.gender === "MW" ? "Men's and women's" : s.gender === "U" ? "Unisex" : L.gender[s.gender] + " only";
+const productHref = s => s.url ? esc(s.url) : "https://www.google.com/search?q=" + encodeURIComponent(s.brand + " " + s.model + " climbing shoe");
+const checkBtn = s => { const on = compare.includes(s.id);
+  return `<button class="check" data-cmp="${s.id}" aria-pressed="${on}" aria-label="${on ? "Remove from" : "Add to"} comparison" title="${on ? "Remove from comparison" : "Add to comparison"}">${icon(on ? "check" : "plus")}</button>`; };
 
 function renderFilters(){
-  const host = $("filters");
   const nActive = activeCount();
-  let html = `<button class="reset-all" data-reset ${nActive ? "" : "disabled"}>↺ Clear all filters${nActive ? ` (${nActive})` : ""}</button>
-  <div class="fgroup"><div class="fhead"><h3>Gender</h3></div>
-    <div class="seg" data-seg="gender">${[["all","All"],["men","Men"],["women","Women"]].map(([v, t]) =>
-      `<button data-v="${v}" aria-pressed="${state.gender === v}">${t}</button>`).join("")}</div>
-    <p class="hint">Unisex models are shown for both.</p></div>`;
+  let html = `<div class="ftop"><h2>Filters</h2><button class="link" data-reset ${nActive ? "" : "disabled"}>Clear all${nActive ? ` (${nActive})` : ""}</button></div>
+    <div class="fgroup"><div class="fhead"><h3>Gender</h3></div>
+    <div class="seg radio">${[["all","All"],["men","Men"],["women","Women"]].map(([v, t]) =>
+      `<button data-gender="${v}" aria-pressed="${state.gender === v}">${t}</button>`).join("")}</div>
+    <p class="hint">Unisex models count for both.</p></div>`;
 
   for (const f of FILTERS){
-    const pool = SHOES.filter(s => matches(s, f.key));
-    const c = count(pool, f.get);
+    const c = count(SHOES.filter(s => matches(s, f.key)), f.get);
     const sel = state.sel[f.key];
-    html += `<div class="fgroup"><div class="fhead"><h3>${f.label}</h3>${sel.size ? `<button data-clear="${f.key}">Clear</button>` : ""}</div>`;
-    if (f.type === "list"){
+    html += `<div class="fgroup"><div class="fhead"><h3>${f.label}</h3>${sel.size ? `<button class="link" data-clear="${f.key}">Clear</button>` : ""}</div>`;
+    if (f.type === "seg"){
+      html += `<div class="seg">${f.opts.map(o => `<button class="${c[o.v] ? "" : "zero"}" data-f="${f.key}" data-v="${esc(o.v)}" aria-pressed="${sel.has(o.v)}" title="${esc(f.key === "stiff" ? L.stiff[o.v] : o.t)}">${f.toe ? toeSVG(o.v) : ""}<span>${esc(o.t)}</span><span class="n">${c[o.v] || 0}</span></button>`).join("")}</div>`;
+      if (f.caps) html += `<div class="scale-cap"><span>${f.caps[0]}</span><span>${f.caps[1]}</span></div>`;
+    } else if (f.type === "chips"){
+      html += `<div class="chips">${f.opts.map(o => `<button class="chip ${c[o.v] ? "" : "zero"}" data-f="${f.key}" data-v="${esc(o.v)}" aria-pressed="${sel.has(o.v)}">${esc(o.t)}<span class="n">${c[o.v] || 0}</span></button>`).join("")}</div>`;
+    } else {
       const lim = expanded[f.key] ? Infinity : f.limit;
       const opts = f.opts.filter((o, idx) => idx < lim || sel.has(o.v));
       html += `<div class="list">${opts.map(o => `<label class="${c[o.v] ? "" : "zero"}"><input type="checkbox" data-f="${f.key}" data-v="${esc(o.v)}" ${sel.has(o.v) ? "checked" : ""}>${esc(o.t)}<span class="n">${c[o.v] || 0}</span></label>`).join("")}</div>`;
-      if (f.opts.length > f.limit) html += `<button class="more" data-more="${f.key}">${expanded[f.key] ? "Show less" : `Show all ${f.opts.length}`}</button>`;
-    } else {
-      html += `<div class="chips">${f.opts.map(o => `<button class="chip ${f.type === "toe" ? "toe-chip" : ""} ${c[o.v] ? "" : "zero"}" data-f="${f.key}" data-v="${esc(o.v)}" aria-pressed="${sel.has(o.v)}">${f.type === "toe" ? toeSVG(o.v) : ""}${esc(o.t)}<span class="n">${c[o.v] || 0}</span></button>`).join("")}</div>`;
-      if (f.hint) html += `<p class="hint">${f.hint}</p>`;
+      if (f.opts.length > f.limit) html += `<button class="link more" data-more="${f.key}">${expanded[f.key] ? "Show fewer" : `Show all ${f.opts.length}`}</button>`;
     }
+    if (f.hint) html += `<p class="hint">${f.hint}</p>`;
     html += `</div>`;
   }
   html += `<div class="fgroup"><div class="fhead"><h3>Max price</h3></div>
-    <div class="range"><input type="range" id="price" min="${PRICE_MIN}" max="${PRICE_MAX}" step="5" value="${state.maxPrice}"><output id="priceOut">€${state.maxPrice}</output></div></div>`;
+    <div class="range"><input type="range" id="price" min="${PRICE_MIN}" max="${PRICE_MAX}" step="5" value="${state.maxPrice}" aria-label="Maximum price"><output id="priceOut">€${state.maxPrice}</output></div></div>`;
   const scroll = $("aside").scrollTop;
-  host.innerHTML = html;
+  $("filters").innerHTML = html;
   $("aside").scrollTop = scroll;
 }
 
 function card(s){
-  const inCmp = compare.includes(s.id);
-  const g = s.gender === "MW" ? "M · W" : s.gender === "U" ? "Unisex" : L.gender[s.gender];
-  return `<article class="card ${inCmp ? "sel" : ""}">
-    <div class="card-top"><div><div class="brand">${esc(s.brand)}</div><h2 class="model">${esc(s.model)}</h2></div>
-      <div class="price"><small>≈</small> €${s.price}</div></div>
-    <div class="art">${shoeSVG(s)}</div>
+  const uses = s.tags.filter(t => t !== "vegan").map(cap).join(", ") + (s.tags.includes("vegan") ? " · Vegan" : "");
+  return `<article class="card ${compare.includes(s.id) ? "sel" : ""}">
+    <div class="c-head">
+      <div><div class="brand">${esc(s.brand)}</div><h2 class="model">${esc(s.model)}</h2><div class="price">€${s.price}</div></div>
+      ${checkBtn(s)}
+    </div>
+    ${figs(s)}
     <dl class="specs">
-      <dt>Downturn</dt><dd><span class="meter-label">${L.down[s.down]}</span>${meter(s.down, 3)}</dd>
-      <dt>Asymmetry</dt><dd><span class="meter-label">${L.asym[s.asym]}</span>${meter(s.asym, 3)}</dd>
-      <dt>Stiffness</dt><dd><span class="meter-label">${L.stiff[s.stiff]}</span>${meter(s.stiff, 5)}</dd>
+      <dt>Downturn</dt><dd>${scale(s.down, 3)}</dd><dd class="v">${L.down[s.down]}</dd>
+      <dt>Asymmetry</dt><dd>${scale(s.asym, 3)}</dd><dd class="v">${L.asym[s.asym]}</dd>
+      <dt>Stiffness</dt><dd>${scale(s.stiff, 5)}</dd><dd class="v">${L.stiff[s.stiff]}</dd>
     </dl>
-    <div class="pills">
-      <span class="pill strong">${L.closure[s.closure]}</span>
-      <span class="pill strong">${L.width[s.width]} width</span>
-      ${s.volume !== "M" ? `<span class="pill strong">${L.volume[s.volume]} volume</span>` : ""}
-      <span class="pill">${esc(s.rubber)}</span>
-      <span class="pill">${g}</span>
-      <span class="pill">Toe: ${s.toe.map(t => L.toe[t]).join(", ")}</span>
-      ${s.tags.map(t => `<span class="pill">${t}</span>`).join("")}
+    <div class="meta">
+      <div class="row"><span class="k">Fit</span><span>${fitLine(s)}</span></div>
+      <div class="row"><span class="k">Rubber</span><span>${esc(s.rubber)}</span></div>
+      <div class="row"><span class="k">Use</span><span class="uses">${uses}</span></div>
     </div>
-    <div class="card-foot">
-      <button class="btn ${inCmp ? "on" : ""}" data-cmp="${s.id}">${inCmp ? "✓ In comparison" : "+ Compare"}</button>
-      <a class="btn" href="${s.url ? esc(s.url) : "https://www.google.com/search?q=" + encodeURIComponent(s.brand + " " + s.model + " climbing shoe")}" target="_blank" rel="noopener">${s.url ? "Product page" : "Search"} ↗</a>
-    </div>
+    <div class="c-foot"><span class="ver">${versions(s)}</span><a href="${productHref(s)}" target="_blank" rel="noopener">${s.url ? "Product page" : "Search"}${icon("out")}</a></div>
   </article>`;
 }
 
-const SORTS = {
-  "brand": (a, b) => a.brand.localeCompare(b.brand) || a.i - b.i,
-  "price-asc": (a, b) => a.price - b.price,
-  "price-desc": (a, b) => b.price - a.price,
-  "aggr-desc": (a, b) => (b.down * 2 + b.asym) - (a.down * 2 + a.asym) || a.stiff - b.stiff,
-  "aggr-asc": (a, b) => (a.down * 2 + a.asym) - (b.down * 2 + b.asym),
-  "soft": (a, b) => a.stiff - b.stiff || b.down - a.down,
-  "stiff": (a, b) => b.stiff - a.stiff || a.down - b.down,
-};
+const TABLE_COLS = [["Model"], ["Price","price"], ["Downturn","down"], ["Asymmetry","asym"], ["Stiffness","stiff"], ["Closure"], ["Width"], ["Volume"], ["Rubber"], [""]];
+const COL_SORT = {price:["price-asc","price-desc"], down:["aggr-desc","aggr-asc"], asym:["aggr-desc","aggr-asc"], stiff:["stiff","soft"]};
+function table(res){
+  const head = `<th style="width:46px"></th>` + TABLE_COLS.map(([t, k]) => !k ? `<th>${t}</th>`
+    : `<th class="${COL_SORT[k].includes(state.sort) ? "sorted" : ""}"><button data-colsort="${k}">${t}${icon("sort")}</button></th>`).join("");
+  const rows = res.map(s => `<tr class="${compare.includes(s.id) ? "sel" : ""}">
+    <td>${checkBtn(s)}</td>
+    <td class="m"><span>${esc(s.brand)}</span><b>${esc(s.model)}</b></td>
+    <td class="mono">€${s.price}</td>
+    <td title="${L.down[s.down]}">${scale(s.down, 3)}</td>
+    <td title="${L.asym[s.asym]}">${scale(s.asym, 3)}</td>
+    <td title="${L.stiff[s.stiff]}">${scale(s.stiff, 5)}</td>
+    <td>${L.closure[s.closure]}</td><td>${L.width[s.width]}</td><td>${L.volume[s.volume]}</td>
+    <td>${esc(s.rubber)}</td>
+    <td><a href="${productHref(s)}" target="_blank" rel="noopener" aria-label="Product page for ${esc(s.model)}">${icon("out")}</a></td>
+  </tr>`).join("");
+  return `<div class="tbl-wrap"><table class="tbl"><thead><tr>${head}</tr></thead><tbody>${rows}</tbody></table></div>`;
+}
 
 function renderResults(){
-  const res = SHOES.filter(s => matches(s)).sort(SORTS[state.sort] || SORTS.brand);
+  const res = SHOES.filter(s => matches(s)).sort(SORTS[state.sort]);
   $("count").textContent = res.length;
-  $("grid").innerHTML = res.length ? res.map(card).join("") :
-    `<div class="empty" style="grid-column:1/-1"><span class="serif">No shoes match</span>Try removing a filter or two.<br><button class="btn" data-reset style="margin-top:14px">Clear all filters</button></div>`;
+  document.querySelectorAll("[data-view]").forEach(b => b.setAttribute("aria-pressed", b.dataset.view === state.view));
+  const empty = `<div class="empty"><strong>No shoes match these filters</strong>Remove a filter or raise the price limit.<br><button class="ibtn" data-reset>Clear all filters</button></div>`;
+  $("results").innerHTML = !res.length ? `<div class="grid">${empty}</div>`
+    : state.view === "table" ? table(res) : `<div class="grid">${res.map(card).join("")}</div>`;
 
-  // active filter chips
   const act = [];
-  if (state.q) act.push(`<button class="tag-x" data-rm="q">“${esc(state.q)}” <b>✕</b></button>`);
-  if (state.gender !== "all") act.push(`<button class="tag-x" data-rm="gender">${state.gender === "men" ? "Men" : "Women"} <b>✕</b></button>`);
+  const tag = (attrs, k, v) => `<button class="tag-x" ${attrs}>${k ? `<span class="k">${k}</span>` : ""}${v}${icon("x")}</button>`;
+  if (state.q) act.push(tag(`data-rm="q"`, "Search", `“${esc(state.q)}”`));
+  if (state.gender !== "all") act.push(tag(`data-rm="gender"`, "", state.gender === "men" ? "Men" : "Women"));
   for (const f of FILTERS) for (const v of state.sel[f.key]){
     const o = f.opts.find(o => o.v === v);
-    act.push(`<button class="tag-x" data-rm="${f.key}" data-v="${esc(v)}">${f.key === "tags" || f.key === "rubber" || f.key === "brand" ? "" : f.label.split(" ")[0] + ": "}${esc(o ? o.t : v)} <b>✕</b></button>`);
+    const label = f.key === "stiff" ? L.stiff[v] : o ? o.t : v;
+    act.push(tag(`data-rm="${f.key}" data-v="${esc(v)}"`, ["tags","rubber","brand"].includes(f.key) ? "" : f.label, esc(label)));
   }
-  if (state.maxPrice < PRICE_MAX) act.push(`<button class="tag-x" data-rm="price">≤ €${state.maxPrice} <b>✕</b></button>`);
-  if (act.length) act.push(`<button class="clear-all" data-rm="all">Clear all filters</button>`);
+  if (state.maxPrice < PRICE_MAX) act.push(tag(`data-rm="price"`, "Max", `€${state.maxPrice}`));
+  if (act.length) act.push(`<button class="link" data-reset>Clear all</button>`);
   $("active").innerHTML = act.join("");
   const n = activeCount();
-  $("fcount").textContent = n ? `· ${n}` : "";
+  $("fcount").textContent = n ? ` ${n}` : "";
 }
 
 function renderTray(){
   const items = compare.map(id => SHOES.find(s => s.id === id));
-  $("trayItems").innerHTML = items.map(s => `<span>${esc(s.brand)} ${esc(s.model)}<button data-uncmp="${s.id}" aria-label="Remove">×</button></span>`).join("");
+  $("trayItems").innerHTML = items.map(s => `<span>${esc(s.model)}<button data-cmp="${s.id}" aria-label="Remove ${esc(s.model)}">${icon("x")}</button></span>`).join("");
   $("tray").classList.toggle("show", compare.length > 0);
-  $("trayGo").textContent = compare.length < 2 ? `Pick ${2 - compare.length} more` : `Compare ${compare.length}`;
+  $("trayGo").textContent = compare.length < 2 ? "Add one more" : `Compare ${compare.length}`;
   $("trayGo").disabled = compare.length < 2;
-  try { localStorage.setItem("csf-compare", JSON.stringify(compare)); } catch (e) {}
+  store.set("csf-compare", compare);
 }
 
 function renderCompare(){
   const items = compare.map(id => SHOES.find(s => s.id === id));
   const rows = [
-    ["Price", s => `€${s.price}`, s => s.price],
+    ["Price", s => `<span class="mono">€${s.price}</span>`, s => s.price],
+    ["Downturn", s => `${scale(s.down, 3)}${L.down[s.down]}`, s => s.down],
+    ["Asymmetry", s => `${scale(s.asym, 3)}${L.asym[s.asym]}`, s => s.asym],
+    ["Stiffness", s => `${scale(s.stiff, 5)}${L.stiff[s.stiff]}`, s => s.stiff],
     ["Closure", s => L.closure[s.closure]],
-    ["Downturn", s => `${meter(s.down, 3)} &nbsp;${L.down[s.down]}`, s => s.down],
-    ["Asymmetry", s => `${meter(s.asym, 3)} &nbsp;${L.asym[s.asym]}`, s => s.asym],
-    ["Stiffness", s => `${meter(s.stiff, 5)} &nbsp;${L.stiff[s.stiff]}`, s => s.stiff],
     ["Width", s => L.width[s.width]],
     ["Volume", s => L.volume[s.volume]],
     ["Toe shape", s => s.toe.map(t => L.toe[t]).join(", ")],
     ["Rubber", s => esc(s.rubber)],
-    ["Versions", s => L.gender[s.gender]],
-    ["Use", s => s.tags.join(", ")],
+    ["Versions", s => versions(s)],
+    ["Use", s => s.tags.map(cap).join(", ")],
+    ["Link", s => `<a class="link" href="${productHref(s)}" target="_blank" rel="noopener">${s.url ? "Product page" : "Search"}</a>`, () => 0],
   ];
-  const head = `<tr><th></th>${items.map(s => `<th class="head-cell"><div class="brand">${esc(s.brand)}</div><div class="model">${esc(s.model)}</div><div class="art">${shoeSVG(s)}</div><button class="rm" data-uncmp="${s.id}">Remove</button></th>`).join("")}</tr>`;
+  const head = `<tr><th></th>${items.map(s => `<th class="hc"><div class="brand">${esc(s.brand)}</div><div class="model">${esc(s.model)}</div>${figs(s)}<button class="link rm" data-cmp="${s.id}">Remove</button></th>`).join("")}</tr>`;
   const body = rows.map(([label, fmt, key]) => {
-    const vals = items.map(fmt);
-    const same = new Set(items.map(s => key ? key(s) : fmt(s))).size === 1;
-    return `<tr class="${same ? "same" : "diff"}"><th>${label}</th>${vals.map(v => `<td>${v}</td>`).join("")}</tr>`;
+    const same = new Set(items.map(s => String(key ? key(s) : fmt(s)))).size === 1;
+    return `<tr class="${same ? "same" : "diff"}"><th>${label}</th>${items.map(s => `<td>${fmt(s)}</td>`).join("")}</tr>`;
   }).join("");
   $("cmpBody").innerHTML = `<table class="cmp ${$("onlyDiff").checked ? "only-diff" : ""}"><thead>${head}</thead><tbody>${body}</tbody></table>`;
 }
 
 function renderAll(){ renderFilters(); renderResults(); renderTray(); writeHash(); }
 
-/* ---------- events ---------- */
-function activeCount(){
-  return (state.q ? 1 : 0) + (state.gender !== "all" ? 1 : 0) + (state.maxPrice < PRICE_MAX ? 1 : 0)
-    + FILTERS.reduce((n, f) => n + state.sel[f.key].size, 0);
-}
+/* ---------- actions ---------- */
 function resetAll(){
   state.q = ""; $("q").value = ""; state.gender = "all"; state.maxPrice = PRICE_MAX;
   FILTERS.forEach(f => state.sel[f.key].clear());
   renderAll();
 }
-document.addEventListener("click", e => { if (e.target.closest("[data-reset]")) resetAll(); });
+let trayMsg;
 function toggleCompare(id){
   if (compare.includes(id)) compare = compare.filter(x => x !== id);
-  else if (compare.length >= 4) { flashTray(); return; }
+  else if (compare.length >= 4) { $("trayGo").textContent = "Four is the maximum"; clearTimeout(trayMsg); trayMsg = setTimeout(renderTray, 1400); return; }
   else compare.push(id);
   renderResults(); renderTray();
   if ($("cmpDlg").open){ if (compare.length < 2) $("cmpDlg").close(); else renderCompare(); }
 }
-function flashTray(){
-  const t = $("tray"); t.animate([{transform:"translate(-50%,0)"},{transform:"translate(-50%,-6px)"},{transform:"translate(-50%,0)"}], {duration:300});
-  $("trayGo").textContent = "Max 4 shoes";
-  setTimeout(renderTray, 1200);
-}
 
-$("filters").addEventListener("click", e => {
-  const b = e.target.closest("button");
-  if (!b) return;
-  if (b.closest("[data-seg]")) { state.gender = b.dataset.v; return renderAll(); }
-  if (b.dataset.clear) { state.sel[b.dataset.clear].clear(); return renderAll(); }
-  if (b.dataset.more) { expanded[b.dataset.more] = !expanded[b.dataset.more]; return renderFilters(); }
-  if (b.dataset.f) {
-    const s = state.sel[b.dataset.f];
-    s.has(b.dataset.v) ? s.delete(b.dataset.v) : s.add(b.dataset.v);
-    renderAll();
+/* ---------- events ---------- */
+document.addEventListener("click", e => {
+  const t = e.target.closest("button"); if (!t) return;
+  const d = t.dataset;
+  if ("reset" in d) return resetAll();
+  if (d.cmp) return toggleCompare(d.cmp);
+  if (d.gender) { state.gender = d.gender; return renderAll(); }
+  if (d.clear) { state.sel[d.clear].clear(); return renderAll(); }
+  if (d.more) { expanded[d.more] = !expanded[d.more]; return renderFilters(); }
+  if (d.f) { const s = state.sel[d.f]; s.has(d.v) ? s.delete(d.v) : s.add(d.v); return renderAll(); }
+  if (d.view) { state.view = d.view; store.set("csf-view", state.view); return renderResults(); }
+  if (d.colsort) { const [a, b] = COL_SORT[d.colsort]; state.sort = state.sort === a ? b : a; $("sort").value = state.sort; renderResults(); return writeHash(); }
+  if (d.rm) {
+    if (d.rm === "q") { state.q = ""; $("q").value = ""; }
+    else if (d.rm === "gender") state.gender = "all";
+    else if (d.rm === "price") state.maxPrice = PRICE_MAX;
+    else state.sel[d.rm].delete(d.v);
+    return renderAll();
   }
 });
 $("filters").addEventListener("change", e => {
   const i = e.target;
-  if (i.dataset.f) { const s = state.sel[i.dataset.f]; i.checked ? s.add(i.dataset.v) : s.delete(i.dataset.v); renderAll(); }
+  if (i.type === "checkbox" && i.dataset.f) { const s = state.sel[i.dataset.f]; i.checked ? s.add(i.dataset.v) : s.delete(i.dataset.v); renderAll(); }
+  if (i.id === "price") renderFilters();
 });
 $("filters").addEventListener("input", e => {
   if (e.target.id !== "price") return;
@@ -574,51 +690,38 @@ $("filters").addEventListener("input", e => {
   $("priceOut").textContent = "€" + state.maxPrice;
   renderResults(); writeHash();
 });
-$("filters").addEventListener("change", e => { if (e.target.id === "price") renderFilters(); });
 
 let qt;
 $("q").addEventListener("input", e => { clearTimeout(qt); qt = setTimeout(() => { state.q = e.target.value.trim(); renderAll(); }, 120); });
 $("sort").addEventListener("change", e => { state.sort = e.target.value; renderResults(); writeHash(); });
-
-$("active").addEventListener("click", e => {
-  const b = e.target.closest("button"); if (!b) return;
-  const k = b.dataset.rm;
-  if (k === "q") { state.q = ""; $("q").value = ""; }
-  else if (k === "gender") state.gender = "all";
-  else if (k === "price") state.maxPrice = PRICE_MAX;
-  else if (k === "all") return resetAll();
-  else state.sel[k].delete(b.dataset.v);
-  renderAll();
+document.addEventListener("keydown", e => {
+  if (e.key === "/" && !/INPUT|SELECT|TEXTAREA/.test(document.activeElement.tagName) && !$("cmpDlg").open) { e.preventDefault(); $("q").focus(); }
 });
 
-document.addEventListener("click", e => {
-  const c = e.target.closest("[data-cmp]"); if (c) return toggleCompare(c.dataset.cmp);
-  const u = e.target.closest("[data-uncmp]"); if (u) return toggleCompare(u.dataset.uncmp);
-});
 $("trayClear").addEventListener("click", () => { compare = []; renderResults(); renderTray(); });
 $("trayGo").addEventListener("click", () => { if (compare.length < 2) return; renderCompare(); $("cmpDlg").showModal(); });
 $("cmpClose").addEventListener("click", () => $("cmpDlg").close());
 $("cmpDlg").addEventListener("click", e => { if (e.target === $("cmpDlg")) $("cmpDlg").close(); });
 $("onlyDiff").addEventListener("change", e => document.querySelector(".cmp")?.classList.toggle("only-diff", e.target.checked));
 
-// mobile drawer
 const openAside = o => { $("aside").classList.toggle("open", o); $("scrim").classList.toggle("open", o); };
 $("filtersBtn").addEventListener("click", () => openAside(true));
 $("asideClose").addEventListener("click", () => openAside(false));
 $("scrim").addEventListener("click", () => openAside(false));
 
-// theme
 const root = document.documentElement;
-try { const t = localStorage.getItem("csf-theme"); if (t) root.dataset.theme = t; } catch (e) {}
+const savedTheme = store.get("csf-theme", null);
+if (savedTheme === "dark" || savedTheme === "light") root.dataset.theme = savedTheme;
 $("themeBtn").addEventListener("click", () => {
   const dark = root.dataset.theme ? root.dataset.theme === "dark" : matchMedia("(prefers-color-scheme: dark)").matches;
   root.dataset.theme = dark ? "light" : "dark";
-  try { localStorage.setItem("csf-theme", root.dataset.theme); } catch (e) {}
+  store.set("csf-theme", root.dataset.theme);
 });
 
 window.addEventListener("hashchange", () => { readHash(); $("q").value = state.q; $("sort").value = state.sort; renderFilters(); renderResults(); });
 
 /* ---------- init ---------- */
+$("introStats").textContent = `${SHOES.length} models from ${BRANDS.length} brands.`;
 if (window.SHOES_UPDATED) $("updated").textContent = `Data checked ${window.SHOES_UPDATED}. `;
 readHash();
 $("q").value = state.q;
