@@ -156,7 +156,7 @@ select{height:36px;border:1px solid var(--line-2);background-color:var(--panel);
 .figs{display:grid;grid-template-columns:1fr 54px;gap:10px;background:var(--sunk);border-radius:var(--r);padding:12px 14px 8px}
 .figs figure{margin:0;display:flex;flex-direction:column;align-items:center;gap:4px;min-width:0}
 .figs figcaption{font-size:10px;color:var(--faint);letter-spacing:.05em;text-transform:uppercase}
-.figs svg{width:100%;height:56px;overflow:visible}
+.figs svg{width:100%;height:60px;overflow:visible}
 .specs{display:grid;grid-template-columns:auto auto 1fr;gap:7px 10px;font-size:12px;align-items:center;margin:0}
 .specs dt{color:var(--muted)}
 .specs dd{margin:0}
@@ -485,17 +485,19 @@ function profileSVG(s){
   const f = n => n.toFixed(1);
   const sole = [], upper = [];
   for (let i = 0; i <= N; i++){
-    const x = i / N, X = X0 + x * (X1 - X0), y = G - lift(x);
+    // the most aggressive shoes hook the toe down below the ground line
+    const x = i / N, X = X0 + x * (X1 - X0), y = G - lift(x) + (d >= 3 ? 9 * ss(0.6, 1, x) ** 1.6 : 0);
     sole.push([X, y]); upper.push([X, y - thick(x)]);
   }
   const line = pts => pts.map(p => f(p[0]) + " " + f(p[1])).join(" L");
   const [ux, uy] = upper[N], [sx, sy] = sole[N], [hx, hy] = upper[0];
-  const cap = `C${f(ux + 9)} ${f(uy)} ${f(sx + 9)} ${f(sy)} ${f(sx)} ${f(sy)}`;
+  const hook = d >= 3 ? 4 : 0; // point the toe cap down on the most aggressive shoes
+  const cap = `C${f(ux + 9)} ${f(uy + hook)} ${f(sx + 9 - hook)} ${f(sy + hook)} ${f(sx)} ${f(sy)}`;
   const heel = `C${X0 - 6} ${G - 1} ${X0 - 6} ${f(hy + 6)} ${f(hx - 1)} ${f(hy + 1)} L${f(hx)} ${f(hy)}`;
   const outline = `M${line(upper)} ${cap} L${line([...sole].reverse())} ${heel} Z`;
-  const toeCap = `M${f(sx - 14)} ${f(sole[N - 4][1])} L${line(sole.slice(N - 4))} C${f(sx + 9)} ${f(sy)} ${f(ux + 9)} ${f(uy)} ${f(ux - 4)} ${f(uy - 0.5)}`;
-  return `<svg viewBox="0 0 164 52" aria-hidden="true">
-    <line x1="6" y1="${G + 2.5}" x2="160" y2="${G + 2.5}" stroke="var(--line-2)" stroke-width="1" stroke-dasharray="2 3"/>
+  const toeCap = `M${f(sx - 14)} ${f(sole[N - 4][1])} L${line(sole.slice(N - 4))} C${f(sx + 9 - hook)} ${f(sy + hook)} ${f(ux + 9)} ${f(uy + hook)} ${f(ux - 4)} ${f(uy - 0.5)}`;
+  return `<svg viewBox="0 0 164 58" aria-hidden="true">
+    <line x1="6" y1="${G + 1.6}" x2="160" y2="${G + 1.6}" stroke="var(--line-2)" stroke-width="1" stroke-dasharray="2 3"/>
     <path d="${outline}" fill="var(--panel)" stroke="var(--ink-2)" stroke-width="1.3" stroke-linejoin="round"/>
     <path d="M${f(X0)} ${G} L${line(sole)}" fill="none" stroke="var(--ink)" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round"/>
     <path d="${toeCap}" fill="none" stroke="var(--ink)" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/>
