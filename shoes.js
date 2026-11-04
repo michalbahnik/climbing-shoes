@@ -116,7 +116,7 @@ window.SHOES_RAW = [
   ["Ocun","Advancer QC","U","V","N","M",1,1,4,"Ocun CAT 1.5","gym sport multipitch all-round vegan",105,"https://www.ocun.com/product/advancer-qc3"],
   ["Ocun","Advancer LU","U","L","N","M",1,1,4,"Ocun CAT 1.5","multipitch trad gym all-round vegan",100,"https://www.ocun.com/product/advancer-lu3"],
   ["Ocun","Striker QC","U","V","W","M",1,0,3,"Ocun CAT 1.1","beginner gym vegan",90,"https://www.ocun.com/product/striker-qc3"],
-  ["Ocun","Striker LU","U","L","W","M",1,0,3,"Ocun CAT 1.1","beginner gym vegan",90,"https://www.ocun.com/product/striker-lu3"],
+  ["Ocun","Striker LU","U","L","W","M",1,0,3,"Ocun rubber","beginner gym vegan",90,"https://www.ocun.com/product/striker-lu3"],
   ["Ocun","Rental","U","V","W","M",1,0,4,"Ocun rubber","beginner gym vegan",80,"https://www.ocun.com/product/rental4"],
 
   // Five Ten
@@ -184,6 +184,7 @@ window.SHOES_RAW = [
   ["Evolv","Zenist","U","V","W","M",2,2,1,"EVO 74","bouldering gym competition vegan",150,"https://www.evolvsports.com/2026-zenist-66-0000062605"],
   ["Evolv","Zenist LV","U","V","M","L",2,2,1,"EVO 74","bouldering gym competition vegan",150,"https://www.evolvsports.com/2026-zenist-lv-66-0000062606"],
   ["Evolv","Zenist Pro","U","V","W","M",2,3,2,"TRAX SAS","bouldering gym competition vegan",180,"https://www.evolvsports.com/zenist-pro-66-0000062305"],
+  ["Evolv","Zenist Pro LV","U","V","M","L",2,3,2,"TRAX SAS","bouldering gym competition vegan",180,"https://www.evolvsports.com/zenist-pro-low-volume-66-0000062306"],
   ["Evolv","V6","U","V","W","M",2,2,3,"EVO 74","bouldering gym sport all-round vegan",150,"https://www.evolvsports.com/2026-v6-66-0000062603"],
   ["Evolv","V6 LV","U","V","M","L",2,2,3,"EVO 74","bouldering gym sport all-round vegan",150,"https://www.evolvsports.com/2026-v6-lv-66-0000062604"],
   ["Evolv","Yosemite Bum","U","L","M","M",1,0,4,"TRAX SAS","trad crack multipitch slab",185,"https://www.evolvsports.com/yosemite-bum-_medium-volume_-66-0000062303"],
