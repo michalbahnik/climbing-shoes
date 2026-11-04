@@ -16,7 +16,7 @@
 <meta property="og:image" content="https://michalbahnik.github.io/climbing-shoes/og.png">
 <meta name="twitter:card" content="summary_large_image">
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"WebApplication","name":"Climbing Shoe Finder","url":"https://michalbahnik.github.io/climbing-shoes/","applicationCategory":"SportsApplication","operatingSystem":"Any","description":"Filter and compare climbing shoes by downturn, asymmetry, stiffness, width, rubber, closure and toe shape.","author":{"@type":"Person","name":"Michal Bahník"},"offers":{"@type":"Offer","price":"0","priceCurrency":"EUR"}}
+{"@context":"https://schema.org","@type":"WebApplication","name":"Climbing Shoe Finder","url":"https://michalbahnik.github.io/climbing-shoes/","applicationCategory":"SportsApplication","operatingSystem":"Any","description":"Filter and compare climbing shoes by downturn, asymmetry, stiffness, width, rubber, closure and toe shape.","offers":{"@type":"Offer","price":"0","priceCurrency":"EUR"}}
 </script>
 <script data-goatcounter="https://climbing-shoes.goatcounter.com/count" async src="https://gc.zgo.at/count.js"></script>
 <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -102,7 +102,7 @@ aside{position:sticky;top:16px;max-height:calc(100vh - 32px);overflow:auto;scrol
 .seg button[aria-pressed="true"] + button{border-left-color:var(--ink)}
 .seg button.zero{color:var(--faint)}
 .seg.radio button{flex-direction:row;justify-content:center;padding:7px 4px}
-.seg svg.toe{width:22px;height:14px;margin-bottom:2px}
+.seg svg.toe{width:30px;height:20px;margin-bottom:2px}
 
 .chips{display:flex;flex-wrap:wrap;gap:6px}
 .chip{border:1px solid var(--line-2);background:var(--panel);border-radius:var(--r);padding:4px 8px;font-size:12px;display:inline-flex;gap:6px;align-items:baseline;color:var(--ink-2)}
@@ -153,10 +153,10 @@ select{height:36px;border:1px solid var(--line-2);background-color:var(--panel);
 .check{width:28px;height:28px;border:1px solid var(--line-2);border-radius:var(--r);display:grid;place-items:center;color:var(--muted);flex:none;background:var(--panel)}
 .check:hover{border-color:var(--ink);color:var(--ink)}
 .check[aria-pressed="true"]{background:var(--accent);border-color:var(--accent);color:var(--on-accent)}
-.figs{display:grid;grid-template-columns:1fr 46px;gap:10px;background:var(--sunk);border-radius:var(--r);padding:12px 14px 8px}
+.figs{display:grid;grid-template-columns:1fr 54px;gap:10px;background:var(--sunk);border-radius:var(--r);padding:12px 14px 8px}
 .figs figure{margin:0;display:flex;flex-direction:column;align-items:center;gap:4px;min-width:0}
 .figs figcaption{font-size:10px;color:var(--faint);letter-spacing:.05em;text-transform:uppercase}
-.figs svg{width:100%;height:52px;overflow:visible}
+.figs svg{width:100%;height:56px;overflow:visible}
 .specs{display:grid;grid-template-columns:auto auto 1fr;gap:7px 10px;font-size:12px;align-items:center;margin:0}
 .specs dt{color:var(--muted)}
 .specs dd{margin:0}
@@ -296,7 +296,7 @@ footer p{margin:0;max-width:720px}
     <h1>Find a climbing shoe that fits your foot. <span id="introStats"></span></h1>
     <p class="lead">Narrow the list by downturn, asymmetry, stiffness, width, volume, closure, rubber and toe shape, then put up to four shoes side by side. Each shoe links to its product page.</p>
   </div>
-  <p class="why"><b>Why this exists.</b> I wanted to choose shoes by how they fit, not by brand, and I didn't know of any site that let me filter the whole market that way. Shops filter by brand and size, and reviews cover a few models at a time. So I collected the specs myself. — Michal Bahník</p>
+  <p class="why"><b>Why this exists.</b> I wanted to choose shoes by how they fit, not by brand, and I didn't know of any site that let me filter the whole market that way. Shops filter by brand and size, and reviews cover a few models at a time. So I collected the specs myself.</p>
 </section>
 
 <div class="wrap">
@@ -488,17 +488,26 @@ function profileSVG(s){
 function lastSVG(s){
   const ax = 23 - s.asym * 4.2, w = s.width === "N" ? -1.5 : s.width === "W" ? 1.8 : 0;
   const l = 7 - w, r = 33 + w;
+  // Line over the toe tips: falls away from the big toe more steeply the more asymmetric the shoe.
+  const a = s.asym, y1 = 15 - a * 2.2, yb = 14 - a * 1.2, y2 = 16 + a * 3;
+  const toeLine = `M${l + 4} ${y1} Q${(l + r) / 2 - a} ${yb} ${r - 4} ${y2}`;
   return `<svg viewBox="0 0 40 80" aria-hidden="true">
     <line x1="20" y1="2" x2="20" y2="78" stroke="var(--line-2)" stroke-width="1" stroke-dasharray="2 3"/>
     <path d="M${l + 5} 66 C${l + 2} 54 ${l - 1} 40 ${l} 28 C${l + 1} 15 ${ax - 7} 4 ${ax} 4 C${ax + 9} 4 ${r} 15 ${r} 29 C${r} 43 ${r - 3} 56 ${r - 5} 66 C${r - 7} 77 ${l + 7} 77 ${l + 5} 66 Z"
       fill="var(--panel)" stroke="var(--ink)" stroke-width="1.6" stroke-linejoin="round"/>
-    <circle cx="${ax}" cy="9" r="1.7" fill="var(--accent)"/>
+    <path d="${toeLine}" fill="none" stroke="var(--accent)" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
   </svg>`;
 }
 const figs = s => `<div class="figs"><figure>${profileSVG(s)}<figcaption>Profile</figcaption></figure><figure>${lastSVG(s)}<figcaption>Last</figcaption></figure></div>`;
 
-const TOE_ICON = {E:[5,6.5,8,9.5,11],G:[6.5,5,7.5,9.5,11],R:[5.5,5.5,6.5,8.5,10.5]};
-const toeSVG = k => `<svg class="toe" viewBox="0 0 30 16" aria-hidden="true">${TOE_ICON[k].map((y, i) => `<ellipse cx="${4 + i * 5.6}" cy="${y}" rx="${i ? 2 : 2.7}" ry="${i ? 2.5 : 3.1}" fill="currentColor"/>`).join("")}</svg>`;
+// Toe tips from big toe to little toe (y of each tip; smaller = longer toe).
+const TOE_ICON = {E:[4,6.5,9,11.5,14], G:[6,3.5,6.5,10,13], R:[5,5,5.6,9.5,13]};
+const toeSVG = k => {
+  const xs = [5, 11, 16.5, 21.5, 26], tips = TOE_ICON[k];
+  const toes = tips.map((y, i) => `<ellipse cx="${xs[i]}" cy="${y + 3.2}" rx="${i ? 2.1 : 2.9}" ry="${i ? 2.6 : 3.2}" fill="currentColor"/>`).join("");
+  const line = "M" + tips.map((y, i) => `${xs[i]} ${y - 1.4}`).join(" L");
+  return `<svg class="toe" viewBox="0 0 31 20" aria-hidden="true">${toes}<path d="${line}" fill="none" stroke="currentColor" stroke-width="1.3" stroke-linecap="round" stroke-linejoin="round" opacity=".8"/></svg>`;
+};
 
 /* ---------- render helpers ---------- */
 const esc = s => String(s).replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
